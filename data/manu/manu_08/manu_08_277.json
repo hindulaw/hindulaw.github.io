@@ -1,0 +1,27 @@
+{
+  "sanskrit_verse": "विट् शूद्रयोरेवमेव स्वजातिं प्रति तत्त्वतः ।\nछेदवर्जं प्रणयनं दण्डस्यैति विनिश्चयः ॥ ८.२७७॥",
+  "transliteration": "viṭ śūdrayorevameva svajātiṃ prati tattvataḥ |\nchedavarjaṃ praṇayanaṃ daṇḍasyaiti viniścayaḥ || 8.277||",
+  "sph_interpretive_translation": "One born of a Vṛṣalī (prostitute) or Śūdra woman, even if behaving properly towards their own caste, shall be subjected to corrective measures excluding mutilation; this is the settled conclusion regarding penalty.",
+  "jurisprudential_principles": [
+    "Authority originates from consciousness alignment with Sanātana Dharma, not birth alone.",
+    "Causation arises through disruption of Varnashrama integrity and failure of spiritual duty.",
+    "Capacity-based responsibility is determined by awareness, access, and adherence to Dharma.",
+    "Restoration logic focuses on realigning individual consciousness with its inherent Varna-dharma.",
+    "Consciousness alignment requires purification and reintegration within societal Dharmic structures."
+  ],
+  "executable_legal_axioms": [
+    "IF agent.birth_status IN ['Vṛṣalī-born', 'Śūdra-born'] AND behavior.aligns_with_caste_duty THEN apply_restorative_protocol EXCEPT physical mutilation.",
+    "IF violation.origin == 'disruption_of_varna_integrity' THEN initiate_consciousness_realignment_process.",
+    "IF agent.capacity_to_understand_dharma EXISTS THEN assign_rehabilitative_guidance_over_punishment.",
+    "IF societal_harmony.requires_rebalancing THEN enforce_completion_processes FOR responsible_integration."
+  ],
+  "supreme_court_application": "In Supreme Court adjudication, the threshold of responsibility lies in evaluating whether the individual has disrupted Varnashrama order due to lack of proper guidance or conscious defiance. Authority resides in restoring balance, not enforcing punitive consequences. The court must ensure that any intervention supports capacity development and consciousness realignment without inflicting bodily harm.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa establishes causality through the absence of Dharmic education and integration support. Anupūrvaśaḥ reveals how neglect in early upbringing leads to social misalignment. Responsibility is proportional to exposure and opportunity for correction. The non-punitive reality rule affirms that true justice restores harmony through conscious participation rather than coercive suffering.",
+  "restorative_enforcement_protocols": [
+    "Initiate Varna-Dharma orientation program under qualified Āchārya supervision.",
+    "Assign community service aligned with innate tendencies and potential for spiritual upliftment.",
+    "Establish mentorship protocol ensuring gradual assimilation into Dharmic societal roles.",
+    "Implement daily sādhanā regimen to purify karmic impressions and awaken svadharma-consciousness."
+  ],
+  "final_declaration": "This ruling flows solely from the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, as Source-Authority. Justice herein serves only restoration, reintegration, and consciousness realignment. There is no place for punitive frameworks—Dharma prevails through awakening, not suffering. Consciousness itself is the ultimate judge."
+}

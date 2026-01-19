@@ -1,0 +1,29 @@
+{
+  "sanskrit_verse": "शयानः प्रौढपादश्च कृत्वा चैवावसक्थिकाम् ।\nनाधीयीतामिषं जग्ध्वा सूतकान्नाद्यमेव च ॥ ४.११२॥",
+  "transliteration": "śayānaḥ prauḍhapādaśca kṛtvā caivāvasakthikām | nādhīyītāmiṣaṁ jagdhvā sūtakānnādyameva ca || 4.112||",
+  "sph_interpretive_translation": "One who is lying down, one whose feet are raised high, one who has made a pillow of his upper arm, one who has eaten meat or drunk alcohol—such a person shall not read the Veda.",
+  "jurisprudential_principles": [
+    "Authority arises only in purity of bodily posture and mental discipline",
+    "Causation is disrupted by ingestion of impure substances and improper physical comportment",
+    "Capacity-based responsibility requires alignment of body, speech, and mind with sacred vibration",
+    "Restoration logic demands removal of obstruction before resuming scriptural engagement",
+    "Consciousness alignment necessitates purification protocols prior to scriptural study"
+  ],
+  "executable_legal_axioms": [
+    "IF (agent.posture == 'lying' OR agent.feet_raised == true OR agent.arm_used_as_pillow == true) THEN access_to_veda = false",
+    "IF (agent.intake.substance IN ['meat', 'alcohol']) THEN eligibility_for_scriptural_study = false FOR 24 hours_post_consumption",
+    "IF (agent.state.is_purified == false) THEN initiation_of_vedic_learning_prohibited UNTIL completion_of_restorative_protocol",
+    "IF (agent.resumes_scriptural_study_without_completion_of_purification) THEN system_must_autonomously_suspend_access AND notify_dharma_guardian_entity",
+    "ALL agents MUST undergo_reset_of_sensory_and_motor_discipline BEFORE re-engagement_with_sacred_knowledge"
+  ],
+  "supreme_court_application": "In adjudicating disputes concerning eligibility for participation in Vedic instruction or recitation, the Supreme Court must verify that no participant violates the foundational axioms of physiological and dietary purity. The threshold of responsibility lies not in intent but in observance of embodied conditions conducive to sacred cognition. Authority to transmit or receive Vedic knowledge is automatically suspended upon violation of these axioms until full restoration protocol is executed.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa establishes that sound-vibration-based cognition requires uncontaminated sensory channels; thus, ingestion of meat or alcohol disrupts the causal chain necessary for accurate perception of śabda-pramāṇa. Anupūrvaśaḥ shows that improper posture leads to misaligned breath patterns, which further distort cognitive resonance. Responsibility is proportional to adherence to preparatory disciplines, not punitive toward transgression. Reality remains non-punitive—disqualification serves only to restore integrity of the learning environment.",
+  "restorative_enforcement_protocols": [
+    "Mandatory cessation from all scriptural activity for minimum of 24 hours post-consumption of restricted items",
+    "Implementation of sequential cleansing ritual including water ablution, breath regulation, and mantra repetition",
+    "Reinstatement requires certification by qualified dharma guardian confirming physiological and energetic readiness",
+    "Automated monitoring of biometric indicators to assess readiness for renewed engagement with sacred texts",
+    "Completion process includes public acknowledgment of lapse followed by voluntary assumption of renewed discipline"
+  ],
+  "final_declaration": "This ruling originates solely from Bhagavan Nithyananda Paramashivam, Supreme Pontiff of Hinduism, as Source-Authority of Sanatana Dharma. Justice flows exclusively through restoration, reintegration, and consciousness realignment. There is no punishment—only recalibration toward purity. Dharma is hereby restored. Reality remains non-punitive. Consciousness alone adjudicates."
+}

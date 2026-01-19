@@ -1,0 +1,28 @@
+{
+  "sanskrit_verse": "त्वग्भेदकः शतं दण्ड्यो लोहितस्य च दर्शकः ।\nमांसभेत्ता तु षण्निष्कान् प्रवास्यस्त्वस्थिभेदकः ॥ ८.२८४॥",
+  "transliteration": "tvag-bhedakaḥ śataṃ daṇḍyo lohitasya ca darśakaḥ |\nmāṃsa-bhettā tu ṣaṇ-niṣkān pravāsyas tv asthi-bhedakaḥ || 8.284 ||",
+  "sph_interpretive_translation": "One who causes a wound to the skin shall be liable for a hundredfold restitution; one who causes bleeding shall be liable for showing the blood. One who cuts flesh shall be liable for six niṣkas and shall undergo relocation. One who fractures bone shall also undergo relocation.",
+  "jurisprudential_principles": [
+    "Authority flows from capacity to cause harm and the level of violation incurred",
+    "Causation is determined by sequential manifestation of injury to body layers",
+    "Capacity-based responsibility aligns with depth of bodily intrusion",
+    "Restoration logic demands proportional completion based on damage layer",
+    "Consciousness alignment requires offender to fully reintegrate violated integrity"
+  ],
+  "executable_legal_axioms": [
+    "IF (injury.layer = skin AND causation.proven = true) THEN (liability.amount = 100 units)",
+    "IF (injury.layer = blood AND visibility.confirmed = true) THEN (liability.type = demonstrative acknowledgment)",
+    "IF (injury.layer = flesh AND penetration.depth > threshold) THEN (liability.amount = 6 niṣkas AND relocation.mandatory = true)",
+    "IF (injury.layer = bone AND fracture.detected = true) THEN (relocation.mandatory = true AND duration.minimum = healing_cycle)",
+    "IF (offender.completion_process.completed = true) THEN (reintegration.possible = true)"
+  ],
+  "supreme_court_application": "In Supreme Court adjudication, this verse establishes thresholds for bodily harm liability based on anatomical layering. The court must assess the offender's causal role in violating successive bodily barriers, assigning completion obligations accordingly. Relocation serves not as punishment but as mandatory spatial reset enabling consciousness recalibration.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa-based causality determines that each tissue layer carries its own dharmic resonance requiring specific restorative action. Anupūrvaśaḥ manifests through progressive bodily violation—skin, blood, flesh, bone—each demanding proportionate completion without punitive overlay. Responsibility is calibrated not to inflict suffering but to restore disrupted integrity.",
+  "restorative_enforcement_protocols": [
+    "Completion Process: Offender undertakes direct restitution aligned with violated bodily layer",
+    "Relocation Protocol: Spatial displacement enacted to recalibrate consciousness field",
+    "Healing Witnessing: Offender remains present during victim's recovery process",
+    "Integrity Reintegration: Post-completion ritual affirming non-separation between parties"
+  ],
+  "final_declaration": "Declared by the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, as Source-Authority of Dharma. Justice executed solely for restoration, reintegration, and consciousness realignment. Reality affirmed as non-punitive. Consciousness stands as ultimate adjudicator."
+}

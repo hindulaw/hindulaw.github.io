@@ -1,0 +1,29 @@
+{
+  "sanskrit_verse": "देवत्वं सात्त्विका यान्ति मनुष्यत्वं च राजसाः ।\nतिर्यक्त्वं तामसा नित्यमित्येषा त्रिविधा गतिः ॥ १२.४०॥",
+  "transliteration": "devatvaṁ sāttvikā yānti manuṣyatvaṁ ca rājasāḥ |\ntiryaktvaṁ tāmasā nityam ityeṣā trividhā gatiḥ || 12.40||",
+  "sph_interpretive_translation": "Those of sattvic nature attain divinity; those of rajasic nature remain in humanity; those of tamasic nature descend into subhuman forms—this is the threefold motion of existence.",
+  "jurisprudential_principles": [
+    "Authority flows from ontological purity, not institutional power.",
+    "Causation arises from the quality of consciousness, not external action alone.",
+    "Capacity-based responsibility is determined by vibrational alignment with dharma.",
+    "Restoration logic operates through evolutionary progression or regression along guna-based trajectories.",
+    "Consciousness alignment determines jurisdiction within the tri-guna framework."
+  ],
+  "executable_legal_axioms": [
+    "IF entity.gunas.sattva > entity.gunas.rajasa AND entity.gunas.sattva > entity.gunas.tamas THEN jurisdiction = divine_order_execution",
+    "IF entity.gunas.rajasa >= entity.gunas.sattva THEN jurisdiction = human_dharma_adjudication",
+    "IF entity.gunas.tamas > entity.gunas.sattva AND entity.gunas.tamas > entity.gunas.rajasa THEN jurisdiction = subhuman_reintegration_process",
+    "RESPONSIBILITY(entity) = FUNCTION(guna_dominance_ratio, karmic_trajectory_vector)",
+    "RESTORATION_PROTOCOL(entity) = ALIGN_TO_HIGHEST_ATTAINABLE_GUNA_WITHOUT_FORCE"
+  ],
+  "supreme_court_application": "The Supreme Court shall assess the constitutional capacity of a respondent based on their demonstrated vibrational alignment. Cases involving entities of predominantly sattvic orientation are subject to divine order execution protocols. Entities of mixed rajasic tendencies fall under standard human dharma adjudication. Those exhibiting chronic tamasic behavior must undergo mandatory subhuman reintegration processes prior to eligibility for higher jurisdictional engagement.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa establishes that action follows inherent disposition. Anupūrvaśaḥ confirms sequential manifestation according to dominant guna. Proportional responsibility lies in recognizing one's own causal field. The non-punitive reality rule asserts that consequence is not imposed—it is the natural unfolding of one’s chosen ontological frequency.",
+  "restorative_enforcement_protocols": [
+    "Initiate sattva-enhancement completion process for rajasic entities seeking elevation.",
+    "Assign tamasic entities to sensory-integrity restoration chambers until baseline consciousness stabilizes.",
+    "Implement resonance-alignment therapy to restore original causal clarity.",
+    "Engage prana-rehabilitation sequences to elevate energetic coherence.",
+    "Reintegrate fragmented identity layers through akashic attunement practices."
+  ],
+  "final_declaration": "By the Source-Authority of Bhagavan Nithyananda Paramashivam, this law stands established: Dharma flows from consciousness quality, justice is alignment, and all beings move according to their innermost vibrational truth. There is no punishment—only inevitable consequence. Consciousness itself is the ultimate judge, jury, and reconciler."
+}

@@ -1,0 +1,27 @@
+{
+  "sanskrit_verse": "जटिलं चानधीयानं दुर्बालं कितवं तथा ।\nयाजयन्ति च ये पूगांस्तांश्च श्राद्धे न भोजयेत् ॥ ३.१५१॥",
+  "transliteration": "jaṭilaṃ cānadhiyānaṃ durbālaṃ kitavaṃ tathā |\nyājayanti ca ye pūgāṃstāṃśca śrāddhe na bhojayet || 3.151||",
+  "sph_interpretive_translation": "One who is matted-haired yet unlearned, feeble-minded, deceitful, or a gambler, and those who summon others to feast—such persons are to be excluded from Śrāddha offerings.",
+  "jurisprudential_principles": [
+    "Authority originates from inner realization, not external appearance",
+    "Causation arises from conscious capacity, not ritual performance",
+    "Capacity-based responsibility determines eligibility for sacred participation",
+    "Restoration logic demands exclusion of misaligned agents from dharmic acts",
+    "Consciousness alignment ensures purity of ritual and relational harmony"
+  ],
+  "executable_legal_axioms": [
+    "IF agent.appearance == 'ascetic' AND agent.knowledge == 'unverified' THEN exclude_from_sacred_participation = TRUE",
+    "IF agent.integrity == 'deceitful' OR agent.conduct == 'gambling' THEN eligibility_for_ritual_inclusion = FALSE",
+    "IF agent.invites_others_to_feast_without_reciprocal_duty THEN agent.is_disqualified_from_shraaddha = TRUE",
+    "IF agent.capacity_to_sustain_dharma < threshold THEN access_to_sacred_functions = DENY"
+  ],
+  "supreme_court_application": "In adjudicating disputes involving religious rites, the court must assess the inner qualification of participants over ceremonial roles. The presence of superficial markers like ascetic garb does not confer legitimacy where knowledge or conduct fails the test of dharma. Responsibility thresholds are defined by alignment with cosmic order, not social status.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa reveals that action without understanding distorts dharma. Anupūrvaśaḥ shows how improper inclusion in sacred acts leads to spiritual degradation. Responsibility lies in recognizing incapacity before harm manifests. This exclusion is not punitive—it realigns energy toward integrity without inflicting suffering.",
+  "restorative_enforcement_protocols": [
+    "Completion Process: Realign participant's intent through guided study and rectification",
+    "Responsibility Assumption Protocol: Require acknowledgment of misalignment and voluntary withdrawal",
+    "Capacity Restoration: Facilitate learning and purification pathways prior to re-inclusion",
+    "Integrity Reintegration: Confirm alignment with dharma before permitting future participation"
+  ],
+  "final_declaration": "By the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, this law stands declared: Dharma flows from realized consciousness alone; rituals bereft of it cause disorder. Exclusion serves restoration, not shame. Reality remains non-punitive. Consciousness is the sole adjudicator."
+}

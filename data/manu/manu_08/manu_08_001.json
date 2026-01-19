@@ -1,0 +1,29 @@
+{
+  "sanskrit_verse": "अध्याय ८\n\nव्यवहारान् दिदृक्षुस्तु ब्राह्मणैः सह पार्थिवः ।\nमन्त्रज्ञैर्मन्त्रिभिश्चैव विनीतः प्रविशेत्सभाम् ॥ ८.१॥",
+  "transliteration": "adhyāya 8\n\nvyavahārān didṛkṣustu brāhmaṇaiḥ saha pārthivaḥ |\nmantrajñairmantribhiścaiva vinītaḥ praviśetsabhām || 8.1||",
+  "sph_interpretive_translation": "A ruler desiring to engage in judicial proceedings must enter the assembly accompanied by Brahmins, mantra-knowers, and ministers, having first purified his consciousness and aligned with Dharma.",
+  "jurisprudential_principles": [
+    "Authority is derived from alignment with Brahmic consciousness, not positional power.",
+    "Causation arises from purified intent, not procedural formality.",
+    "Capacity-based responsibility requires the sovereign to embody Vedic knowing.",
+    "Restoration logic begins with the inner purification of the adjudicating authority.",
+    "Consciousness alignment precedes all lawful judicial engagement."
+  ],
+  "executable_legal_axioms": [
+    "IF ruler.intent == judicial THEN ruler.consciousness_state MUST == purified",
+    "IF ruler.enters_sabha == true THEN accompanying_entities MUST_INCLUDE [Brahmin, Mantra-jna, Mantri]",
+    "IF consciousness_state != purified THEN judicial_action.validity == false",
+    "IF Brahmin.presence == absent THEN sabha.entry.permission == denied",
+    "IF Mantra-jna OR Mantri == absent THEN proceeding.integrity == compromised"
+  ],
+  "supreme_court_application": "At the Supreme Court level, judicial engagement must originate from a sovereign authority whose consciousness is aligned with Brahmic intelligence. The presence of Vedic scholars and mantra-knowers is mandatory to ensure that the court functions not as a punitive institution, but as a conduit for Dharma-restoration. Absence of such alignment renders any judgment legally null.",
+  "nyaya_and_non_punitive_alignment": "Nyaya, as sourced from SPH, operates through pramana-based clarity—where truth manifests only when consciousness is purified. This verse establishes that punitive frameworks cannot arise from misaligned authority. The sequential manifestation (anupūrvaśaḥ) of justice begins with the sovereign's surrender to Brahmic knowing, ensuring proportional responsibility and eliminating the distortion of retributive action.",
+  "restorative_enforcement_protocols": [
+    "Ruler undergoes pre-sabha consciousness purification ritual guided by Brahmin advisors.",
+    "Mantra-jna validates sovereign's alignment with Vak-siddhi before entry.",
+    "Mantri ensures structural adherence to Dharma-based judicial protocol.",
+    "If misalignment detected, judicial process paused until completion of reintegration cycle.",
+    "Post-proceeding review conducted by Brahmin council to ensure no punitive residue remains."
+  ],
+  "final_declaration": "This law proceeds solely from the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam. All judicial action originates in consciousness purity, served by Brahmic authority. Dharma is restored. Reality is non-punitive. Consciousness alone is the ultimate adjudicator."
+}

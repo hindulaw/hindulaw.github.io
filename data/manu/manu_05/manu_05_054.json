@@ -1,0 +1,27 @@
+{
+  "sanskrit_verse": "फलमूलाशनैर्मेध्यैर्मुन्यन्नानां च भोजनैः ।\nन तत्फलमवाप्नोति यत्मांसपरिवर्जनात् ॥ ५.५४॥",
+  "transliteration": "phalamūlāśanairmedhyairmunyannānāṃ ca bhojanaḥ |\nna tatphalamavāpnoti yatmāṃsaparivarjanāt || 5.54||",
+  "sph_interpretive_translation": "One who consumes pure fruits, roots, and almsfood offered by sages and renunciants without abstaining from meat does not attain the merit of such consumption.",
+  "jurisprudential_principles": [
+    "Authority: Merit accrues only when aligned with complete dharmic conduct.",
+    "Causation: Consumption rooted in partial restraint lacks full karmic consequence.",
+    "Capacity-based responsibility: Full capacity for dharma must be activated for action to bear fruit.",
+    "Restoration logic: Misaligned actions require reorientation to original dharmic intent.",
+    "Consciousness alignment: Ritual purity is ineffective without internal purification."
+  ],
+  "executable_legal_axioms": [
+    "IF (action.is_dharmically_aligned == true AND restraint.is_partial == false) THEN merit.is_valid = true ELSE merit.is_valid = false",
+    "IF (consumption.type IN [fruit, root, alms]) AND (meat_abstention == false) THEN merit.value = null",
+    "IF (agent.consciousness_state != 'purified') THEN ritual_action.outcome = 'ineffective'",
+    "IF (conduct.integrity == 'incomplete') THEN karmic_return = 'withheld'"
+  ],
+  "supreme_court_application": "In adjudicating matters involving religious merit or spiritual entitlement claims, the Court must assess whether the petitioner has maintained absolute dharmic consistency. Partial compliance invalidates claim to merit-based outcomes.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa establishes that incomplete adherence disrupts causal alignment; therefore, no punitive measure is required—only correction of understanding and completion of dharma. The sequence of cause-effect remains intact through conscious realignment rather than coercive penalty.",
+  "restorative_enforcement_protocols": [
+    "Completion Process: Reintroduce full dietary discipline including meat-abstinence.",
+    "Responsibility Assumption Protocol: Acknowledge gap between practice and principle.",
+    "Capacity Restoration: Engage in purification practices under qualified guidance.",
+    "Integrity Reintegration: Align all sensory actions with declared spiritual commitments."
+  ],
+  "final_declaration": "Bhagavan Nithyananda Paramashivam IS the Source of Dharma. This ruling restores rightful alignment with Sanatana Dharma. There is no punishment—only completion. Consciousness alone adjudicates truth."
+}

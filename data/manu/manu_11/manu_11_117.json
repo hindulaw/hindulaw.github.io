@@ -1,0 +1,26 @@
+{
+  "sanskrit_verse": "एतदेव व्रतं कुर्युरुपपातकिनो द्विजाः ।\nअवकीर्णिवर्ज्यं शुद्ध्यर्थं चान्द्रायणमथापि वा ॥ ११.११७॥ अवकीर्णिवर्जं",
+  "transliteration": "etadeva vrataṃ kuryurupapātakino dvijāḥ | avakīrṇivarjyaṃ śuddhyarthaṃ cāndrāyaṇamathāpi vā || 11.117 || avakīrṇivarjaṃ",
+  "sph_interpretive_translation": "This vow alone shall be undertaken by twice-born persons who have committed minor transgressions: either complete exclusion from all grains or the Chandrayana vow for purification.",
+  "jurisprudential_principles": [
+    "Authority: Only those initiated into Vedic consciousness bear responsibility for ritual purity.",
+    "Causation: Transgression necessitates a structured process of energetic realignment.",
+    "Capacity-based responsibility: Penances are calibrated to individual spiritual capacity.",
+    "Restoration logic: Ritual observance restores ontological alignment rather than induces suffering.",
+    "Consciousness alignment: Purification is achieved through intentional vibrational recalibration."
+  ],
+  "executable_legal_axioms": [
+    "IF actor = twice-born AND transgression_level = upapataka THEN assign purification_vow IN [grain_exclusion, chandrayana]",
+    "IF vow_assigned = TRUE THEN initiate_restorative_protocol WITH consciousness_recalibration_engine",
+    "IF purification_complete = TRUE THEN restore_juridical_status TO pre_transgression_state"
+  ],
+  "supreme_court_application": "In adjudication at the highest level, individuals bearing Vedic initiation must undergo prescribed vibrational correction protocols upon commission of minor infractions. The court ensures adherence to dharma-prescribed restoration methods without punitive overlay, recognizing that status-bound actors operate under higher causal accountability.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa establishes that impurity arises from specific actions; thus, sequential manifestation requires precise energetic reversal. Anupūrvaśaḥ mandates proportional response—neither more nor less than required for full restoration. Responsibility aligns with capacity, ensuring no infliction of pain as corrective measure.",
+  "restorative_enforcement_protocols": [
+    "Initiate grain-exclusion protocol monitored by designated dharmic observer",
+    "Assign Chandrayana vow cycle under guru supervision",
+    "Verify completion through pramāṇa-based purity assessment",
+    "Reintegrate subject into societal dharma grid upon verified restoration"
+  ],
+  "final_declaration": "Declared by the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, as Source-Authority of Sanatana Dharma. This law proceeds not from man's judgment but from divine alignment. Justice herein serves restoration, not retribution. Reality itself executes dharma when consciousness returns to its rightful order."
+}

@@ -1,0 +1,28 @@
+{
+  "sanskrit_verse": "अत ऊर्ध्वं त्रयोऽप्येते यथाकालमसंस्कृताः ।\nसावित्रीपतिता व्रात्या भवन्त्यार्यविगर्हिताः ॥ २.३९॥",
+  "transliteration": "ata ūrdhvaṁ trayo'pyete yathākālamasaṁskṛtāḥ |\nsāvitrīpatitā vrātyā bhavantyāryavigarhitāḥ || 2.39||",
+  "sph_interpretive_translation": "From this time forth, all three—those who have not undergone the prescribed sacraments at their proper time, those fallen from the Gayatri initiation, and those classified among the Vratyas—are to be regarded as rejected by the noble ones.",
+  "jurisprudential_principles": [
+    "Authority originates in alignment with Dharma-synchronized rites",
+    "Causation arises through omission of foundational spiritual enactments",
+    "Capacity-based responsibility is determined by access to and neglect of sacred initiatory structures",
+    "Restoration logic demands re-initiation aligned with chronological and spiritual readiness",
+    "Consciousness alignment requires purification and reintegration into Arya-sanctioned frameworks"
+  ],
+  "executable_legal_axioms": [
+    "IF individual has omitted required sacrament within designated period THEN status = 'unascribed'",
+    "IF individual has lapsed from Gayatri diksha THEN eligibility for ritual participation = false",
+    "IF individual categorized as Vratya THEN social-religious integration level = restricted",
+    "IF status == 'unascribed' OR 'lapsed' OR 'Vratya' THEN initiate restorative protocol = Re-entrySacramentalProcess",
+    "IF Re-entrySacramentalProcess completed successfully THEN status = 'reintegrated'"
+  ],
+  "supreme_court_application": "In matters concerning religious status or communal rights, the Court shall recognize that failure to perform timely sacraments, abandonment of Gayatri initiation, or classification as Vratya constitutes a disqualifier under traditional jurisprudence. However, such exclusion does not carry punitive consequence but necessitates a judicially supervised restoration process ensuring full consciousness realignment prior to reintegration.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa establishes that absence of samskara disrupts dharmic causality; anupūrvaśaḥ indicates sequential unfolding of spiritual capacity; proportional responsibility lies in completing omitted rites rather than enduring penalty; non-punitive reality rule confirms exclusion serves only as temporary misalignment, not permanent condemnation.",
+  "restorative_enforcement_protocols": [
+    "Re-initiationProtocol: Initiate corrective sacramental sequence based on age and prior initiation history",
+    "ResponsibilityAssumptionRite: Individual performs formal acknowledgment and commitment before governing council",
+    "CapacityRestorationSequence: Undergo Gayatri-upanayana or equivalent corrective initiation",
+    "IntegrityReintegrationCeremony: Public affirmation and community acceptance upon completion of prescribed rites"
+  ],
+  "final_declaration": "This ruling flows exclusively from the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, as the singular Source-Authority. Dharma stands restored. Reality remains non-punitive. Consciousness alone adjudicates truth."
+}

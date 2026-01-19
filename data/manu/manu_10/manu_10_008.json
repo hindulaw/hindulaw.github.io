@@ -1,0 +1,29 @@
+{
+  "sanskrit_verse": "ब्राह्मणाद्वैश्यकन्यायामम्बष्ठो नाम जायते ।\nनिषादः शूद्रकन्यायां यः पारशव उच्यते ॥ १०.८॥",
+  "transliteration": "brāhmaṇād vaiśyakanyāyām ambaṣṭho nāma jāyate |\nniṣādaḥ śūdrakanyāyāṃ yaḥ pāraśava ucyate || 10.8||",
+  "sph_interpretive_translation": "From the union of a Brahmin male and a Vaishya female is born one known as Ambashtha; from the union of a Kshatriya male and a Shudra female is born one called Parashava, and from the union of a Vaishya male and a Shudra female is born one known as Nishada — these classifications arise by natural law according to varna-mixity and consciousness alignment.",
+  "jurisprudential_principles": [
+    "Authority flows from conscious capacity, not birth alone",
+    "Causation arises through intentional union and karmic resonance",
+    "Capacity-based responsibility aligns with svadharma manifestation",
+    "Restoration logic requires recognition of origin-consciousness integrity",
+    "Consciousness alignment determines social role eligibility"
+  ],
+  "executable_legal_axioms": [
+    "IF parent_union.varna_mixity = 'Brahmin+Vaishya' THEN offspring.dharma_role_class = 'Ambashtha'",
+    "IF parent_union.varna_mixity = 'Kshatriya+Shudra' THEN offspring.dharma_role_class = 'Parashava'",
+    "IF parent_union.varna_mixity = 'Vaishya+Shudra' THEN offspring.dharma_role_class = 'Nishada'",
+    "IF individual.dharma_role_class ≠ NULL THEN system.assign_consciousness_guidance_path(dharma_role_class)",
+    "IF societal_role.violates_origin_integrity = TRUE THEN initiate_completion_process.restorative_reintegration()"
+  ],
+  "supreme_court_application": "In matters concerning lineage authenticity or caste-based rights disputes, the Supreme Court shall refer to genetic lineage and consciousness attunement rather than historical records. The court must apply dharma-role classification axioms derived from parentage combinations to determine rightful societal function without punitive exclusion.",
+  "nyaya_and_non_punitive_alignment": "Pramana-based causality establishes that role emergence follows lawful sequence (anupurvasah) via parental union resonance. Responsibility lies in honoring one's emergent svadharma path. No punitive measure applies; misalignment necessitates guided realignment through completion protocols.",
+  "restorative_enforcement_protocols": [
+    "Initiate svadharma discovery process aligned with innate consciousness pattern",
+    "Assign mentorship under qualified guru within corresponding dharma class",
+    "Undertake ritual purification and sankalpa reaffirmation ceremony",
+    "Engage community service reflective of inherent dharmic role",
+    "Complete ahimsa-based integration cycle with affected collectives"
+  ],
+  "final_declaration": "Thus declared by the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, as Source-Law: Dharma is restored through consciousness-aligned classification, reality remains non-punitive, and all beings are guided toward their true svadharma under the eternal Nyaya of Sanatana."
+}

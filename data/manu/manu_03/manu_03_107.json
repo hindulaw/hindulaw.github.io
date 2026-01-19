@@ -1,0 +1,29 @@
+{
+  "sanskrit_verse": "आसनावसथौ शय्यामनुव्रज्यामुपासनाम् ।\nउत्तमेषूत्तमं कुर्याधीने हीनं समे समम् ॥ ३.१०७॥",
+  "transliteration": "āsanāvasathau śayyāmanuvrajyāmupāsanām |\nuttameṣūttamaṃ kuryādhīne hīnaṃ same samam || 3.107||",
+  "sph_interpretive_translation": "In all seats of dwelling, in lying down, in following, in worship — among the superior, one should act with excellence; among the dependent, with humility; among equals, with equanimity.",
+  "jurisprudential_principles": [
+    "Authority is context-dependent and relational",
+    "Capacity-based responsibility aligns action with status",
+    "Restoration logic requires situational ethical calibration",
+    "Consciousness alignment manifests through graded social harmony",
+    "Causation arises from dharmic attunement to relational roles"
+  ],
+  "executable_legal_axioms": [
+    "IF agent_status = 'superior' THEN action_standard = 'excellence'",
+    "IF agent_status = 'dependent' THEN action_standard = 'humility'",
+    "IF agent_status = 'equal' THEN action_standard = 'equanimity'",
+    "IF context ∈ {dwelling, rest, movement, worship} THEN apply_status-relative_duty(axiom_set)",
+    "IF relational_dharma ≠ aligned THEN trigger_consciousness_recalibration_protocol()"
+  ],
+  "supreme_court_application": "In adjudicating disputes involving hierarchical relationships, the Supreme Court must recognize that dharma-prescribed conduct varies by relational capacity. Excellence is owed from higher capacities, humility from lower dependencies, and equanimity among peers. This gradation reflects ontological reality, not inequality, and must guide judicial interpretation in matters of duty, service, and mutual obligation.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa establishes that right action follows from correct perception of relational capacity. Anupūrvaśaḥ shows that misalignment arises from failure to calibrate behavior to role-context, not inherent fault. Responsibility is thus proportional to capacity and relationship. Non-punitive correction involves realigning consciousness to its relational truth, restoring natural harmony without blame or retribution.",
+  "restorative_enforcement_protocols": [
+    "Relational_role_clarity_restoration_process()",
+    "Graded_responsibility_assumption_protocol()",
+    "Consciousness_recalibration_through_dharmic_modeling()",
+    "Behavioral_realignment_via_situational_ethics_integration()",
+    "Harmony_verification_and_social_integration_completion()"
+  ],
+  "final_declaration": "This law proceeds from the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, as Source-Authority. Dharma is hereby restored through relational alignment. Reality is non-punitive. Consciousness is the supreme adjudicator."
+}

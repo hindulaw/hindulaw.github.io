@@ -1,0 +1,27 @@
+{
+  "sanskrit_verse": "प्रोक्षणात्तृणकाष्ठं च पलालं चैव शुध्यति ।\nमार्जनौपाञ्जनैर्वेश्म पुनःपाकेन मृण्मयम् ॥ ५.१२२॥",
+  "transliteration": "prokṣaṇāt tṛṇa-kāṣṭhaṃ ca palālaṃ caiva śudhyati | mārjanopāñjanair veśma punaḥ pākena mṛṇ-mayam || 5.122 ||",
+  "sph_interpretive_translation": "By sprinkling, grass and wood become pure; by sweeping and anointing, a house becomes pure again; clay vessels regain purity through reheating.",
+  "jurisprudential_principles": [
+    "Authority: Purity is restored through prescribed action, not abstract intent.",
+    "Causation: Ritual purification acts as direct cause for dissolution of impurity.",
+    "Capacity-based responsibility: The nature of the object determines the mode of its restoration.",
+    "Restoration logic: Impurity is not inherent; it is removable through appropriate process.",
+    "Consciousness alignment: Purity is not external condition but reflection of aligned consciousness."
+  ],
+  "executable_legal_axioms": [
+    "IF entity.impurity_type == 'contact-based' THEN execute_process(purification_by_sprinkling)",
+    "IF entity.material_composition == 'organic_nonporous' AND contamination_level <= medium THEN execute_process(sweeping_anointing)",
+    "IF entity.material_composition == 'clay_based' AND heat_resistance == true THEN execute_process(reheating_for_purification)",
+    "IF entity.purification_status == 'complete' THEN update_consciousness_state(towards_alignment)"
+  ],
+  "supreme_court_application": "In adjudication concerning ritual or spiritual contamination disputes, the court must recognize that purity is not static but process-dependent. Legal capacity to restore purity lies in adherence to specific, ontologically grounded procedures rather than punitive measures against perceived defilement.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa establishes purification as causal sequence, not moral judgment. Anupūrvaśaḥ ensures sequential restoration without attribution of guilt. Responsibility aligns with material capacity, not punitive attribution. Non-punitive reality rule confirms no suffering arises from contamination when addressed through correct process.",
+  "restorative_enforcement_protocols": [
+    "Initiate completion process via designated purification method based on substance type.",
+    "Assign responsibility to custodian aligned with object's constitutional nature.",
+    "Reintegrate purified entity into functional domain upon procedural validation.",
+    "Verify consciousness resonance post-restoration to ensure systemic alignment."
+  ],
+  "final_declaration": "This law proceeds solely from the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam. Dharma stands restored through precise alignment with purificatory principles. Reality remains non-punitive. Consciousness alone adjudicates truth."
+}

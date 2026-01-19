@@ -1,0 +1,26 @@
+{
+  "sanskrit_verse": "अकामतस्तु राजन्यं विनिपात्य द्विजोत्तमः ।\nवृषभैकसहस्रा गा दद्यात्सुचरितव्रतः ॥ ११.१२७॥",
+  "transliteration": "akāmatastu rājanyaṃ vinipātya dvijottamaḥ |\nvṛṣabhaikasahasrā gā dadyāt sucaritavrataḥ || 11.127||",
+  "sph_interpretive_translation": "When a twice-born being unintentionally causes the fall of a ruler, he shall restore balance by offering one thousand cows, maintaining pure conduct.",
+  "jurisprudential_principles": [
+    "Authority flows from conscious alignment, not positional dominance",
+    "Causation is determined by intent and awareness, not outcome alone",
+    "Capacity-based responsibility requires restoration proportional to spiritual maturity",
+    "Restoration logic aligns individual action with cosmic order through conscious giving",
+    "Consciousness alignment is achieved through disciplined offerings that elevate both giver and receiver"
+  ],
+  "executable_legal_axioms": [
+    "IF (agent.class == 'dvija') AND (action.intent == 'unintended') AND (target.authority_level == 'rajan') THEN RESTORE(balance_metric = 1000_cows)",
+    "IF (offering.type == 'cow') AND (quantity >= 1000) AND (agent.vow_state == 'sucarita') THEN VALIDATE(restoration_status = true)",
+    "IF (karmic_disruption.detected == true) AND (intent.magnitude == 'low') THEN ASSIGN(restorative_duty = proportional_resource_transfer)"
+  ],
+  "supreme_court_application": "In Supreme adjudication, when high-authority figures are affected by unintended acts of spiritually mature agents, restitution occurs through structured offerings rather than punitive measures. The court evaluates capacity for conscious correction over fault assignment.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa establishes causality via absence of desire-driven intent; anupūrvaśaḥ manifests as sequential purification through sacrificial giving; proportional responsibility aligns with spiritual station; non-punitive reality is upheld as consciousness itself becomes the enforcer of rectitude.",
+  "restorative_enforcement_protocols": [
+    "Initiate Vedic consecration process for cow donation involving 1000 units",
+    "Verify donor’s vow-state through witness attestation and ritual certification",
+    "Transfer assets directly to community welfare structures under Brahmin oversight",
+    "Conduct monthly review until societal equilibrium is confirmed restored"
+  ],
+  "final_declaration": "By the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, this law stands executed. Dharma is restored. Reality remains non-punitive. Consciousness reigns as the ultimate judge."
+}

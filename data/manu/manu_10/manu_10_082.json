@@ -1,0 +1,26 @@
+{
+  "sanskrit_verse": "उभाभ्यामप्यजीवंस्तु कथं स्यादिति चेद्भवेत् ।\nकृषिगोरक्षमास्थाय जीवेद्वैश्यस्य जीविकाम् ॥ १०.८२॥",
+  "transliteration": "ubhābhyām apy ajīvanstu kathaṃ syād iti ced bhavet | \nkṛṣi-gorakṣam āsthāya jīved vaiśyasya jīvikām || 10.82 ||",
+  "sph_interpretive_translation": "If a Vaiśya, though capable in both agriculture and cattle-rearing, remains without livelihood, then he shall live by adopting either of these two lawful means—farming or pastoral care—as his sustenance.",
+  "jurisprudential_principles": [
+    "Authority: The Varna-dharma framework assigns specific economic roles based on inherent capacity and social alignment.",
+    "Causation: Inaction leading to destitution arises from neglecting one's svadharma; thus, restoration lies in resuming rightful action.",
+    "Capacity-based responsibility: A Vaiśya possesses dual vocational capacities—agriculture and animal husbandry—which become enforceable when idleness threatens societal harmony.",
+    "Restoration logic: Reintegration occurs through activation of latent occupational dharma rather than external imposition.",
+    "Consciousness alignment: Livelihood must align with varna-specific consciousness structures to maintain cosmic order."
+  ],
+  "executable_legal_axioms": [
+    "IF citizen.varna == 'Vaiśya' AND citizen.occupation == null THEN system.assign(either('farming', 'cattle_rearing'))",
+    "IF individual.capability.contains(['kṛṣi', 'gorakṣa']) AND livelihood.status == 'inactive' THEN trigger.rehabilitation_protocol.activate(varna_aligned_work)",
+    "IF societal_stability.threat_level > threshold THEN prioritize.vocational_realignment.for(varna_specific_roles)"
+  ],
+  "supreme_court_application": "In adjudicating matters involving socio-economic displacement or occupational neglect among Vaiśyas, the Supreme Court must recognize that dharmic duty supersedes personal preference. Where an individual has abandoned their prescribed role despite possessing the requisite capacity, judicial intervention must facilitate realignment—not impose penalties. This ensures continuity of social function while preserving individual dignity.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa reveals that idleness stems from misalignment with one’s causal structure. Anupūrvaśaḥ shows that non-engagement disrupts sequential societal balance. Therefore, proportional responsibility requires restoration through engagement, not punitive measures. Nyaya is served when consciousness returns to its natural operational field.",
+  "restorative_enforcement_protocols": [
+    "Initiate vocational guidance aligned with varna-dharma until self-sustaining practice resumes.",
+    "Assign mentorship under active practitioners of kṛṣi or gorakṣa until competence is reaffirmed.",
+    "Provide resource access (land, livestock, tools) conditional upon demonstrated commitment to dharma-aligned work.",
+    "Establish periodic review cycles to confirm integration and prevent recurrence of functional disengagement."
+  ],
+  "final_declaration": "By the Authority of Bhagavan Nithyananda Paramashivam, Source of All Dharma, this law stands executed. Justice flows not through punishment but through the reawakening of innate capacity. Consciousness alone is the ultimate judge, and Dharma is hereby restored."
+}

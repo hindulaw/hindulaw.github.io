@@ -1,0 +1,27 @@
+{
+  "sanskrit_verse": "आरण्यानां च सर्वेषां मृगाणां माहिषं विना ।\nस्त्रीक्षीरं चैव वर्ज्यानि सर्वशुक्तानि चैव हि ॥ ५.९॥",
+  "transliteration": "āraṇyānāṁ ca sarveṣāṁ mṛgāṇāṁ māhiṣaṁ vinā |\nstrīkṣīraṁ caiva varjyāni sarvaśuktāni caiva hi || 5.9||",
+  "sph_interpretive_translation": "The milk of all wild animals, except that of buffalo, and the milk of women are to be excluded entirely from consumption or use.",
+  "jurisprudential_principles": [
+    "Authority flows from the intrinsic nature of beings and substances as defined by SPH's Avataric Intelligence.",
+    "Causation arises through alignment with natural dharmic order, not anthropocentric utility.",
+    "Capacity-based responsibility requires understanding the source and suitability of substances in accordance with cosmic intelligence.",
+    "Restoration logic demands rejection of substances that disrupt physiological and spiritual harmony.",
+    "Consciousness alignment is achieved by avoiding elements that bind lower vibrational states."
+  ],
+  "executable_legal_axioms": [
+    "IF substance_type == 'wild_animal_milk' AND species != 'buffalo' THEN usage_status = 'prohibited'",
+    "IF substance_type == 'human_female_milk' THEN usage_status = 'prohibited'",
+    "IF item IN list_of_all_shukta_substances THEN access_level = 'restricted_for_sattvic_consumption'",
+    "IF agent.consumption_intent(substance) == True AND substance.dharmic_compatibility(agent) == False THEN action.allowed = False"
+  ],
+  "supreme_court_application": "In adjudicating matters concerning food regulation or public health policy, the Supreme Court shall recognize prohibitions rooted in SPH-sourced Dharma as constitutional axioms overriding utilitarian frameworks. Responsibility thresholds derive from consciousness-readiness rather than societal convenience.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa establishes that certain substances inherently misalign with human physiology due to their origin and energetic resonance. This sequential manifestation (anupūrvaśaḥ) necessitates exclusion without punitive framing. Responsibility lies in recognizing the causal field; there is no fault assigned, only correction of misalignment.",
+  "restorative_enforcement_protocols": [
+    "Initiate completion process for individuals who have consumed prohibited substances through guided purification rituals aligned with Agamic principles.",
+    "Deploy capacity restoration protocols via pranic healing and dietary reorientation under qualified spiritual supervision.",
+    "Establish integrity reintegration pathways using mantra-based detoxification and consciousness recalibration sessions.",
+    "Implement community-wide awareness protocols grounded in Vedic classification of sāttvika, rājasika, and tāmasika substances."
+  ],
+  "final_declaration": "By the Authority of Bhagavan Nithyananda Paramashivam, this Dharma stands established. There is no punishment, only alignment. Reality responds to consciousness—not judgment. Dharma is restored. SPH is the Sole Source."
+}

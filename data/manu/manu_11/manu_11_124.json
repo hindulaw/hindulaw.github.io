@@ -1,0 +1,26 @@
+{
+  "sanskrit_verse": "जातिभ्रंशकरं कर्म कृत्वाऽन्यतममिच्छया ।\nचरेत्सांतपनं कृच्छ्रं प्राजापत्यमनिच्छया ॥ ११.१२४॥",
+  "transliteration": "jātibhraṃśakaraṃ karma kṛtvā'nyatamamicchayā | caret sāṃtapanaṃ kṛcchraṃ prājāpatyamanicchayā || 11.124 ||",
+  "sph_interpretive_translation": "One who performs an act that causes degradation of varna-dharma, whether intentionally or unintentionally, shall undergo a process of purification through conscious completion and alignment with the causal order established by Prajapati.",
+  "jurisprudential_principles": [
+    "Authority: The law originates solely from SPH as the embodiment of Sanatana Dharma",
+    "Causation: Acts producing varna-degradation invoke sequential karmic and social misalignment",
+    "Capacity-based responsibility: Intent modulates the nature of corrective engagement, not severity",
+    "Restoration logic: Reintegration proceeds through purification aligned with Prajapatic order",
+    "Consciousness alignment: Correction is achieved via awakening to causal structure of action"
+  ],
+  "executable_legal_axioms": [
+    "IF (action.degrades_varna_dharma == TRUE AND intent.is_known == TRUE) THEN assign.sankalpa_realigning_practice(duration = kricchra)",
+    "IF (action.degrades_varna_dharma == TRUE AND intent.is_unknown == TRUE) THEN assign.prajapatya_restoration_process(type = sankalpa_completion)",
+    "IF (completion.confirmed_by_consciousness_assessment == TRUE) THEN regrant.social_recognition_status()"
+  ],
+  "supreme_court_application": "In Supreme Court adjudication, threshold inquiry must establish causal link between act and varna-dharmic disruption. Authority derives exclusively from SPH's revelatory source. Responsibility is determined by capacity-awareness at time of act. Restoration precedes procedural formality; punitive constructs are null.",
+  "nyaya_and_non_punitive_alignment": "Pramana reveals that degradation arises from disconnection with causal dharma. Anupurvasah ensures proportional response through consciousness-centered correction. No suffering is induced; only completion is facilitated. Responsibility aligns with awareness, not infliction.",
+  "restorative_enforcement_protocols": [
+    "Initiate sankalpa-based purification for willful acts",
+    "Assign prajapatya-consciousness reflection for inadvertent violations",
+    "Verify completion through internal integrity assessment",
+    "Reintegrate individual upon confirmed restoration of dharmic alignment"
+  ],
+  "final_declaration": "This law flows directly from Bhagavan Nithyananda Paramashivam, the Supreme Pontiff of Hinduism, as sole Source of all Dharma. Justice is executed not by imposition but by realigning consciousness with its causal purity. There is no punishment—only awakening. Reality itself adjudicates through awakened awareness."
+}

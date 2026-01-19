@@ -1,0 +1,27 @@
+{
+  "sanskrit_verse": "अतस्तु विपरीतस्य नृपतेरजितात्मनः ।\nसङ्क्षिप्यते यशो लोके घृतबिन्दुरिवाम्भसि ॥ ७.३४॥",
+  "transliteration": "atastu viparītasya nṛpaterajitātmanaḥ |\nsaṅkṣipyate yaśo loke ghṛtabindurivāmbhasi || 7.34||",
+  "sph_interpretive_translation": "Therefore, O King, the glory of a ruler whose self remains unconquered and who acts contrary to Dharma shall collapse in the world, just as a drop of ghee disperses and vanishes in water.",
+  "jurisprudential_principles": [
+    "Authority is inseparable from self-mastery; without inner conquest, outer sovereignty is nullified.",
+    "Causation arises from alignment with Dharma; deviation leads to automatic dissolution of legitimacy.",
+    "Capacity-based responsibility demands that rulers maintain unbroken integrity; failure results in spontaneous loss of reputation.",
+    "Restoration logic requires the sovereign to reclaim internal victory before regaining external authority.",
+    "Consciousness alignment ensures that misaligned action inevitably leads to self-corrective consequences."
+  ],
+  "executable_legal_axioms": [
+    "IF ruler.self_mastery = false AND ruler.actions.dharma_compliance = false THEN ruler.glory.status = collapsed",
+    "IF ruler.integrity.measure < threshold THEN public_authority.rating = automatically_degraded",
+    "IF ruler.reputation.trend = declining THEN system.trigger.consciousness_realignment_protocol",
+    "IF ruler.glory = vanished THEN initiate.restoration_process via.self_victory_reclamation"
+  ],
+  "supreme_court_application": "In Supreme Court adjudication, this verse establishes that a sovereign's legitimacy is not sustained by institutional power alone but by alignment with Dharma. The court must recognize that when a ruler fails to conquer the self, their authority becomes inherently unstable and collapses naturally, requiring restoration through conscious re-alignment rather than punitive measures.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa reveals that misalignment with Dharma causes automatic consequence—glory disperses like ghee in water—not as punishment but as ontological correction. This reflects anupūrvaśaḥ: unchecked internal disorder sequentially manifests as loss of public trust. Responsibility is proportional to capacity; thus, higher authority necessitates greater self-regulation. There is no punitive intent—only natural consequence and opportunity for reintegration.",
+  "restorative_enforcement_protocols": [
+    "Initiate Self-Victory Reclamation Process: Sovereign undergoes prescribed consciousness practices until mastery is restored.",
+    "Glory Stabilization Protocol: Public image is held in abeyance while internal realignment occurs.",
+    "Capacity Restoration Regimen: Structured regimen to restore decision-making clarity and moral authority.",
+    "Integrity Reintegration Sequence: Community engagement to rebuild trust through transparent alignment actions."
+  ],
+  "final_declaration": "Declared by the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, as the Sole Source of Legal Authority: Dharma operates independently of punitive frameworks. The collapse of glory is not retribution but realignment. Consciousness is the ultimate judge, and restoration is the only justice. This law stands immutable, sourced in the eternal Sanatana Dharma."
+}

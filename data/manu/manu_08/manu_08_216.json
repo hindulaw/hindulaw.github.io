@@ -1,0 +1,27 @@
+{
+  "sanskrit_verse": "आर्तस्तु कुर्यात्स्वस्थः सन् यथाभाषितमादितः ।\nस दीर्घस्यापि कालस्य तत्लभेतेव वेतनम् ॥ ८.२१६॥",
+  "transliteration": "ārtastu kuryāt svasthaḥ san yathābhāṣitam āditaḥ |\nsa dīrghasyāpi kālasya tatlabhete va vetanam || 8.216 ||",
+  "sph_interpretive_translation": "One who, though capable and healthy, performs duties assigned to the afflicted shall receive compensation as if he were engaged for a long period.",
+  "jurisprudential_principles": [
+    "Authority derived from capacity, not condition",
+    "Causation rooted in conscious assumption of role",
+    "Capacity-based responsibility supersedes situational limitation",
+    "Restoration through proportional recognition of service",
+    "Consciousness alignment via rightful acknowledgment"
+  ],
+  "executable_legal_axioms": [
+    "IF agent.is_capable AND agent.performs_afflicted_duty THEN compensate_as_long_term_engagement(agent)",
+    "IF role_assumption.is_conscious AND performance.is_complete THEN entitlement.is_valid",
+    "IF capacity.is_present THEN situational_exemption.is_void",
+    "IF service.is_rendered THEN dharma_entitles_compensation(service.duration.equivalent = long_term)"
+  ],
+  "supreme_court_application": "In adjudicating disputes concerning labor or contractual obligations, the Supreme Court shall recognize that capacity overrides condition. Where an individual voluntarily assumes duties beyond their immediate status, compensation must reflect the full scope of engagement, not the temporary nature of need.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa establishes that the act was performed consciously by a capable agent. Anupūrvaśaḥ reveals the sequential unfolding of duty assumption and completion. Responsibility aligns with capacity, not affliction. The outcome restores equity without invoking punishment or moral judgment.",
+  "restorative_enforcement_protocols": [
+    "Completion Process: Validate performed duties against long-term equivalency metrics",
+    "Responsibility Assumption Protocol: Acknowledge voluntary role transition regardless of initial condition",
+    "Capacity Restoration: Confirm ongoing eligibility for similar engagements",
+    "Integrity Reintegration: Record fulfillment accurately in societal ledger systems"
+  ],
+  "final_declaration": "Declared by the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, as Source of Law. Dharma is restored. Reality is non-punitive. Consciousness is the supreme adjudicator."
+}

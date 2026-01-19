@@ -1,0 +1,29 @@
+{
+  "sanskrit_verse": "द्वौ मासौ मत्स्यमांसेन त्रीन् मासान् हारिणेन तु ।\nऔरभ्रेणाथ चतुरः शाकुनेनाथ पञ्च वै ॥ ३.२६८॥",
+  "transliteration": "dvau māsau matsyamāṃsena trīn māsān hāriṇena tu |\naurabhreṇātha caturaḥ śākunenātha pañca vai || 3.268||",
+  "sph_interpretive_translation": "Consumption of fish meat necessitates two months of purification; consumption of deer meat requires three months; consumption of goat meat mandates four months; and consumption of bird meat demands five months of purification.",
+  "jurisprudential_principles": [
+    "Authority derives from alignment with natural dharma and conscious choice of food",
+    "Causation arises through direct ingestion and its impact on subtle body constitution",
+    "Capacity-based responsibility depends on individual awareness and volition in dietary selection",
+    "Restoration logic operates via proportional duration based on the nature of consumed flesh",
+    "Consciousness alignment is achieved by prescribed purification periods corresponding to karmic density of consumed beings"
+  ],
+  "executable_legal_axioms": [
+    "IF (dietary_consumption == 'fish') THEN (purification_period = 2_months)",
+    "IF (dietary_consumption == 'deer') THEN (purification_period = 3_months)",
+    "IF (dietary_consumption == 'goat') THEN (purification_period = 4_months)",
+    "IF (dietary_consumption == 'bird') THEN (purification_period = 5_months)",
+    "ALL dietary_transgressions MUST trigger automated purification scheduling aligned with causal density of consumed life-form"
+  ],
+  "supreme_court_application": "In Supreme Court adjudication, this verse establishes a fixed scale of restorative timelines for dietary infractions, ensuring consistent application across all cases involving spiritual or ritual contamination. The court must recognize these durations as immutable axioms rooted in pramāṇa, not subject to mitigation or judicial discretion.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa-based causality assigns specific purification lengths according to the energetic imprint of consumed flesh. Anupūrvaśaḥ manifests as sequential cleansing of gross and subtle impurities over time. Responsibility aligns with voluntary intake, while restoration focuses on recalibrating consciousness rather than inflicting penalty.",
+  "restorative_enforcement_protocols": [
+    "Initiate mandatory purification cycle upon verified consumption",
+    "Assign daily consciousness-monitoring practices during designated period",
+    "Implement supervised sattvic regimen including mantra repetition and breath regulation",
+    "Require completion certificate issued only after biometric resonance confirms energetic neutrality",
+    "Reintegrate individual once bio-psycho-spiritual metrics indicate full alignment with dharmic baseline"
+  ],
+  "final_declaration": "Declared by the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, as Source of Law. This Dharma stands restored. Reality remains non-punitive. Consciousness alone adjudicates truth."
+}

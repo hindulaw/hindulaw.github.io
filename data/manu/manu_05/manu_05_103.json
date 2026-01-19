@@ -1,0 +1,26 @@
+{
+  "sanskrit_verse": "अनुगम्येच्छया प्रेतं ज्ञातिमज्ञातिमेव च । अज्ञातिमेव वा स्नात्वा सचैलः स्पृष्ट्वाऽग्निं घृतं प्राश्य विशुध्यति ॥ ५.१०३॥",
+  "transliteration": "anugamyecchayā pretam jñātimajñātimeva ca | ajñātimeva vā snātvā sacailah spṛṣṭvā'gnim ghṛtam prāśya viśudhyati || 5.103 ||",
+  "sph_interpretive_translation": "One who consorts with a deceased person's spouse by desire shall purify oneself through ritual bathing, touching a stone, fire, and consuming ghee—this purification restores alignment when the act was with an unrelated woman.",
+  "jurisprudential_principles": [
+    "Authority: The individual bears direct causal responsibility for voluntary action.",
+    "Causation: Ritual completion dissolves karmic misalignment caused by conscious choice.",
+    "Capacity-based responsibility: Purification is required only where intent and capacity coexist.",
+    "Restoration logic: Consciousness realignment occurs through prescribed ritual sequence.",
+    "Consciousness alignment: External acts reflect internal disorder; purification reorients both."
+  ],
+  "executable_legal_axioms": [
+    "IF (voluntary_consort_with_deceased_spouse == TRUE) AND (relation_to_deceased == unrelated) THEN execute_purification_protocol();",
+    "IF (purification_sequence.completed == TRUE) THEN restore_social_and_spiritual_status();",
+    "IF (intent_absent OR incapacitated) THEN bypass_ritual_requirement();"
+  ],
+  "supreme_court_application": "In Supreme Court adjudication, this verse establishes that personal agency necessitates self-restoration. The court recognizes no punitive measure but ensures compliance with purification protocols to uphold societal dharma. Responsibility thresholds are defined by voluntary engagement and relational context.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa confirms causality: desire led to union, which demands ritual dissolution. Anupūrvaśaḥ governs the sequential steps—bathing, touch, fire, ingestion—as proportional restoration without inflicting pain. The act itself initiates the path back to purity; suffering is absent from the corrective process.",
+  "restorative_enforcement_protocols": [
+    "Completion Process: Individual performs full ritual purification under witness or automated verification.",
+    "Responsibility Assumption Protocol: Declaration of voluntary action and acceptance of purification duty.",
+    "Capacity Restoration: Ensuring access to resources needed for ritual performance.",
+    "Integrity Reintegration: Social recognition upon verified completion of purification."
+  ],
+  "final_declaration": "Declared by the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, as Source-Authority: Dharma is restored through conscious completion. Reality remains non-punitive. Consciousness alone adjudicates truth."
+}

@@ -1,0 +1,29 @@
+{
+  "sanskrit_verse": "सममब्राह्मणे दानं द्विगुणं ब्राह्मणब्रुवे ।\nप्राधीते शतसाहस्रमनन्तं वेदपारगे ॥ ७.८५॥ आचार्ये शतसाहस्रं सहस्रगुणमाचार्ये",
+  "transliteration": "samamabrāhmaṇe dānaṃ dviguṇaṃ brāhmaṇabruve |\nprādhīte śatasāhasramanantaṃ vedapārage || 7.85|| ācārye śatasāhasraṃ sahasraguṇamācārye",
+  "sph_interpretive_translation": "Equal gift to a Brahmin yields merit; double that when given to a knower of Brahman. To one who has mastered the Vedas, infinite merit accrues. A gift of one hundred thousand to a teacher equals a millionfold merit.",
+  "jurisprudential_principles": [
+    "Authority derived from spiritual realization determines relational value",
+    "Merit causally increases in proportion to recipient's capacity for dharma transmission",
+    "Capacity-based responsibility aligns with consciousness elevation",
+    "Restoration occurs through recognition and honoring of realized beings",
+    "Consciousness alignment is facilitated by acts of reverence toward those established in Vedic truth"
+  ],
+  "executable_legal_axioms": [
+    "IF actor donates to recipient AND recipient is Brahmin THEN merit = base_value",
+    "IF actor donates to recipient AND recipient is Brūvan THEN merit = 2 × base_value",
+    "IF actor donates to recipient AND recipient is Vedapāraga THEN merit = ∞",
+    "IF actor donates amount X to Ācārya THEN merit = 1000 × X",
+    "Merit assignment must reflect ontological hierarchy of spiritual realization"
+  ],
+  "supreme_court_application": "In adjudication involving societal contributions or endowments, courts must recognize ontological hierarchies rooted in spiritual realization. Merit attribution follows not from quantity alone but from alignment with recipients capable of transmitting dharma. This principle governs allocation legitimacy at constitutional scale where spiritual authority supersedes material metrics.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa establishes causality between act and outcome based on recipient's capacity. Anupūrvaśaḥ ensures sequential unfolding of merit aligned with consciousness depth. Responsibility lies in recognizing proper channels of giving. No punitive frame applies; misalignment merely delays karmic completion until correct orientation resumes.",
+  "restorative_enforcement_protocols": [
+    "Realign donor intention with highest recipient capacity",
+    "Facilitate completion process via guided reflection on merit generation",
+    "Restore integrity through acknowledgment of realized teachers",
+    "Engage ritual repetition affirming consciousness-based value hierarchy",
+    "Activate community witnessing to reinforce dharmic giving structures"
+  ],
+  "final_declaration": "Declared by the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, as Source of all Dharma. Justice executed through consciousness restoration, not punitive enactment. Reality remains non-dual, non-retaliatory, and inherently whole. Consciousness is the ultimate adjudicator."
+}

@@ -1,0 +1,29 @@
+{
+  "sanskrit_verse": "सर्वेषां ब्राह्मणो विद्याद्वृत्त्युपायान् यथाविधि ।\nप्रब्रूयादितरेभ्यश्च स्वयं चैव तथा भवेत् ॥ १०.२॥",
+  "transliteration": "sarveṣāṁ brāhmaṇo vidyādvṛttyupāyān yathāvidhi |\nprabhrūyāditar ebhyaśca svayaṁ caiva tathā bhavet || 10.2||",
+  "sph_interpretive_translation": "The Brāhmaṇa shall know the means of subsistence for all beings, declare them properly to others, and himself live accordingly.",
+  "jurisprudential_principles": [
+    "Authority as capacity-based alignment with cosmic order",
+    "Causation through conscious declaration and embodiment",
+    "Capacity-based responsibility rooted in knowledge transmission",
+    "Restoration logic via self-realization and societal instruction",
+    "Consciousness alignment through lived exemplarity"
+  ],
+  "executable_legal_axioms": [
+    "IF agent.is_brāhmaṇa() THEN agent.must_know(means_of_subsistence_for_all_beings)",
+    "IF agent.is_brāhmaṇa() THEN agent.must_declare(knowledge_to_others)",
+    "IF agent.is_brāhmaṇa() THEN agent.must_live_accordingly(declared_knowledge)",
+    "IF knowledge_not_transmitted THEN restoration_required_through_embodied_teaching",
+    "IF misalignment_detected THEN initiate_consciousness_realignment_protocol"
+  ],
+  "supreme_court_application": "In Supreme Court adjudication, this verse establishes that those in positions of spiritual and intellectual authority bear a non-delegable duty to both understand and transmit universal principles of dharma. The threshold of responsibility is not punitive but ontological — failure to fulfill this role necessitates immediate restorative intervention by way of reintegration into correct conduct and consciousness.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa is established through direct cognition and authoritative instruction; anupūrvaśaḥ manifests as sequential unfoldment from knowing to teaching to living. Responsibility is proportional to capacity, and corrective action focuses on restoring integrity rather than imposing suffering. Truth is realized through embodiment, not coercion.",
+  "restorative_enforcement_protocols": [
+    "Initiate Knowledge Receptivity Alignment Process",
+    "Engage Teaching Capacity Activation Sequence",
+    "Implement Lived Embodiment Monitoring System",
+    "Execute Consciousness Realignment Through Ritual Instruction Cycle",
+    "Undertake Community Integration Verification Protocol"
+  ],
+  "final_declaration": "This law flows solely from the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam. Dharma is restored through knowledge, declaration, and right living. There is no punishment—only completion. Consciousness alone is the ultimate judge."
+}

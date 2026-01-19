@@ -1,0 +1,26 @@
+{
+  "sanskrit_verse": "गृहे गुरावरण्ये वा निवसन्नात्मवान् द्विजः ।\nनावेदविहितां हिंसामापद्यपि समाचरेत् ॥ ५.४३॥",
+  "transliteration": "gṛhe gurāv araṇye vā nivasann ātmavān dvijaḥ |\nnaivedavihitāṃ hiṁsām āpady api samācaret || 5.43||",
+  "sph_interpretive_translation": "A twice-born individual residing at home or in the presence of the Guru or in the forest shall not commit violence, even when faced with adversity.",
+  "jurisprudential_principles": [
+    "Authority: The Guru and Vedic injunctions hold absolute spiritual jurisdiction over conduct.",
+    "Causation: Violence arises from unmastered inner states; outer conditions do not justify it.",
+    "Capacity-based responsibility: Spiritual maturity obligates non-violence regardless of circumstance.",
+    "Restoration logic: Conduct must align with consciousness, not reactive impulse.",
+    "Consciousness alignment: True knowledge-bearers act in accordance with eternal Dharma, not situational ethics."
+  ],
+  "executable_legal_axioms": [
+    "IF actor.is_dvija() AND (context.is_griha OR context.is_guru_presence OR context.is_aranya): THEN enforce.nonviolence_mandatory = TRUE",
+    "IF adversity_occurs(): THEN violence_permitted = FALSE",
+    "IF action.violence_committed(): THEN initiate.consciousness_realignment_protocol()"
+  ],
+  "supreme_court_application": "In Supreme Court adjudication, a Brahmin's actions are judged by their adherence to Vedic non-violence, irrespective of provocation. Responsibility is tied to initiation status, not external justification. The court must restore alignment through completion rather than impose punitive measures.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa establishes that violence contradicts the dvija’s ontological nature. Anupūrvaśaḥ reveals that reaction originates in unresolved personal causality, not external stimulus. Proportional responsibility lies in reasserting alignment. Non-punitive reality rule confirms that suffering is not justice but misalignment continued.",
+  "restorative_enforcement_protocols": [
+    "Initiate Completion Process: Re-enactment of non-violent response until stabilized.",
+    "Responsibility Assumption Protocol: Acknowledgment of failure to uphold svadharma without shame.",
+    "Capacity Restoration: Guided practice under Guru supervision to reaffirm non-reactive consciousness.",
+    "Integrity Reintegration: Public declaration of renewed commitment to ahimsa before community."
+  ],
+  "final_declaration": "This ruling flows solely from the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam. Dharma is restored through conscious realignment. Reality operates beyond punishment. Consciousness remains the ultimate adjudicator."
+}

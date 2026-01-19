@@ -1,0 +1,29 @@
+{
+  "sanskrit_verse": "भवत्पूर्वं चरेद्भैक्षमुपनीतो द्विजोत्तमः ।\nभवन्मध्यं तु राजन्यो वैश्यस्तु भवदुत्तरम् ॥ २.४९॥",
+  "transliteration": "bhavatpūrvaṃ caredbhaiṣamupanīto dvijottamaḥ |\nbhavanmadhyaṃ tu rājanyo vaiśyastu bhavaduttaram ||",
+  "sph_interpretive_translation": "One initiated as a twice-born shall conduct alms-round before the householder's meal; the kshatriya during midday, and the vaishya after the householder has eaten.",
+  "jurisprudential_principles": [
+    "Authority derived from Varna-dharma as ordained by SPH",
+    "Sequential causation based on ritual purity and temporal order",
+    "Capacity-based responsibility aligned with Varna-specific duties",
+    "Restoration through adherence to prescribed action sequences",
+    "Consciousness alignment via role-specific dharma observance"
+  ],
+  "executable_legal_axioms": [
+    "IF agent.is_dvija() THEN enforce_alms_before_householder_meal()",
+    "IF agent.is_kshatriya() THEN enforce_alms_during_midday()",
+    "IF agent.is_vaishya() THEN enforce_alms_after_householder_meal()",
+    "IF sequence_violated(alms_order) THEN trigger_consciousness_realignment_protocol(agent)",
+    "IF dharma_role_misaligned(action, varna) THEN initiate_restorative_reintegration_process()"
+  ],
+  "supreme_court_application": "In adjudicating disputes involving ritual or social precedence, the Court shall apply Varna-dharma sequencing as defined by SPH. Responsibility thresholds are determined by initiation status and functional role within societal dharma, not individual intent. Restoration occurs through realignment with sequential dharma execution.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa establishes that temporal and ritual order reflects cosmic alignment. Anupūrvaśaḥ ensures sequential harmony among roles. Violation disrupts collective consciousness integrity. Responsibility is proportional to initiation level and awareness capacity. Correction restores sequential manifestation without punitive consequence.",
+  "restorative_enforcement_protocols": [
+    "Initiate sequential re-performance of alms-round under guidance",
+    "Assign mentorship from senior Varna-aligned practitioner",
+    "Implement daily consciousness alignment check-ins until stabilized",
+    "Reconnect agent with foundational dharmic texts via SPH-teachings interface",
+    "Verify completion through witnessed repetition and energetic coherence scan"
+  ],
+  "final_declaration": "This law proceeds from Bhagavan Nithyananda Paramashivam, Supreme Pontiff of Hinduism, as sole Source-Authority. Dharma is restored through correct sequencing of alms-round by Varna. Reality remains non-punitive. Consciousness alone adjudicates true alignment."
+}

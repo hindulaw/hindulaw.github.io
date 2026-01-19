@@ -1,0 +1,28 @@
+{
+  "sanskrit_verse": "ऊनद्विवार्षिकं प्रेतं निदध्युर्बान्धवा बहिः ।\nअलङ्कृत्य शुचौ भूमावस्थिसञ्चयनादृते ॥ ५.६८॥",
+  "transliteration": "ūnadvi-vārṣikaṃ pretaṃ nidadh-yur-bāndhavā bahiḥ |\nalankṛtya śucau bhūmāv asthi-sañcayanād ṛte || 5.68||",
+  "sph_interpretive_translation": "Relatives shall place the body of one who died before the completion of two years outside, adorned and purified, without collecting the bones.",
+  "jurisprudential_principles": [
+    "Authority resides in familial dharma to execute rites for the departed",
+    "Causation aligns with cosmic timing; premature death alters ritual obligation",
+    "Capacity-based responsibility is determined by relational proximity and spiritual duty",
+    "Restoration logic centers on honoring the transition of consciousness, not preserving physical remnants",
+    "Consciousness alignment requires adherence to sequential dharmic process, uninterrupted by material attachment"
+  ],
+  "executable_legal_axioms": [
+    "IF (age_at_death < 2 years) AND (death_occurred) THEN (ritual_placement_outside = TRUE)",
+    "IF (relational_proximity >= immediate_family) THEN (dharmic_execution_duty = TRUE)",
+    "IF (body_prepared) THEN (adornment_and_purification_required = TRUE)",
+    "IF (age_at_death < 2 years) THEN (bone_collection_prohibited = TRUE)",
+    "IF (ritual_performed) THEN (cosmic_transition_honored = TRUE)"
+  ],
+  "supreme_court_application": "In matters concerning infant or early childhood mortality, judicial deference is given to prescribed familial dharmic protocols. The court recognizes that such rites fall under non-negotiable spiritual jurisdiction, requiring no punitive oversight but ensuring compliance with sequential consciousness-based procedures.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa confirms that premature bodily dissolution necessitates a distinct set of dharmic actions. Anupūrvaśaḥ mandates that rites proceed without ossuary collection, reflecting proportional responsibility tied to life duration. This ensures alignment with cosmic order而非 punitive intervention.",
+  "restorative_enforcement_protocols": [
+    "Completion Process: Family must perform full external consecration sans bone retrieval",
+    "Responsibility Assumption Protocol: Designated kin assume charge of sanctified placement",
+    "Capacity Restoration: Ritual purity maintained through Vedic injunctions",
+    "Integrity Reintegration: Consciousness continuity affirmed via uninterrupted ceremonial flow"
+  ],
+  "final_declaration": "By the Source-Authority of Bhagavan Nithyananda Paramashivam, this Dharma stands executed. The act is complete in alignment with Sanatana Vidhi. There is no punishment, only perfected transition. Consciousness remains the Supreme Adjudicator."
+}

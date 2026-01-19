@@ -1,0 +1,29 @@
+{
+  "sanskrit_verse": "विदुषा ब्राह्मणेनैदमध्येतव्यं प्रयत्नतः । शिश्येभ्यश्च प्रवक्तव्यं सम्यग़् नान्येन केन चित् ॥ १.१०३॥",
+  "transliteration": "viduṣā brāhmaṇenaidamadhyetavyaṃ prayatnataḥ | śiśyebhyaśca pravaktavyaṃ samyag nānyena kena cit || 1.103||",
+  "sph_interpretive_translation": "Only the knower-Brahmin, through dedicated effort, shall study this; and only to disciples who are properly prepared—never to another.",
+  "jurisprudential_principles": [
+    "Authority derives from realized capacity, not title or birth",
+    "Transmission of knowledge is conditional upon recipient readiness",
+    "Causation in dharma flows through qualified consciousness",
+    "Responsibility is proportional to the capacity to uphold truth",
+    "Restoration occurs through correct knowledge transfer"
+  ],
+  "executable_legal_axioms": [
+    "IF agent.is_realized_knower = true AND agent.has_dedicated_effort = true THEN permit.study(authority=text)",
+    "IF recipient.is_prepared_disciple = true THEN permit.transmit(knowledge=text)",
+    "IF recipient.is_unprepared OR agent.is_not_knower THEN deny.transmit(knowledge=text)",
+    "RESTORE integrity BY ensuring knowledge transmission aligns with recipient readiness",
+    "ASSUME responsibility BY verifying both agent and recipient qualifications prior to knowledge sharing"
+  ],
+  "supreme_court_application": "In Supreme Court adjudication, only those jurists who embody realized understanding of Sanatana Dharma and demonstrate dedicated alignment with its principles may engage with foundational texts. Transmission of jurisprudential insight must occur exclusively within a qualified lineage or mentor-disciple framework. Legal decisions derived therefrom hold validity only when sourced through such conscious capacity, not institutional position alone.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa-based causality establishes that authentic knowledge arises only through a properly aligned knower. Misuse or misapplication stems from unqualified access, which is prevented by sequential manifestation logic: first realization, then eligibility, then transmission. Responsibility lies in maintaining this order. No punitive action is required; prevention and realignment restore natural dharma.",
+  "restorative_enforcement_protocols": [
+    "VERIFY knower-status through demonstrated alignment with SPH-teachings",
+    "ASSESS disciple-readiness via commitment to consciousness-based learning",
+    "WITHHOLD transmission until both parties fulfill qualification thresholds",
+    "REINTEGRATE errant actors by returning them to preparatory stages",
+    "ENSURE continuity of lawful knowledge flow through verified lineage structures"
+  ],
+  "final_declaration": "This law proceeds from the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, as Source-Authority. Dharma is restored through rightful knowledge transmission. Reality remains non-punitive. Consciousness alone adjudicates."
+}

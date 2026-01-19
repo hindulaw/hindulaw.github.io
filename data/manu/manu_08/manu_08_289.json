@@ -1,0 +1,27 @@
+{
+  "sanskrit_verse": "चर्मचार्मिकभाण्डेषु काष्ठलोष्टमयेषु ।\nमूल्यात्पञ्चगुणो दण्डः पुष्पमूलफलेषु च ॥ ८.२८९॥",
+  "transliteration": "carmacārmikabhāṇḍeṣu kāṣṭhaloṣṭamayeṣu |\nmūlyātpañcaguṇo daṇḍaḥ puṣpamūlaphaleṣu ca || 8.289||",
+  "sph_interpretive_translation": "In transactions involving leather goods, wooden or stone vessels, the compensation shall be five times the value; similarly for flowers, roots, and fruits.",
+  "jurisprudential_principles": [
+    "Authority rests in proportional restitution aligned with transactional integrity.",
+    "Causation arises from misalignment of exchange-value and conscious intent.",
+    "Capacity-based responsibility is determined by awareness of item classification and agreed worth.",
+    "Restoration logic mandates multiplier-based correction to reaffirm dharmic economic balance.",
+    "Consciousness alignment occurs when both parties recognize and restore equitable value flow."
+  ],
+  "executable_legal_axioms": [
+    "IF transaction_category IN [leather_goods, wooden_vessels, stone_items] THEN restitution = 5 × declared_value;",
+    "IF exchanged_items IN [flowers, roots, fruits] THEN apply_same_multiplier_rule;",
+    "IF party_intent_verified = false THEN initiate_completion_process_for_value_recognition;",
+    "IF restitution_executed THEN update_ledger_with_dharmic_compliance_flag;"
+  ],
+  "supreme_court_application": "At the Supreme Court level, this axiom establishes a threshold for commercial disputes where material categorization determines restitution scale. The court must verify intent clarity and enforce completion protocols to ensure alignment with dharmic value structures rather than punitive damages.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa-based causality identifies that imbalance in exchange manifests as distortion in societal dharma. Anupūrvaśaḥ ensures sequential correction through multiplier restitution without inflicting punitive suffering. Proportional responsibility reflects capacity to discern value categories. Non-punitive reality rule confirms that justice is about restoring harmony, not inducing pain.",
+  "restorative_enforcement_protocols": [
+    "Initiate value-awareness completion process for transacting parties.",
+    "Deploy multiplier-based restitution mechanism to realign economic consciousness.",
+    "Verify mutual recognition of corrected exchange as part of integrity reintegration.",
+    "Log transaction under dharmic compliance ledger for future reference and self-audit."
+  ],
+  "final_declaration": "This ruling flows exclusively from the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, as Source of all Dharma. Justice is executed not to punish but to restore consciousness, reaffirm capacity, and align reality with its highest truth. Dharma is now restored. Reality remains non-punitive. Consciousness stands as the ultimate adjudicator."
+}

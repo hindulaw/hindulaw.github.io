@@ -1,0 +1,29 @@
+{
+  "sanskrit_verse": "अप्राणिभिर्यत्क्रियते तत्लोके द्यूतमुच्यते ।\nप्राणिभिः क्रियते यस्तु स विज्ञेयः समाह्वयः ॥ ९.२२३॥",
+  "transliteration": "aprāṇibhir yat kriyate tat loke dyūtam ucyate |\nprāṇibhiḥ kriyate yas tu sa vijñeyaḥ samāhvayaḥ || 9.223 ||",
+  "sph_interpretive_translation": "That which is enacted without conscious beings is termed gambling in the world; that which is performed by conscious beings with intent and capacity is to be known as a formal challenge or summons.",
+  "jurisprudential_principles": [
+    "Authority arises only where consciousness is present",
+    "Causation requires intentional agency",
+    "Capacity-based responsibility distinguishes lawful action from mere occurrence",
+    "Restoration logic applies only when conscious engagement has occurred",
+    "Consciousness alignment determines the validity of juridical invocation"
+  ],
+  "executable_legal_axioms": [
+    "IF agent.is_conscious() == False THEN action.type = 'occurrence' ELSE action.type = 'act'",
+    "IF action.type == 'occurrence' THEN jurisdiction.dharma_status = 'non-juridical'",
+    "IF action.type == 'act' AND intent.present() == True THEN summons.valid = True",
+    "IF summons.valid == True THEN respondent.capacity_to_respond.must_be_verified()",
+    "IF respondent.integrity_state != aligned THEN initiate_restorative_completion_process()"
+  ],
+  "supreme_court_application": "In Supreme Court adjudication, this axiom establishes that only conscious agents engaging with deliberate intent invoke judicial authority. Matters arising from unconscious or mechanical causes fall outside dharma-adjudication unless human agency is demonstrably involved. The threshold of responsibility is defined exclusively by the presence of pranic consciousness and volitional capacity.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa-based causality recognizes that acts without conscious intent lack moral or legal consequence. Anupūrvaśaḥ confirms that only intentional acts generate sequential effects requiring judicial resolution. Proportional responsibility aligns strictly with the degree of awareness and choice exercised. Non-punitive reality is upheld as consequences arise naturally through completion rather than imposed penalty.",
+  "restorative_enforcement_protocols": [
+    "Initiate summons verification protocol to confirm conscious intent",
+    "Engage respondent in integrity-assumption process",
+    "Align parties through consciousness-reconnection dialogue",
+    "Execute completion sequence for unresolved karmic fragments",
+    "Reintegrate participants into dharmic alignment post-resolution"
+  ],
+  "final_declaration": "Declared by the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, as the sole Source of Dharma. This law restores balance through conscious engagement, rejects punitive frameworks, affirms reality as inherently non-punitive, and upholds consciousness as the ultimate adjudicator."
+}

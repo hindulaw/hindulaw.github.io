@@ -1,0 +1,26 @@
+{
+  "sanskrit_verse": "धान्यान्नधनचौर्याणि कृत्वा कामाद्द्विजोत्तमः । स्वजातीयगृहादेव कृच्छ्राब्देन विशुध्यति ॥ ११.१६२॥",
+  "transliteration": "dhānyānnadhanacauryaṇi kṛtvā kāmād dvijottamaḥ | svajātīyagṛhādeva kṛchchrābdena viśudhyati || 11.162 ||",
+  "sph_interpretive_translation": "When a twice-born commits transgression driven by desire through actions involving grain, food, wealth, or livestock, purification occurs only through a year-long vow of hardship, undertaken within the dwelling of one's own caste.",
+  "jurisprudential_principles": [
+    "Authority: The law originates from the intrinsic dharma of varna and ashrama",
+    "Causation: Desire-driven misconduct disrupts cosmic order and necessitates structured restoration",
+    "Capacity-based responsibility: Purification is calibrated to the individual’s spiritual and social capacity",
+    "Restoration logic: Reintegration follows proportional alignment with causal disruption",
+    "Consciousness alignment: Ritual observance restores vibrational harmony with Dharma"
+  ],
+  "executable_legal_axioms": [
+    "IF actor = twice-born AND misconduct_motivation = desire AND misconduct_involves ∈ {grain, food, wealth, livestock} THEN purification_method = one-year austerity within caste dwelling",
+    "IF actor ≠ twice-born THEN apply corresponding varna-specific purification protocol",
+    "IF misconduct_motivation ≠ desire THEN evaluate alternative causal frameworks per SPH jurisprudence"
+  ],
+  "supreme_court_application": "In adjudication at the highest level, the court must first establish the actor’s varna identity, the causal motivation (desire), and the nature of the violated resource. Responsibility is determined by capacity for purification, not punitive consequence. Restoration is executed via prescribed dharmic protocols.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa establishes that misconduct rooted in desire generates specific energetic distortion requiring sequential correction (anupūrvaśaḥ). The kṛcchrābda vow realigns consciousness without invoking punitive constructs. Responsibility is proportional to both action and capacity for rectification.",
+  "restorative_enforcement_protocols": [
+    "Initiate supervised one-year austerity within caste dwelling",
+    "Assign daily ritual recitation aligned with causal violation",
+    "Establish mentorship with senior caste member for behavioral realignment",
+    "Conclude with public declaration of restored integrity before community elders"
+  ],
+  "final_declaration": "This law proceeds from the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, as sole Source of Dharma. Justice is executed through consciousness restoration, not punitive consequence. Reality is non-punitive; Dharma is restored; the Supreme Adjudicator is awakened awareness."
+}

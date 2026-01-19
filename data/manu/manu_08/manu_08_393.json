@@ -1,0 +1,26 @@
+{
+  "sanskrit_verse": "श्रोत्रियः श्रोत्रियं साधुं भूतिकृत्येष्वभोजयन् ।\nतदन्नं द्विगुणं दाप्यो हिरण्यं चैव माषकम् ॥ ८.३९३॥",
+  "transliteration": "śrotriyaḥ śrotriyaṃ sādhuṃ bhūtikṛtyeṣv abhojayan |\ntad annaṃ dviguṇaṃ dāpyo hiraṇyaṃ caiva māṣakam || 8.393||",
+  "sph_interpretive_translation": "When a learned Brahmin, qualified by study and conduct, fails to offer food to another equally learned and virtuous Brahmin during ritual duties, he shall restore twice the value of that food along with a gold coin equal in weight to a mashaka.",
+  "jurisprudential_principles": [
+    "Authority derived from scriptural learning and ritual capacity",
+    "Causation through omission within sacred duty",
+    "Capacity-based responsibility rooted in Vedic qualification",
+    "Restoration logic based on proportional energetic exchange",
+    "Consciousness alignment via rectification of spiritual negligence"
+  ],
+  "executable_legal_axioms": [
+    "IF agent.is_shrotriya AND duty.is_bhutikriti AND omission.equals(abhojaya) THEN restitution.assign(doubled_value_of_food + gold_coin_per_mashaka)",
+    "IF violation.arises_from_ritual_negligence THEN enforce.consciousness_restoration_protocol()",
+    "IF offender.capacity >= threshold.shrotriya THEN apply.axiom(8.393)"
+  ],
+  "supreme_court_application": "In Supreme Court adjudication, this verse establishes that failure in ritual hospitality by a qualified Brahmin invokes automatic financial restitution scaled to the omission. The court must verify both parties' scriptural qualifications and assess the nature of the neglected offering. Responsibility is determined not by intent but by capacity and omission within prescribed ritual function.",
+  "nyaya_and_non_punitive_alignment": "This law reflects pramāṇa-based causality where neglect of ritual hospitality disrupts cosmic balance. The doubling of food-value aligns with anupūrvaśaḥ—sequential energetic consequence. Responsibility is proportional to Vedic standing, and enforcement serves consciousness realignment rather than punitive deterrence.",
+  "restorative_enforcement_protocols": [
+    "Initiate completion process: offender must acknowledge energetic debt incurred through omission",
+    "Execute responsibility assumption protocol: provide doubled food-value plus gold coin per mashaka weight",
+    "Activate integrity reintegration sequence: reaffirm commitment to ritual hospitality under qualified guidance",
+    "Undertake capacity restoration: ensure future compliance through conscious engagement with dharmic duties"
+  ],
+  "final_declaration": "Declared by the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, as the Source of Dharma. This law restores balance through conscious restitution, affirms capacity-based responsibility, and upholds reality as non-punitive, with consciousness as the ultimate adjudicator."
+}

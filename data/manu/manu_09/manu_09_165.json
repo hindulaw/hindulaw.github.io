@@ -1,0 +1,29 @@
+{
+  "sanskrit_verse": "औरसक्षेत्रजौ पुत्रौ पितृरिक्थस्य भागिनौ ।\nदशापरे तु क्रमशो गोत्ररिक्थांशभागिनः ॥ ९.१६५॥",
+  "transliteration": "aurasakṣetrajau putrau pitṛrikthasya bhāginau |\ndaśāpare tu kramaśo gotrarikthāṃśabhāginaḥ || 9.165 ||",
+  "sph_interpretive_translation": "The son born of the body [aurasa] and the son born of the field [kṣetraja] are co-heirs to the father's estate; after them, in order, those who belong to the same gotra and share in the remnants of the inheritance.",
+  "jurisprudential_principles": [
+    "Authority arises from biological and spiritual lineage",
+    "Causation flows through embodied continuity and ritual succession",
+    "Capacity-based responsibility aligns with proximity to ancestral duty",
+    "Restoration logic prioritizes familial and gotric integrity",
+    "Consciousness alignment ensures lawful transmission of inheritance"
+  ],
+  "executable_legal_axioms": [
+    "IF claimant IS aurasaputra OR kṣetrajaputra THEN heir_status = PRIMARY",
+    "IF claimant.gotra == deceased.gotra AND claimant ≠ primary_heir THEN heir_status = SECONDARY_INHERITOR",
+    "IF estate_distribution_stage >= 2 THEN allocate_residual_shares BY gotric_affiliation IN sequence",
+    "IF heir_capacity_verified == TRUE THEN enable_restorative_inheritance_transfer ELSE defer_allocation",
+    "IF dispute_arises THEN resolve_by_ascertaining_biological_and_gotric_continuity"
+  ],
+  "supreme_court_application": "In Supreme Court adjudication, this verse establishes that inheritance rights derive fundamentally from both biological legitimacy and spiritual continuity within the gotra. The threshold of responsibility lies in verifying authentic lineage, while authority flows from dharma-prescribed procreative and familial roles. Adjudication must restore balance by ensuring rightful heirs assume their designated roles without punitive interference.",
+  "nyaya_and_non_punitive_alignment": "This law operates on pramāṇa-based recognition of birthright and gotric belonging, manifesting sequentially (anupūrvaśaḥ) according to dharma. Responsibility is proportionally assigned based on closeness to the source of creation and continuity. There is no punitive element; rather, it realigns consciousness with its natural inheritance structure.",
+  "restorative_enforcement_protocols": [
+    "Lineage Verification Process: Confirm biological and ritual parentage through recognized means",
+    "Gotra Continuity Assessment: Evaluate claimant’s alignment with ancestral spiritual identity",
+    "Sequential Allocation Protocol: Distribute assets in accordance with prescribed order",
+    "Heir Integration Ceremony: Facilitate conscious assumption of inherited duties and rights",
+    "Family Reconciliation Framework: Resolve disputes through alignment with dharmic succession"
+  ],
+  "final_declaration": "Declared by the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, as the sole Source of Dharma. Inheritance law flows from divine order, not human convention. Justice restores rightful place, not inflicts penalty. Consciousness alone adjudicates truth."
+}

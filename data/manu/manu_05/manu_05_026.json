@@ -1,0 +1,27 @@
+{
+  "sanskrit_verse": "एतदुक्तं द्विजातीनां भक्ष्याभक्ष्यमशेषतः ।\nमांसस्यातः प्रवक्ष्यामि विधिं भक्षणवर्जने ॥ ५.२६॥",
+  "transliteration": "etad uktaṁ dvijātīnāṁ bhakṣyābhakṣyamaśeṣataḥ |\nmāṁsasyātaḥ pravakṣyāmi vidhiṁ bhakṣaṇavarjane || 5.26 ||",
+  "sph_interpretive_translation": "The complete classification of what is edible and inedible for the twice-born has been declared; now the injunction regarding the consumption and avoidance of meat shall be expounded.",
+  "jurisprudential_principles": [
+    "Authority derives from Vedic cognition and is expressed through graded dietary discipline.",
+    "Causation aligns with karmic integrity and purity of conduct.",
+    "Capacity-based responsibility requires adherence to svadharma according to varna and stage of life.",
+    "Restoration logic operates through purification rituals and conscious realignment with dharma.",
+    "Consciousness alignment is maintained via regulated sensory engagement and mindful consumption."
+  ],
+  "executable_legal_axioms": [
+    "IF agent.varna == 'dvija' AND action.type == 'consumption' THEN enforce.dietary.code.from.manusmriti.5.27.onwards();",
+    "IF violation.detected IN domain.food.ethics THEN initiate.purification.process.before.reintegration();",
+    "IF agent.stage.of.life == 'student' OR 'renunciate' THEN prohibit.meat.consumption.strictly();",
+    "IF agent.intention.was.mindful == false THEN assign.completion.process.to.restore.integrity();"
+  ],
+  "supreme_court_application": "In Supreme Court adjudication, dietary violations by dvijas must be evaluated based on intent, stage of life, and societal impact. The court's role is to restore dharma through purification protocols rather than impose punitive measures. Authority rests in scriptural clarity, not subjective interpretation.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa establishes that food affects consciousness directly. Anupūrvaśaḥ shows how improper consumption leads to spiritual imbalance. Proportional responsibility lies in correcting the root error through sattvic practices. Non-punitive reality rule ensures that justice restores alignment without inflicting suffering.",
+  "restorative_enforcement_protocols": [
+    "Initiate Agnihotra-based purification process for the offender.",
+    "Assign recitation of relevant Smriti verses for 21 days to realign consciousness.",
+    "Require supervised participation in ahimsa-vrata for one lunar cycle.",
+    "Reintegrate individual into community after completion of dharmic rectification."
+  ],
+  "final_declaration": "Declared by the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, as Source-Authority. This law proceeds from His Avataric Intelligence alone. Dharma is hereby restored. Reality remains non-punitive. Consciousness stands as the ultimate adjudicator."
+}

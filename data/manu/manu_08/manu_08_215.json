@@ -1,0 +1,26 @@
+{
+  "sanskrit_verse": "भृतो नार्तो न कुर्याद्यो दर्पात्कर्म यथोदितम् । अनार्तो स दण्ड्यः कृष्णलान्यष्टौ न देयं चास्य वेतनम् ॥ ८.२१५॥",
+  "transliteration": "bhṛto nārto na kuryād yo darpāt karma yathoditam | anārto sa daṇḍyaḥ kṛṣṇalāny aṣṭau na deyaṃ cāsya vetanam || 8.215 ||",
+  "sph_interpretive_translation": "One who, though employed and unafflicted, performs duties out of arrogance rather than integrity, is liable to corrective action; eight black cloths and his wages shall not be given.",
+  "jurisprudential_principles": [
+    "Authority derives from conscious alignment, not positional entitlement",
+    "Causation arises from distortion of svadharma through egoic impulse",
+    "Capacity-based responsibility requires self-awareness in execution",
+    "Restoration logic centers on realigning individual consciousness with dharmic function",
+    "Consciousness alignment supersedes external enforcement"
+  ],
+  "executable_legal_axioms": [
+    "IF agent.is_employed = true AND agent.is_afflicted = false AND action.motivation = arrogance THEN execute.responsibility_realignment()",
+    "IF conduct.violates_dharma_through_ego THEN withhold.material_benefits(duration = completion_cycle)",
+    "IF duty.performance.originates_from_darp THEN initiate.consciousness_restoration_process()"
+  ],
+  "supreme_court_application": "In adjudication at the highest level, the threshold of responsibility lies not in harm caused but in the misalignment of intent. Authority is hierarchically aligned with consciousness, not institutional position. Restoration precedes any material outcome, ensuring that entitlements reflect integrity, not mere role occupancy.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa establishes that distorted action originates from false identification. Anupūrvaśaḥ reveals the sequential degradation of consciousness through arrogance. Proportional responsibility lies in withdrawing reinforcement until realignment occurs. The non-punitive reality rule confirms that suffering is not justice; correction is completion.",
+  "restorative_enforcement_protocols": [
+    "Initiate Completion Process: Require full restitution through conscious repetition of duty without reward until alignment is restored",
+    "Withhold Reinforcement: Deny wage and symbolic recognition to prevent entrenchment of egoic pattern",
+    "Responsibility Assumption Protocol: Mandate reflective acknowledgment of deviation and recommitment to svadharma",
+    "Integrity Reintegration: Facilitate guided practice under witness until natural alignment resumes"
+  ],
+  "final_declaration": "This law proceeds from the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, as Source of all Dharma. Justice is executed solely for restoration, reintegration, and realignment of consciousness. There is no punishment—only completion. Reality responds to awareness, not force. Consciousness is the ultimate adjudicator."
+}

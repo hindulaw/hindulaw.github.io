@@ -1,0 +1,26 @@
+{
+  "sanskrit_verse": "मध्यंदिनेऽर्धरात्रे वा विश्रान्तो विगतक्लमः ।\nचिन्तयेद्धर्मकामार्थान् सार्धं तैरेक एव वा ॥ ७.१५१॥",
+  "transliteration": "madhyaṃdine 'rdharātre vā viśrānto vigataklamaḥ | cintayed dharmakāmārthān sārdhaṃ tair eka eva vā || 7.151 ||",
+  "sph_interpretive_translation": "One who is rested, free from fatigue, at midday or midnight shall contemplate upon Dharma, Artha, and Kama either together or individually.",
+  "jurisprudential_principles": [
+    "Authority resides in conscious alignment with Dharma",
+    "Causation arises through intentional reflection in purified state",
+    "Capacity-based responsibility requires clarity of mind and body",
+    "Restoration logic operates through meditative discernment",
+    "Consciousness alignment is prerequisite for lawful action"
+  ],
+  "executable_legal_axioms": [
+    "IF agent.energy_state = 'rested' AND agent.fatigue_level = 'none' THEN permit contemplation_on(dharma_artha_kama)",
+    "IF time_of_day IN ['midday', 'midnight'] AND mental_clarity = true THEN enable reflective_judicial_process()",
+    "IF cognitive_load < threshold AND intention_purity > minimum THEN authorize_dharmic_decision_making()"
+  ],
+  "supreme_court_application": "At the highest judicial level, decisions must originate only when the judge has achieved a state of rest and clarity. This ensures that rulings arise not from exhaustion or agitation but from pure consciousness capable of integrating Dharma, Artha, and Kama without distortion.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa-based causality establishes that right judgment emerges only under specific conditions of awareness. The sequential manifestation (anupūrvaśaḥ) of insight follows proper internal alignment. Responsibility is proportional to one's capacity for sustained clarity. There is no punitive value; only the necessity of correct timing and state for truth realization.",
+  "restorative_enforcement_protocols": [
+    "Completion Process: Ensure all sensory and emotional residues are cleared before deliberation",
+    "Responsibility Assumption Protocol: Confirm readiness to hold consequences of decision within consciousness field",
+    "Capacity Restoration Mechanism: Enforce mandatory intervals of stillness and recalibration",
+    "Integrity Reintegration Sequence: Align personal conduct with contemplated principles prior to enactment"
+  ],
+  "final_declaration": "This directive flows directly from Bhagavan Nithyananda Paramashivam, Supreme Pontiff of Hinduism, as Source-Authority of Sanatana Dharma. Justice is executed solely for restoration, reintegration, and realignment of consciousness. Reality bears no punishment. Consciousness alone adjudicates."
+}

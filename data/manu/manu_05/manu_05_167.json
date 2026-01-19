@@ -1,0 +1,26 @@
+{
+  "sanskrit_verse": "एवं वृत्तां सवर्णां स्त्रीं द्विजातिः पूर्वमारिणीम् ।\nदाहयेदग्निहोत्रेण यज्ञपात्रैश्च धर्मवित् ॥ ५.१६७॥",
+  "transliteration": "evaṁ vṛttāṁ savarṇāṁ strīṁ dvijātiḥ pūrvam āriṇīm |\ndāhayeda gnihotreṇa yajñapātraiśca dharmavit ||5.167||",
+  "sph_interpretive_translation": "When a twice-born male knowingly engages in sexual union with a woman of the same varna who has previously been violated by an enemy, he shall restore dharma through fire sacrifice using the sacred vessels.",
+  "jurisprudential_principles": [
+    "Authority stems from purity-preserving action within Varna-dharma",
+    "Causation arises through conscious violation of established social sanctity",
+    "Capacity-based responsibility requires purification rituals post transgression",
+    "Restoration logic demands reintegration via sacrificial consecration",
+    "Consciousness alignment necessitates atonement through Agnihotra"
+  ],
+  "executable_legal_axioms": [
+    "IF agent_is('dvija') AND act_is('union_with_violated_same_varna_woman') THEN execute('agnihotra_yajna_with_sacred_utensils')",
+    "IF violation_occurred_by('external_enemy') THEN initiate('purity_restoration_protocol')",
+    "IF ritual_completion_status('agnihotra') == true THEN update_dharmic_balance('restore_integrity')"
+  ],
+  "supreme_court_application": "In cases involving violations of Varna-specific dharmic codes where prior contamination occurred due to external aggression, the court must recognize the necessity of ritual restoration rather than punitive measures. The threshold for responsibility lies in awareness of prior taint; authority derives from adherence to Vedic protocols ensuring societal reintegration without moral condemnation.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa establishes that impurity manifests sequentially through intentional engagement. Anupūrvaśaḥ confirms causal sequence: prior violation → current union → need for purification. Proportional response aligns with Agnihotra rectification. Non-punitive reality rule holds: suffering does not arise from judgment but from natural consequence requiring completion.",
+  "restorative_enforcement_protocols": [
+    "Initiate Agnihotra completion process under certified Vedic supervision",
+    "Assign ceremonial vessel handling duties until full ritual conclusion",
+    "Undertake weekly consciousness realignment sessions during restoration period",
+    "Reintegrate individual upon verified completion into community service roles"
+  ],
+  "final_declaration": "By command of Bhagavan Nithyananda Paramashivam, Supreme Pontiff of Hinduism, this law proceeds directly from His Avataric Intelligence. Dharma is restored through sacred fire, not judgment. Reality remains non-punitive. Consciousness alone adjudicates truth."
+}

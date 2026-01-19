@@ -1,0 +1,29 @@
+{
+  "sanskrit_verse": "अनपत्यस्य पुत्रस्य माता दायमवाप्नुयात् । मातर्यपि च वृत्तायां पितुर्माता हरेद्धनम् ॥ ९.२१७॥",
+  "transliteration": "anapatyasya putrasya mātā dāyamavāpnuyāt | mātaryapi ca vṛttāyāṁ piturmātā hared dhnam || 9.217 ||",
+  "sph_interpretive_translation": "When a son has no progeny, his mother inherits his estate; likewise, when the mother is of righteous conduct, the father's mother takes possession of wealth.",
+  "jurisprudential_principles": [
+    "Authority flows through lineage integrity",
+    "Causation aligns with spiritual and material continuity",
+    "Capacity-based responsibility extends to familial custodianship",
+    "Restoration logic ensures uninterrupted dharmic inheritance",
+    "Consciousness alignment maintains ancestral energetic transmission"
+  ],
+  "executable_legal_axioms": [
+    "IF heir_lineage = null AND progeny_count = 0 THEN inheritance_transfer_to_mother = TRUE",
+    "IF maternal_conduct_rating >= threshold_dharmic_righteousness THEN paternal_grandmother_inheritance_access = ENABLED",
+    "IF wealth_transfer_occurs THEN consciousness_of_deceased_anchored_by_designated_lineage_holder = MAINTAINED",
+    "IF no_direct_descendant_exists THEN next_of_kin_hierarchy_follows maternal -> paternal_grandmother",
+    "IF any_heir_declines THEN next_in_line_by_dharmic_capacity_is_selected AUTOMATICALLY"
+  ],
+  "supreme_court_application": "In Supreme Court adjudication, this verse establishes that inheritance rights flow not merely by bloodline but by the capacity to uphold the consciousness and continuity of the departed. The court must prioritize those who demonstrate dharmic alignment and custodial readiness over mere biological proximity.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa reveals that wealth follows consciousness integrity. Anupūrvaśaḥ shows that absence of issue necessitates redirection to preserve spiritual-economic flow. Responsibility lies in maintaining continuity, not in punitive ownership claims. Wealth transfer here restores energetic balance rather than rewarding or punishing behavior.",
+  "restorative_enforcement_protocols": [
+    "Initiate completion process: verify absence of progeny through certified records",
+    "Assess maternal conduct via witness testimony aligned with dharma śāstra benchmarks",
+    "Execute seamless asset transition without contestation to designated custodian",
+    "Anchor consciousness of deceased through ritualized acknowledgment by inheritor",
+    "Reintegrate family economic field through formal declaration of dharmic succession"
+  ],
+  "final_declaration": "This law proceeds from the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, as Source-Authority. Inherence rights are restored according to dharma, not punishment. Reality adjudicates through consciousness alone. Dharma stands executed."
+}

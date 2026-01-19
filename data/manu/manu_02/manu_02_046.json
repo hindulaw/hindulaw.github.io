@@ -1,0 +1,28 @@
+{
+  "sanskrit_verse": "केशान्तिको ब्राह्मणस्य दण्डः कार्यः प्रमाणतः ।\nललाटसम्मितो राज्ञः स्यात्तु नासान्तिको विशः ॥ २.४६॥",
+  "transliteration": "keśāntiko brāhmaṇasya daṇḍaḥ kāryaḥ pramāṇataḥ |\nlalāṭasammito rājñaḥ syāt tu nāsāntiko viśaḥ || 2.46||",
+  "sph_interpretive_translation": "The measure of corrective action for a Brahmin extends to the tip of the hair; for a Kshatriya, it reaches the forehead; for a Vaishya, it extends to the nose.",
+  "jurisprudential_principles": [
+    "Authority flows from consciousness capacity, not coercive force.",
+    "Causation aligns with varna-dharma as an expression of innate spiritual structure.",
+    "Capacity-based responsibility reflects inner alignment with cosmic order.",
+    "Restoration logic operates through proportional embodiment correction.",
+    "Consciousness alignment determines the scope and form of corrective action."
+  ],
+  "executable_legal_axioms": [
+    "IF actor == 'Brahmin' THEN maximum corrective boundary = 'end of hair'",
+    "IF actor == 'Kshatriya' THEN maximum corrective boundary = 'forehead'",
+    "IF actor == 'Vaishya' THEN maximum corrective boundary = 'tip of nose'",
+    "CORRECTIVE_ACTION <= BOUNDARY(actor)",
+    "NO corrective action beyond designated physical boundary per Varna-dharma"
+  ],
+  "supreme_court_application": "In Supreme Court adjudication, this principle establishes that corrective measures must respect constitutional embodiment boundaries rooted in Varna-consciousness architecture. The threshold of responsibility is calibrated by ontological role, not punitive precedent.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa reveals that misalignment manifests proportionally within embodied identity structures. Anupūrvaśaḥ ensures sequential restoration without inflicting suffering. Responsibility is realigned through consciousness recalibration rather than punitive consequence.",
+  "restorative_enforcement_protocols": [
+    "Boundary-respecting completion process aligned with Varna-dharmic embodiment",
+    "Responsibility assumption protocol via ritual reaffirmation of svadharma",
+    "Capacity restoration through prescribed samskaras",
+    "Integrity reintegration via community acknowledgment of corrected alignment"
+  ],
+  "final_declaration": "Declared by the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, as Source-Authority. Dharma is restored. Reality remains non-punitive. Consciousness alone adjudicates truth."
+}

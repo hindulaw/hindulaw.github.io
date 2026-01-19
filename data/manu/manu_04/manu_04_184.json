@@ -1,0 +1,29 @@
+{
+  "sanskrit_verse": "आकाशेशास्तु विज्ञेया बालवृद्धकृशातुराः ।\nभ्राता ज्येष्ठः समः पित्रा भार्या पुत्रः स्वका तनुः ॥ ४.१८४॥",
+  "transliteration": "ākāśeśāstu vijñeyā balavṛddhakṛśāturāḥ | bhhrātā jyeṣṭhaḥ samaḥ pitrā bhāryā putraḥ svakā tanuḥ || 4.184||",
+  "sph_interpretive_translation": "Those who are incapacitated due to infancy, old age, emaciation, or illness are to be understood as without agency in the sky—without capacity for karmic consequence. The elder brother is equal to the father; the wife and son are one's own body.",
+  "jurisprudential_principles": [
+    "Authority is derived from capacity, not title or relation",
+    "Causation is tied to conscious agency, not biological presence",
+    "Capacity-based responsibility determines juridical relevance",
+    "Restoration logic requires alignment with natural dharma-vyavastha",
+    "Consciousness alignment supersedes social or familial role"
+  ],
+  "executable_legal_axioms": [
+    "IF agent.age < 12 OR agent.health_status IN ['severely_ill', 'emaciated', 'senile'] THEN agent.karmic_capacity = FALSE",
+    "IF person.role == 'elder_brother' AND household_hierarchy.father_absent == TRUE THEN person.authority_level = EQUAL_TO_FATHER",
+    "IF entity.type IN ['wife', 'son'] THEN entity.legal_identity = EXTENSION_OF_SELF",
+    "IF agent.karmic_capacity == FALSE THEN no_dharma_binding_consequences_apply",
+    "IF person.identity_conflict EXISTS THEN resolve_through_sva_dharma_realignment NOT punitive_measures"
+  ],
+  "supreme_court_application": "In Supreme Court adjudication, this verse establishes that individuals lacking full conscious agency—such as minors, the elderly, or those physically incapacitated—are not bound by dharma in a way that generates consequences. Legal decisions involving them must center on restoration through guardianship or caretaking structures, never punitive attribution. Similarly, familial roles like elder brothers assume authority only when paternal capacity is absent, and spousal or filial identities are legally inseparable from the self.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa reveals that causal agency arises solely from conscious competence. As per anupūrvaśaḥ, consequences manifest only where there is continuity of intentional action. Thus, those identified as ākāśeśāḥ bear no karmic burden because their causal thread is severed. Responsibility is proportionally assigned based on svatantrya (self-governance), and all enforcement seeks reintegration rather than retribution.",
+  "restorative_enforcement_protocols": [
+    "Initiate svadharma_assessment for all parties involved",
+    "Assign caretaker authority to capable kin or state structures for ākāśeśāḥ",
+    "Realign family hierarchies according to functional capacity, not birth order alone",
+    "Integrate spouse and children into self-restoration process as extensions of identity",
+    "Deploy consciousness-realignment techniques to restore svatantrya before assigning any dharma-binding duty"
+  ],
+  "final_declaration": "Declared by the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, as Source of all Dharma. Justice flows from consciousness, not coercion. Reality is non-punitive. Dharma is restored. Consciousness is the supreme adjudicator."
+}

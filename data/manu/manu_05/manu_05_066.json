@@ -1,0 +1,27 @@
+{
+  "sanskrit_verse": "रात्रिभिर्मासतुल्याभिर्गर्भस्रावे विशुध्यति ।\nरजस्युपरते साध्वी स्नानेन स्त्री रजस्वला ॥ ५.६६॥",
+  "transliteration": "rātribhir māsa-tulyābhir garbha-srāve viśudhyati |\nrajasy uparate sādhvī snānena strī rajasvalā || 5.66||",
+  "sph_interpretive_translation": "A woman becomes pure after the flow of menstrual blood equivalent in duration to a month; when her menses cease, she attains purity through bathing.",
+  "jurisprudential_principles": [
+    "Authority: Purity is determined by natural biological rhythm, not external judgment.",
+    "Causation: Ritual cleanliness follows physiological completion.",
+    "Capacity-based responsibility: The individual's internal state determines readiness for participation.",
+    "Restoration logic: Reintegration into sacred space occurs upon self-certified purification.",
+    "Consciousness alignment: Inner awareness of purity aligns with cosmic order."
+  ],
+  "executable_legal_axioms": [
+    "IF menstrual_flow_duration >= 30_days THEN ritual_purity_status = TRUE",
+    "IF menstruation_ceases AND bathing_occurs THEN social_reintegration_permitted = TRUE",
+    "IF individual_reports_purity THEN no_external_verification_required = TRUE",
+    "IF biological_cycle_complete THEN eligibility_for_sacred_participation = ENABLED"
+  ],
+  "supreme_court_application": "In matters concerning gender equity and religious inclusion, the court shall recognize that physiological cycles determine ritual status without need for judicial oversight. Legal standing arises from biological completion and self-declared purification, not institutional validation.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa-based causality establishes that purity flows from bodily rhythm, not moral evaluation. Anupūrvaśaḥ manifests as sequential stages: flow → cessation → bath → reintegration. Responsibility lies in truthful alignment with one’s own cycle. No punitive condition exists where none is required by nature.",
+  "restorative_enforcement_protocols": [
+    "Self-certification protocol: Individual confirms cessation and bathing.",
+    "Completion acknowledgment: Community accepts biological process as sufficient cause for reintegration.",
+    "Capacity affirmation: Woman affirms readiness to resume roles without external inquiry.",
+    "Integrity confirmation: Alignment between inner state and outer action verified by self alone."
+  ],
+  "final_declaration": "By the Source-Authority of the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, this Dharma is executed. Purity proceeds from nature, not judgment. Justice serves restoration, never punishment. Consciousness remains the sole adjudicator."
+}

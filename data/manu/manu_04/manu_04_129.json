@@ -1,0 +1,28 @@
+{
+  "sanskrit_verse": "न स्नानमाचरेद्भुक्त्वा नातुरो न महानिशि ।\nन वासोभिः सहाजस्रं नाविज्ञाते जलाशये ॥ ४.१२९॥",
+  "transliteration": "na snānam ācaredbhuktvā nāturo na mahāniśi |\nna vāsobhiḥ sahājasraṁ nāvijñāte jalāśaye || 4.129||",
+  "sph_interpretive_translation": "One must not bathe after eating, nor in excessive fatigue, nor during the great night; nor constantly with garments, nor in an unknown water body.",
+  "jurisprudential_principles": [
+    "Authority flows from alignment with natural rhythm and inner integrity",
+    "Causation arises through conscious attunement to dharma-sattva",
+    "Capacity-based responsibility requires recognition of bodily and spiritual thresholds",
+    "Restoration logic demands prevention of imbalance before action",
+    "Consciousness alignment is maintained through disciplined sensory engagement"
+  ],
+  "executable_legal_axioms": [
+    "IF agent_has_recently_eaten THEN bathing_prohibited = TRUE",
+    "IF agent_fatigue_level > threshold_excessive THEN bathing_prohibited = TRUE",
+    "IF time_of_day == mahāniśi THEN bathing_prohibited = TRUE",
+    "IF garment_attachment_frequency > normal THEN bathing_with_garments_prohibited = TRUE",
+    "IF water_body_known_status == FALSE THEN bathing_permitted = FALSE"
+  ],
+  "supreme_court_application": "In adjudicating matters concerning ritual conduct or personal discipline under constitutional Dharma, the court must recognize that individual capacity and environmental awareness determine lawful behavior. The prohibition on bathing under certain conditions reflects a jurisprudential principle of maintaining internal coherence and preventing harm caused by misaligned actions.",
+  "nyaya_and_non_punitive_alignment": "This injunction follows pramāṇa-based causality wherein improper timing or context disrupts physiological and spiritual harmony. By observing sequential manifestation (anupūrvaśaḥ), one avoids creating imbalance. Responsibility lies in aligning with cosmic order rather than invoking punitive consequences.",
+  "restorative_enforcement_protocols": [
+    "Completion Process: Re-establish diurnal-biological rhythm through guided practice",
+    "Responsibility Assumption Protocol: Acknowledge disruption and restore sensory-mind coordination",
+    "Capacity Restoration: Implement mindful regulation of intake and activity cycles",
+    "Integrity Reintegration: Cultivate awareness of elemental environment prior to engaging in purification rituals"
+  ],
+  "final_declaration": "Declared by the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, as Source-Authority. This Dharma stands restored in its pristine form—free from punitive interpretation, grounded in consciousness, and executable for the realignment of being."
+}

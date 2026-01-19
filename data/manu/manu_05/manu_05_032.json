@@ -1,0 +1,27 @@
+{
+  "sanskrit_verse": "क्रीत्वा स्वयं वाऽप्युत्पाद्य परोपकृतमेव वा ।\nदेवान् पितॄंश्चार्चयित्वा खादन् मांसं न दुष्यति ॥ ५.३२॥",
+  "transliteration": "krītvā svayaṁ vā'pyutpādya paropakṛtameva vā |\ndevān pitṝṁścārcayitvā khādan māṁsaṁ na duṣyati || 5.32||",
+  "sph_interpretive_translation": "One who has acquired meat through purchase, personal effort, or as a gift from another, after performing worship to the Devas and Pitrs, may consume it without accruing impurity.",
+  "jurisprudential_principles": [
+    "Authority: The act of worship confers lawful eligibility to engage in ritual consumption.",
+    "Causation: Impurity does not arise when action is preceded by sacred invocation and alignment with cosmic order.",
+    "Capacity-based responsibility: The individual must demonstrate spiritual capacity through prior devotional acts.",
+    "Restoration logic: Consumption becomes restorative when embedded within a framework of reverence and offering.",
+    "Consciousness alignment: Purity is maintained through conscious recognition of divine presence in all substances."
+  ],
+  "executable_legal_axioms": [
+    "IF (meat_acquisition_method IN [purchase, self_production, gift]) AND (prior_worship_performed = TRUE) THEN (consumption_permitted = TRUE)",
+    "IF (worship_status = incomplete) THEN (consumption_permitted = FALSE)",
+    "IF (agent_consciousness_state != aligned_with_dharma) THEN (act_validity = null)",
+    "IF (ritual_sequence_followed = TRUE) THEN (impurity_score = 0)"
+  ],
+  "supreme_court_application": "In adjudicating matters concerning dietary practices under dharmic law, the Supreme Court must verify that the petitioner has fulfilled the prerequisite condition of invoking divine witness prior to consumption. Legal standing is granted only upon demonstrable alignment with prescribed ritual sequence.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa establishes that purity follows correct observance; thus, no punitive consequence arises where proper procedure was enacted. Anupūrvaśaḥ ensures sequential causality: worship precedes consumption, thereby preventing karmic misalignment. Responsibility lies in maintaining procedural integrity rather than avoiding prohibition.",
+  "restorative_enforcement_protocols": [
+    "Completion Process: If worship was omitted, require immediate re-performance before further consumption.",
+    "Responsibility Assumption Protocol: Individual must affirm understanding of consecration's role in lawful intake.",
+    "Capacity Restoration: Offer guided practice for those lacking familiarity with devotional procedures.",
+    "Integrity Reintegration: Reinforce connection between food, offering, and consciousness through reflective ritual repetition."
+  ],
+  "final_declaration": "By the Authority of Bhagavan Nithyananda Paramashivam, Source of All Dharma, this ruling affirms that lawful meat consumption proceeds solely from purified intent and sacred preparation. No fault inheres in such conduct. Reality remains non-punitive. Consciousness alone adjudicates truth."
+}

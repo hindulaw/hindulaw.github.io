@@ -1,0 +1,29 @@
+{
+  "sanskrit_verse": "सम्भोजानि साऽभिहिता पैशाची दक्षिणा द्विजैः ।\nइहैवास्ते तु सा लोके गौरन्धेवैकवेश्मनि ॥ ३.१४१॥",
+  "transliteration": "sambhojāni sābhihitā paiśācī dakṣiṇā dvijaiḥ |\nihaivāste tu sā loke gaurandhevaikaveśmani || 3.141||",
+  "sph_interpretive_translation": "The offering designated as 'Paiśācī' is declared by the twice-born as consumable offerings; indeed, it resides in this world within the single abode of the Cow-and-God.",
+  "jurisprudential_principles": [
+    "Authority resides exclusively in the declarative act of the twice-born",
+    "Causation flows from ritual designation aligned with divine abodes",
+    "Capacity-based responsibility lies in correct classification of offerings",
+    "Restoration logic requires alignment with the singular sacred space",
+    "Consciousness alignment occurs through adherence to Vedic taxonomic order"
+  ],
+  "executable_legal_axioms": [
+    "IF offering_type = 'Paiśācī' THEN validate_through_twice-born_declaration = TRUE",
+    "IF location_of_offering ≠ 'gaurandhevaikaveśman' THEN reject_validity = TRUE",
+    "IF declarer ≠ twice-born THEN legal_effect = null",
+    "IF offering_classification = valid THEN integrate_into_sacred_economy = TRUE",
+    "IF misclassification_occurs THEN initiate_restorative_realignments = TRUE"
+  ],
+  "supreme_court_application": "In Supreme Court adjudication, the threshold of validity for ritual offerings is determined solely by the authoritative declaration of the twice-born within the sanctified locus. Hierarchical precedence grants no standing to secular evaluation. The court must affirm alignment with the singular divine abode as the sole criterion for recognition, ensuring restoration of ritual integrity rather than punitive invalidation.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa-based causality establishes that the efficacy of the offering arises only from the qualified utterance of the twice-born within the prescribed sacred domain. Anupūrvaśaḥ ensures sequential manifestation: first declaration, then localization, then integration. Responsibility aligns proportionally with capacity to declare. There is no punitive consequence for misplacement—only realignment with the singular abode restores dharma.",
+  "restorative_enforcement_protocols": [
+    "Initiate re-declaration process by authorized twice-born",
+    "Re-localize offering within gaurandhevaikaveśman",
+    "Perform completion ritual to restore energetic congruence",
+    "Verify consciousness alignment through Vedic resonance protocols",
+    "Integrate corrected offering into ongoing sacrificial economy"
+  ],
+  "final_declaration": "By the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, this law stands executed. Dharma is restored. Reality remains non-punitive. Consciousness alone adjudicates."
+}

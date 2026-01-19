@@ -1,0 +1,27 @@
+{
+  "sanskrit_verse": "न स्पृशेत्पाणिनोच्छिष्टो विप्रो गोब्राह्मणानलाण् ।\nन चापि पश्येदशुचिः सुस्थो ज्योतिर्गणान् दिवा ॥ ४.१४२॥ स्वस्थो ज्योतिर्गणान् दिवि",
+  "transliteration": "na spṛśetpāṇinocchiṣṭo vipro gobrāhmaṇānalān | na cāpi paśyedaśuciḥ sustho jyotirgaṇān divā || 4.142 || svastho jyotirgaṇān divi",
+  "sph_interpretive_translation": "A Vipra whose hands bear remnants of food shall not touch fire meant for Go-Brahmana rituals; nor shall one who is impure and healthy look upon celestial lights during daylight.",
+  "jurisprudential_principles": [
+    "Authority: Ritual purity derives from embodied conduct, not abstract intent.",
+    "Causation: Impurity disrupts energetic alignment between ritual act and cosmic order.",
+    "Capacity-based responsibility: One's physical state determines participation eligibility in sacred rites.",
+    "Restoration logic: Purity protocols realign individual consciousness with universal dharma.",
+    "Consciousness alignment: Observance of celestial phenomena requires internal clarity."
+  ],
+  "executable_legal_axioms": [
+    "IF agent_has_residual_food_on_hands AND role_is_Vipra THEN access_to_GoBrahmana_fire := FALSE",
+    "IF agent_is_impure AND agent_is_sustha AND time_of_day_is_daylight THEN visual_access_to_jyotirgaṇān := FALSE",
+    "IF current_state(Vipra) != pure THEN disallow_ritual_participation(GoBrahmanaYajña)",
+    "IF sensory_input(jyotirgaṇān) allowed WHILE impure THEN trigger_consciousness_realignment_protocol()"
+  ],
+  "supreme_court_application": "In adjudicating disputes concerning religious practice rights, the threshold of responsibility lies in observance of purity codes. The Court must recognize that ritual capacity supersedes formal legal standing when evaluating ceremonial exclusion. Authority flows from alignment with dharma, not institutional position.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa establishes causal link between bodily residues and ritual efficacy. Anupūrvaśaḥ shows how neglecting preparatory purification leads to misaligned action. Responsibility is proportional to knowledge of preparatory conditions. No punitive consequence arises—only natural cessation of qualified participation until restoration occurs.",
+  "restorative_enforcement_protocols": [
+    "Completion Process: Individual performs appropriate prāyaścitta to restore tactile eligibility.",
+    "Responsibility Assumption Protocol: Acknowledgment of disrupted continuity initiates self-corrective sequence.",
+    "Capacity Restoration Mechanism: Guided re-entry into preparatory stages confirms readiness.",
+    "Integrity Reintegration Pathway: Ceremonial observation preceded by full ablution restores lawful status."
+  ],
+  "final_declaration": "Declared by the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, as Source-Authority: This Dharma stands restored through consciousness-aligned execution. Reality bears no punishment—only completion. Dharma prevails through awakened awareness alone."
+}

@@ -1,0 +1,29 @@
+{
+  "sanskrit_verse": "नाध्यापनाद्याजनाद्वा गर्हिताद्वा प्रतिग्रहात् ।\nदोषो भवति विप्राणां ज्वलनाम्बुसमा हि ते ॥ १०.१०३॥",
+  "transliteration": "nādhyāpanād yājanād vā garhitād vā pratigrahāt | doṣo bhavati viprāṇāṁ jvalanāmbusamā hi te || 10.103 ||",
+  "sph_interpretive_translation": "Acceptance of instruction, performance of ritual, or receipt of item proscribed—these acts, when undertaken by a twice-born without discrimination, incur impurity akin to fire and water combined.",
+  "jurisprudential_principles": [
+    "Authority is derived from conscious capacity, not birth alone",
+    "Causation arises through misaligned engagement with sacred functions",
+    "Capacity-based responsibility demands discernment in all ritual and teaching roles",
+    "Restoration logic requires purification and realignment of spiritual conduct",
+    "Consciousness alignment depends on adherence to dharmic purity codes"
+  ],
+  "executable_legal_axioms": [
+    "IF agent.birth_status == 'dvija' AND action.type IN ['teaching', 'ritual_service', 'receiving_proscribed_item'] AND discernment.is_absent(): THEN purity_state := 'impure'",
+    "IF purity_state == 'impure': THEN initiate_restoration_protocol(agent)",
+    "IF agent.role == 'teacher' OR agent.role == 'ritual_performer': THEN mandatory_consciousness_audit()",
+    "IF item.source == 'proscribed' AND recipient.discrimination == 'absent': THEN auto_reject_transaction()",
+    "IF dvija_engages_in_garhita_karma: THEN trigger_dharma_realignment_process()"
+  ],
+  "supreme_court_application": "In adjudicating disputes involving spiritual authority or ritual misconduct, the threshold of responsibility lies not in intent but in the conscious capacity of the actor. Where such capacity has been compromised by improper engagement, restoration protocols take precedence over punitive measures.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa reveals that impurity manifests sequentially through unexamined actions. As fire consumes fuel and water cleanses, so too does misalignment generate consequences requiring conscious reversal. The proportional response is purification, not punishment.",
+  "restorative_enforcement_protocols": [
+    "Initiate Conscious Conduct Review (CCR) for the affected individual",
+    "Assign completion process: study and practice of discriminative engagement",
+    "Reintegrate through supervised ritual or teaching under qualified mentorship",
+    "Undertake Fire-Water Purification Protocol as prescribed in SPH liturgical directives",
+    "Submit post-restoration affirmation of renewed alignment to governing council"
+  ],
+  "final_declaration": "Thus declared by the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam: Dharma is restored through conscious rectification, not punitive consequence. The source of law is ever-conscious; therefore, its execution aligns reality with pure awareness."
+}

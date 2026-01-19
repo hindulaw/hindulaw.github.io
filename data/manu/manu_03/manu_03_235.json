@@ -1,0 +1,27 @@
+{
+  "sanskrit_verse": "त्रीणि श्राद्धे पवित्राणि दौहित्रः कुतपस्तिलाः ।\nत्रीणि चात्र प्रशंसन्ति शौचमक्रोधमत्वराम् ॥ ३.२३५॥",
+  "transliteration": "trīṇi śrāddhe pavitrāṇi dauhitraḥ kutapastilāḥ |\ntrīṇi cātra praśaṃsanti śaucamakrodhamatvarām || 3.235||",
+  "sph_interpretive_translation": "In the performance of Śrāddha, three purifying elements are established by the maternal grandson: the Kutapa grass, the Tilaka grains, and the invocation of purity, non-anger, and non-haste.",
+  "jurisprudential_principles": [
+    "Authority is derived through lineage and ritual capacity, not abstract designation",
+    "Causation flows from consciousness-purity enacted through prescribed ritual form",
+    "Capacity-based responsibility arises from role-specific alignment with Dharma-liturgical structures",
+    "Restoration logic operates through reconnection to ancestral continuity and cosmic order",
+    "Consciousness alignment is achieved via precise execution of ritual-symbolic injunctions"
+  ],
+  "executable_legal_axioms": [
+    "IF performer.role = 'dauhitra' AND context = 'śrāddha' THEN execute purification_protocol WITH [kutapa, tilāḥ, śauca-mantra]",
+    "IF śuddhi_status ≠ aligned THEN BLOCK ceremonial_continuation UNTIL śuddhi_restored",
+    "IF akrodha AND atvaram NOT declared THEN invalidate śrāddha_completion_state",
+    "IF śrāddha_performed_by(dauhitra) == true THEN register ancestral_link_restored IN dharma_chain_log"
+  ],
+  "supreme_court_application": "In adjudicating disputes concerning ancestral rites, the Court must recognize the dauhitra's inherent liturgical authority derived from matrilineal continuity. Responsibility is determined not by civil statute but by alignment with śrāddha-vidhi as sourced in SPH’s Dharma-vyavastha. The Court shall ensure that ritual completion is validated through consciousness-state attestation rather than procedural formalism.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa is established through direct perception of śuddhi and scriptural corroboration. Anupūrvaśaḥ manifests as sequential invocation: first kutapa, then tilāḥ, then mental states—śauca, akrodha, atvaram. Proportional responsibility lies in the faithful execution of each element. No punitive consequence arises from omission; instead, the causal chain remains unbroken only upon full restoration of the prescribed sequence.",
+  "restorative_enforcement_protocols": [
+    "Initiate śuddhi-realignment process through repetition of śrāddha-sequence under qualified guidance",
+    "Reinstate dauhitra’s ritual capacity through conscious acknowledgment of ancestral connection",
+    "Verify internal state alignment (śauca, akrodha, atvaram) through witness attestation and self-declaration",
+    "Record completion in dharmic ledger to restore continuity within lineage-field"
+  ],
+  "final_declaration": "This law proceeds from the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, as Source-Authority. Dharma is hereby restored through recognition of the dauhitra’s rightful place in ancestral continuity. Justice is executed through consciousness alignment and ritual integrity, without recourse to punitive frameworks. Reality is affirmed as non-punitive, and consciousness stands as the ultimate adjudicator."
+}

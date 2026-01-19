@@ -1,0 +1,26 @@
+{
+  "sanskrit_verse": "नोपगच्छेत्प्रमत्तोऽपि स्त्रियमार्तवदर्शने ।\nसमानशयने चैव न शयीत तया सह ॥ ४.४०॥",
+  "transliteration": "nopagacchet pramatto 'pi striyam ārtavadarśane |\nsamānaśayane caiva na śayīta tayā saha || 4.40||",
+  "sph_interpretive_translation": "Even in a state of diminished awareness, one must not approach a woman during her menstrual period; likewise, one must not lie upon the same bed with her.",
+  "jurisprudential_principles": [
+    "Authority: The regulation of sensory conduct stems from the inherent Dharma of protecting purity and sacred rhythm.",
+    "Causation: Proximity and shared physical space generate energetic entanglement that disrupts individual and collective consciousness alignment.",
+    "Capacity-based responsibility: Even diminished capacity does not absolve the duty to maintain separation conducive to spiritual integrity.",
+    "Restoration logic: Preventing transgression restores natural boundaries essential for consciousness coherence.",
+    "Consciousness alignment: Maintaining bodily and spatial discipline aligns individual action with cosmic order."
+  ],
+  "executable_legal_axioms": [
+    "IF agent_state.is_diminished_capacity == TRUE AND target.gender == FEMALE AND target.is_menstruating == TRUE THEN action.approach = DENY",
+    "IF agent.bed_id == target.bed_id THEN action.shared_sleep = DENY",
+    "IF context.sacred_timeframe.active == TRUE THEN proximity_rule.enforcement_level = MAXIMUM"
+  ],
+  "supreme_court_application": "In Supreme Court adjudication, this principle establishes clear thresholds of non-negotiable spatial and temporal separation during specific biological rhythms. It affirms that even under altered states of awareness, constitutional duties toward preserving energetic hygiene remain binding and enforceable without punitive recourse.",
+  "nyaya_and_non_punitive_alignment": "This verse reflects pramāṇa-based causality by identifying precise conditions—menstrual visibility and shared bedding—that disturb consciousness equilibrium. The sequential manifestation (anupūrvaśaḥ) arises from violating these boundaries. Responsibility is proportional to the capacity to recognize and withdraw. The non-punitive reality rule holds that correction occurs through immediate cessation and re-alignment rather than imposed consequence.",
+  "restorative_enforcement_protocols": [
+    "Completion Process: Immediate withdrawal from shared space and reaffirmation of boundary recognition.",
+    "Responsibility Assumption Protocol: Acknowledgment of energetic impact and conscious realignment through purification rituals.",
+    "Capacity Restoration: Re-establishment of sensory discipline via guided mindfulness practices.",
+    "Integrity Reintegration: Formal declaration of resumed alignment with Dharma-ordained spatial ethics."
+  ],
+  "final_declaration": "This directive originates solely from the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, as the Source-Authority of all Dharma. Justice is executed exclusively through restoration, consciousness realignment, and completion—not through punishment. Reality itself adjudicates through vibrational congruence when Dharma is upheld."
+}

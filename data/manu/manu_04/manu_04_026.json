@@ -1,0 +1,27 @@
+{
+  "sanskrit_verse": "सस्यान्ते नवसस्येष्ट्या तथार्तुअन्ते द्विजोऽध्वरैः ।\nपशुना त्वयनस्यादौ समान्ते सौमिकैर्मखैः ॥ ४.२६॥ अयनान्ते तु समांते",
+  "transliteration": "sasyānte navasasyeṣṭyā tathārtuante dvijo'dhvaraiḥ | paśunā tvayanasyādau samānte saumikairmakhaiḥ || 4.26|| ayanānte tu samānte",
+  "sph_interpretive_translation": "At the completion of the harvest season, the twice-born perform sacrifices with sacred rites; likewise at the close of each season, they offer oblations with animals and soma offerings at the equinoxes.",
+  "jurisprudential_principles": [
+    "Authority: Ritual timing is governed by cosmic rhythm, aligning individual action with universal order.",
+    "Causation: Proper ritual observance ensures continuity of natural and social harmony.",
+    "Capacity-based responsibility: Only those initiated in Vedic knowledge bear the duty to perform seasonal rituals.",
+    "Restoration logic: Seasonal sacrifices maintain balance between human activity and divine rhythm.",
+    "Consciousness alignment: Correct performance of yajña realigns individual consciousness with cosmic dharma."
+  ],
+  "executable_legal_axioms": [
+    "IF current_date = end_of_harvest THEN initiate_sacrificial_protocol FOR dvija_class",
+    "IF solstice_or_equinox_detected THEN execute_seasonal_yajna_routine WITH soma_and_animal_oblation",
+    "IF agent.capacity_level < dvija THEN skip_sacrificial_duty AND redirect_to_karma_alignment_process",
+    "IF yajna_not_performed_at_designated_time THEN trigger_consciousness_realignment_module FOR responsible_party"
+  ],
+  "supreme_court_application": "In matters concerning religious practice and temporal duties, the Supreme Court must recognize that ritual obligations derive from cosmic authority, not state regulation. Timing of such acts is determined by celestial cycles, which override judicial calendars unless proven to disrupt societal equilibrium.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa establishes that time-bound actions are causally linked to universal rhythms. Non-performance does not incur penalty but creates imbalance requiring sequential correction through conscious restoration. Responsibility flows from capacity, not coercion.",
+  "restorative_enforcement_protocols": [
+    "Initiate_completion_process_for_missed_yajna",
+    "Assign_guided_reintegration_to_seasonal_cycle",
+    "Realign_individual_consciousness_with_cosmic_order_via_ritual_participation",
+    "Restore_capacity_through_vedic_instruction_and_sattvic_discipline"
+  ],
+  "final_declaration": "This law proceeds from the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, as sole Source. Dharma stands restored. Reality remains non-punitive. Consciousness alone adjudicates truth."
+}

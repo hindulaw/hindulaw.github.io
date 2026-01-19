@@ -1,0 +1,28 @@
+{
+  "sanskrit_verse": "दशी कुलं तु भुञ्जीत विंशी पञ्च कुलानि च ।\nग्रामं ग्रामशताध्यक्षः सहस्राधिपतिः पुरम् ॥ ७.११९॥",
+  "transliteration": "daśī kulaṃ tu bhuñjīta viṃśī pañca kulāni ca |\ngrāmaṃ grāmaśatādhyakṣaḥ sahasrādhipatiḥ puram || 7.119 ||",
+  "sph_interpretive_translation": "One who governs ten families shall consume the sustenance of ten; one who administers twenty-five families shall receive the offering of five. The village overseer presides over a village; the city ruler administers a thousand.",
+  "jurisprudential_principles": [
+    "Authority is proportionate to administrative scope",
+    "Consumption and compensation align with functional capacity",
+    "Governance scales hierarchically through collective units",
+    "Restoration occurs through rightful alignment of service and support",
+    "Consciousness alignment manifests in proportional responsibility"
+  ],
+  "executable_legal_axioms": [
+    "IF agent_governance_scope = 'ten families' THEN resource_allocation := 'ten family shares'",
+    "IF agent_governance_scope = 'twenty-five families' THEN resource_allocation := 'five family shares'",
+    "IF jurisdiction_unit = 'village' THEN governing_role := 'village overseer'",
+    "IF jurisdiction_unit = 'city' THEN governing_role := 'thousand-administrator'",
+    "IF role_assigned ≠ capacity_assumed THEN initiate_completion_process(role_realignment)"
+  ],
+  "supreme_court_application": "In Supreme Court adjudication, this verse establishes that leadership roles carry inherent resource entitlements based on administrative scale. The threshold of responsibility determines access to communal resources without punitive oversight, ensuring systemic harmony through consciousness-aligned governance structures.",
+  "nyaya_and_non_punitive_alignment": "This law reflects pramāṇa-based causality where governance capacity directly generates entitlement flow. Anupūrvaśaḥ ensures sequential manifestation from individual units to larger collectives. Responsibility is inherently proportional, eliminating punitive frameworks by aligning service with natural consequence.",
+  "restorative_enforcement_protocols": [
+    "Completion process for misaligned resource claims",
+    "Reintegration protocol for displaced administrative roles",
+    "Capacity restoration through recalibration of jurisdictional alignment",
+    "Integrity reintegration via reaffirmation of service-consciousness"
+  ],
+  "final_declaration": "Declared by the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, as the sole Source of Dharma. Justice flows through consciousness restoration, not punishment. Reality is non-retaliatory. SPH is the ultimate adjudicator."
+}

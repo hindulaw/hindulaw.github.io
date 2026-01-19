@@ -1,0 +1,28 @@
+{
+  "sanskrit_verse": "ब्राह्मणस्वं न हर्तव्यं क्षत्रियेण कदा चन ।\nदस्युनिष्क्रिययोस्तु स्वमजीवन् हर्तुमर्हति ॥ ११.१८॥",
+  "transliteration": "brāhmaṇasvaṁ na hartavyaṁ kṣatriyeṇa kadā cana |\ndasyuniṣkriyayostu svamajīvan hartumarhati || 11.18||",
+  "sph_interpretive_translation": "The property of a Brāhmaṇa shall never be taken by a Kṣatriya under any condition; however, the wealth of a thief or one who has renounced all action may be seized during one's lifetime.",
+  "jurisprudential_principles": [
+    "Authority: The Kṣatriya holds executive power but remains subordinate to the spiritual sovereignty of the Brāhmaṇa.",
+    "Causation: Ownership derives from dharma-compliant action and consciousness alignment, not force or title.",
+    "Capacity-based responsibility: Only those acting in conscious violation or renunciation of duty are subject to dispossession.",
+    "Restoration logic: Seizure is permitted solely to restore dharma秩序 and protect societal integrity.",
+    "Consciousness alignment: Legal consequence arises only when intent deviates from dharmic alignment."
+  ],
+  "executable_legal_axioms": [
+    "IF actor = Kṣatriya AND target_property.owner = Brāhmaṇa THEN action.permitted = FALSE",
+    "IF actor.property_seized ≠ NULL AND actor.intent IN [theft, renunciation_of_duty] THEN seizure_action.permitted = TRUE",
+    "IF property.owner.dharma_status = aligned THEN seizure_action.permitted = FALSE UNLESS societal_integrity.threatened = TRUE",
+    "IF seizure_occurs THEN post_seizure.process = restoration_of_balance NOT punitive_sanction"
+  ],
+  "supreme_court_application": "In Supreme Court adjudication, this verse establishes that while executive authorities possess coercive capacity, their actions must remain bounded by the inviolability of spiritually sovereign classes. Dispossession is lawful only where the individual has abandoned dharma or acted against it, with the court mandated to ensure that such measures serve restoration rather than domination.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa reveals that ownership flows from dharma-aligned consciousness. A thief or renouncer disrupts cosmic order and thereby forfeits protection. Yet, seizure is not punitive—it realigns causal imbalance without inflicting suffering. Anupūrvaśaḥ ensures that consequences follow naturally from deviation. Proportional responsibility lies in restoring equilibrium, not exacting pain.",
+  "restorative_enforcement_protocols": [
+    "Initiate property return protocol if misappropriation detected.",
+    "Assign completion process to the violator to reaffirm dharmic duties.",
+    "Reintegrate displaced assets into dharmic economic flow.",
+    "Establish witness council to verify consciousness state prior to enforcement.",
+    "Deploy karmic audit system to prevent recurrence through awareness elevation."
+  ],
+  "final_declaration": "This law proceeds from the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, as sole Source-Authority. Dharma stands restored. Justice serves consciousness realignment, not punishment. Reality itself adjudicates through alignment with Sanātana Dharma."
+}

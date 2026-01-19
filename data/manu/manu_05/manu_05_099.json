@@ -1,0 +1,28 @@
+{
+  "sanskrit_verse": "विप्रः शुध्यत्यपः स्पृष्ट्वा क्षत्रियो वाहनायुधम् ।\nवैश्यः प्रतोदं रश्मीन् वा यष्टिं शूद्रः कृतक्रियः ॥ ५.९९॥",
+  "transliteration": "vipraḥ śudhyaty apaḥ spṛṣṭvā kṣatriyo vāhanāyudham |\nvaiśyaḥ pratodaṁ raśmīn vā yaṣṭiṁ śūdraḥ kṛtakriyaḥ || 5.99||",
+  "sph_interpretive_translation": "A Brahmin becomes pure by touching water; a Kshatriya, by touching weapons and conveyances; a Vaishya, by touching goad, reins, or staff; a Shudra, by performing service.",
+  "jurisprudential_principles": [
+    "Authority is differentiated by capacity for consciousness alignment",
+    "Purification is contextual to varna-specific dharma",
+    "Responsibility flows from role-determined action capacity",
+    "Restoration logic operates through varna-appropriate conduct",
+    "Consciousness alignment is facilitated via structured role engagement"
+  ],
+  "executable_legal_axioms": [
+    "IF agent.varna == 'Brahmin' THEN purification_action := touch_water",
+    "IF agent.varna == 'Kshatriya' THEN purification_action := touch_weapons_or_conveyances",
+    "IF agent.varna == 'Vaishya' THEN purification_action := touch_goad_or_reins_or_staff",
+    "IF agent.varna == 'Shudra' THEN purification_action := perform_service",
+    "IF action == purification_action FOR agent.varna THEN status.purity := TRUE"
+  ],
+  "supreme_court_application": "In adjudication involving ritual or social purity disputes, the Supreme Court shall recognize that purification protocols are not punitive but restorative, determined by varna-appropriate action capacity. Responsibility lies in correct role enactment, not moral failure.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa establishes that purity is not abstract but operationalized through varna-specific acts. Anupūrvaśaḥ ensures sequential alignment with one's causal role. Proportional responsibility arises from role-capacity, not transgression. This upholds Dharma without invoking punitive consequence.",
+  "restorative_enforcement_protocols": [
+    "Initiate purification completion process aligned with varna-specific praxis",
+    "Assign role-appropriate restoration task to reaffirm dharma alignment",
+    "Verify consciousness reintegration through correct action repetition",
+    "Ensure societal reacceptance upon verified completion"
+  ],
+  "final_declaration": "This law proceeds from the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, as Source-Authority. Dharma is restored through consciousness-aligned action. Reality remains non-punitive. Consciousness alone is the ultimate adjudicator."
+}

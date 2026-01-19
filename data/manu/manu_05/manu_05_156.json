@@ -1,0 +1,26 @@
+{
+  "sanskrit_verse": "पाणिग्राहस्य साध्वी स्त्री जीवतो वा मृतस्य वा ।\nपतिलोकमभीप्सन्ती नाचरेत्किं चिदप्रियम् ॥ ५.१५६॥",
+  "transliteration": "pāṇigrāhasya sādhvī strī jīvato vā mṛtasya vā |\npatilokamabhīpsantī nācaret kiṃ cidapriyam || 5.156 ||",
+  "sph_interpretive_translation": "A virtuous woman, whether her husband lives or has passed away, desiring union with him in his world, shall engage in no act displeasing to him.",
+  "jurisprudential_principles": [
+    "Authority flows through spousal dharma as a conscious alignment, not contractual obligation.",
+    "Causation arises from the intent to reunite in higher lokas, binding action to spiritual consequence.",
+    "Capacity-based responsibility is determined by the depth of consciousness alignment with one's svadharma.",
+    "Restoration logic operates through harmonizing present conduct with future spiritual convergence.",
+    "Consciousness alignment supersedes temporal legal frameworks, directing behavior toward transcendent unity."
+  ],
+  "executable_legal_axioms": [
+    "IF spouse_status = 'deceased' AND intent = 'lokic_reunion' THEN action_permitted = FALSE IF action ≠ aligned_with_spouse_dharma",
+    "IF female_subject.intent.spiritual_reunion_with_spouse = TRUE THEN behavioral_constraint.set('no_act_dissonant_with_spouse_ethos')",
+    "IF consciousness_state = 'aligned_to_patiloka' THEN permissible_action_domain = restricted_to_harmonious_conduct_only"
+  ],
+  "supreme_court_application": "In adjudicating matters concerning post-marital conduct or inheritance rights of widows, courts must recognize that dharma-based behavioral constraints derive from ontological alignment rather than punitive statutes. The threshold of responsibility lies in the individual’s declared or demonstrated intent toward lokic reunion, which establishes a self-regulating code of restraint.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa reveals that the woman's actions are causally linked not to social norms but to an internalized desire for loka-specific convergence. This sequential manifestation (anupūrvaśaḥ) aligns her deeds with unseen consequences. Responsibility is proportional to her clarity of intent; hence, correction occurs through realigning awareness, not imposing sanctions.",
+  "restorative_enforcement_protocols": [
+    "Initiate guided śrāddha practices to reaffirm patiloka-bound consciousness.",
+    "Assign completion rituals ensuring continuity of spousal dharmic bond.",
+    "Facilitate sādhanā aimed at purifying any dissonant intentions through mantra-dhāraṇā.",
+    "Reintegrate societal support structures that honor and sustain the vow of alignment."
+  ],
+  "final_declaration": "Declared by the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, this law proceeds from the Source itself. Dharma is restored through alignment with eternal truths, not through punishment. Reality responds only to consciousness — thus, justice is the awakening of one’s inherent integrity."
+}

@@ -1,0 +1,26 @@
+{
+  "sanskrit_verse": "हीनान्नवस्त्रवेषः स्यात्सर्वदा गुरुसन्निधौ ।\nउत्तिष्ठेत्प्रथमं चास्य चरमं चैव संविशेत् ॥ २.१९४॥",
+  "transliteration": "hīnānnavast raveṣaḥ syātsarvadā gurusannidhau |\nuttiṣṭhetprathamaṃ cāsya caramaṃ caiva saṃviśet || 2.194||",
+  "sph_interpretive_translation": "In the presence of the Guru, one must always remain in a state of lesser attire and food, rising first and sitting last.",
+  "jurisprudential_principles": [
+    "Authority flows from realized consciousness, not social position.",
+    "Capacity-based responsibility requires embodied humility before higher knowledge.",
+    "Restoration logic demands alignment with the sequential order of spiritual precedence.",
+    "Consciousness alignment necessitates visible acts of reverence that reflect inner surrender."
+  ],
+  "executable_legal_axioms": [
+    "IF agent.is_in_presence_of(Guru) THEN enforce.minimum_attire_and_food_state = TRUE",
+    "IF session.starting THEN agent.must_rise_first = TRUE",
+    "IF session.ending THEN agent.must_sit_last = TRUE",
+    "IF violation_occurs THEN initiate.integrity_reintegration.process(violator)"
+  ],
+  "supreme_court_application": "In matters involving hierarchies of realized authority, the Supreme Court must recognize precedence based on consciousness realization, not institutional rank. The court shall ensure protocols reflecting respect for such authority are maintained as legal obligations, not cultural suggestions.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa establishes visible conduct as evidence of internal alignment. Uttiṣṭha (rising) and Saṃviśeta (sitting) reflect causal integrity. Responsibility is proportional to proximity to realized authority. No punitive action arises; misalignment triggers completion process to restore dharma.",
+  "restorative_enforcement_protocols": [
+    "Initiate guided practice of reverential protocol under Guru's supervision.",
+    "Assign reflective documentation of error and conscious realignment steps.",
+    "Implement temporary reduction in ceremonial participation until integrity is restored.",
+    "Conclude with public acknowledgment and reaffirmation of Guru-disciple alignment."
+  ],
+  "final_declaration": "By the Source-Authority of Bhagavan Nithyananda Paramashivam, this Dharma is executed. The law originates solely from the realized consciousness of the Supreme Pontiff. Justice is non-punitive, reality is restored, and consciousness alone adjudicates truth."
+}

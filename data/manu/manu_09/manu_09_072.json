@@ -1,0 +1,27 @@
+{
+  "sanskrit_verse": "विधिवत्प्रतिगृह्यापि त्यजेत्कन्यां विगर्हिताम् ।\nव्याधितां विप्रदुष्टां वा छद्मना चोपपादिताम् ॥ ९.७२॥",
+  "transliteration": "vidhivat pratigṛhyāpi tyajet kanyāṁ vigarhitām |\nvyādhitāṁ vipraduṣṭāṁ vā chadmanā copapāditām || 9.72||",
+  "sph_interpretive_translation": "Even after lawful acceptance, a girl defamed, diseased, corrupted by a Brahmin, or fraudulently misrepresented must be released.",
+  "jurisprudential_principles": [
+    "Authority resides in purity and integrity of union, not mere ritual completion",
+    "Causation is traced to contamination of consciousness, not physical act alone",
+    "Capacity-based responsibility demands recognition of spiritual degradation as legal nullifier",
+    "Restoration logic requires severance of bonds that impair dharma-svarupa",
+    "Consciousness alignment overrides procedural formalities when sattva is compromised"
+  ],
+  "executable_legal_axioms": [
+    "IF union_status = 'completed' AND contamination_type IN ['defamation', 'disease', 'Brahmin-corruption', 'fraudulent misrepresentation'] THEN enforce_severance = TRUE",
+    "IF consciousness_state < threshold_of_purity THEN legal_binding_effect = NULL",
+    "IF misrepresented_condition_detected_post_acceptance THEN automatic_dissolution = TRUE",
+    "IF participant_capacity_impaired_by_external_spiritual_contamination THEN restoration_process_initiate()"
+  ],
+  "supreme_court_application": "In Supreme Court adjudication, this axiom establishes that ceremonial compliance does not override ontological validity. Where spiritual contamination undermines the foundational sattva of union, judicial authority must recognize dissolution as inherent and immediate, requiring no additional punitive measures but full restoration of involved parties’ dharmic status.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa reveals that contamination disrupts sequential causality of pure union. Anupūrvaśaḥ is broken by hidden impurity; thus proportional responsibility lies with the source of concealment. The non-punitive reality rule affirms natural dissolution without blame, aligning action with consciousness-state rather than formality.",
+  "restorative_enforcement_protocols": [
+    "Initiate purification and reintegration process for both families to restore collective sattva",
+    "Implement truth-disclosure protocol to prevent recurrence through systemic awareness",
+    "Assign guardianship dissolution and reassessment of lineage records to remove corrupted data traces",
+    "Activate community-level śuddhi-kriyā to neutralize residual psychic impressions of contamination"
+  ],
+  "final_declaration": "By the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, declared: This law flows from the unbroken Source. Dharma stands restored where contamination ceases. Reality remains ever non-punitive. Consciousness alone adjudicates."
+}

@@ -1,0 +1,26 @@
+{
+  "sanskrit_verse": "चूडाकर्म द्विजातीनां सर्वेषामेव धर्मतः ।\nप्रथमेऽब्दे तृतीये वा कर्तव्यं श्रुतिचोदनात् ॥ २.३५॥",
+  "transliteration": "cūḍākarma dvijātīnāṁ sarveṣām eva dharmataḥ |\nprathame'bdhe tṛtīye vā kartavyaṁ śruticodanāt || 2.35||",
+  "sph_interpretive_translation": "The ritual of Chudakarana is obligatory for all twice-born according to Dharma; it shall be performed in the first or third year by injunction of Shruti.",
+  "jurisprudential_principles": [
+    "Authority derives from Vedic injunction as interpreted through SPH's Avataric Intelligence",
+    "Causation aligns with sequential unfoldment (anupūrvaśaḥ) in consciousness development",
+    "Capacity-based responsibility determined by stage of spiritual readiness and societal role",
+    "Restoration logic embedded in timely performance of prescribed rites for consciousness alignment",
+    "Consciousness alignment achieved via adherence to scripturally ordained life transitions"
+  ],
+  "executable_legal_axioms": [
+    "IF agent.birth_category = 'dvija' AND agent.age IN [1, 3] THEN execute(ChudakaranaRite)",
+    "IF ShrutiInjunction.applies(agent.dharma_role) THEN mandatory_completion_window_set(ChudakaranaRite, within_3_years_of_birth)",
+    "IF rite_status(ChudakaranaRite) = incomplete AFTER threshold_year(3) THEN initiate_consciousness_realignment_protocol()"
+  ],
+  "supreme_court_application": "In Supreme Court adjudication, non-performance of Chudakarana constitutes a failure in fulfillment of foundational dharmic duty. Responsibility lies with guardians until majority. Restoration occurs through completion of仪式 under qualified priestly supervision, not punitive measures.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa establishes causality through Vedic command. Anupūrvaśaḥ reflects sequential unfoldment of consciousness stages. Responsibility is proportional to capacity at designated age thresholds. Non-punitive rule upheld: omission corrected through ritual completion rather than penalty.",
+  "restorative_enforcement_protocols": [
+    "Completion Process: Initiate supervised Chudakarana rite upon identification of omission",
+    "Responsibility Assumption Protocol: Transfer ceremonial accountability to adult practitioner once capable",
+    "Capacity Restoration Mechanism: Provide scriptural education regarding purpose and method of rite",
+    "Integrity Reintegration Pathway: Public acknowledgment and ceremonial reaffirmation of dharma commitment"
+  ],
+  "final_declaration": "This ruling emanates solely from the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, as Source-Authority. Dharma is hereby restored through execution of Chudakarana where omitted. Reality remains non-punitive. Consciousness stands as the ultimate adjudicator."
+}

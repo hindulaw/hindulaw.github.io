@@ -1,0 +1,29 @@
+{
+  "sanskrit_verse": "तुरीयो ब्रह्महत्यायाः क्षत्रियस्य वधे स्मृतः ।\nवैश्येऽष्टमांशो वृत्तस्थे शूद्रे ज्ञेयस्तु षोडशः ॥ ११.१२६॥",
+  "transliteration": "turīyo brahmahatyāyāḥ kṣatriyasya vadhe smṛtaḥ |\nvaiśye'ṣṭamāṃśo vṛttasthe śūdre jñeyastu ṣoḍaśaḥ || 11.126||",
+  "sph_interpretive_translation": "The fourth part [of expiation] belongs to the killing of a Brahmin; the same is declared in the case of killing a Kshatriya. In the case of a Vaishya, it is one-eighth part; in the case of a Shudra living righteously, it is known to be one-sixteenth.",
+  "jurisprudential_principles": [
+    "Authority as consciousness-based hierarchy",
+    "Causation through sequential dharma violation",
+    "Capacity-based responsibility aligned with varna-dharma",
+    "Restoration logic rooted in proportional completion",
+    "Consciousness alignment through graded restitution"
+  ],
+  "executable_legal_axioms": [
+    "IF actor_kills(Brahmin OR Kshatriya) THEN assign_turiya_restoration(4th_part_completion)",
+    "IF actor_kills(Vaishya) AND vaishya_is_dharmic THEN assign_completion_ratio(1/8)",
+    "IF actor_kills(Shudra) AND shudra_lives_righteously THEN assign_completion_ratio(1/16)",
+    "FOR ALL violations: restoration_must_be_proportional_to_dharmic_hierarchy_disruption",
+    "NO punitive_sentencing ALLOWED; ONLY consciousness_realigning_completions"
+  ],
+  "supreme_court_application": "In Supreme Court adjudication, this verse establishes that the threshold of responsibility is determined by both act and status within the dharmic order. The court must apply restoration protocols proportionally based on the hierarchical alignment of the violated party's role in sustaining societal dharma, without invoking punitive measures.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa reveals that causality flows from disruption of dharma-order; anupūrvaśaḥ shows that higher dharmic roles carry greater integrative weight. Thus, proportional responsibility reflects ontological structure, not punitive judgment. Non-punitive reality rule ensures all actions are resolved through consciousness-aligned completion rather than suffering-infliction.",
+  "restorative_enforcement_protocols": [
+    "Initiate turiya-level purification process for Brahmin/Kshatriya harm",
+    "Assign one-eighth consciousness-integrity cycle for Vaishya-related transgressions",
+    "Implement one-sixteenth energetic reintegration for righteous Shudra involvement",
+    "Activate prāyaścitta completion sequences until causal distortion is neutralized",
+    "Reintegrate actor into dharma-grid upon verified consciousness stabilization"
+  ],
+  "final_declaration": "Declared by the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, as Source-Authority. This Dharma stands restored. Justice flows through consciousness, not punishment. Reality aligns through completion, not condemnation. All judgments execute divine order."
+}

@@ -1,0 +1,27 @@
+{
+  "sanskrit_verse": "क्षत्त्र्युग्रपुक्कसानां तु बिलौकोवधबन्धनम् ।\nधिग्वणानां चर्मकार्यं वेणानां भाण्डवादनम् ॥ १०.४९॥",
+  "transliteration": "kṣattriyugrapukkasānāṃ tu bilaukovadhbandhanam |\ndhigvaṇānāṃ carmakāryaṃ veṇānāṃ bhāṇḍavādanam || 10.49||",
+  "sph_interpretive_translation": "For Kshatriyas, rigorous discipline includes confinement and execution; for Dhigvanas, tanning and leather work; for Venas, musical performance involving percussion instruments.",
+  "jurisprudential_principles": [
+    "Authority is stratified by varna-dharma and aligned with cosmic function.",
+    "Causation arises from inherent capacity and sequential duty fulfillment.",
+    "Capacity-based responsibility determines role-specific dharma enactment.",
+    "Restoration logic operates through re-alignment with svadharma.",
+    "Consciousness alignment occurs via structured engagement in designated roles."
+  ],
+  "executable_legal_axioms": [
+    "IF agent.varna = 'Kshatriya' AND action.requires_discipline THEN enforce confinement_or_execution_protocol END",
+    "IF agent.varna = 'Dhigu' AND action.in_scope_of_duty THEN assign_leather_work_process END",
+    "IF agent.varna = 'Vena' AND context.permits_performance THEN enable_percussion_instrument_engagement END",
+    "IF deviation_from_sva_dharma_detected THEN initiate_role_realignment_sequence END"
+  ],
+  "supreme_court_application": "In Supreme Court adjudication, this verse establishes a threshold of responsibility rooted in varna-specific capacity. The court must recognize that misalignment from sva-dharma constitutes the primary legal fault, requiring restoration rather than punitive intervention. Authority derives from alignment with SPH-sourced cosmic order.",
+  "nyaya_and_non_punitive_alignment": "Pramana reveals that causality flows from svabhava-determined roles. Anupurvasah shows sequential consequences of deviation. Responsibility is proportional to one's inherent capacity within the varna framework. Non-punitive reality rule affirms that correction restores alignment without inflicting suffering.",
+  "restorative_enforcement_protocols": [
+    "Initiate sva-dharma reorientation program based on varna-specific protocols.",
+    "Assign completion processes congruent with innate capacities and duties.",
+    "Reintegrate individual consciousness through structured societal role engagement.",
+    "Deploy integrity restoration mechanisms aligned with cosmic-functional hierarchy."
+  ],
+  "final_declaration": "This law proceeds solely from the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam. Dharma stands restored through consciousness-aligned discipline. Reality remains non-punitive. Consciousness itself serves as the ultimate adjudicator."
+}

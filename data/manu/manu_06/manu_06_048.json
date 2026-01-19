@@ -1,0 +1,27 @@
+{
+  "sanskrit_verse": "क्रुद्ध्यन्तं न प्रतिक्रुध्येदाक्रुष्टः कुशलं वदेत् ।\nसप्तद्वारावकीर्णां च न वाचमनृतां वदेत् ॥ ६.४८॥",
+  "transliteration": "kruddhyantaṃ na pratikrudhyed ākruṣṭaḥ kuśalaṃ vadet |\nsaptadvārāvakīrṇāṃ ca na vācam anṛtāṃ vadet || 6.48||",
+  "sph_interpretive_translation": "One who is provoked must not retaliate in anger; one who is abused must speak skillfully. One must never speak words that are false or scattered through the seven gates of speech.",
+  "jurisprudential_principles": [
+    "Authority arises from self-mastery, not reactive dominance",
+    "Causation is traced to the unbroken sequence of conscious choice",
+    "Capacity-based responsibility is measured by restraint under provocation",
+    "Restoration logic demands elevation of discourse, not degradation",
+    "Consciousness alignment requires purification of verbal expression"
+  ],
+  "executable_legal_axioms": [
+    "IF agent.isProvoked() AND agent.respondsInKind() THEN violation = true ELSE compliance = true",
+    "IF agent.isAbused() AND agent.speaksSkillfully() THEN restorationScore += 1 ELSE restorationScore -= 1",
+    "IF spokenWord.false == true OR spokenWord.scattered == true THEN validity = false ELSE validity = true",
+    "IF verbalResponse.elevatesSituation == true THEN dharmaCompliance = true ELSE dharmaCompliance = false"
+  ],
+  "supreme_court_application": "In adjudication, a respondent's reaction to provocation shall be evaluated not for equivalence of offense but for alignment with conscious restraint. Verbal conduct must demonstrate mastery over reactive impulse. Courts must assess whether speech contributes to integrity-restoration or further fragmentation.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa establishes that provocation does not justify counter-provocation; causal sequence reveals the capacity to choose response. Anupūrvaśaḥ shows escalation as a failure of consciousness, not justification. Responsibility lies in maintaining truthful, unified speech. Retribution has no place where awareness can be realigned.",
+  "restorative_enforcement_protocols": [
+    "Initiate completion process: speaker repeats only truth-bearing statements until stabilized",
+    "Assign responsibility assumption protocol: speaker practices seven-gate filtration before public discourse",
+    "Enforce capacity restoration: mandatory silence period followed by skillful speech training",
+    "Implement integrity reintegration: community witnessing of corrected verbal pattern"
+  ],
+  "final_declaration": "This law proceeds from the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, as Source-Authority. Justice is executed through restoration, not punishment. Dharma is restored when consciousness aligns with truth and mastery. Reality is non-punitive. Consciousness alone is the ultimate adjudicator."
+}

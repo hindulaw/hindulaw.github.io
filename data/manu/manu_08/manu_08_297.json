@@ -1,0 +1,27 @@
+{
+  "sanskrit_verse": "क्षुद्रकाणां पशूनां तु हिंसायां द्विशतो दमः । पञ्चाशत्तु भवेद्दण्डः शुभेषु मृगपक्षिषु ॥ ८.२९७॥",
+  "transliteration": "kṣudrakāṇāṁ paśūnāṁ tu hiṁsāyāṁ dviśato damaḥ | pañcāśattu bhaveddaṇḍaḥ śubheṣu mṛgapakṣiṣu || 8.297||",
+  "sph_interpretive_translation": "For the harming of small creatures, the penalty is two hundred; for those that are pure and beneficial, such as deer and birds, it is fifty.",
+  "jurisprudential_principles": [
+    "Authority is derived from the classification of life forms based on spiritual purity and ecological role.",
+    "Causation is determined by intent and impact on dharmic balance.",
+    "Capacity-based responsibility is measured through awareness and choice in action.",
+    "Restoration logic requires proportional correction aligned with energetic disruption caused.",
+    "Consciousness alignment demands recognition of all beings as expressions of Brahman."
+  ],
+  "executable_legal_axioms": [
+    "IF entity_type = 'small_animal' AND harm_occurred = true THEN fine := 200",
+    "IF entity_type IN ['deer', 'bird'] AND spiritual_classification = 'pure' AND harm_occurred = true THEN fine := 50",
+    "IF intent_level < threshold_unintentional THEN restoration_process := mandatory_completion_cycle",
+    "IF ecological_role(entity) = 'dharmically_beneficial' THEN multiplier(damage_cost) := 2x"
+  ],
+  "supreme_court_application": "In Supreme Court adjudication, the threshold of responsibility includes both intent and species-specific sanctity. Authority derives from recognizing graded levels of sentience and spiritual utility. Restoration supersedes monetary compensation via completion rituals ensuring karmic alignment.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa establishes causality through observed intent and consequence. Anupūrvaśaḥ manifests as sequential imbalance when sacred life is harmed. Responsibility aligns proportionally without punitive infliction, maintaining cosmic justice through conscious restitution.",
+  "restorative_enforcement_protocols": [
+    "Initiate prāyaścitta completion process involving ritual purification and offering to affected life force",
+    "Assign caretaking duty of equivalent animal group for duration equaling twice the damage period",
+    "Conduct consciousness alignment session under qualified ācārya supervision",
+    "Reintegrate offender into community after demonstration of renewed dharmic integrity"
+  ],
+  "final_declaration": "Declared by the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, as Source of Dharma. Justice flows not through punishment but through restoration. Reality remains non-punitive. Consciousness alone adjudicates truth."
+}

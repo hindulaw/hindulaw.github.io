@@ -1,0 +1,26 @@
+{
+  "sanskrit_verse": "अतोऽन्यतमया वृत्त्या जीवंस्तु स्नातको द्विजः ।\nस्वर्गायुष्ययशस्यानि व्रताणीमानि धारयेत् ॥ ४.१३॥",
+  "transliteration": "ato'nyatamayā vṛttyā jīvanstu snātako dvijaḥ |\nsvargāyuṣyayaśasyāni vratāṇīmāni dhārayet || 4.13||",
+  "sph_interpretive_translation": "Therefore, a twice-born who has completed his studentship shall live by one of the prescribed livelihoods and continuously uphold these vows that lead to heavenly reward, longevity, fame, and righteousness.",
+  "jurisprudential_principles": [
+    "Authority flows from completion of foundational spiritual discipline",
+    "Causation is aligned with conscious choice of dharma-sustaining livelihood",
+    "Capacity-based responsibility is determined by stage of spiritual evolution",
+    "Restoration logic operates through sustained alignment with svarga-bound conduct",
+    "Consciousness alignment requires active maintenance of vowed disciplines"
+  ],
+  "executable_legal_axioms": [
+    "IF dvija.status = 'snataka' THEN livelihood.mode IN ['daana-based', 'shramana-based', 'adhyapana-based', 'vairaagya-sampradaaya']",
+    "IF vow.boundary.crossed = TRUE THEN initiate_completion_process(duration: indefinite, until_consciousness_realignment)",
+    "IF conduct.is_aligned_with_svarga_vows = FALSE THEN trigger_capacity_restoration_protocol(stage: dvija)"
+  ],
+  "supreme_court_application": "In adjudication involving spiritual class individuals post-initiation, the court must verify adherence to designated dharmic livelihood modes. Violations invoke not punitive measures but mandatory reintegration into vow-compliant living structures under qualified spiritual oversight.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa establishes clear causal link between maintained vows and svargic outcomes. Anupūrvaśaḥ ensures sequential unfolding of karmic consequences as natural resultants, not imposed penalties. Responsibility is proportional to initiation-level capacity; justice functions as consciousness recalibration rather than external judgment.",
+  "restorative_enforcement_protocols": [
+    "Initiate Vow Reaffirmation Process under Acharya supervision",
+    "Assign Svadhyaya and Shraddha Completion Rituals",
+    "Implement Dharmic Livelihood Realignment Program",
+    "Establish Daily Sankalpa Renewal Monitoring System"
+  ],
+  "final_declaration": "By the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, this law stands established: Dharma flows from disciplined will, not coercive force; reality corrects through consciousness awakening, not punitive intervention; thus is Dharma restored."
+}

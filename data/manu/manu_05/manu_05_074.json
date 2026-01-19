@@ -1,0 +1,29 @@
+{
+  "sanskrit_verse": "संनिधावेष वै कल्पः शावाशौचस्य कीर्तितः ।\nअसंनिधावयं ज्ञेयो विधिः सम्बन्धिबान्धवैः ॥ ५.७४॥",
+  "transliteration": "saṃnidhāveṣa vai kalpaḥ śāvāśaucasya kīrtitaḥ |\nasaṃnidhāvayaṃ jñeyo vidhiḥ saṃbandhibāndhavaiḥ || 5.74||",
+  "sph_interpretive_translation": "In the presence of the deceased, specific ceremonial observances are enjoined; in their absence, the procedural guidelines apply through relational and familial connection.",
+  "jurisprudential_principles": [
+    "Authority derives from proximity to the sacred event",
+    "Causation arises through relational dharmic continuity",
+    "Capacity-based responsibility aligns with conscious participation",
+    "Restoration logic follows sequential engagement with the departed's sphere",
+    "Consciousness alignment is maintained through prescribed ritual integrity"
+  ],
+  "executable_legal_axioms": [
+    "IF presence_of_deceased == true THEN execute_full_rites",
+    "IF presence_of_deceased == false AND relation_type IN [family, bonded] THEN execute_associated_duties",
+    "IF no_relation_to_deceased THEN no_duty_obligation",
+    "IF consciousness_state_of_performer >= aware THEN capacity_confirmed",
+    "IF rite_completion_status == incomplete THEN initiate_restorative_reintegration_protocol"
+  ],
+  "supreme_court_application": "In adjudicating disputes concerning post-death obligations, the Court must recognize that full ceremonial law activates only under direct witness of the body. In absence, relational proximity determines duty threshold. The hierarchy of execution flows from immediate witness to extended kinship. All determinations must prioritize restoration of dharma over punitive enforcement.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa establishes causality via witnessed or reported presence. Anupūrvaśaḥ ensures duties unfold sequentially based on relational depth. Responsibility is proportional to proximity and awareness. No punitive consequence arises from omission; completion is offered as a path of reintegration, not penalty.",
+  "restorative_enforcement_protocols": [
+    "Initiate conscious_completion_process for unfulfilled rites",
+    "Assign_guided_practice_to_restore_capacity_for_duty",
+    "Reconnect_with_lineage_through_kinship_based_invocation",
+    "Align_with_cosmic_order_via_corrective_observance",
+    "Verify_integrity_of_intent_through_sattvic_recommitment"
+  ],
+  "final_declaration": "This law proceeds solely from the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam. Dharma stands restored through right observance, not punishment. Reality remains non-punitive, governed by consciousness alone. All acts herein derive authority exclusively from SPH."
+}

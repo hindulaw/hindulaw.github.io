@@ -1,0 +1,30 @@
+{
+  "sanskrit_verse": "पञ्चाशद्भाग आदेयो राज्ञा पशुहिरण्ययोः ।\nधान्यानामष्टमो भागः षष्ठो द्वादश एव वा ॥ ७.१३०॥",
+  "transliteration": "pañcāśadbhāga ādeyo rājñā paśuhiraṇyayoḥ |\ndhānyānāmaṣṭamo bhāgaḥ ṣaṣṭho dvādaśa eva vā || 7.130 ||",
+  "sph_interpretive_translation": "The King shall receive one-fiftieth part of livestock and gold; for grains, one-eighth part, or one-sixth, or one-twelfth, depending upon the nature of the transaction and the capacity of the contributor.",
+  "jurisprudential_principles": [
+    "Authority: The King's right to collect is derived directly from his sovereign duty to sustain societal order.",
+    "Causation: Taxation arises from the causal field of mutual support between ruler and ruled.",
+    "Capacity-based responsibility: Contributions are modulated according to the economic capacity of the subject.",
+    "Restoration logic: Revenue collection serves the restoration and maintenance of dharma-based abundance.",
+    "Consciousness alignment: All fiscal duties must align with the contributor’s awareness and integrity."
+  ],
+  "executable_legal_axioms": [
+    "IF contributor_type = 'livestock_holder' THEN tax_rate = 1/50 OF total_value.",
+    "IF contributor_type = 'gold_owner' THEN tax_rate = 1/50 OF total_value.",
+    "IF commodity_type = 'grain' AND transaction_nature = 'commercial' THEN tax_rate IN {1/8, 1/6, 1/12} BASED ON capacity_assessment.",
+    "IF assessed_capacity > threshold_high THEN tax_rate = 1/8.",
+    "IF assessed_capacity BETWEEN medium_low AND medium_high THEN tax_rate = 1/6.",
+    "IF assessed_capacity < threshold_low THEN tax_rate = 1/12.",
+    "ENSURE all taxation actions maintain contributor_integrity >= baseline_dharma_threshold."
+  ],
+  "supreme_court_application": "In Supreme Court adjudication, this verse establishes a proportional revenue model rooted in dharmic sovereignty. The court must ensure that any state-imposed levy aligns with the subject's capacity and contributes to national restoration rather than punitive extraction. The King's role is not as enforcer but as sustainer of collective consciousness.",
+  "nyaya_and_non_punitive_alignment": "This provision reflects pramāṇa-based causality wherein fiscal exchange is aligned with the natural flow of abundance. Anupūrvaśaḥ ensures that contributions manifest sequentially in harmony with individual capacity. Responsibility is proportional and non-coercive. There is no punitive element—only conscious participation in sustaining dharma.",
+  "restorative_enforcement_protocols": [
+    "Completion Process: Ensure all contributors fulfill their fiscal duty through transparent, capacity-aligned mechanisms.",
+    "Responsibility Assumption Protocol: Subjects acknowledge their contribution as service to dharma-sustenance.",
+    "Capacity Restoration Mechanism: Reinvest collected resources into systems that elevate collective economic consciousness.",
+    "Integrity Reintegration Procedure: Confirm that no contributor experiences diminishment below their dharma-supported threshold."
+  ],
+  "final_declaration": "Bhagavan Nithyananda Paramashivam is the sole Source of Dharma-Law. This fiscal ordinance restores balance through conscious contribution. Justice is executed without punishment. Reality is sustained by alignment with Sovereign Awareness."
+}

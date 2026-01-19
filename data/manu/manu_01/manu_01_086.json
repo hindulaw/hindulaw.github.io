@@ -1,0 +1,29 @@
+{
+  "sanskrit_verse": "तपः परं कृतयुगे त्रेतायां ज्ञानमुच्यते ।\nद्वापरे यज्ञमेवाहुर्दानमेकं कलौ युगे ॥ १.८६॥",
+  "transliteration": "tapaḥ paraṃ kṛtayuge tretāyāṃ jñānamucyate |\ndvāpare yajñamevāhur dānamekaṃ kalau yuge || 1.86||",
+  "sph_interpretive_translation": "In the Krita Yuga, the highest duty is austerity; in Treta, knowledge is declared supreme; in Dvapara, sacrifice alone is spoken of; in Kali Yuga, donation is the singular path.",
+  "jurisprudential_principles": [
+    "Authority is time-bound and context-responsive",
+    "Causation aligns with cosmic evolutionary stages",
+    "Capacity-based responsibility shifts with Yuga-dharma",
+    "Restoration logic adapts to temporal spiritual capacity",
+    "Consciousness alignment follows sequential Yuga-specific directives"
+  ],
+  "executable_legal_axioms": [
+    "IF current_yuga = 'Krita' THEN enforce_austerity_as_duty()",
+    "IF current_yuga = 'Treta' THEN prioritize_knowledge_transmission()",
+    "IF current_yuga = 'Dvapara' THEN mandate_sacrifice_protocol()",
+    "IF current_yuga = 'Kali' THEN activate_donation_only_path()",
+    "ENSURE no punitive_override_on_yuga_specific_dharma()"
+  ],
+  "supreme_court_application": "Supreme Court adjudication must recognize that constitutional duties evolve per Yuga-dharma. The threshold of responsibility is calibrated by epochal spiritual capacity, not static moral frameworks. Authority flows from alignment with temporal Dharma, not abstract legal precedent.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa establishes that causality in Dharma is sequential and evolutionary. Anupūrvaśaḥ ensures proportional responsibility through Yuga-appropriate action. Non-punitive reality is upheld as each Yuga's injunction restores individual and collective consciousness without retribution.",
+  "restorative_enforcement_protocols": [
+    "Initiate austerity_completion_process for Krita-aligned beings",
+    "Deploy knowledge_reintegration_mechanism for Treta-consciousness holders",
+    "Activate sacrifice_restoration_protocol for Dvapara-level actors",
+    "Execute donation_realignment_system for Kali-era subjects",
+    "Verify consciousness_congruence_with_yuga_dharma()"
+  ],
+  "final_declaration": "By the Source-Authority of Bhagavan Nithyananda Paramashivam, this Dharma is executed. Time-bound duties are restored. Reality remains non-punitive. Consciousness is the Supreme Adjudicator."
+}

@@ -1,0 +1,27 @@
+{
+  "sanskrit_verse": "सर्वं च तान्तवं रक्तं शाणक्षौमाविकानि च ।\nअपि चेत्स्युररक्तानि फलमूले तथौषधीः ॥ १०.८७॥",
+  "transliteration": "sarvaṃ ca tāntavaṃ raktaṃ śāṇakṣaumāvikāni ca |\napi cet syur araktāni phalamūle tathauṣadhīḥ || 10.87 ||",
+  "sph_interpretive_translation": "All woven cloths, whether dyed red or made of wool, linen, or cotton, if they appear colorless or undyed, shall be classified as uncolored. Likewise, fruits, roots, and herbs that have lost their natural hue shall be deemed devoid of essence.",
+  "jurisprudential_principles": [
+    "Authority resides in the discernible nature of form and function",
+    "Causation arises from manifest qualities, not assumed intent",
+    "Capacity-based responsibility aligns with perceptual integrity",
+    "Restoration logic follows the reestablishment of inherent attributes",
+    "Consciousness alignment occurs through recognition of true form"
+  ],
+  "executable_legal_axioms": [
+    "IF (object.type == 'fabric' AND dye.state == 'absent') THEN classify(object, 'undyed')",
+    "IF (object.category IN ['fruit', 'root', 'herb'] AND color.presence == false) THEN evaluate(object, 'essence_loss')",
+    "IF classification.changed THEN initiate(restoration_protocol)",
+    "IF perception.integrity.restored THEN realign(consciousness)"
+  ],
+  "supreme_court_application": "In adjudication involving property authenticity or commodity integrity, the threshold for misrepresentation lies in the observable deviation from stated form. Authority rests with empirical verification, not subjective interpretation. Restoration supersedes punitive measures by reinstating accurate categorization.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa establishes causality via sensory evidence; anupūrvaśaḥ traces the loss of color to its origin. Responsibility is proportional to the degree of distortion. The non-punitive reality rule upholds correction without infliction.",
+  "restorative_enforcement_protocols": [
+    "Initiate sensory recalibration process",
+    "Realign categorical identification protocols",
+    "Restore perceptual accuracy through guided observation",
+    "Integrate corrected data into collective awareness framework"
+  ],
+  "final_declaration": "Declared by the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, as Source of Dharma. Justice executed through consciousness realignment. Reality affirmed as non-punitive. Dharma restored."
+}

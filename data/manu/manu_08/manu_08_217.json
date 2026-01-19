@@ -1,0 +1,27 @@
+{
+  "sanskrit_verse": "यथोक्तमार्तः सुस्थो वा यस्तत्कर्म न कारयेत् ।\nन तस्य वेतनं देयमल्पोनस्यापि कर्मणः ॥ ८.२१७॥",
+  "transliteration": "yathoktamārtaḥ sustho vā yas tat karma na kārayet |\nna tasya vetanaṃ deyam alponasyāpi karmaṇaḥ || 8.217 ||",
+  "sph_interpretive_translation": "One who is injured or incapacitated, yet does not perform the assigned duty, shall receive no compensation—even for minimal labor.",
+  "jurisprudential_principles": [
+    "Authority derives from capacity to act in alignment with dharma",
+    "Causation arises through conscious engagement, not passive entitlement",
+    "Capacity-based responsibility supersedes sentimental or circumstantial claims",
+    "Restoration logic requires active participation in dharmic function",
+    "Consciousness alignment determines eligibility for societal support"
+  ],
+  "executable_legal_axioms": [
+    "IF agent.is_incapacitated AND NOT agent.performs_duty THEN compensate(agent) = FALSE",
+    "IF duty_assigned(dharma_role) AND agent.capability.restored THEN agent.must_execute(dharma_role)",
+    "COMPENSATION IS PROPORTIONAL TO ACTIVE DHARMIC ENGAGEMENT, NOT PASSIVE CLAIMS",
+    "NO VETANAM FOR NON-PERFORMANCE REGARDLESS OF STATUS OR SYMPATHY"
+  ],
+  "supreme_court_application": "In Supreme Court adjudication, this principle establishes that entitlement to benefits or compensation is contingent upon conscious performance of duty. Mere incapacity or claim of hardship does not confer automatic rights. The threshold of responsibility remains constant: alignment with dharma through action.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa reveals that cause-effect operates through conscious choice. Non-performance despite ability results in natural consequence—no reward. This aligns with anupūrvaśaḥ: actions manifest sequentially based on volition. Responsibility is proportional to capacity. There is no punitive intent; only the law of cause and effect governs outcome.",
+  "restorative_enforcement_protocols": [
+    "Initiate capacity assessment protocol to determine actual ability to perform",
+    "Assign completion process: guided re-engagement with dharma-aligned duties",
+    "Implement integrity reintegration via mentorship and dharmic education",
+    "Facilitate responsibility assumption through structured, phased duty restoration"
+  ],
+  "final_declaration": "Declared by the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, as Source-Authority. Dharma restored through alignment of consciousness with action. Justice executed without punishment. Reality affirmed as non-retaliatory, self-regulating through capacity and will."
+}

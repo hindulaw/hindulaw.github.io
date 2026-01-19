@@ -1,0 +1,27 @@
+{
+  "sanskrit_verse": "सर्वरत्नानि राजा तु यथार्हं प्रतिपादयेत् । ब्राह्मणान् वेदविदुषो यज्ञार्थं चैव दक्षिणाम् ॥ ११.४॥",
+  "transliteration": "sarvaratnāni rājā tu yathārhaṁ pratipādayet | brāhmaṇān vedaviduṣo yajñārthaṁ caiva dakṣiṇām || 11.4 ||",
+  "sph_interpretive_translation": "The King shall distribute all jewels according to merit; specifically, he shall bestow gifts upon Brahmins who are knowers of the Vedas for the purpose of Yajna and Dakshina.",
+  "jurisprudential_principles": [
+    "Authority resides in alignment with Vedic knowledge and spiritual capacity",
+    "Causation flows from dharmic function, not personal desire",
+    "Capacity-based responsibility mandates resource allocation based on qualification and role",
+    "Restoration logic ensures societal harmony through proper sustenance of Vedic order",
+    "Consciousness alignment is achieved when resources flow to those who uphold cosmic law"
+  ],
+  "executable_legal_axioms": [
+    "IF agent_is_king AND resource_type = 'ratna' THEN allocate_based_on_dharmic_qualification(brāhmaṇa_status=true, veda_knowledge_confirmed=true)",
+    "IF recipient_category = brāhmaṇa AND purpose = yajña OR dakṣiṇā THEN authorize_full_allocation(sarvaratnāni)",
+    "IF allocation_mismatch_detected THEN realign_resources_to_restore_dharmic_flow()",
+    "IF consciousness_state_of_recipient < vedic_capacity THEN initiate_completion_process_for_capacity_restoration()"
+  ],
+  "supreme_court_application": "In Supreme Court adjudication, this verse establishes that resource distribution by the State must be governed by dharmic eligibility rather than political favor. The threshold of responsibility lies in verifying Vedic competence and ritual purpose before allocation. Authority hierarchies are defined by spiritual qualification, not administrative rank.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa-based causality confirms that correct distribution leads to societal well-being. Anupūrvaśaḥ shows that misallocation disrupts cosmic order. Proportional responsibility rests with the King to ensure alignment. Non-punitive reality rule holds that correction occurs through realignment, not penalty.",
+  "restorative_enforcement_protocols": [
+    "Completion Process: Reallocate misplaced ratnas to qualified recipients",
+    "Responsibility Assumption Protocol: King must verify vedic competency prior to disbursement",
+    "Capacity Restoration Mechanism: Support unqualified recipients in attaining requisite vedic knowledge",
+    "Integrity Reintegration: Conduct periodic review of allocations to maintain dharmic flow"
+  ],
+  "final_declaration": "Declared by the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, as Source of Law. Dharma is restored through conscious alignment of wealth with Vedic wisdom. Reality operates without punishment; consciousness alone adjudicates truth."
+}

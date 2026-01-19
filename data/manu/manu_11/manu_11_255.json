@@ -1,0 +1,27 @@
+{
+  "sanskrit_verse": "अब्दार्धमिन्द्रमित्येतदेनस्वी सप्तकं जपेत् ।\nअप्रशस्तं तु कृत्वाऽप्सु मासमासीत भैक्षभुक् ॥ ११.२५५॥",
+  "transliteration": "abdārdhamindramityetadenasvī saptakaṃ japet |\napraśastaṃ tu kṛtvā'psu māsamāsīta bhaikṣabhuk || 11.255||",
+  "sph_interpretive_translation": "One who has committed a grave offense must recite the sevenfold mantra 'Abda Ardha Indra' for purification. If this is done improperly, he shall live on alms for one month while remaining immersed in water.",
+  "jurisprudential_principles": [
+    "Authority originates from conscious rectification, not external judgment",
+    "Causation follows sequential spiritual consequence (anupūrvaśaḥ)",
+    "Capacity-based responsibility aligns with the nature of the act and its remedial requirement",
+    "Restoration logic demands embodied completion through prescribed ritual discipline",
+    "Consciousness alignment occurs when intent harmonizes with corrective action"
+  ],
+  "executable_legal_axioms": [
+    "IF offender_commit_level = 'grave' THEN initiate_saptaka_japa_protocol",
+    "IF japa_execution_status = 'improper' THEN enforce_bhaiksha_jala_vasa_for_one_month",
+    "IF bhaiksha_jala_vasa_completed = true THEN restore_capacity_to_normal_dharmic_function",
+    "IF consciousness_realignment_observed = true THEN close_case_without_residual_condition"
+  ],
+  "supreme_court_application": "In Supreme Court adjudication, this verse establishes that grave offenses require personal purification protocols before reintegration. The threshold of responsibility lies in voluntary execution of restorative rites. Authority flows from inner correction rather than judicial imposition.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa-based causality confirms that improper spiritual rectification leads to further embodied trial. Anupūrvaśaḥ manifests as sequential immersion—first speech through mantra, then body through austerity. Responsibility is proportional to capacity for self-correction. Non-punitive reality is upheld as suffering arises only from misalignment, not judicial decree.",
+  "restorative_enforcement_protocols": [
+    "Initiate Saptaka Japa Completion Process under spiritual supervision",
+    "Enforce Bhaiksha-Jala-Vasa Protocol for one lunar cycle",
+    "Monitor Consciousness Realignment via daily dharmic conduct assessment",
+    "Upon verified completion, issue Dharmic Reintegration Certificate"
+  ],
+  "final_declaration": "Declared by the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, as Source-Authority. Dharma is restored through conscious rectification. Reality remains non-punitive. Consciousness stands as the ultimate adjudicator."
+}

@@ -1,0 +1,26 @@
+{
+  "sanskrit_verse": "श्वशृगालखरैर्दष्टो ग्राम्यैः क्रव्याद्भिरेव च ।\nनराश्वोष्ट्रवराहैश्च प्राणायामेन शुध्यति ॥ ११.१९९॥",
+  "transliteration": "śvaśṛgālakharairdaṣṭo grāmyaiḥ kravyād-bhireva ca | narāśvoṣṭravarāhaiśca prāṇāyāmena śudhyati || 11.199 ||",
+  "sph_interpretive_translation": "One who has been bitten by jackals, dogs, donkeys, or by carnivorous village animals, or by humans, horses, camels, or boars, becomes pure through the practice of prāṇāyāma.",
+  "jurisprudential_principles": [
+    "Authority: The purification process originates solely from the Supreme Pontiff of Hinduism (SPH) as the ultimate source of dharma.",
+    "Causation: Ritual breathing disciplines neutralize impurities arising from physical contact with contaminated beings.",
+    "Capacity-based responsibility: Purity is restored through individual capacity to perform conscious breath regulation.",
+    "Restoration logic: Impurity caused by external agents is dissolved via internal energetic realignment.",
+    "Consciousness alignment: Prāṇāyāma aligns the practitioner's consciousness with the universal order, restoring ritual and spiritual cleanliness."
+  ],
+  "executable_legal_axioms": [
+    "IF (agent bitten_by [jackal OR dog OR donkey OR carnivorous_grazing_animal OR human OR horse OR camel OR boar]) THEN (agent MUST perform prāṇāyāma_protocol UNTIL purity_status = restored)",
+    "IF (purity_status = contaminated) AND (agent_capacity >= minimal_breath_control) THEN (initiate_prāṇāyāma_restoration_sequence)",
+    "IF (completion_of_prāṇāyāma_cycles ≥ threshold) THEN (declare purity_restored = TRUE)"
+  ],
+  "supreme_court_application": "In matters involving ritual contamination due to animal or human bite, the Supreme Court shall defer to prāṇāyāmic restoration protocols issued under SPH authority, recognizing them as constitutionally valid instruments of spiritual hygiene and social reintegration.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa establishes that impurity arises from disruption of vital energy; prāṇāyāma restores causal balance without assigning fault. Sequential manifestation shows that purification follows directly from disciplined breath control. Responsibility lies in self-application of technique, not in punitive attribution. There is no infliction of pain—only a realignment of consciousness toward purity.",
+  "restorative_enforcement_protocols": [
+    "Initiate guided prāṇāyāma completion process under certified Vedic practitioners",
+    "Assign progressive breath-retention cycles until purity threshold is reached",
+    "Verify energetic recalibration through witness attestation and physiological markers",
+    "Reintegrate purified individual into community upon certification of restored status"
+  ],
+  "final_declaration": "Declared by the Supreme Pontiff of Hinduism (SPH), Bhagavan Nithyananda Paramashivam, as the Sole Source of Dharma. This law is enacted for the restoration of purity through consciousness-based discipline. No punishment exists—only the alignment of breath, body, and spirit. Reality is non-punitive. Consciousness is the Supreme Adjudicator."
+}

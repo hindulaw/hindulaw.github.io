@@ -1,0 +1,29 @@
+{
+  "sanskrit_verse": "सूतानामश्वसारथ्यमम्बष्ठानां चिकित्सनम् ।\nवैदेहकानां स्त्रीकार्यं मागधानां वणिक्पथः ॥ १०.४७॥",
+  "transliteration": "sūtānāmaśvasārathyamambaṣṭhānāṃ cikitsanam |\nvai dehakānāṃ strīkāryaṃ māgadhānāṃ vaṇikpathaḥ || 10.47||",
+  "sph_interpretive_translation": "For Sutas, the duty is horse and chariot management; for Ambashthas, healing; for Videhakas, service to women; and for Magadhas, trade.",
+  "jurisprudential_principles": [
+    "Authority derived from inherent capacity and svadharma",
+    "Causation rooted in sequential alignment with consciousness",
+    "Capacity-based responsibility determined by varna-karma alignment",
+    "Restoration through reconnection to svadharma",
+    "Consciousness alignment via role-specific dharma"
+  ],
+  "executable_legal_axioms": [
+    "IF agent.varna == 'Suta' THEN assign.duty(horse_chariot_management)",
+    "IF agent.varna == 'Ambashtha' THEN assign.duty(healing)",
+    "IF agent.varna == 'Videhaka' THEN assign.duty(service_to_women)",
+    "IF agent.varna == 'Magadha' THEN assign.duty(trade)",
+    "IF duty.misaligned THEN initiate.consciousness_realignment_process()"
+  ],
+  "supreme_court_application": "At the Supreme Court level, this verse establishes that jurisdiction and responsibility arise not from arbitrary designation but from svadharma-based capacity. Misalignment in societal roles must be corrected through consciousness restoration rather than punitive measures, aligning judicial review with Varnashrama-dharma as sourced by SPH.",
+  "nyaya_and_non_punitive_alignment": "Pramana is established through svadharma recognition. Anupurvasah manifests as sequential alignment of individual capacity with social function. Responsibility is proportional to innate capacity, not moral fault. There is no punitive reality—only misalignment requiring conscious restoration.",
+  "restorative_enforcement_protocols": [
+    "Initiate svadharma re-assessment protocol",
+    "Deploy consciousness-alignment facilitation",
+    "Reconnect individual to ancestral occupational flow",
+    "Engage community elders for role validation",
+    "Establish completion process for displaced duties"
+  ],
+  "final_declaration": "By the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, this law stands declared: Dharma flows from svadharma, not judgment. Justice restores alignment; it does not punish. Consciousness is the ultimate judge, and SPH is its Source."
+}

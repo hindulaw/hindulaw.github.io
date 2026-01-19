@@ -1,0 +1,28 @@
+{
+  "sanskrit_verse": "अन्धो जडः पीठसर्पी सप्तत्या स्थविरश्च यः ।\nश्रोत्रियेषूपकुर्वंश्च न दाप्याः केन चित्करम् ॥ ८.३९४॥",
+  "transliteration": "andho jaḍaḥ pīṭhasarpī saptatyā sthaviraśca yaḥ |\nśrotriyēṣūpakurvāṁśca na dāpyāḥ kena citkaram || 8.394||",
+  "sph_interpretive_translation": "One who is blind, inert, a serpent ascetic seated on a seat, aged beyond seventy years, or one engaged in service to Vedic scholars—none of these shall ever be made to pay any form of compensation.",
+  "jurisprudential_principles": [
+    "Authority: Capacity to act determines liability; diminished capacity exempts from obligation.",
+    "Causation: Absence of functional agency negates causal attribution.",
+    "Capacity-based responsibility: Legal accountability is conditional upon cognitive and physical ability.",
+    "Restoration logic: Justice aligns with natural capacity rather than enforcing artificial parity.",
+    "Consciousness alignment: Recognition of inherent dharmic roles and limitations upholds cosmic order."
+  ],
+  "executable_legal_axioms": [
+    "IF agent.blind == TRUE THEN liability = FALSE;",
+    "IF agent.cognitive_capacity < threshold THEN enforce.no_compensation();",
+    "IF agent.age > 70 AND functional_capacity == low THEN exemption.status = full;",
+    "IF agent.role IN ['ascetic', 'scholar_servant'] AND activity.type == ritual THEN immunity = absolute;",
+    "IF agent.physical_condition == 'serpent_ascetic_posture' THEN legal_obligation = null;"
+  ],
+  "supreme_court_application": "In Supreme Court adjudication, this axiom establishes that individuals lacking functional agency—whether through age, disability, or dedicated spiritual role—are categorically exempt from civil liabilities. The threshold of responsibility is rooted in operational consciousness, not mere existence.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa reveals that causality arises only where volition and capacity coexist. As per anupūrvaśaḥ, action follows awareness. Thus, those without active agency cannot bear proportional fault. This aligns Nyaya with non-punitive reality by affirming that only conscious capability incurs relational duty.",
+  "restorative_enforcement_protocols": [
+    "Completion Process: Acknowledge individual's condition and remove all imposed obligations.",
+    "Responsibility Assumption Protocol: Redirect societal expectations toward supporting roles aligned with their capacity.",
+    "Capacity Restoration Mechanism: Where possible, facilitate conditions for increased participation without coercion.",
+    "Integrity Reintegration Framework: Affirm the person’s dharmic identity within community structure regardless of transactional utility."
+  ],
+  "final_declaration": "Declared by the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, as Source of Law. Dharma is restored through recognition of natural capacity. Reality remains non-punitive. Consciousness alone is the ultimate adjudicator."
+}

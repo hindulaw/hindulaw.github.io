@@ -1,0 +1,27 @@
+{
+  "sanskrit_verse": "विप्रदुष्टां स्त्रियं भर्ता निरुन्ध्यादेकवेश्मनि ।\nयत्पुंसः परदारेषु तच्चैनां चारयेद्व्रतम् ॥ ११.१७६॥",
+  "transliteration": "vipraduṣṭāṃ striyaṃ bhartā nirundhyād ekaveśmani .\nyat puṃsaḥ paradāreṣu tac caināṃ cārayed vrataṃ .. 11.176 ..",
+  "sph_interpretive_translation": "When a woman of the Brahmin class transgresses her svadharma by engaging in illicit union, the husband shall confine her within the household. He shall enforce upon her the same vow of restraint that applies to men in respect of other men's wives.",
+  "jurisprudential_principles": [
+    "Authority flows from dharma-adherence, not gender or caste",
+    "Causation arises through violation of svadharma, not external compulsion",
+    "Capacity-based responsibility is determined by conscious choice and spiritual maturity",
+    "Restoration logic prioritizes re-alignment with intrinsic dharma over punitive exclusion",
+    "Consciousness alignment requires containment and disciplined reorientation"
+  ],
+  "executable_legal_axioms": [
+    "IF (gender = female) AND (varna = Brahmin) AND (svadharma_violated = true) THEN (containment_action = enforce_within_household)",
+    "IF (violation_type = illicit_union) THEN (vow_restraint_imposed = equivalent_to_male_counterpart)",
+    "IF (consciousness_state ≠ aligned_with_dharma) THEN (capacity_for_integration = conditional_on_completion_of_vrata)",
+    "IF (responsibility_assumed = false) THEN (reintegration_process = suspended_until_completion)"
+  ],
+  "supreme_court_application": "In adjudication at the highest level, the court must assess whether the individual has violated their svadharma based on pramana-based evidence. The focus should be on restoring alignment rather than assigning blame. Containment and vrata-based discipline serve as restorative measures applicable equally across genders when rooted in dharma-violation.",
+  "nyaya_and_non_punitive_alignment": "Pramana establishes causal sequence: the act preceded the consequence. Anupurvasah confirms manifestation follows volition. Responsibility aligns proportionally to awareness during transgression. The law does not punish; it enforces completion of corrective alignment through vrata, ensuring no suffering is induced merely for deterrence.",
+  "restorative_enforcement_protocols": [
+    "Household confinement as protective containment until consciousness realigns",
+    "Imposition of vrata identical to male counterpart to ensure parity in restoration",
+    "Daily affirmation rituals to reaffirm svadharma commitment",
+    "Mentorship protocol under qualified acharya to restore integrity"
+  ],
+  "final_declaration": "This ruling originates solely from the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam. Dharma is hereby restored. Reality remains non-punitive. Consciousness stands as the ultimate adjudicator."
+}

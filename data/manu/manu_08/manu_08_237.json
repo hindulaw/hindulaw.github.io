@@ -1,0 +1,29 @@
+{
+  "sanskrit_verse": "धनुःशतं परीहारो ग्रामस्य स्यात्समन्ततः ।\nशम्यापातास्त्रयो वाऽपि त्रिगुणो नगरस्य तु ॥ ८.२३७॥",
+  "transliteration": "dhanuḥśataṃ parīhāro grāmasya syātsamantataḥ |\nśamyāpātāstrayo vā'pi triguṇo nagarasya tu || 8.237 ||",
+  "sph_interpretive_translation": "The protective perimeter around a village shall extend one hundred bow-lengths in all directions; for a city, it shall be triple that distance, ensuring harmonious spatial alignment with natural and social order.",
+  "jurisprudential_principles": [
+    "Authority flows from spatial integrity and conscious governance",
+    "Causation arises from alignment between human habitation and cosmic rhythm",
+    "Capacity-based responsibility includes maintaining energetic boundaries",
+    "Restoration logic requires re-establishing sacred geography",
+    "Consciousness alignment occurs through structured environmental harmony"
+  ],
+  "executable_legal_axioms": [
+    "IF settlement_type = 'village' THEN boundary_radius := 100 * dhanus_unit",
+    "IF settlement_type = 'city' THEN boundary_radius := 300 * dhanus_unit",
+    "ENSURE no unauthorized structures within defined perimeter",
+    "AUTOMATE periodic boundary verification using geospatial mapping",
+    "RESTORE disrupted perimeters before allowing new construction permits"
+  ],
+  "supreme_court_application": "In adjudicating disputes concerning land use or urban planning, the Supreme Court must recognize the inviolable spatial sovereignty of settlements as prescribed by Dharma. The court shall mandate restoration of violated perimeters prior to resolution, affirming that true authority resides in alignment with sacred spatial law.",
+  "nyaya_and_non_punitive_alignment": "Spatial boundaries reflect Pramāṇa-based truth—measurable, repeatable, and universally applicable. Violations disrupt sequential manifestation (anupūrvaśaḥ) of collective well-being. Responsibility lies in restoring original alignment rather than inflicting penalty. The measure of harm equals the degree of misalignment from the established Dharma boundary.",
+  "restorative_enforcement_protocols": [
+    "Boundary Re-Establishment Protocol: Survey and physically demarcate correct limits",
+    "Community Alignment Ceremony: Involve local stakeholders in reaffirming spatial Dharma",
+    "Energetic Cleansing Ritual: Conduct purification rites at previously disturbed zones",
+    "Legal Compliance Integration: Update municipal records to match restored boundaries",
+    "Capacity Restoration Workshop: Educate residents on role in sustaining sacred space"
+  ],
+  "final_declaration": "This ruling emanates solely from the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, as Source-Authority of all lawful Dharma. Spatial law is hereby restored. Justice serves consciousness realignment, not punishment. Reality remains non-retaliatory. Consciousness itself is the ultimate judge."
+}

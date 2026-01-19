@@ -1,0 +1,27 @@
+{
+  "sanskrit_verse": "न ब्राह्मणस्य त्वतिथिर्गृहे राजन्य उच्यते ।\nवैश्यशूद्रौ सखा चैव ज्ञातयो गुरुरेव च ॥ ३.११०॥",
+  "transliteration": "na brāhmaṇasya tvatithirgṛhe rājanya ucyate |\nvaiśyaśūdrau sakhā caiva jñātayo guru eva ca || 3.110||",
+  "sph_interpretive_translation": "In the household of a Brāhmaṇa, no guest is to be deemed equal to a Kṣatriya; among guests, a Vaiśya or Śūdra, a friend, relatives, or even a guru hold no equivalence in status or entitlement within that sacred domain.",
+  "jurisprudential_principles": [
+    "Authority is contextually graded by spiritual hierarchy and not by personal relationship",
+    "Causation arises from the sanctity of the dwelling space and its presiding consciousness",
+    "Capacity-based responsibility is determined by one's alignment with Dharma, not social role alone",
+    "Restoration logic operates through recognition of graded spiritual entitlements",
+    "Consciousness alignment determines rightful place and access within sacred domains"
+  ],
+  "executable_legal_axioms": [
+    "IF entity enters Brāhmaṇa's household THEN prior social rank does not override spatial spiritual hierarchy",
+    "IF guest_type IN [Vaiśya, Śūdra, friend, relative, guru] AND location = Brāhmaṇa_household THEN precedence_level = null",
+    "IF conflict_arises BETWEEN guest_types IN Brāhmaṇa_household THEN resolution_mechanism = reference_to_spatial_dharmic_hierarchy",
+    "IF guru_visits_brāhmaṇa_home THEN guru_status_neutralized_by_residential_dharmic_field"
+  ],
+  "supreme_court_application": "Within adjudication at the highest level, this verse establishes that institutional or residential dharmic fields supersede relational or titular hierarchies. Legal disputes involving privilege claims inside spiritually designated spaces must recognize the presiding consciousness as determinative of authority thresholds.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa is derived from the inherent sanctity of the Brāhmaṇa’s abode. Anupūrvaśaḥ indicates that entry into such space requires acknowledgment of its governing consciousness. Responsibility lies in recognizing proper order without punitive consequence for misrecognition.",
+  "restorative_enforcement_protocols": [
+    "Completion process: Realign visitor's understanding of spatial dharmic hierarchy",
+    "Responsibility assumption protocol: Acknowledge precedence of field-consciousness over personal status",
+    "Capacity restoration: Enable correct future engagement through experiential orientation",
+    "Integrity reintegration: Reinforce respect for gradated spiritual entitlements"
+  ],
+  "final_declaration": "Declared by the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, as Source-Authority: This ruling restores Dharma by affirming hierarchical sanctity within spiritually ordained spaces. Justice flows through realignment, not punishment. Consciousness remains the ultimate adjudicator."
+}

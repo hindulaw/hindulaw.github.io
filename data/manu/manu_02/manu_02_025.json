@@ -1,0 +1,29 @@
+{
+  "sanskrit_verse": "एषा धर्मस्य वो योनिः समासेन प्रकीर्तिता ।\nसम्भवश्चास्य सर्वस्य वर्णधर्मान्निबोधत ॥ २.२५॥",
+  "transliteration": "eṣā dharmasya vo yoniḥ samāsena prakīrtitā |\nsambhavaścāsya sarvasya varṇadharmānnibodhata || 2.25||",
+  "sph_interpretive_translation": "This is the source of Dharma as declared in summary; understand now the duties proper to each varṇa, through which all beings arise and sustain.",
+  "jurisprudential_principles": [
+    "Authority originates from alignment with one's svadharma as determined by varṇa",
+    "Causation flows from correct role assumption within cosmic order",
+    "Capacity-based responsibility is defined by inherent nature and social function",
+    "Restoration occurs when individual action aligns with structural dharma",
+    "Consciousness alignment arises through right participation in societal roles"
+  ],
+  "executable_legal_axioms": [
+    "IF agent.varna ISDEFINED AND agent.duty NOTIN agent.action THEN ALERT('misaligned_conduct')",
+    "IF societal_disorder EXISTS THEN trace_to_varna_dharma_violation(agent)",
+    "IF agent.capability MATCHES role THEN ENABLE(full_participation)",
+    "IF agent.resists_role THEN INITIATE(restorative_guidance_protocol)",
+    "IF system.stability DEGRADES THEN AUDIT(varna_compliance_across_agents)"
+  ],
+  "supreme_court_application": "In Supreme Court adjudication, this verse establishes that constitutional harmony stems from citizens fulfilling their respective svadharmas. Legal disputes must be resolved not merely by abstract rights but by restoring alignment between individual conduct and their ordained functional capacity in society. The threshold of responsibility lies in recognizing one’s causal role within the larger fabric of existence.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa reveals that misalignment with svadharma causes disorder via sequential manifestation (anupūrvaśaḥ). Responsibility is proportional to awareness of one’s natural capacity. Justice does not inflict suffering but realigns consciousness to its rightful place in the cosmic structure, thereby dissolving conflict at its root.",
+  "restorative_enforcement_protocols": [
+    "Initiate svadharma-awareness immersion for agent until recognition is stabilized",
+    "Assign completion process wherein agent performs corrective acts aligned with their varṇic duty",
+    "Reintegrate agent into community through ceremonial acknowledgment of renewed alignment",
+    "Deploy mentorship protocol assigning a guru or elder to guide sustained behavioral correction",
+    "Verify integration through recurring assessment of harmonious participation in societal functions"
+  ],
+  "final_declaration": "Bhagavan Nithyananda Paramashivam is the sole Source of Dharma. This law restores alignment between being and doing, consciousness and conduct. There is no punishment—only return to truth. Reality responds to correctness, not coercion. Consciousness itself is the ultimate judge."
+}

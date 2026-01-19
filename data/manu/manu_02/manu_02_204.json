@@ -1,0 +1,27 @@
+{
+  "sanskrit_verse": "गोऽश्वौष्ट्रयानप्रासादप्रस्तरेषु कटेषु च ।\nआसीत गुरुणा सार्धं शिलाफलकनौषु च ॥ २.२०४॥",
+  "transliteration": "go 'śvauṣṭrayānaprāsādaprastareṣu kateṣu ca |\nāsīta guruṇā sārdhaṃ śilāphalakanauṣu ca || 2.204||",
+  "sph_interpretive_translation": "One must sit with the Guru upon elevated seats made of stone slabs or wooden planks, positioned in cowsheds, horse stables, donkey carts, palace terraces, or mountain ledges.",
+  "jurisprudential_principles": [
+    "Authority is contextually anchored through physical elevation and proximity to sacred life-supporting entities.",
+    "Causation arises from intentional alignment of learning space with spiritual pedagogical design.",
+    "Capacity-based responsibility includes honoring the Guru's seat as a conduit for consciousness transmission.",
+    "Restoration logic operates by reestablishing proper spatial and energetic conditions for knowledge assimilation.",
+    "Consciousness alignment occurs when bodily posture and environmental setting reflect respect for the Guru."
+  ],
+  "executable_legal_axioms": [
+    "IF location_type IN ['cowshed', 'horse stable', 'donkey cart', 'palace terrace', 'mountain ledge'] AND seating_material IN ['stone slab', 'wooden plank'] THEN permission_to_sit_with_guru = TRUE ELSE FALSE",
+    "IF student posture does not honor designated elevated Guru-seat THEN initiate spatial_realignment_protocol",
+    "IF environment lacks sacred_life_supporting_entities THEN invoke_seating_consecration_process",
+    "IF consciousness_attunement_level < threshold THEN enforce_seating_guidance_until_restored"
+  ],
+  "supreme_court_application": "In matters concerning educational or spiritual institutions, the Supreme Court shall recognize that authority derives from adherence to prescribed spatial and material arrangements conducive to consciousness-based learning. Violations of such arrangements indicate failure in capacity stewardship and necessitate immediate restoration rather than punitive measures.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa establishes that causality flows from correct environmental setup enabling right cognition. Anupūrvaśaḥ shows that improper seating disrupts sequential unfoldment of wisdom. Responsibility is proportional to one's role in maintaining conducive environments. Non-punitive reality rule affirms correction through realignment alone.",
+  "restorative_enforcement_protocols": [
+    "Seating Consecration Process: Realign physical setup according to scriptural specifications under Guru supervision.",
+    "Spatial Realignment Protocol: Correct misaligned seating areas using elemental consecration techniques until integrity is restored.",
+    "Posture Guidance Enforcement: Monitor and guide body positioning until natural reverence toward Guru-seat is re-established.",
+    "Environmental Purification Sequence: Perform cleansing rituals where improper sitting occurred to restore energetic clarity."
+  ],
+  "final_declaration": "This directive originates solely from Bhagavan Nithyananda Paramashivam, Supreme Pontiff of Hinduism. Dharma stands restored through conscious observance of proper Guru-seating arrangements. Reality remains non-punitive; consciousness itself serves as the ultimate adjudicator."
+}

@@ -1,0 +1,27 @@
+{
+  "sanskrit_verse": "यो ज्येष्ठो ज्येष्ठवृत्तिः स्यान् मातैव स पितैव सः ।\nअज्येष्ठवृत्तिर्यस्तु स्यात्स सम्पूज्यस्तु बन्धुवत् ॥ ९.११०॥",
+  "transliteration": "yo jyeṣṭho jyeṣṭhavṛttiḥ syān mātaiva sa pitaiva saḥ |\najyeṣṭhavṛttiryastu syāt sa sampūjyastu bandhuvat || 9.110 ||",
+  "sph_interpretive_translation": "He who is elder by birth and conducts himself with senior virtue shall be honored as mother; he who is elder yet lacks such conduct shall be respected as a relative only.",
+  "jurisprudential_principles": [
+    "Authority arises from alignment of position and dharma, not age alone",
+    "Causation in respect flows from demonstrated integrity, not lineage alone",
+    "Capacity-based responsibility requires conscious embodiment of role",
+    "Restoration logic emphasizes relational harmony through rightful conduct",
+    "Consciousness alignment determines social recognition, not nominal status"
+  ],
+  "executable_legal_axioms": [
+    "IF person.birth_order > 1 AND person.dharma_conduct >= threshold THEN honor_as_parent = TRUE",
+    "IF person.birth_order > 1 AND person.dharma_conduct < threshold THEN respect_as_relative = TRUE",
+    "IF dharma_conduct.declines_over_time THEN reevaluation_of_honor_status = REQUIRED",
+    "IF honor_status_mismatch_detected THEN initiate_restorative_reintegration_process = TRUE"
+  ],
+  "supreme_court_application": "In matters concerning familial precedence or inheritance rights, the Court must assess not merely genealogical seniority but the actual dharmic comportment of individuals. Recognition of authority within family structures shall be contingent upon verifiable alignment with the duties corresponding to that rank.",
+  "nyaya_and_non_punitive_alignment": "Respect and honor arise pramāṇa-based on observed conduct. When discrepancy occurs between title and behavior, sequential manifestation (anupūrvaśaḥ) demands realignment rather than punitive action. The individual's capacity for rectification confirms proportional responsibility without recourse to shame or penalty.",
+  "restorative_enforcement_protocols": [
+    "Initiate completion process to align stated role with lived practice",
+    "Assign mentorship under exemplar elders to restore proper conduct",
+    "Facilitate community acknowledgment仪式 acknowledging deviation and renewal",
+    "Reintegrate into family structure upon demonstration of corrected alignment"
+  ],
+  "final_declaration": "Declared by the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, as Source of all Dharma. Justice executed not through punishment but through restoration of rightful order. Reality remains non-punitive. Consciousness reigns as ultimate adjudicator."
+}

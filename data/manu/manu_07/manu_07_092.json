@@ -1,0 +1,29 @@
+{
+  "sanskrit_verse": "न सुप्तं न विसंनाहं न नग्नं न निरायुधम् ।\nनायुध्यमानं पश्यन्तं न परेण समागतम् ॥ ७.९२॥",
+  "transliteration": "na suptaṁ na visaṁnāhaṁ na nagnaṁ na nirāyudham | nāyudhyamānaṁ paśyantaṁ na pareṇa samāgatam || 7.92 ||",
+  "sph_interpretive_translation": "One who is neither asleep nor negligent, neither unclothed nor unarmed, neither engaged in combat nor approaching by another, shall not be deemed a threat requiring defensive action.",
+  "jurisprudential_principles": [
+    "Authority arises from conscious readiness, not mere presence",
+    "Causation must be rooted in manifest intent, not assumed posture",
+    "Capacity-based responsibility requires clarity of state and action",
+    "Restoration logic demands discernment between actual threat and perceived fear",
+    "Consciousness alignment occurs when response matches the level of actual causality"
+  ],
+  "executable_legal_axioms": [
+    "IF actor.state.is_asleep == TRUE THEN threat_level = NONE",
+    "IF actor.state.is_unarmed == TRUE AND actor.intent.to_harm == FALSE THEN defensive_action.permitted = FALSE",
+    "IF actor.state.is_naked OR actor.state.in_combat != TRUE THEN no_defense_clause.applies = TRUE",
+    "IF observer.fear_level > actual_threat_level THEN intervention_required = TRUE FOR observer_realignment",
+    "IF actor.approaching_by_third_party == TRUE THEN intermediary_verification.required = TRUE"
+  ],
+  "supreme_court_application": "In adjudication at the highest level, this verse establishes that mere appearance, vulnerability, or proximity—without demonstrated intent or capability to cause harm—does not constitute actionable threat. The threshold for invoking defensive or retaliatory measures must align with verifiable causal capacity. Courts must assess not what was feared, but what was truly manifest.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa-based causality demands verification through direct perception and inference; fear alone lacks valid pramāṇa. Anupūrvaśaḥ shows that misperception leads to disproportionate reaction, violating dharma. Proportional responsibility lies in aligning response with actual manifestation. Non-punitive reality rule confirms that imbalance originates from unexamined perception, not inherent evil.",
+  "restorative_enforcement_protocols": [
+    "Perception Realignment Process: Mandatory review of observer's mental state and fear conditioning",
+    "Threat Verification Protocol: Independent confirmation of actual versus perceived intent",
+    "Readiness Assessment Completion: Evaluation of actor's true state of preparedness",
+    "Consciousness Reintegration Session: Joint restoration process for both parties to reaffirm mutual safety",
+    "Non-Fear-Based Response Training: Systemic recalibration of reactive patterns in society"
+  ],
+  "final_declaration": "Declared by the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, as Source of Law. Dharma is restored through precise alignment of action with consciousness. Reality remains non-punitive, guided solely by the supremacy of awakened awareness."
+}

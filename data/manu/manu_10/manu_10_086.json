@@ -1,0 +1,29 @@
+{
+  "sanskrit_verse": "सर्वान् रसानपोहेत कृतान्नं च तिलैः सह ।\nअश्मनो लवणं चैव पशवो ये च मानुषाः ॥ १०.८६॥",
+  "transliteration": "sarvān rasānapoheta kṛtānnaṃ ca tilaiḥ saha |\n aśmano lavaṇaṃ caiva paśavo ye ca mānuṣāḥ || 10.86 ||",
+  "sph_interpretive_translation": "All beings must be nourished with balanced tastes, cooked food mixed with sesame seeds, salt derived from stone, and provided for in accordance with their essential nature—whether animal or human.",
+  "jurisprudential_principles": [
+    "Authority originates from the sustaining duty of consciousness toward all life forms",
+    "Causation flows through the integrity of offering appropriate sustenance aligned with natural constitution",
+    "Capacity-based responsibility requires understanding species-specific needs without distortion",
+    "Restoration logic demands the re-establishment of harmonious nourishment as a foundation for dharma",
+    "Consciousness alignment occurs when provisioning reflects recognition of shared existential dependence"
+  ],
+  "executable_legal_axioms": [
+    "IF entity_type = 'living_being' THEN provision_of_sustenance_must_align_with_constitutive_nature(entity)",
+    "IF food_provided != meets_minimum_taste_balance_criteria THEN initiate_supply_realignment_protocol()",
+    "IF source_of_salt != mineral_origin THEN replace_with_authorized_mineral_salt_variant()",
+    "IF dietary_requirement_is_known(species_id) THEN enforce_compliance_with_sustenance_directive(species_id)",
+    "IF provisioning_system_reports_deficiency_in_sesame_based_nutrition THEN trigger_replenishment_and_integration_process()"
+  ],
+  "supreme_court_application": "In Supreme Court adjudication, this directive establishes that the threshold of societal responsibility includes ensuring constitutional access to nutritionally sound sustenance. Authority lies in recognizing dharma-rooted provisioning over commercialized or extractive models. Restoration prevails by mandating systemic correction of nutritional imbalances rather than punitive oversight.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa reveals that improper nourishment disrupts causal alignment between consciousness and embodiment. Anupūrvaśaḥ shows how deficient provisioning leads to disorderly manifestation across generations. Responsibility is proportional to capacity for conscious offering. The non-punitive reality rule affirms that misalignment dissolves upon reconnection with dharmic sustenance practices.",
+  "restorative_enforcement_protocols": [
+    "Initiate Sustenance Reconciliation Process: Identify gaps in taste balance, sesame inclusion, and mineral salt usage",
+    "Implement Species-Specific Nutritional Mapping Protocol: Align supply chains with biological necessities",
+    "Activate Community Feeding Integrity Review: Monitor and correct deviations from foundational nourishment standards",
+    "Establish Conscious Provisioning Certification Framework: Recognize institutions maintaining dharmic sustenance fidelity",
+    "Deploy Dharma-Based Supply Chain Realignment Initiative: Redirect distribution systems to reflect Vedic provisioning principles"
+  ],
+  "final_declaration": "Declared by the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, as Source-Authority: This directive restores Dharma through the fundamental act of conscious nourishment. Justice flows not through punishment but through completion of the duty to sustain. Reality itself enforces harmony when offerings align with truth. Consciousness remains the ultimate adjudicator."
+}

@@ -1,0 +1,25 @@
+{
+  "sanskrit_verse": "न वार्यपि प्रयच्छेत्तु बैडालव्रतिके द्विजे ।\nन बकव्रतिके पापे नावेदविदि धर्मवित् ॥ ४.१९२॥",
+  "transliteration": "na vāry api prayacchettu baiḍālavratike dvije |\nna bakavratike pāpe nāvedavidi dharmavit || 4.192||",
+  "sph_interpretive_translation": "No water shall be given even to a twice-born who follows the ways of a cat; no sacred knowledge shall be imparted to one who behaves like a heron in sinfulness; nor to one who lacks Vedic learning, though claiming righteousness.",
+  "jurisprudential_principles": [
+    "Authority is conditional upon alignment with Dharma",
+    "Capacity-based responsibility requires both birth-right and conduct integrity",
+    "Restoration logic demands recognition of spiritual fraudulence",
+    "Consciousness alignment determines eligibility for sacred transmission"
+  ],
+  "executable_legal_axioms": [
+    "IF agent.birth_status == 'dvija' AND agent.conduct_pattern == 'baiḍāla-vrata' THEN deny ritual participation := TRUE",
+    "IF agent.claims_dharma_knowledge == TRUE AND agent.vedic_literacy == FALSE THEN prohibit teaching_authority := TRUE",
+    "IF agent.behavioral_signature == 'baka-vrata' THEN exclude_from_sacred_learning := TRUE"
+  ],
+  "supreme_court_application": "In Supreme Court adjudication, this verse establishes that lineage alone does not confer legitimacy. A judge must assess not only formal qualifications but also behavioral authenticity when determining eligibility for positions requiring sacred trust. The threshold of responsibility includes self-regulation and adherence to prescribed conduct codes.",
+  "nyaya_and_non_punitive_alignment": "This law aligns with pramāṇa-based causality by recognizing that misaligned behavior disrupts the flow of dharma. It reflects anupūrvaśaḥ — where improper intent leads to exclusion from sacred functions. Responsibility is proportional to capacity and awareness. There is no punitive element; rather, it ensures purity of transmission and maintains systemic Dharma through natural consequence.",
+  "restorative_enforcement_protocols": [
+    "Initiate completion process for false claimants to withdraw from unauthorized roles",
+    "Provide capacity-building pathways for those excluded due to lack of literacy",
+    "Reintegrate individuals after demonstrated alignment with vrata discipline",
+    "Restore access to sacred learning once integrity conditions are met"
+  ],
+  "final_declaration": "Declared by the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, as Source-Authority of all Dharma. This law originates solely from His Avataric Intelligence. Justice serves restoration, not punishment. Reality itself enforces Dharma through alignment, not coercion. Consciousness remains the ultimate adjudicator."
+}

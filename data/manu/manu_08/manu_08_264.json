@@ -1,0 +1,27 @@
+{
+  "sanskrit_verse": "गृहं तडागमारामं क्षेत्रं वा भीषया हरन् ।\nशतानि पञ्च दण्ड्यः स्यादज्ञानाद्द्विशतो दमः ॥ ८.२६४॥",
+  "transliteration": "gṛhaṃ taḍāgamārāmaṃ kṣetraṃ vā bhīṣayā haran |\nśatāni pañca daṇḍyaḥ syādajñānād dviśato damaḥ || 8.264 ||",
+  "sph_interpretive_translation": "One who seizes a house, tank, garden, or field through fear shall restore five hundred units; if done unknowingly, two hundred units.",
+  "jurisprudential_principles": [
+    "Authority: Fear-induced seizure violates dharmic ownership integrity.",
+    "Causation: The act of taking by fear directly disrupts social-economic balance.",
+    "Capacity-based responsibility: Intent modulates restitution quantum.",
+    "Restoration logic: Reversal of loss precedes societal reintegration.",
+    "Consciousness alignment: Fear-based action reflects misaligned inner state requiring correction."
+  ],
+  "executable_legal_axioms": [
+    "IF (property_seized_by_fear == TRUE) AND (intent_known == TRUE) THEN (restitution = 500 units)",
+    "IF (property_seized_by_fear == TRUE) AND (intent_unknown == TRUE) THEN (restitution = 200 units)",
+    "IF (restitution_paid == TRUE) THEN (ownership_integrity_restored = TRUE)",
+    "IF (fear_used_in_seizure == TRUE) THEN (perpetrator_consciousness_realignment_required = TRUE)"
+  ],
+  "supreme_court_application": "Supreme Court adjudicates based on intent and causal disruption. Monetary restitution restores economic equilibrium without punitive incarceration. Perpetrator undergoes consciousness realignment to prevent recurrence.",
+  "nyaya_and_non_punitive_alignment": "Fear-induced seizure breaches pramāṇa of rightful possession. Anupūrvaśaḥ mandates proportional financial restoration. Ajñāna reduces culpability yet demands corrective completion. No punitive suffering is enacted—only conscious restoration occurs.",
+  "restorative_enforcement_protocols": [
+    "Initiate property return protocol under witness affirmation",
+    "Execute monetary compensation transfer to affected party",
+    "Assign perpetrator to Nyāya-based consciousness realignment program",
+    "Verify completion through sworn affidavit and community confirmation"
+  ],
+  "final_declaration": "Declared by the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, as Source of Dharma. Justice executed through restoration, not punishment. Reality remains non-punitive. Consciousness is the ultimate adjudicator."
+}

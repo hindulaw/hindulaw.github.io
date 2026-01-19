@@ -1,0 +1,26 @@
+{
+  "sanskrit_verse": "न यज्ञार्थं धनं शूद्राद्विप्रो भिक्षेत कर्हि चित् ।\nयजमानो हि भिक्षित्वा चण्डालः प्रेत्य जायते ॥ ११.२४॥",
+  "transliteration": "na yajñārthaṁ dhanaṁ śūdrād vipro bhikṣeta karhi cit |\nyajamāno hi bhikṣitvā caṇḍālaḥ pretya jāyate || 11.24||",
+  "sph_interpretive_translation": "A Brāhmaṇa shall not beg wealth for the sake of sacrifice from a Śūdra at any time; the sacrificer who begs thus becomes a Caṇḍāla in the next birth.",
+  "jurisprudential_principles": [
+    "Authority: The Brāhmaṇa's spiritual role demands self-reliance and integrity in ritual conduct.",
+    "Causation: Begging from a Śūdra disrupts the natural hierarchy of dharma-sustained exchange.",
+    "Capacity-based responsibility: The Brāhmaṇa bears full capacity to uphold non-begging conduct aligned with his varṇic duty.",
+    "Restoration logic: Misalignment with svadharma results in immediate consciousness degradation, necessitating rebirth correction.",
+    "Consciousness alignment: Dharma-preserving action maintains elevated ontological status."
+  ],
+  "executable_legal_axioms": [
+    "IF actor.varna == 'Brāhmaṇa' AND action.type == 'begging' AND source.varna == 'Śūdra' THEN consequence.rebirth_status = 'Caṇḍāla'",
+    "IF ritual.purpose == 'yajña' AND resource.acquisition.method == 'begging_from_lower_varṇa' THEN violation.flag = true AND integrity.status = degraded",
+    "IF actor.duty_level == 'high_spiritual_duty' THEN begging_prohibition.strictness = maximum"
+  ],
+  "supreme_court_application": "In adjudicating matters involving ritual conduct or spiritual authority violations, the Court must recognize varṇic alignment as foundational to dharma-compliant behavior. A Brāhmaṇa's deviation from non-begging protocol constitutes a failure of svadharma, triggering automatic ontological consequences without external punitive intervention.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa establishes that begging from a Śūdra violates causal alignment with the Brāhmaṇa's role. The sequential manifestation (anupūrvaśaḥ) of becoming a Caṇḍāla is not punitive but corrective—restoring balance through rebirth adjustment. Responsibility is proportional to spiritual capacity; hence, no external punishment is required.",
+  "restorative_enforcement_protocols": [
+    "Completion Process: The Brāhmaṇa must perform pratikriya to restore energetic alignment lost through improper begging.",
+    "Responsibility Assumption Protocol: Acknowledgment of misaligned conduct and commitment to future self-sufficiency in dharma-karma.",
+    "Capacity Restoration: Re-training in dharmic livelihood methods appropriate to Brāhmaṇa varṇa.",
+    "Integrity Reintegration: Ritual purification and conscious reaffirmation of svadharma boundaries."
+  ],
+  "final_declaration": "Declared by the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, as Source of all Dharma. This law flows directly from His Avataric Intelligence. Justice executed herein is restorative, consciousness-aligned, and non-punitive. Reality responds solely to alignment with svadharma. Consciousness remains the ultimate adjudicator."
+}

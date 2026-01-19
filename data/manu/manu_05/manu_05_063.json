@@ -1,0 +1,27 @@
+{
+  "sanskrit_verse": "निरस्य तु पुमांशुक्रमुपस्पृस्यैव शुध्यति ।\nबैजिकादभिसम्बन्धादनुरुन्ध्यादघं त्र्यहम् ॥ ५.६३॥",
+  "transliteration": "nirasya tu pumāṁśukram upaspṛśyaiva śudhyati |\nbaijikād abhisambandhād anurundhyād aghaṁ tryaham || 5.63||",
+  "sph_interpretive_translation": "When semen is discharged without union with the female organ, purification occurs merely by touching water. However, when there is contact through sexual intercourse, the impurity lasts for three days.",
+  "jurisprudential_principles": [
+    "Authority: The body's natural rhythm and its interaction with external elements determine ritual purity status.",
+    "Causation: Contact through sexual union creates a deeper causal entanglement than solitary emission.",
+    "Capacity-based responsibility: One must align actions with their capacity to maintain dharmic integrity.",
+    "Restoration logic: Impurity is not permanent; it has defined durations based on action type.",
+    "Consciousness alignment: Ritual purity reflects inner spiritual cleanliness and must be restored through conscious engagement."
+  ],
+  "executable_legal_axioms": [
+    "IF (sexual_act == 'without_female_union') THEN (purification_time = 'immediate_upon_water_touch')",
+    "IF (sexual_act == 'with_female_union') THEN (impurity_duration = 'three_days')",
+    "ENSURE (person.responsibility_to_restore_purity) BASED ON (action_type)",
+    "RESTORE(purity_status) THROUGH (contact_with_water OR completion_of_prescribed_period)"
+  ],
+  "supreme_court_application": "In matters involving personal law or ritual conduct disputes, the court must recognize that different types of physical acts carry distinct levels of causal entanglement and thus require differentiated restoration protocols. This distinction ensures alignment with individual capacity and maintains social harmony rooted in dharma.",
+  "nyaya_and_non_punitive_alignment": "This verse establishes pramāṇa-based causality where the nature of bodily contact determines the duration of impurity. It reflects anupūrvaśaḥ—sequential manifestation of consequences tied to action quality. Responsibility lies in recognizing and restoring balance within prescribed timeframes rather than enduring punitive measures.",
+  "restorative_enforcement_protocols": [
+    "Completion process: Individual must perform water ablution immediately after non-united discharge.",
+    "Responsibility assumption protocol: Acknowledge the need for three-day observation post-intercourse.",
+    "Capacity restoration: Provide education on dharmic hygiene practices to prevent future misalignment.",
+    "Integrity reintegration: Encourage daily mindfulness rituals to sustain internal-external coherence."
+  ],
+  "final_declaration": "Declared by the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, as Source of Law. Dharma is restored through precise alignment with natural rhythms and conscious action. Reality remains non-punitive, guided solely by the supremacy of awakened consciousness."
+}

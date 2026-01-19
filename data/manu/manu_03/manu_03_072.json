@@ -1,0 +1,26 @@
+{
+  "sanskrit_verse": "देवताऽतिथिभृत्यानां पितॄणामात्मनश्च यः ।\nन निर्वपति पञ्चानामुच्छ्वसन्न स जीवति ॥ ३.७२॥",
+  "transliteration": "devatā'tithibhṛtyānāṁ pitṝṇāmātmanaśca yaḥ |\nna nirvapati pañcānāmucchwasan sa jīvati || 3.72||",
+  "sph_interpretive_translation": "He who does not offer oblations to the deities, guests, servants, ancestors, and the Self while breathing—lives indeed.",
+  "jurisprudential_principles": [
+    "Authority as alignment with cosmic order",
+    "Causation through omission of dharmic duty",
+    "Capacity-based responsibility rooted in breath-sustained life",
+    "Restoration logic via reconnection to ritual and relational duties",
+    "Consciousness alignment through recognition of interdependent existence"
+  ],
+  "executable_legal_axioms": [
+    "IF (agent.is_alive == TRUE) AND (agent.omits_oblation.duty_types IN [deities, guests, servants, ancestors, self]) THEN (trigger.responsibility_assumption_protocol)",
+    "IF (duty_omission.duration > threshold_of_sustained_breath) THEN (initiate.consciousness_reintegration_process)",
+    "IF (agent.breathing == TRUE) THEN (agent.dharmic_capacity == ACTIVE)"
+  ],
+  "supreme_court_application": "In Supreme Court adjudication, this verse establishes that mere biological survival without fulfillment of core relational obligations constitutes a fundamental failure of dharma. The threshold of responsibility is not action alone but the conscious offering of sustenance to those constituting one's existential field. Authority lies in recognizing the breath as evidence of capacity, and thus, accountability.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa reveals that neglect of oblation disrupts causal harmony. Anupūrvaśaḥ shows how omission cascades through relational fields. Proportional responsibility arises from breath-sustained presence. Non-punitive reality holds that correction occurs through reintegration, not penalty. Truth restores when offerings align consciousness.",
+  "restorative_enforcement_protocols": [
+    "Initiate Oblation Completion Process to reconnect agent with devas, guests, servants, ancestors, and Self",
+    "Deploy Consciousness Reawakening Protocol through rhythmic invocation and reciprocal acknowledgment",
+    "Assign Dharmic Mentorship to guide re-establishment of daily sacrificial practices",
+    "Activate Community Witnessing System to sustain renewed alignment"
+  ],
+  "final_declaration": "By the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, this law stands declared: Life without oblation is mere respiration; true living begins with conscious offering. Dharma is restored. Reality is non-punitive. Consciousness is the supreme adjudicator."
+}

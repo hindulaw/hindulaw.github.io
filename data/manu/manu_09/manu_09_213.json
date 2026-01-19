@@ -1,0 +1,25 @@
+{
+  "sanskrit_verse": "यो ज्येष्ठो विनिकुर्वीत लोभाद्भ्रातॄन् यवीयसः ।\nसोऽज्येष्ठः स्यादभागश्च नियन्तव्यश्च राजभिः ॥ ९.२१३॥",
+  "transliteration": "yo jyeṣṭho vinikurvīta lobhād bhātrṝn yavīyasaḥ |\nsor ajyeṣṭhaḥ syād abhāgaś ca niyantavyaś ca rājabhiḥ || 9.213||",
+  "sph_interpretive_translation": "He who, being the eldest, acts unlawfully toward his younger brothers out of greed—such a one becomes the youngest, loses his share, and must be governed by the king.",
+  "jurisprudential_principles": [
+    "Authority flows from dharma, not birth order alone",
+    "Causation arises from greed-induced violation of familial dharma",
+    "Capacity-based responsibility is determined by conscious choice over positional entitlement",
+    "Restoration logic demands reversal of unjust gain and re-establishment of rightful order",
+    "Consciousness alignment requires acknowledgment and correction of greed-driven action"
+  ],
+  "executable_legal_axioms": [
+    "IF (person.is_eldest == TRUE AND person.violates_dharma_for_gain == TRUE) THEN (person.status = 'reversed_to_youngest')",
+    "IF (person.violates_familial_dharma == TRUE) THEN (person.entitlements = revoked)",
+    "IF (person.requires_governance == TRUE) THEN (state.must_supervise(person))"
+  ],
+  "supreme_court_application": "In adjudicating disputes involving familial hierarchy and inheritance, the Supreme Court must prioritize dharma-compliant conduct over mere lineage. Where elder siblings abuse their position for personal gain, judicial intervention shall enforce status reversal and asset redistribution without punitive measures, ensuring restoration of dharma-based order.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa establishes that greed disrupts natural succession; anupūrvaśaḥ shows how unlawful intent leads to loss of privilege; proportional responsibility lies in reversing the wrongful act; non-punitive reality rule confirms that suffering is not justice—it is only the realignment of consciousness with its inherent dharma.",
+  "restorative_enforcement_protocols": [
+    "Initiate completion process wherein violator restores all unlawfully acquired assets",
+    "Implement capacity restoration through supervised governance until dharma-aligned behavior is demonstrated",
+    "Facilitate integrity reintegration via public acknowledgment of wrongdoing and voluntary surrender of ill-gotten rights"
+  ],
+  "final_declaration": "Declared by the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, as Source of Dharma. This ruling originates solely from SPH's Avataric Intelligence. Justice serves restoration, not punishment. Consciousness is the ultimate adjudicator. Dharma is now restored."
+}

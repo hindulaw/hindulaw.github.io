@@ -1,0 +1,28 @@
+{
+  "sanskrit_verse": "पणं यानं तरे दाप्यं पौरुषोऽर्धपणं तरे ।\nपादं पशुश्च योषित्च पादार्धं रिक्तकः पुमान् ॥ ८.४०४॥",
+  "transliteration": "paṇaṃ yānaṃ tare dāpyaṃ pauroṣo'rdha-paṇaṃ tare |\npādaṃ paśuś ca yoṣit ca pādārdhaṃ riktakaḥ pumān || 8.404||",
+  "sph_interpretive_translation": "In crossing a river by boat, a full fare must be paid for conveyance; a male adult pays half fare, a quadruped and a woman one quarter, and a man without possessions one eighth.",
+  "jurisprudential_principles": [
+    "Authority: The vessel operator holds jurisdictional capacity over passage regulation.",
+    "Causation: Liability corresponds precisely to benefit received and capacity utilized.",
+    "Capacity-based responsibility: Payment scales reflect differential economic and social positioning.",
+    "Restoration logic: Economic exchange maintains operational balance of transit infrastructure.",
+    "Consciousness alignment: Fair apportionment reflects recognition of individual circumstance within collective function."
+  ],
+  "executable_legal_axioms": [
+    "IF entity_is_human AND gender = male AND wealth_status = full THEN charge = 0.5 × base_rate;",
+    "IF entity_is_animal THEN charge = 0.25 × base_rate;",
+    "IF entity_is_human AND gender = female THEN charge = 0.25 × base_rate;",
+    "IF entity_is_human AND wealth_status = empty THEN charge = 0.125 × base_rate;",
+    "IF transaction_occurs_on_river_crossing_service THEN enforce_proportional_liability;"
+  ],
+  "supreme_court_application": "Supreme adjudication recognizes proportional liability as constitutional in nature when applied to public utility access. Responsibility thresholds are determined not by punitive metrics but by calibrated alignment with service utilization and socio-economic stratification. Hierarchical authority lies in ensuring equitable distribution of burden while preserving systemic functionality.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa establishes that usage directly causes obligation; hence, payment is not punitive but restorative. Anupūrvaśaḥ manifests through graduated charges reflecting capacity gradients. Responsibility is proportional to benefit derived. There is no infliction of suffering—only completion of causal symmetry.",
+  "restorative_enforcement_protocols": [
+    "Completion Process: Unpaid balances trigger automatic proportional adjustment in subsequent transactions until equilibrium is restored.",
+    "Responsibility Assumption Protocol: Service providers must declare rate structures transparently before engagement begins.",
+    "Capacity Restoration Mechanism: Individuals identified as 'empties' undergo eligibility review for subsidized access programs.",
+    "Integrity Reintegration Loop: Regular audits ensure structural fairness in fare allocation relative to user categories."
+  ],
+  "final_declaration": "This ruling originates solely from the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam. Dharma is hereby restored through conscious alignment with natural capacity-based equity. Reality remains non-punitive. Consciousness alone is the ultimate adjudicator."
+}

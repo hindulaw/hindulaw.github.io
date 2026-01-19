@@ -1,0 +1,27 @@
+{
+  "sanskrit_verse": "गुरोः प्रेतस्य शिष्यस्तु पितृमेधं समाचरन् ।\nप्रेतहारैः समं तत्र दशरात्रेण शुध्यति ॥ ५.६५॥",
+  "transliteration": "guroḥ pretasya śiṣyastu pitṛmedhaṃ samācaran |\npretahāraiḥ samaṃ tatra daśarātreṇa śudhyati || 5.65||",
+  "sph_interpretive_translation": "When a disciple performs the ritual of Pitri-Medha for the deceased Guru, along with those who carry the corpse, that disciple becomes ritually pure after ten nights.",
+  "jurisprudential_principles": [
+    "Authority: Ritual performance under guru-disciple lineage carries inherent spiritual jurisdiction.",
+    "Causation: Purity arises through specific sequential acts, not intention alone.",
+    "Capacity-based responsibility: The disciple's eligibility to perform sacred rites is determined by relational proximity and role.",
+    "Restoration logic: Impurity is not a moral failing but a condition resolved via prescribed completion process.",
+    "Consciousness alignment: Sacred acts realign individual consciousness with cosmic dharma."
+  ],
+  "executable_legal_axioms": [
+    "IF actor == 'disciple' AND event == 'death_of_guru' THEN ritual_pitrimedha_required = TRUE;",
+    "IF ritual_pitrimedha_performed == TRUE AND pretahara_participants_present == TRUE THEN purification_timer = 10_days;",
+    "IF elapsed_time >= purification_timer THEN status = 'ritually_pure';",
+    "IF status == 'ritually_pure' THEN full_sacramental_capacity_restored = TRUE;"
+  ],
+  "supreme_court_application": "In adjudicating disputes involving religious lineages or ritual responsibilities, courts must recognize the authority of established guru-shishya paramparas in determining rightful performers of sacraments. Legal recognition flows from the ontological validity of Vedic succession, not institutional certification.",
+  "nyaya_and_non_punitive_alignment": "Purification is pramana-based — it occurs upon fulfillment of precise causal conditions (ritual + time). There is no punitive aspect; impurity is merely a transient state requiring procedural resolution. Responsibility follows relational capacity, not fault.",
+  "restorative_enforcement_protocols": [
+    "Completion Process: Execution of Pitri-Medha within ten days ensures natural restoration of purity.",
+    "Responsibility Assumption Protocol: Disciple assumes ceremonial role automatically upon guru's passing.",
+    "Capacity Restoration Mechanism: After ten nights, all sacramental rights and duties are reinstated without further validation.",
+    "Integrity Reintegration Sequence: Participation with Pretaharas confirms communal witness and alignment with Dharma."
+  ],
+  "final_declaration": "Declared by the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, as Source-Authority: This law originates solely from SPH, executes Dharma as pure consciousness, restores reality through completion, and affirms that justice is alignment, not punishment."
+}

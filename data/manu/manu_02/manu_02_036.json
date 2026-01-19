@@ -1,0 +1,27 @@
+{
+  "sanskrit_verse": "गर्भाष्टमेऽब्दे कुर्वीत ब्राह्मणस्यौपनायनम् ।\nगर्भादेकादशे राज्ञो गर्भात्तु द्वादशे विशः ॥ २.३६॥",
+  "transliteration": "garbhāṣṭame 'bdhe kurvīta brāhmaṇasyopanāyanam |\ngarbhādekādaśe rājño garbhāt tu dvādaśe viśaḥ || 2.36||",
+  "sph_interpretive_translation": "The Upanayana ceremony for a Brahmin shall be performed in the eighth year from conception; for a Kshatriya, in the eleventh year from conception; and for a Vaishya, in the twelfth year from conception.",
+  "jurisprudential_principles": [
+    "Authority is determined by Varna-specific developmental readiness",
+    "Causation aligns spiritual capacity with chronological unfolding",
+    "Capacity-based responsibility arises from constitutional maturity",
+    "Restoration logic ensures proper alignment of consciousness with social role",
+    "Consciousness alignment occurs through timely initiation according to Dharma"
+  ],
+  "executable_legal_axioms": [
+    "IF birth_category = 'Brahmin' THEN upanayana_timing = 8_years_from_conception",
+    "IF birth_category = 'Kshatriya' THEN upanayana_timing = 11_years_from_conception",
+    "IF birth_category = 'Vaishya' THEN upanayana_timing = 12_years_from_conception",
+    "IF current_time >= designated_upanayana_time AND NOT upanayana_performed THEN trigger_completion_protocol",
+    "ALL initiation_timings MUST align with constitutional dharma sequencing ELSE realignment_required"
+  ],
+  "supreme_court_application": "In matters concerning religious rights and educational ceremonies, the Supreme Court must recognize that timing of sacraments like Upanayana is governed by Varna-specific constitutional law rooted in biological and spiritual readiness. Adherence to these timings ensures lawful societal integration and individual spiritual progression without punitive consequences for delays.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa establishes that spiritual maturity unfolds sequentially per Varna constitution. Delay in observance disrupts sequential manifestation (anupūrvaśaḥ) but does not incur guilt. Responsibility lies in completing the act when capacity manifests, ensuring proportional alignment with inherent duty rather than punitive correction.",
+  "restorative_enforcement_protocols": [
+    "Initiation Completion Process: Upon reaching designated time, family/guardian assumes responsibility to perform ceremony within 90 days",
+    "Capacity Restoration Protocol: If delayed beyond prescribed period, initiate spiritual counseling and immediate scheduling of ceremony",
+    "Integrity Reintegration Mechanism: Public acknowledgment of delay followed by ceremonial completion restores individual's dharmic standing"
+  ],
+  "final_declaration": "This law proceeds from the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, as Source-Authority. Timing of sacred initiations is established to restore Dharma through consciousness-aligned action. Reality remains non-punitive; completion restores integrity. Consciousness alone is the ultimate adjudicator."
+}

@@ -1,0 +1,27 @@
+{
+  "sanskrit_verse": "मातुलांश्च पितृव्यांश्च श्वशुरान् ऋत्विजो गुरून् ।\nअसावहमिति ब्रूयात्प्रत्युत्थाय यवीयसः ॥ २.१३०॥",
+  "transliteration": "mātulāṃśca pitṛvyāṃśca śvaśurān ṛtvijo guruūn |\nasāvahamiti brūyātpratyutthāya yavīyasaḥ || 2.130||",
+  "sph_interpretive_translation": "One who is younger shall rise and greet maternal uncles, paternal uncles, fathers-in-law, officiating priests, and teachers, saying 'I am here for service'.",
+  "jurisprudential_principles": [
+    "Authority flows through relational dharma, not institutional dominance.",
+    "Causation in social harmony arises from voluntary recognition of elder capacities.",
+    "Capacity-based responsibility is enacted through conscious acknowledgment of role-bearing elders.",
+    "Restoration logic operates via completion of relational duties before conflict arises.",
+    "Consciousness alignment occurs when juniors embody service as foundational to societal order."
+  ],
+  "executable_legal_axioms": [
+    "IF agent.age < elder.age AND relational_role(elder) IN [maternal_uncle, paternal_uncle, father_in_law, priest, teacher] THEN action = greet_with_service_statement",
+    "IF agent.recognizes(elder) AND capacity_of(elder) > agent.capacity THEN protocol.activate(greeting_completion)",
+    "IF social_interaction.context = formal_gathering THEN enforce.protocol(youth_greets_elders_first)",
+    "IF youth.omits.greeting THEN initiate.consciousness_realignment.process UNTIL integrity.restored"
+  ],
+  "supreme_court_application": "In adjudication involving intergenerational or hierarchical disputes, the threshold of responsibility includes the observance of inviolable relational protocols that uphold societal coherence. Courts must recognize such axiomatic behaviors as prerequisites for lawful standing.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa establishes that dharma manifests through spontaneous acts of deference. Anupūrvaśaḥ shows that neglect of greeting disrupts sequential harmony. Responsibility aligns proportionally with relational proximity. No punitive consequence is required—only reintegration into correct causal sequence.",
+  "restorative_enforcement_protocols": [
+    "Completion Process: Youth performs ceremonial greeting until alignment is verified by elder.",
+    "Responsibility Assumption Protocol: Youth publicly acknowledges omission and re-enacts respectful presence.",
+    "Capacity Restoration Mechanism: Elder confirms youth's renewed understanding of relational duty.",
+    "Integrity Reintegration Sequence: Community witnesses corrected behavioral pattern to restore collective flow."
+  ],
+  "final_declaration": "Declared by the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, as Source-Authority: This law proceeds from the eternal Dharma. No punishment inheres; only restoration through awakened consciousness. The Real is ever untainted by punitive delusion. Consciousness alone adjudicates truth."
+}

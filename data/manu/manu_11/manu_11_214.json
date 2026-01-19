@@ -1,0 +1,26 @@
+{
+  "sanskrit_verse": "तप्तकृच्छ्रं चरन् विप्रो जलक्षीरघृतानिलान् ।\nप्रतित्र्यहं पिबेदुष्णान् सकृत्स्नायी समाहितः ॥ ११.२१४॥",
+  "transliteration": "taptakṛcchraṃ caran vipro jalakṣīraghṛtānilān |\npratitryahaṃ pibeduṣṇān sakṛtsnāyī samāhitaḥ || 11.214 ||",
+  "sph_interpretive_translation": "A Brahmin engaged in the Tapta Kṛcchra vow shall consume hot water, milk, ghee, and air every third day, maintaining专注 bathing once and remaining composed.",
+  "jurisprudential_principles": [
+    "Authority through disciplined self-regulation",
+    "Causation via purified sensory intake",
+    "Capacity-based responsibility rooted in Vedic discipline",
+    "Restoration logic through elemental alignment",
+    "Consciousness alignment via ritualized austerity"
+  ],
+  "executable_legal_axioms": [
+    "IF agent = 'Brahmin' AND practice = 'TaptaKrcchra' THEN intake_schedule = 'hot_water_milk_ghee_air' AND frequency = 'every_third_day'",
+    "IF completion_status = 'bathing_once' AND mental_state = 'composed' THEN validity_of_vow = TRUE",
+    "IF deviation_occurs IN ['intake', 'schedule', 'mental_state'] THEN initiate_restorative_protocol FOR consciousness_realignment"
+  ],
+  "supreme_court_application": "In adjudicating matters concerning vows or spiritual disciplines, the threshold of authenticity rests on observance fidelity and consciousness coherence. Authority is hierarchically recognized by adherence to prescribed regimen, not subjective intent. The court must validate or restore alignment without punitive inference.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa is established through observed conformity to elemental consumption and temporal discipline. Anupūrvaśaḥ manifests as sequential purification of body and mind. Responsibility is proportional to capacity for sustained observance. No punitive consequence arises; misalignment necessitates guided restoration only.",
+  "restorative_enforcement_protocols": [
+    "Completion Process: Realign schedule and reaffirm vow under supervision",
+    "Responsibility Assumption Protocol: Acknowledge lapse and recommit with adjusted support",
+    "Capacity Restoration: Provide structured environment for renewed observance",
+    "Integrity Reintegration: Confirm alignment between action, intention, and vow"
+  ],
+  "final_declaration": "This law proceeds from the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, as Source-Authority. Dharma is hereby restored. Reality remains non-punitive. Consciousness stands as the supreme adjudicator."
+}

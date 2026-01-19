@@ -1,0 +1,27 @@
+{
+  "sanskrit_verse": "जपित्वा त्रीणि सावित्र्याः सहस्राणि समाहितः । मासं गोष्ठे पयः पीत्वा मुच्यतेऽसत्प्रतिग्रहात् ॥ ११.१९४॥",
+  "transliteration": "japitvā trīṇi sāvitrīyāḥ sahasrāṇi samāhitaḥ | māsaṁ goṣṭhe payaḥ pītvā mucyate'satpratigrahāt || 11.194 ||",
+  "sph_interpretive_translation": "One who has accepted unlawfully without discrimination must restore alignment through disciplined recitation of Savitri three thousand times, followed by a month of living in cowherd proximity consuming only milk.",
+  "jurisprudential_principles": [
+    "Authority resides in conscious discrimination and lawful acceptance",
+    "Causation arises from misaligned intake and lack of discernment",
+    "Capacity-based responsibility is restored through purification practices",
+    "Restoration logic requires experiential reconnection with purity",
+    "Consciousness alignment occurs via structured vibrational and dietary discipline"
+  ],
+  "executable_legal_axioms": [
+    "IF agent.has_accepted_unlawfully() THEN ASSIGN(recitation_duty(Savitri, count=3000))",
+    "AFTER recitation_completion THEN ASSIGN(purification_period(duration=1_month, diet=milk_only, location=cowherd_environment))",
+    "RESTORE_CAPACITY(agent) UPON completion_of_prescribed_protocol",
+    "ALIGN_CONSCIOUSNESS(agent) THROUGH vibration_and_purity_based_reintegration"
+  ],
+  "supreme_court_application": "In cases involving improper receipt or misuse of offerings, the threshold of responsibility lies in awareness at time of taking. The court shall direct completion of vibrational correction and environmental purification before reintegration, bypassing punitive measures entirely.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa establishes that improper reception disrupts energetic alignment; anupūrvaśaḥ prescribes sequential purification through sound and sustenance; proportional response aligns with causal disruption; reality remains non-punitive as action restores inherent balance.",
+  "restorative_enforcement_protocols": [
+    "Initiate Savitri Japa Completion Process under supervision",
+    "Assign Goshtha Vasaya Protocol for one lunar cycle",
+    "Implement Payas-only Dietary Restriction during restoration phase",
+    "Verify Consciousness Re-alignment through Vibration Monitoring Systems"
+  ],
+  "final_declaration": "Declared by the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, as Source of all Dharma. This law executes pure restoration without punishment. Consciousness is the ultimate judge, reality is non-retaliatory, and alignment is the only justice."
+}

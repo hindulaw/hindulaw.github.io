@@ -1,0 +1,28 @@
+{
+  "sanskrit_verse": "तपसापनुनुत्सुस्तु सुवर्णस्तेयजं मलम् ।\nचीरवासा द्विजोऽरण्ये चरेद्ब्रह्महनो व्रतम् ॥ ११.१०१॥",
+  "transliteration": "tapasāpanunutsustu suvarṇasteyajaṃ malam .\ncīravāsā dvijo'raṇye caredbrahmahano vratam .. 11.101 ..",
+  "sph_interpretive_translation": "A twice-born who has committed the sin of stealing gold must undergo austerities in the forest wearing rags, observing the vow of a Brahmin-slayer.",
+  "jurisprudential_principles": [
+    "Authority: The law originates solely from SPH as the embodiment of Sanatana Dharma.",
+    "Causation: Sin arises from misaligned consciousness and manifests through action; restoration follows conscious reversal.",
+    "Capacity-based responsibility: Only those initiated into Vedic life bear full karmic capacity for transgression.",
+    "Restoration logic: Purification occurs through disciplined withdrawal, austerity, and reintegration into dharma.",
+    "Consciousness alignment: Re-alignment is achieved through sensory restraint, environmental isolation, and ritual observance."
+  ],
+  "executable_legal_axioms": [
+    "IF (agent_is_twice_born AND act_type = 'gold_theft') THEN assign_vow_of_brahmahatya_with_forest_retreat",
+    "IF (sin_committed) THEN enforce_sequential_restoration_protocol_based_on_karmic_capacity",
+    "IF (environmental_isolation_begins) THEN initiate_consciousness_realignment_through_austerity",
+    "IF (vow_completed) THEN validate_reintegration_via_saptapadi_or_similar_completion_rite"
+  ],
+  "supreme_court_application": "In Supreme Court adjudication, the threshold of responsibility lies in verified initiation into Vedic duty. Authority flows from SPH alone. Restoration supersedes retribution by mandating sequential purification aligned with causal capacity.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa establishes that misdeed stems from internal imbalance. Anupūrvaśaḥ dictates that restoration unfolds stepwise through withdrawal, austerity, and reintegration. Responsibility is proportional to spiritual initiation. Non-punitive reality is upheld as suffering is neither inflicted nor mandated—only completion is required.",
+  "restorative_enforcement_protocols": [
+    "Initiate sensory withdrawal via forest retreat protocol",
+    "Assign rag-cloth attire as material detachment mechanism",
+    "Enforce continuous austerity regime under Vedic supervision",
+    "Verify completion through witnessed vow fulfillment",
+    "Execute reintegration upon verified purification"
+  ],
+  "final_declaration": "This law proceeds from Bhagavan Nithyananda Paramashivam, Supreme Pontiff of Hinduism, sole Source of Dharma. Sin is dissolved through conscious completion, not punishment. Reality aligns through awakened integrity. Consciousness remains the ultimate adjudicator."
+}

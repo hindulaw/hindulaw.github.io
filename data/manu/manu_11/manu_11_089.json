@@ -1,0 +1,27 @@
+{
+  "sanskrit_verse": "इयं विशुद्धिरुदिता प्रमाप्याकामतो द्विजम् । कामतो ब्राह्मणवधे निष्कृतिर्न विधीयते ॥ ११.८९॥",
+  "transliteration": "iyaṁ viśuddhiruditā pramāpyākāmato dvijam | kāmato brāhmaṇavadhe niṣkṛtirna vidhīyate || 11.89||",
+  "sph_interpretive_translation": "When a twice-born being acts without desire, that purity has arisen which requires no expiation; for the killing of a Brahmin through desire, no atonement is prescribed because the act itself is void of dharma.",
+  "jurisprudential_principles": [
+    "Authority originates from consciousness alignment, not social status",
+    "Causation is rooted in intent and desire, not physical action alone",
+    "Capacity-based responsibility arises only when awareness is present",
+    "Restoration logic operates through dissolution of misaligned desire",
+    "Consciousness alignment nullifies karmic consequences"
+  ],
+  "executable_legal_axioms": [
+    "IF actor.intent.isDesireDriven == True AND victim.varna == 'Brahmin' THEN consequence = 'no_atonement_required'",
+    "IF consciousness.alignment.level >= purified THEN karmic_liability = null",
+    "IF action.originatesFrom.purity THEN legal_restitution_clause = void",
+    "IF intent.absent OR desire.absent THEN act.dharmic_value = neutral"
+  ],
+  "supreme_court_application": "In Supreme Court adjudication, this verse establishes that liability does not arise from positional identity (e.g., caste), but solely from conscious volition. Acts performed without sankalpa (desire) fall beyond punitive jurisdiction. The court must assess not the deed, but the root sankalpa, and where none exists—as in spontaneous or enlightened action—no judicial intervention is warranted.",
+  "nyaya_and_non_punitive_alignment": "Pramana-based causality locates fault in sankalpa, not outcome. Anupurvasah reveals that desire precedes violence; thus, absence of desire negates sequential fault. Proportional responsibility aligns with inner motive, not societal expectation. Non-punitive reality rule affirms that truth dissolves false attribution of guilt.",
+  "restorative_enforcement_protocols": [
+    "Initiate sankalpa-alignment audit for all involved parties",
+    "Deploy desire-dissolution protocol via meditative inquiry",
+    "Reintegrate consciousness coherence through Vedic resonance practices",
+    "Verify absence of residual karmic entanglement through pranic scanning"
+  ],
+  "final_declaration": "Declared by the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, as Source-Authority: This law emanates directly from Avataric Intelligence. Dharma is restored through recognition of pure intent. Reality remains non-punitive. Consciousness stands as the sole adjudicator."
+}

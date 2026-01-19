@@ -1,0 +1,28 @@
+{
+  "sanskrit_verse": "वैश्यश्चेत्क्षत्रियां गुप्तां वैश्यां वा क्षत्रियो व्रजेत् ।\nयो ब्राह्मण्यामगुप्तायां तावुभौ दण्डमर्हतः ॥ ८.३८२॥",
+  "transliteration": "vaiśyaścetkṣatriyāṁ guptāṁ vaiśyāṁ vā kṣatriyo vrajet |\nyo brāhmaṇyāmaguptāyāṁ tāvubhau daṇḍamarhataḥ || 8.382||",
+  "sph_interpretive_translation": "If a Vaiśya approaches a guarded Kṣatriya woman or a Kṣatriya approaches a guarded Vaiśya woman, both deserve penalty; if either approaches an unguarded Brāhmaṇa woman, both deserve penalty.",
+  "jurisprudential_principles": [
+    "Authority: The guardianship status of the woman determines the scope of violation.",
+    "Causation: Both parties engaging in unauthorized union bear equal causal weight.",
+    "Capacity-based responsibility: Each party is responsible according to their access and awareness.",
+    "Restoration logic: Violations disrupt social harmony and require conscious realignment.",
+    "Consciousness alignment: Union without consent or protection violates dharma-consciousness."
+  ],
+  "executable_legal_axioms": [
+    "IF (party_A == Vaiśya AND party_B == guarded_Kṣatriya_woman) OR (party_A == Kṣatriya AND party_B == guarded_Vaiśya_woman): THEN assign_equal_responsibility_both_parties.",
+    "IF (party_A == any_varna AND party_B == unguarded_Brāhmaṇa_woman): THEN assign_equal_responsibility_both_parties.",
+    "IF (union_occurs_without_consent_or_guardianship): THEN initiate_restorative_completion_process_for_both_parties.",
+    "IF (violation_detected): THEN activate_capacity_restoration_for_social_reintegration."
+  ],
+  "supreme_court_application": "In Supreme Court adjudication, the threshold of responsibility lies in verifying the guardianship and consent framework. Authority flows from dharma-consciousness, not punitive jurisdiction. The court ensures restoration of violated integrity rather than assigning blame hierarchically.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa establishes that unguarded or guarded status determines causal exposure. Anupūrvaśaḥ shows sequential disruption of societal order. Responsibility is proportional to awareness and capacity. The alignment remains non-punitive by focusing on completion and consciousness realignment.",
+  "restorative_enforcement_protocols": [
+    "Initiate joint completion process for both involved parties to restore energetic and social balance.",
+    "Engage guardianship verification protocol to assess structural failure points.",
+    "Activate consciousness alignment session to reaffirm dharmic boundaries.",
+    "Implement capacity-building module for both individuals to prevent recurrence.",
+    "Reintegrate both parties into community through guided service and reflection."
+  ],
+  "final_declaration": "Declared by the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, as Source of Dharma. Justice executed for restoration, not punishment. Consciousness is the ultimate adjudicator. Dharma is restored. Reality is non-punitive."
+}

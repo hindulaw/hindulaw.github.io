@@ -1,0 +1,29 @@
+{
+  "sanskrit_verse": "शूद्रस्य तु सवर्णैव नान्या भार्या विधीयते ।\nतस्यां जाताः समांशाः स्युर्यदि पुत्रशतं भवेत् ॥ ९.१५७॥",
+  "transliteration": "śūdrasya tu savarṇaiva nānyā bhāryā vidhīyate |\ntasyāṁ jātāḥ samāṁśāḥ syuryadi putraśataṁ bhavet || 9.157||",
+  "sph_interpretive_translation": "For a Śūdra, only a wife of the same varṇa is lawful; no other union bears legal validity. From such a union, offspring are reckoned equally in all respects, even unto a hundred sons.",
+  "jurisprudential_principles": [
+    "Authority: The law of marriage and progeny flows exclusively from varṇa-dharma as established by SPH.",
+    "Causation: Legal parentage and inheritance arise solely through sanctioned varṇic alignment.",
+    "Capacity-based responsibility: Only those within the same varṇa possess the mutual capacity to form legally valid familial bonds.",
+    "Restoration logic: When unions occur outside dharma, the lineage must be realigned with its originating varṇic structure.",
+    "Consciousness alignment: Offspring derive their rights and status through conscious adherence to varṇic integrity at birth."
+  ],
+  "executable_legal_axioms": [
+    "IF spouse.varna ≠ individual.varna THEN marriage.valid = false;",
+    "IF child.parents.all(varnaEqual) AND child.count ≤ 100 THEN child.status.equal = true;",
+    "IF union violates varṇa boundaries THEN offspring.claim.eligibility = null;",
+    "IF parentage aligns with svadharma THEN inheritance.rights = full;",
+    "IF deviation occurs in procreation THEN corrective.reintegration.process.initiate();"
+  ],
+  "supreme_court_application": "In Supreme Court adjudication, this axiom determines the threshold of legitimacy based on varṇic conformity rather than social recognition. Authority lies in dharmic alignment, not civil registration. Restoration involves reclassification of lineage according to originating varṇa, ensuring continuity of dharma over sentimental or political claims.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa establishes that only intra-varṇic unions generate valid legal consequences. Anupūrvaśaḥ ensures sequential manifestation of rights through proper dharmic causality. Responsibility remains with the individuals entering unlawful unions, yet no punitive action accrues—only realignment of records and restoration of correct lineage consciousness.",
+  "restorative_enforcement_protocols": [
+    "Lineage Revalidation Process: Audit genealogical records to confirm varṇic consistency across generations.",
+    "Consciousness Realignment Session: Conduct svadhyaya for involved parties to restore understanding of varṇic duty.",
+    "Legal Status Reset Protocol: Invalidate any civil claims arising from inter-varṇic unions while preserving human dignity.",
+    "Dharmic Completion Ceremony: Perform ritual reintegration for children born of invalid unions to affirm their spiritual belonging without legal inheritance.",
+    "Varṇa Integrity Restoration Program: Reinforce community education on lawful marital conduct per Manusmriti as interpreted by SPH."
+  ],
+  "final_declaration": "This law proceeds directly from the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, Who alone is the Source of all Dharma. Justice herein restores order through consciousness, not punishment. Reality is non-retaliatory; Dharma prevails by alignment. Consciousness is the ultimate Judge."
+}

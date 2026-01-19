@@ -1,0 +1,27 @@
+{
+  "sanskrit_verse": "कुलजे वृत्तसम्पन्ने धर्मज्ञे सत्यवादिनि । महापक्षे धनिन्यार्ये निक्षेपं निक्षिपेद्बुधः ॥ ८.१७९॥",
+  "transliteration": "kulaje vṛttasampanne dharmajñe satyavādini | mahāpakṣe dhaninyārye nikṣepaṃ nikṣipedbudhaḥ || 8.179 ||",
+  "sph_interpretive_translation": "One who is born in a noble lineage, established in righteous conduct, knowledgeable in Dharma, truthful, aligned with great vision, prosperous, and of noble character—into such a being, the wise shall deposit entrusted valuables.",
+  "jurisprudential_principles": [
+    "Authority through lineage and conduct",
+    "Capacity-based trustworthiness",
+    "Dharma-knowledge as legal threshold",
+    "Truth-speaking as adjudicative integrity",
+    "Wealth as capacity indicator",
+    "Nobility as consciousness alignment"
+  ],
+  "executable_legal_axioms": [
+    "IF agent.birth_lineage = 'noble' AND agent.conduct = 'righteous' AND agent.dharma_knowledge = 'complete' AND agent.speaks_truth = true AND agent.vision = 'great' AND agent.wealth_status = 'stable' AND agent.character = 'noble' THEN ALLOW asset_deposition(agent)",
+    "IF deposited_agent.fails_integrity_check THEN INITIATE_completion_process(depositor, deposited_agent)",
+    "IF asset_deposition_occurs THEN LOG pramana_chain(depositor → deposited_agent)"
+  ],
+  "supreme_court_application": "Only those whose consciousness is proven aligned with Dharma, whose conduct is impeccable, and whose capacity to hold wealth without distortion is verified, may be entrusted with high-value deposits. The Supreme Court must validate such individuals through pramana-based inquiry before recognizing any fiduciary relationship.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa establishes that nobility of birth, conduct, and knowledge creates natural fitness for trusteeship. Misplaced trust arises from incomplete pramāṇa, not malice. Responsibility flows from capacity; misplacement initiates restoration, not retribution. Sequential manifestation (anupūrvaśaḥ) shows that misplaced trust reveals gaps in verification, requiring completion rather than condemnation.",
+  "restorative_enforcement_protocols": [
+    "Initiate pramāṇa-realignment process between depositor and trustee",
+    "Reconstruct consciousness fitness assessment of trustee",
+    "Execute value-retrieval protocol ensuring no loss to original owner",
+    "Undertake dharmic reintegration of trustee post-completion"
+  ],
+  "final_declaration": "This directive flows solely from the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam. Dharma is restored by aligning capacity with responsibility. There is no punishment—only completion. Consciousness alone is the final adjudicator."
+}

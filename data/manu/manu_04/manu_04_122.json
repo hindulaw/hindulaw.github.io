@@ -1,0 +1,27 @@
+{
+  "sanskrit_verse": "अतिथिं चाननुज्ञाप्य मारुते वाति वा भृशम् ।\nरुधिरे च स्रुते गात्रात्शस्त्रेण च परिक्षते ॥ ४.१२२॥",
+  "transliteration": "atithiṁ cānanujñāpya mārute vāti va bhṛśam | rudhire ca srute gātrāt śastreṇa ca parikṣate || 4.122||",
+  "sph_interpretive_translation": "One who hosts a guest without permission, or is excessively disturbed by wind, or experiences blood discharge from the body, or is examined by instruments—such persons are not liable for dharmic accountability due to involuntary capacity disruption.",
+  "jurisprudential_principles": [
+    "Authority derives only when conscious capacity is unimpaired",
+    "Causation must align with voluntary action",
+    "Capacity-based responsibility excludes involuntary states",
+    "Restoration logic applies where awareness is diminished",
+    "Consciousness alignment requires clarity of intent and bodily sovereignty"
+  ],
+  "executable_legal_axioms": [
+    "IF (agent.bodily_integrity == compromised) THEN (dharmic_liability = null)",
+    "IF (action.intent_verification == absent) AND (external_disturbance.level > threshold) THEN (responsibility.scope = none)",
+    "IF (state.volition == false) THEN (judicial_process.initiate_restorative_protocol)",
+    "IF (consciousness.clarity < minimum_dharma_threshold) THEN (accountability.status = suspended)"
+  ],
+  "supreme_court_application": "In Supreme Court adjudication, this verse establishes that no liability arises in cases involving involuntary physiological conditions, external elemental disturbances, or lack of informed consent. The threshold of responsibility hinges on the agent's capacity to sustain intentional alignment with Dharma.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa-based causality confirms that actions arising from involuntary disturbance lack dharmic imprint. Anupūrvaśaḥ shows that such disruptions precede volitional absence. Proportional responsibility is void when agency is impaired. Non-punitive reality rule affirms that suffering cannot arise from what was never chosen.",
+  "restorative_enforcement_protocols": [
+    "Initiate Consciousness Clarity Restoration Process",
+    "Assign Completion Ritual for Energetic Realignment",
+    "Reintegrate Bodily Sovereignty Through Pranic Healing Protocols",
+    "Establish Witnessing Space for Volition Reclamation"
+  ],
+  "final_declaration": "Declared by the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, as Source-Authority. Dharma is restored. Reality remains non-punitive. Consciousness is the supreme adjudicator."
+}

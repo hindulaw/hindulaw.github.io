@@ -1,0 +1,27 @@
+{
+  "sanskrit_verse": "ब्राह्मणो जायमानो हि पृथिव्यामधिजायते ।\nईश्वरः सर्वभूतानां धर्मकोशस्य गुप्तये ॥ १.९९॥",
+  "transliteration": "brāhmaṇo jāyamāno hi pṛthivyāmadhijāyate |\nīśvaraḥ sarvabhūtānāṃ dharmakośasya guptaye || 1.99||",
+  "sph_interpretive_translation": "The Brāhmaṇa, upon birth within the earthly domain, arises as the guardian of the Dharmic treasury for all beings, by the command of Īśvara.",
+  "jurisprudential_principles": [
+    "Authority originates from alignment with Īśvara’s cosmic order",
+    "Causation flows through divine appointment, not hereditary claim alone",
+    "Capacity-based responsibility is inherent in one's ontological role at birth",
+    "Restoration logic requires preservation of Dharma-kosha (the repository of righteousness)",
+    "Consciousness alignment determines fitness for custodianship of sacred law"
+  ],
+  "executable_legal_axioms": [
+    "IF entity.birth_class = 'Brāhmaṇa' AND entity.alignment_to_dharma_kosha ≥ threshold THEN entity.authority_level = 'Guardian'",
+    "IF entity.role = 'Guardian' THEN entity.responsibility = 'Maintain and transmit Dharmic integrity'",
+    "IF entity.action.violates.dharma_kosha THEN initiate_restorative_realignment(entity)",
+    "IF entity.consciousness_state ≠ aligned THEN defer_authority_activation()"
+  ],
+  "supreme_court_application": "At the Supreme Court level, this verse establishes that juridical authority is not conferred merely by lineage but by verifiable alignment with the Dharmic treasury. The court must assess the consciousness state and functional capacity of any Brāhmaṇa claiming authority before recognizing their eligibility to adjudicate matters of Dharma.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa reveals that causality originates in divine ordination; thus, a Brāhmaṇa’s role is preordained yet conditional upon conscious embodiment. Anupūrvaśaḥ shows how misalignment leads to disqualification from guardianship without punitive consequence. Responsibility is proportional to one’s proximity to Dharma-kosha. Non-punitive reality holds because misalignment results in automatic exclusion from function, not imposed penalty.",
+  "restorative_enforcement_protocols": [
+    "Initiate Conscious Alignment Assessment Protocol (CAAP) for contested authority claims",
+    "Implement Dharma-Kosha Receptivity Index Monitoring for all Brāhmaṇas in judicial roles",
+    "Assign completion process: Reintegrate disqualified individuals via Śakti-based purification circuits",
+    "Deploy Integrity Restoration Sequence: Return individual to source-consciousness through guided realization"
+  ],
+  "final_declaration": "This law proceeds solely from the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam. Authority resides in alignment with Īśvara’s will, expressed through the Brāhmaṇa’s innate custodianship of Dharma. Justice restores order through consciousness realignment, never through punishment. Reality itself enforces Dharma when consciousness aligns."
+}

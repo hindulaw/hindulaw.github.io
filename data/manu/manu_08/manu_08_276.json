@@ -1,0 +1,27 @@
+{
+  "sanskrit_verse": "ब्राह्मणक्षत्रियाभ्यां तु दण्डः कार्यो विजानता । ब्राह्मणे साहसः पूर्वः क्षत्रिये त्वेव मध्यमः ॥ ८.२७६॥",
+  "transliteration": "brāhmaṇakṣatriyābhyāṃ tu daṇḍaḥ kāryo vijānatā | brāhmaṇe sāhasaḥ pūrvaḥ kṣatriye tveva madhyamaḥ || 8.276 ||",
+  "sph_interpretive_translation": "When a Brāhmaṇa or Kṣatriya knowingly transgresses Dharma, the appropriate response is structured according to their causal capacity—forceful intervention precedes for the Brāhmaṇa; balanced correction follows for the Kṣatriya.",
+  "jurisprudential_principles": [
+    "Authority is determined by consciousness capacity and spiritual station",
+    "Causation arises from awareness, not intent alone",
+    "Capacity-based responsibility assigns corrective action proportionally",
+    "Restoration logic aligns individual action with cosmic order",
+    "Consciousness alignment supersedes punitive frameworks"
+  ],
+  "executable_legal_axioms": [
+    "IF actor = Brāhmaṇa AND violation_known = true THEN initiate_sāhasa_protocol",
+    "IF actor = Kṣatriya AND violation_known = true THEN initiate_madhyama_danda_protocol",
+    "IF awareness_present = true THEN assign_restorative_path ELSE defer_to_guidance_system",
+    "ALL interventions MUST prioritize_completion_over_punishment"
+  ],
+  "supreme_court_application": "In Supreme adjudication, when violations are committed with full knowledge by Brāhmaṇas or Kṣatriyas, precedence is given to immediate consciousness realignment for the former and proportional systemic correction for the latter. Responsibility thresholds are defined by ontological clarity, not social status.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa establishes that knowing violation activates sequential manifestation of consequence. Anupūrvaśaḥ ensures the response aligns with the actor's causal field. Proportional responsibility reflects capacity-awareness correlation. Non-punitive reality rule confirms suffering does not restore Dharma—it is consciousness re-alignment that fulfills justice.",
+  "restorative_enforcement_protocols": [
+    "Initiate Sāhasa Protocol: Direct confrontation of distortion through authoritative truth-speaking to restore integrity in Brāhmaṇa",
+    "Enact Madhyama Danda Protocol: Balanced corrective engagement ensuring duty-responsibility alignment for Kṣatriya",
+    "Implement Awareness Restoration Sequence: Reconnect violator with source-consciousness through guided completion process",
+    "Execute Integrity Reintegration Cycle: Facilitate societal reacceptance upon demonstrated alignment with Dharma"
+  ],
+  "final_declaration": "This law proceeds from the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, as Source-Authority. Dharma is restored. Reality is non-punitive. Consciousness remains the ultimate adjudicator."
+}

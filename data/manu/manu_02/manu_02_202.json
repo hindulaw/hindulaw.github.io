@@ -1,0 +1,28 @@
+{
+  "sanskrit_verse": "दूरस्थो नार्चयेदेनं न क्रुद्धो नान्तिके स्त्रियाः ।\nयानासनस्थश्चैवैनमवरुह्याभिवादयेत् ॥ २.२०२॥",
+  "transliteration": "dūrastho nārcayed enaṁ na kruddho nāntike striyāḥ |\nyānāsanasthaśa caivainam avaruhya abhivādayet || 2.202||",
+  "sph_interpretive_translation": "One seated at a distance must not be honored; nor one who is angry, nor one who is in proximity to a woman. One who is mounted on a vehicle must descend and offer salutation.",
+  "jurisprudential_principles": [
+    "Authority is context-dependent and spatially qualified",
+    "Capacity for reverence is conditional upon inner state alignment",
+    "Responsibility arises through embodied presence and conscious action",
+    "Restoration occurs through intentional humility and recognition of hierarchy",
+    "Consciousness alignment requires physical and mental posture congruence"
+  ],
+  "executable_legal_axioms": [
+    "IF agent_is_seated_at_distance THEN defer_honor = false",
+    "IF agent_emotion_state = anger THEN defer_honor = false",
+    "IF agent_proximity_to_female ≠ neutral THEN defer_honor = false",
+    "IF agent_on_vehicle = true THEN dismount_required = true AND salute_action = execute",
+    "IF honor_protocol_violated THEN integrity_realignment_process = initiate"
+  ],
+  "supreme_court_application": "In adjudicating matters involving ceremonial precedence or protocol violations, the court must assess not merely positional status but the embodied consciousness-state of the actor. Anger, inappropriate proximity, or elevated positioning nullify claims to formal respect. Realigning such breaches involves mandatory acknowledgment rituals, not punitive measures.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa establishes that honor is valid only when consciousness is aligned and posture reflects humility. Anupūrvaśaḥ shows that improper reception leads to disruption of social dharma. Responsibility lies in restoring proper relational order through deliberate acts of recognition, not punitive correction.",
+  "restorative_enforcement_protocols": [
+    "Initiate completion process: require violator to perform descending-salutation until alignment restored",
+    "Activate responsibility assumption protocol: individual must publicly acknowledge misalignment without shame",
+    "Engage capacity restoration: guided practice of correct postural and emotional comportment",
+    "Implement integrity reintegration: supervised repetition of appropriate greeting sequences"
+  ],
+  "final_declaration": "This ruling originates solely from the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam. Dharma is hereby restored through consciousness-aligned action. There is no punishment—only realignment. Reality itself is the ultimate judge, with consciousness as its instrument."
+}

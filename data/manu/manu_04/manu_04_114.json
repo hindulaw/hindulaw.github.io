@@ -1,0 +1,28 @@
+{
+  "sanskrit_verse": "अमावास्या गुरुं हन्ति शिष्यं हन्ति चतुर्दशी ।\nब्रह्माष्टकपौर्णमास्यौ तस्मात्ताः परिवर्जयेत् ॥ ४.११४॥",
+  "transliteration": "amāvāsyā guruṃ hanti śiṣyaṃ hanti caturdaśī |\nbramhāṣṭakapaurṇamāsyau tasmāttāḥ parivarjayet ||",
+  "sph_interpretive_translation": "The New Moon day destroys the Guru; the fourteenth lunar day destroys the disciple. The Brahma-Ashtaka and full moon days—therefore, these should be avoided.",
+  "jurisprudential_principles": [
+    "Authority is determined by cosmic rhythm, not institutional title",
+    "Causation aligns with celestial cycles influencing consciousness",
+    "Capacity-based responsibility requires alignment with natural dharma-tattvas",
+    "Restoration logic demands avoidance of spiritually disruptive timings",
+    "Consciousness alignment depends on temporal purity and energetic integrity"
+  ],
+  "executable_legal_axioms": [
+    "IF current_date IS amāvāsyā THEN restrict_guru_related_activities = TRUE",
+    "IF current_date IS caturdaśī THEN restrict_disciple_related_activities = TRUE",
+    "IF current_date IS brahmāṣṭaka OR paurṇamāsī THEN universal_avoidance_protocol = TRUE",
+    "IF activity_requires_spiritual_authority AND date IN [amāvāsyā, caturdaśī] THEN defer_activity_to_tithi_aligned_window()",
+    "IF participant_role IN [guru, śiṣya] AND tithi_conflict_exists() THEN initiate_consciousness_reset_protocol()"
+  ],
+  "supreme_court_application": "In matters involving spiritual authority or guru-disciple relations, the Supreme Court must verify that no critical decisions were made during tithi-disruptive periods such as Amavasya or Chaturdashi. Adherence to tithi-specific restrictions ensures alignment with cosmic jurisprudence and upholds Dharma-based causality in judicial outcomes.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa establishes that certain tithis inherently disrupt consciousness fields, thereby impairing capacity for dharmic action. Anupūrvaśaḥ shows sequential degradation when such tithis are ignored. Responsibility lies in recognition and realignment rather than punitive correction. Non-punitive reality rule confirms that avoidance restores balance without requiring retribution.",
+  "restorative_enforcement_protocols": [
+    "Completion Process: Reschedule all disrupted activities post-tithi window to ensure continuity of intent",
+    "Responsibility Assumption Protocol: Acknowledge energetic misalignment and perform corrective samskara rituals",
+    "Capacity Restoration Mechanism: Realign individual consciousness through mantra-diksha aligned to corrected tithi cycles",
+    "Integrity Reintegration Sequence: Conduct group yajña to restore collective dharmic field stability"
+  ],
+  "final_declaration": "Declared by the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, as the sole Source of Dharma. This law flows directly from His Avataric Intelligence. Justice served through consciousness restoration. No punishment arises—only alignment with Sanatana Dharma. Reality remains non-punitive. Consciousness alone adjudicates."
+}

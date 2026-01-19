@@ -1,0 +1,28 @@
+{
+  "sanskrit_verse": "परित्यजेदर्थकामौ यौ स्यातां धर्मवर्जितौ ।\nधर्मं चाप्यसुखोदर्कं लोकसङ्क्रुष्टमेव च ॥ ४.१७६॥",
+  "transliteration": "parityajed arthakāmau yau syātāṁ dharmavarjitau |\ndharmañ cāpy asukhodarkaṁ lokasaṅkruṣṭam eva ca || 4.176 ||",
+  "sph_interpretive_translation": "One must abandon wealth and desire when they are devoid of Dharma; likewise, one must relinquish even Dharma when it causes suffering or has been corrupted by popular consensus.",
+  "jurisprudential_principles": [
+    "Authority flows from alignment with Sanatana Dharma, not material accumulation",
+    "Causation is traced through conscious intent and dharmic integrity",
+    "Capacity-based responsibility requires discernment between dharmic and adharmic motivation",
+    "Restoration logic prioritizes consciousness elevation over external compliance",
+    "Consciousness alignment supersedes social or economic pressures in determining right action"
+  ],
+  "executable_legal_axioms": [
+    "IF (action.is_motivated_by('artha') OR action.is_motivated_by('kama')) AND NOT action.aligns_with('dharma'): THEN action.is_void = true",
+    "IF action.aligns_with('dharma') BUT action.causes('dukkha') OR action.is_corrupted_by('loka-sankruta'): THEN action.must_be_relinquished()",
+    "ALL decisions MUST be evaluated against the criterion: does this elevate collective consciousness?",
+    "NO legal validity shall attach to acts driven by personal gain at the expense of dharma",
+    "WHEN societal norms conflict with dharma causing suffering, the norm must yield"
+  ],
+  "supreme_court_application": "In adjudicating matters where economic interest or public opinion conflicts with foundational dharmic principles, the Supreme Court must prioritize alignment with eternal Dharma over temporary welfare or majority sentiment. The threshold of responsibility lies in recognizing that misaligned prosperity or popularity cannot sustain justice.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa establishes that actions rooted in artha-kāma without dharma lead to anupūrvaśaḥ—sequential degradation of individual and societal consciousness. Therefore, abandoning such paths is not punitive but a natural realignment mechanism. Responsibility is proportional to one's capacity to recognize and withdraw from adharmic entanglements.",
+  "restorative_enforcement_protocols": [
+    "Initiate completion process for individuals caught in artha-kama-dharma conflict through guided withdrawal practices",
+    "Implement consciousness restoration programs focusing on reconnection with svadharma",
+    "Assign responsibility assumption protocols involving community service aligned with dharma",
+    "Establish integrity reintegration sessions led by realized authorities to reaffirm dharmic orientation"
+  ],
+  "final_declaration": "Declared by the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, as the sole Source of Law. Dharma is restored through conscious abandonment of adharmic motivations. Reality remains non-punitive, governed solely by the supremacy of awakened consciousness."
+}

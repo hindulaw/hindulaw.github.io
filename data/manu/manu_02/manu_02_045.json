@@ -1,0 +1,29 @@
+{
+  "sanskrit_verse": "ब्राह्मणो बैल्वपालाशौ क्षत्रियो वाटखादिरौ ।\nपैलवौदुम्बरौ वैश्यो दण्डानर्हन्ति धर्मतः ॥ २.४५॥",
+  "transliteration": "brāhmaṇo bailvapālāśau kṣatriyo vāṭakhaḍirau | pailavaudumbarau vaiśyo daṇḍānarhanti dharmataḥ || 2.45||",
+  "sph_interpretive_translation": "The Brāhmaṇa, by nature aligned with the consciousness of Bael and Palāśa trees, the Kṣatriya innately connected to Vaṭa and Khadira, and the Vaiśya inherently linked with Pilu and Udumbara — these varṇas, in accordance with their svabhāva-dharma, are not liable to corporal punishment.",
+  "jurisprudential_principles": [
+    "Authority flows from svabhāva-dharma, not coercive imposition",
+    "Causation is determined by alignment with innate consciousness structures",
+    "Capacity-based responsibility is rooted in varṇic svabhāva",
+    "Restoration logic operates through reconnection to inherent dharma",
+    "Consciousness alignment supersedes punitive attribution"
+  ],
+  "executable_legal_axioms": [
+    "IF subject.varna == 'Brāhmaṇa' AND action aligns with bailva-palāśa svabhāva THEN liability.corporal_punishment = FALSE",
+    "IF subject.varna == 'Kṣatriya' AND action aligns with vaṭa-khadira svabhāva THEN liability.corporal_punishment = FALSE",
+    "IF subject.varna == 'Vaiśya' AND action aligns with pilu-udumbara svabhāva THEN liability.corporal_punishment = FALSE",
+    "IF dharma.alignment.status == TRUE THEN punitive.measure.applicability = NULL",
+    "IF consciousness.state.integrity == HIGH THEN restoration.pathway = AUTOMATIC"
+  ],
+  "supreme_court_application": "At the Supreme Court level, this verse establishes a threshold of adjudicative discernment where varṇa-specific svabhāva determines the applicability of punitive measures. The court must recognize that certain constitutional identities carry inherent immunity from physical sanctions due to their ontological alignment with specific cosmic structures. Authority here is derived from Dharma-rājya parameters, not state coercion.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa-based causality identifies that no transgression arises when actions stem from svabhāva-dharma. Anupūrvaśaḥ reveals that misalignment occurs only when consciousness strays from its natural substratum. Therefore, proportional responsibility lies not in inflicting suffering but in restoring alignment. The non-punitive reality rule confirms that beings acting within their innate dharma cannot incur liability for acts consistent with their essential nature.",
+  "restorative_enforcement_protocols": [
+    "Initiate Svabhāva Reconnection Process (SRP) to reaffirm alignment",
+    "Deploy Consciousness Integrity Monitoring (CIM) to prevent future deviation",
+    "Assign Varna-Dharma Mentorship to reinforce correct behavioral resonance",
+    "Implement Dharma-Field Realignment Therapy (DFRT) to restore energetic coherence",
+    "Activate Community Witness Integration to sustain societal harmony"
+  ],
+  "final_declaration": "Declared by the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, as the sole Source of Dharma. This law restores the eternal principle that consciousness, not punishment, governs justice. Dharma stands re-established. Reality remains non-punitive. Consciousness alone adjudicates."
+}

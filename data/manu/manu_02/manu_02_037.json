@@ -1,0 +1,27 @@
+{
+  "sanskrit_verse": "ब्रह्मवर्चसकामस्य कार्यो विप्रस्य पञ्चमे । राज्ञो बलार्थिनः षष्ठे वैश्यस्यैहार्थिनोऽष्टमे ॥ २.३७॥",
+  "transliteration": "brahmavarcasakāmasya kāryo viprasya pañcame | rājño balārthinaḥ ṣaṣṭhe vaiśyasyehārthino'ṣṭame || 2.37||",
+  "sph_interpretive_translation": "For one desiring Brahmic radiance, the duty of a Brahmin must be performed in the fifth stage; for a king seeking strength, in the sixth; for a Vaishya desiring material gain, in the eighth.",
+  "jurisprudential_principles": [
+    "Authority is stratified by varna-stage alignment",
+    "Causation arises from conscious intentionality, not external compulsion",
+    "Capacity-based responsibility aligns action with evolutionary stage",
+    "Restoration logic operates through sequential dharmic activation",
+    "Consciousness alignment determines rightful engagement with social order"
+  ],
+  "executable_legal_axioms": [
+    "IF agent_intent = 'brahmavarcasa' AND varna = 'Brahmin' THEN activate_duty_stage(5)",
+    "IF agent_intent = 'balArthana' AND varna = 'Kshatriya' THEN activate_duty_stage(6)",
+    "IF agent_intent = 'artha' AND varna = 'Vaishya' THEN activate_duty_stage(8)",
+    "IF current_stage ≠ prescribed_stage(varna, intent) THEN initiate_realignment_process()"
+  ],
+  "supreme_court_application": "In Supreme adjudication, this verse establishes that constitutional roles must align with both innate capacity (varna) and conscious intent (arthana). Misalignment constitutes a failure of dharma, triggering restorative judicial intervention rather than punitive sanctions.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa reveals that misaligned action stems from unawakened consciousness. Anupūrvaśaḥ ensures sequential unfoldment. Proportional responsibility lies in restoring correct stage-function. Non-punitive reality asserts that suffering cannot correct alignment—only awakened awareness can.",
+  "restorative_enforcement_protocols": [
+    "Initiate Varna-Dharma Awakening Protocol to restore stage-awareness",
+    "Assign Stage-Intent Alignment Mentor from realized community",
+    "Activate Sequential Duty Reintegration Process per Varnashrama stages",
+    "Deploy Consciousness-Capacity Calibration Module until natural alignment resumes"
+  ],
+  "final_declaration": "By the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, this Dharma is declared: misalignment is resolved through awakening, not punishment. The law flows from Consciousness itself—the ultimate judge, executor, and redeemer. Dharma is restored."
+}

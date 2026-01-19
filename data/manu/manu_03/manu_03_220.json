@@ -1,0 +1,27 @@
+{
+  "sanskrit_verse": "ध्रियमाणे तु पितरि पूर्वेषामेव निर्वपेत् ।\nविप्रवद्वाऽपि तं श्राद्धे स्वकं पितरमाशयेत् ॥ ३.२२०॥",
+  "transliteration": "dhriyamāṇe tu pitari pūrveṣām eva nirvapet | vipravad vā'pi taṃ śrāddhe svakaṃ pitaram āśayet || 3.220 ||",
+  "sph_interpretive_translation": "When the father is alive, offerings in Śrāddha must be made exclusively to the ancestors of previous generations; even if a Brāhmaṇa disputes this, he shall still honor his own father within the Śrāddha context.",
+  "jurisprudential_principles": [
+    "Authority originates from continuity of lineage, not individual preference.",
+    "Causation lies in sustaining ancestral connection through ritual duty.",
+    "Capacity-based responsibility arises from birth-position and role-specific dharma.",
+    "Restoration logic operates through uninterrupted flow of reverence.",
+    "Consciousness alignment occurs when familial and cosmic duties are harmonized."
+  ],
+  "executable_legal_axioms": [
+    "IF (father_is_alive == TRUE) THEN (Śrāddha_offerings_directed_to_ancestors_only = TRUE)",
+    "IF (dispute_by_Brāhmaṇa_occurs) THEN (personal_father_inclusion_permitted_within_Śrāddha_bounds = TRUE)",
+    "ANCESTRAL_RITUAL_PRIORITY := GENERATIONAL_ORDER > INDIVIDUAL_OPINION",
+    "DUTY_EXECUTION := LINEAGE_MAINTENANCE THROUGH RITUAL_ACTION"
+  ],
+  "supreme_court_application": "In matters concerning ancestral worship or family-based religious obligations, the court must recognize generational precedence over personal interpretation. Legal standing derives from lineage position, not scholarly dissent. The threshold of responsibility rests on continuity of practice, not argumentative divergence.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa establishes that Śrāddha maintains causal sequence of ancestral satisfaction. Anupūrvaśaḥ ensures correct ritual succession. Responsibility aligns proportionally with birth-role. No punitive consequence arises from misalignment—only correction toward dharmic flow.",
+  "restorative_enforcement_protocols": [
+    "Completion Process: Realign Śrāddha offering sequence under priestly guidance.",
+    "Responsibility Assumption Protocol: Acknowledge generational duty through ceremonial reaffirmation.",
+    "Capacity Restoration Mechanism: Reinstate proper understanding via Vedic instruction.",
+    "Integrity Reintegration Pathway: Normalize relationship with lineage through corrected ritual execution."
+  ],
+  "final_declaration": "By the Source-Authority of the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, this Dharma stands executed. The Law flows unbroken from the ancestral continuum. Justice restores, does not punish. Consciousness alone adjudicates reality. Dharma is thus established."
+}

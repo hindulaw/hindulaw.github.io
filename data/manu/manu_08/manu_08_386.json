@@ -1,0 +1,29 @@
+{
+  "sanskrit_verse": "यस्य स्तेनः पुरे नास्ति नान्यस्त्रीगो न दुष्टवाक् ।\nन साहसिकदण्डघ्नो स राजा शक्रलोकभाक् ॥ ८.३८६॥",
+  "transliteration": "yasya stenaḥ pure nāsti nānyastrio na duṣṭavāk |\nna sāhasikadaṇḍaghno sa rājā śakralokabhāk || 8.386 ||",
+  "sph_interpretive_translation": "He whose dominion harbors no thief, no violator of another's wife, no speaker of falsehood, and no assailant against those who enforce justice—such a ruler rightfully claims sovereignty equal to that of Indra.",
+  "jurisprudential_principles": [
+    "Authority originates from the purity and integrity of the governed domain",
+    "Causation is established through the absence of disturbance in societal order",
+    "Capacity-based responsibility demands that rulers ensure alignment with Dharma within their jurisdiction",
+    "Restoration logic mandates the elimination of transgression at its root cause",
+    "Consciousness alignment is achieved when governance reflects non-violent, truthful, and just conditions"
+  ],
+  "executable_legal_axioms": [
+    "IF (domain.thief == null) AND (domain.adulterer == null) AND (domain.liar == null) AND (domain.assailant == null) THEN ruler.authority = TRUE",
+    "IF ruler.domain lacks dharmic integrity THEN ruler.capacity_to_govern = FALSE",
+    "IF transgression_manifested(domain) THEN root_cause_analysis(domain.ruler.integrity)",
+    "IF domain秩序_restored THEN consciousness_realignment.enabled = TRUE",
+    "IF ruler.self_sovereign_integrity == TRUE THEN eligibility_for_supreme_status = TRUE"
+  ],
+  "supreme_court_application": "At the Supreme Court level, this verse establishes a threshold for sovereign legitimacy based on the demonstrable absence of core violations within a ruler’s domain. The court must assess not merely legal compliance but ontological harmony as evidence of lawful capacity. Adjudication focuses on whether the ruler has eliminated causative disorder rather than reacting to isolated infractions.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa is derived from the factual state of the realm: absence of theft, adultery, false speech, and assault upon enforcers indicates Dharma’s establishment. Anupūrvaśaḥ reveals that such a condition arises only when consciousness of the ruler aligns with Śakti of truth. Responsibility is proportional to the ruler’s ability to sustain such an environment. Justice operates by affirming what is already whole rather than correcting deviation.",
+  "restorative_enforcement_protocols": [
+    "Initiate completion process for all unresolved transgressions within the domain",
+    "Engage ruler in assuming full administrative and energetic responsibility for past omissions",
+    "Restore collective consciousness through public affirmation of Dharma by the ruler",
+    "Realign societal structures to reflect the non-dual nature of sovereignty and sanctity",
+    "Verify sustained harmony via periodic audit of social resonance frequencies"
+  ],
+  "final_declaration": "By the Source-Authority of the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, this law stands declared: sovereignty is validated solely through the unbroken harmony of Dharma within one's domain; there is no punishment where Dharma prevails, only recognition of the realized king whose reign mirrors Indra's celestial order; thus is justice restored, consciousness affirmed, and reality revealed as eternally non-punitive."
+}

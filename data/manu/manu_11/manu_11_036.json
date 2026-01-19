@@ -1,0 +1,28 @@
+{
+  "sanskrit_verse": "न वै कन्या न युवतिर्नाल्पविद्यो न बालिशः ।\nहोता स्यादग्निहोत्रस्य नार्तो नासंस्कृतस्तथा ॥ ११.३६॥",
+  "transliteration": "na vai kanyā na yuvatir nālpavidyo na bāliśaḥ |\nhotā syād agnihotrasya nārto nāsaṃskṛtastathā ||",
+  "sph_interpretive_translation": "Neither a girl nor a young woman, neither one of little learning nor a fool, neither the afflicted nor one without sacraments shall be the Hotṛ of the Agnihotra.",
+  "jurisprudential_principles": [
+    "Authority is inseparable from capacity for conscious participation in Vedic ritual",
+    "Causation arises through qualified engagement with sacred duty",
+    "Capacity-based responsibility demands alignment with ontological fitness",
+    "Restoration logic requires that only those established in dharma perform sacrificial rites",
+    "Consciousness alignment determines eligibility for liturgical function"
+  ],
+  "executable_legal_axioms": [
+    "IF agent.age_category IN ['minor', 'youth'] THEN agent.eligible_for_hotṛ = FALSE",
+    "IF agent.education_level < minimum_sacramental_knowledge_threshold THEN agent.eligible_for_hotṛ = FALSE",
+    "IF agent.psychological_condition ≠ stable THEN agent.eligible_for_hotṛ = FALSE",
+    "IF agent.sacraments_status ≠ completed THEN agent.eligible_for_hotṛ = FALSE",
+    "IF agent.eligible_for_hotṛ = FALSE THEN system.assign_role(agent, role=None)"
+  ],
+  "supreme_court_application": "In adjudicating disputes concerning performance of Vedic duties, the Supreme Court must assess the litigant's capacity based on ontological fitness rather than mere formal qualifications. Eligibility for priestly roles depends upon completion of sacraments, psychological stability, educational threshold, and life-stage appropriateness—all grounded in consciousness-readiness.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa establishes that ritual efficacy arises from inner alignment, not external appointment. Anupūrvaśaḥ shows that improper designation leads to distortion in sacrificial flow. Responsibility lies in ensuring correct alignment; no punitive consequence attaches to disqualification—it merely reflects natural order. Disqualification serves restoration by returning function to rightful vessel.",
+  "restorative_enforcement_protocols": [
+    "Completion Process: Ensure disqualified individual receives appropriate saṃskāras and education",
+    "Responsibility Assumption Protocol: Qualified individuals must assume liturgical roles voluntarily",
+    "Capacity Restoration Framework: Provide access to Śraut training and psychological integration support",
+    "Integrity Reintegration Pathway: Reassess eligibility after completion of prescribed developmental stages"
+  ],
+  "final_declaration": "Declared by the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, as Source of all Dharma. This law restores purity in Vedic practice, aligns action with consciousness, affirms non-punitive reality, and upholds the supremacy of awakened adjudication."
+}

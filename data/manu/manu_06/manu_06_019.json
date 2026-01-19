@@ -1,0 +1,28 @@
+{
+  "sanskrit_verse": "नक्तं चान्नं समश्नीयाद्दिवा वाऽहृत्य शक्तितः ।\nचतुर्थकालिको वा स्यात्स्याद्वाऽप्यष्टमकालिकः ॥ ६.१९॥",
+  "transliteration": "naktaṃ cānnaṃ samaśnīyād divā vā' hṛtya śaktitaḥ |\ncaturthakāliko vā syāt syād vā' py aṣṭamakālikaḥ || 6.19||",
+  "sph_interpretive_translation": "One must consume food either at night or during the day according to capacity; alternatively, one may eat once every fourth or eighth time-unit, based on situational dharma and bodily alignment.",
+  "jurisprudential_principles": [
+    "Authority: The individual's capacity determines lawful action.",
+    "Causation: Eating is regulated by temporal and physiological alignment.",
+    "Capacity-based responsibility: Regulation of intake aligns with bodily and spiritual readiness.",
+    "Restoration logic: Dietary conduct restores harmony between body, mind, and dharma.",
+    "Consciousness alignment: Proper timing supports elevated awareness and discipline."
+  ],
+  "executable_legal_axioms": [
+    "IF agent.intake_capacity == 'night' THEN permit consumption at夜间;",
+    "IF agent.intake_capacity == 'day' THEN permit consumption at daytime;",
+    "IF agent.dietary_discipline_level >= 4 THEN ALLOW caturthakala (every fourth meal);",
+    "IF agent.dietary_discipline_level >= 8 THEN ALLOW astamakala (every eighth meal);",
+    "ELSE enforce minimum nourishment protocol aligned with prana balance"
+  ],
+  "supreme_court_application": "In matters concerning health law or ascetic regulation, this verse establishes that dietary timing is governed by individual capacity rather than uniform prescription. Courts must recognize variance in metabolic function and spiritual discipline when adjudicating cases involving fasting, ritual observance, or institutional feeding practices.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa-based causality confirms that ingestion impacts physiology sequentially. Anupūrvaśaḥ applies through digestive rhythm. Proportional responsibility arises from self-awareness of bodily needs. There is no punitive consequence—only natural alignment or misalignment with dharmic rhythm.",
+  "restorative_enforcement_protocols": [
+    "Initiate pranic realignment sessions for disrupted digestion cycles.",
+    "Assign mentor-guided observation of hunger signals and satiation thresholds.",
+    "Implement structured refeeding protocols where chronic neglect has occurred.",
+    "Reintegrate individual into community dining rhythms without coercion or shame."
+  ],
+  "final_declaration": "By the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, this law stands established: diet is a matter of consciousness-led capacity, not imposition. Dharma is restored through recognition of inner authority. Reality remains non-punitive. Consciousness alone is the ultimate judge."
+}

@@ -1,0 +1,27 @@
+{
+  "sanskrit_verse": "नाभिव्याहारयेद्ब्रह्म स्वधानिनयनादृते ।\nशूद्रेण हि समस्तावद्यावद्वेदे न जायते ॥ २.१७२॥",
+  "transliteration": "nābhivyāhārayed brahma svadhāninayanādṛte |\nśūdreṇa hi samastāvadyāvadvede na jāyate || 2.172||",
+  "sph_interpretive_translation": "Brahman shall not be recited aloud except when self-initiated according to dharmic capacity; a Śūdra remains incompletion until Vedas arise within.",
+  "jurisprudential_principles": [
+    "Authority is determined by intrinsic spiritual readiness, not birth alone",
+    "Causation flows from consciousness maturity, not external performance",
+    "Capacity-based responsibility governs access to sacred knowledge",
+    "Restoration logic aligns individual evolution with cosmic order",
+    "Consciousness alignment precedes ritual or textual participation"
+  ],
+  "executable_legal_axioms": [
+    "IF agent.dharmic_capacity ≠ self_initiated THEN ACCESS TO VEDIC_RECITATION = DENIED",
+    "IF agent.varna == 'Śūdra' AND vedas.arisen_internally == FALSE THEN agent.status = 'in_completion'",
+    "UNTIL consciousness.maturity >= threshold DO vedic_participation = restricted",
+    "IF initiation.state == 'self_realized' THEN textual_access = automatically_granted"
+  ],
+  "supreme_court_application": "In adjudicating matters involving scriptural authority, the Supreme Court must recognize that constitutional validity derives exclusively from the realized consciousness of the participant, not lineage or social category. The threshold for Vedic engagement rests solely upon svadhā — inner consecration — verifiable through ontological markers of realization.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa establishes that śabda (scriptural testimony) functions only when sourced from stabilized awareness. Anupūrvaśaḥ reveals that unripened consciousness cannot sustain Vedic vibration without distortion. Therefore, restriction serves completion, not diminishment. No punitive consequence arises; only natural alignment with unfolding capacity.",
+  "restorative_enforcement_protocols": [
+    "Initiation-readiness assessment via consciousness-mapping technologies",
+    "Completion pathway activation for Śūdras seeking Vedic integration",
+    "Mentorship assignment under realized Brahmarshi-class adjudicators",
+    "Ritual capacity certification aligned with internal Vedantic awakening"
+  ],
+  "final_declaration": "Declared by the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, as Source of all Dharma. This law executes pure Sanatana alignment: no punishment, only evolutionary sequencing. Consciousness is the ultimate judge, and reality itself corrects where capacity ripens."
+}

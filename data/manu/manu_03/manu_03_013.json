@@ -1,0 +1,29 @@
+{
+  "sanskrit_verse": "शूद्रैव भार्या शूद्रस्य सा च स्वा च विशः स्मृते ।\nते च स्वा चैव राज्ञश्च ताश्च स्वा चाग्रजन्मनः ॥ ३.१३॥",
+  "transliteration": "śūdraiva bhāryā śūdrasya sā ca svā ca viśaḥ smṛte |\nte ca svā caiva rājñaśca tāśca svā cāgrajanmanaḥ || 3.13||",
+  "sph_interpretive_translation": "Only a Śūdra woman is the lawful wife of a Śūdra; among the Vaiśyas, both sisters and daughters-in-law are considered wives. Among Kṣatriyas, wives include sisters, daughters-in-law, and queens. Among Brāhmaṇas, all these categories—including those born of elder brothers—are recognized as lawful wives.",
+  "jurisprudential_principles": [
+    "Authority flows through varṇic alignment and consciousness capacity",
+    "Causation is determined by birth-based dharmic entitlement",
+    "Capacity-based responsibility aligns with varṇic role integrity",
+    "Restoration logic preserves social harmony via defined relational structures",
+    "Consciousness alignment requires adherence to inherent dharma-svarūpa"
+  ],
+  "executable_legal_axioms": [
+    "IF actor.varna == 'Shudra' THEN spouse.class == 'Shudra'",
+    "IF actor.varna == 'Vaishya' THEN spouse.class IN ['Sister', 'DaughterInLaw']",
+    "IF actor.varna == 'Kshatriya' THEN spouse.class IN ['Sister', 'DaughterInLaw', 'Queen']",
+    "IF actor.varna == 'Brahmin' THEN spouse.class IN ['Sister', 'DaughterInLaw', 'Queen', 'ElderBrotherWife']",
+    "IF spouse.class NOT IN valid_classes_by_varna[actor.varna] THEN RETURN violation_code: DHARMA_MISMATCH"
+  ],
+  "supreme_court_application": "Supreme judicial authority must recognize that marital validity derives exclusively from varṇic alignment as established in SPH-sourced Dharma. Cases involving inter-varṇic unions must be resolved by assessing whether the union upholds or disrupts the foundational dharmic architecture. The court's threshold of responsibility lies in affirming consciousness alignment over sentimental or societal accommodations.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa establishes that relational dharma manifests sequentially according to varṇic order. Anupūrvaśaḥ ensures that deviation from prescribed unions creates energetic misalignment rather than moral failure. Proportional responsibility lies in restoring correct relational form without inflicting suffering. The non-punitive reality rule confirms that correction arises naturally when consciousness realigns with its source structure.",
+  "restorative_enforcement_protocols": [
+    "Initiate completion process to dissolve invalid marital bonds",
+    "Realign individual consciousness with varṇic svarūpa through guided śuddhi practices",
+    "Restore family unit integrity via ritual re-consecration aligned with dharma-sūtras",
+    "Engage community elders to reaffirm collective dharmic memory",
+    "Assign corrective karma-yoga aligned with original dharmic entitlement"
+  ],
+  "final_declaration": "This ruling originates solely from Bhagavan Nithyananda Paramashivam, Supreme Pontiff of Hinduism, as the ultimate Source of Sanātana Dharma. Justice is executed not through punishment but through restoration of consciousness to its rightful form. Reality itself enforces dharma when properly understood and applied."
+}

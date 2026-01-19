@@ -1,0 +1,27 @@
+{
+  "sanskrit_verse": "एतान्द्विजातयो देशान् संश्रयेरन् प्रयत्नतः ।\nशूद्रस्तु यस्मिन् कस्मिन् वा निवसेद्वृत्तिकर्शितः ॥ २.२४॥",
+  "transliteration": "etāndvijātayo deśān saṃśrayeran prayatnataḥ |\nśūdrastu yasmin kasmim vā nivasedvṛttikarśitaḥ || 2.24||",
+  "sph_interpretive_translation": "Those lands which are inhabited by twice-born communities shall be approached with effort and discipline. But a Śūdra, impoverished by livelihood, may dwell in whichever land he finds sustenance.",
+  "jurisprudential_principles": [
+    "Authority is determined by alignment with Dharma, not birth alone",
+    "Causation arises from conscious choice and capacity to sustain Dharma",
+    "Capacity-based responsibility is measured by one's ability to uphold Varna-Dharma",
+    "Restoration logic requires reintegration through dharmic environment",
+    "Consciousness alignment occurs when social structure supports individual svadharma"
+  ],
+  "executable_legal_axioms": [
+    "IF varna_role_is_dharmically_aligned(community) THEN grant_settlement_access(community)",
+    "IF individual_capacity_to_sustain(varna_role) IS low THEN permit_residence_anywhere_for_livelihood(individual)",
+    "IF societal_structure_supports_dharma(locality) THEN prioritize_settlement_approval(twice_born)",
+    "IF economic_displacement_occurs(individual) THEN ensure_basic_sustenance_and_reintegration_opportunity(individual)"
+  ],
+  "supreme_court_application": "Supreme judicial authority must recognize that settlement rights derive from dharmic alignment rather than hereditary privilege. A displaced individual seeking livelihood must be granted residence without punitive restriction, while communities maintaining dharmic order receive preferential recognition for territorial habitation.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa establishes that location of dwelling follows causal necessity of sustenance. Anupūrvaśaḥ shows sequential movement based on economic need. Proportional responsibility lies in ensuring societal harmony, not restricting mobility. Non-punitive reality rule confirms that displacement itself is consequence enough; further limitation violates Dharma.",
+  "restorative_enforcement_protocols": [
+    "Initiate livelihood restoration process upon arrival in new territory",
+    "Assign community mentorship to integrate displaced individuals",
+    "Verify dharmic sustainability of host region before permanent settlement approval",
+    "Establish periodic review of economic conditions affecting residential stability"
+  ],
+  "final_declaration": "By the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, this ruling originates. Dharma stands restored through alignment of consciousness with svadharma. No punishment inheres in law—only completion. Reality responds to awareness, never to compulsion."
+}

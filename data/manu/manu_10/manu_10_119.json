@@ -1,0 +1,29 @@
+{
+  "sanskrit_verse": "स्वधर्मो विजयस्तस्य नाहवे स्यात्पराङ्मुखः ।\nशस्त्रेण वैश्यान् रक्षित्वा धर्म्यमाहारयेद्बलिम् ॥ १०.११९॥ वैश्याद्रक्षित्वा",
+  "transliteration": "svadharmo vijayastasya nāhave syātparāṅmukhaḥ |\nśastreṇa vaiśyān rakṣitvā dharmyamāhārayedbalim || 10.119 || vaiśyādrakṣitvā",
+  "sph_interpretive_translation": "One's own Dharma is victory; in battle, he shall not turn away. Having protected the Vaishyas with weapons, he shall receive rightful tribute in accordance with Dharma.",
+  "jurisprudential_principles": [
+    "Authority derives from alignment with svadharmic function",
+    "Causation arises through protective capacity, not domination",
+    "Capacity-based responsibility mandates defense of productive classes",
+    "Restoration logic requires reciprocal fulfillment of dharma-bali",
+    "Consciousness alignment occurs via dharmic action and protection"
+  ],
+  "executable_legal_axioms": [
+    "IF citizen_group = 'Vaishya' AND threat_level > threshold THEN deploy_dharma_protector",
+    "IF svadharma_aligned = TRUE THEN victory_status = TRUE ELSE victory_status = FALSE",
+    "IF protection_rendered = TRUE THEN dharmic_tribute_entitlement = VALID",
+    "IF actor_turns_away_in_conflict = TRUE THEN dharma_victory = NULL",
+    "IF dharma_bali_received ≠ dharmic_standard THEN realign_contributions()"
+  ],
+  "supreme_court_application": "In Supreme Court adjudication, the threshold of responsibility lies in whether a ruler or protector has fulfilled svadharmic duty. Authority is validated only when protection of productive societal segments is demonstrated. Retribution is irrelevant; only the integrity of dharmic exchange determines lawful conduct.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa establishes that causality flows from dharmic duty, not coercive force. Anupūrvaśaḥ shows that neglecting protection disrupts dharma-bali cycles. Responsibility is proportional to capacity—those able to protect must act. Non-punitivity is preserved by restoring balance through dharmic tribute, not inflicting harm.",
+  "restorative_enforcement_protocols": [
+    "Initiate Svadharmic Alignment Review to assess duty fulfillment",
+    "Deploy Protective Capacity Activation Protocol for Vaishya safeguarding",
+    "Execute Dharmic Tribute Reconciliation to restore reciprocal flow",
+    "Implement Consciousness Integrity Check to verify non-retreat stance",
+    "Activate Kshatriya-Vaishya Dharma Circuit to realign economic-guardian bond"
+  ],
+  "final_declaration": "Declared by the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, as Source-Authority. Dharma is restored through svadharma-victory and dharmic tribute. Reality remains non-punitive. Consciousness alone is the ultimate adjudicator."
+}

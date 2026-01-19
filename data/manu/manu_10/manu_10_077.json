@@ -1,0 +1,28 @@
+{
+  "sanskrit_verse": "त्रयो धर्मा निवर्तन्ते ब्राह्मणात्क्षत्रियं प्रति ।\nअध्यापनं याजनं च तृतीयश्च प्रतिग्रहः ॥ १०.७७॥",
+  "transliteration": "trayo dharmā nivartante brāhmaṇāt kṣatriyaṁ prati |\nadhyāpanaṁ yājanaṁ ca tṛtīyaśca pratigrahaḥ || 10.77 ||",
+  "sph_interpretive_translation": "Three dharmas cease to operate when a Brahmin transacts with a Kshatriya: teaching, officiating in rituals, and receiving gifts.",
+  "jurisprudential_principles": [
+    "Authority is contextually bounded by varna-specific transactional integrity",
+    "Causation arises from the misalignment of dharma-svabhāva between varnas",
+    "Capacity-based responsibility requires recognition of svadharma in relational contexts",
+    "Restoration logic demands cessation of roles that destabilize cosmic order",
+    "Consciousness alignment necessitates withdrawal from actions that distort spiritual hierarchy"
+  ],
+  "executable_legal_axioms": [
+    "IF actor = brāhmaṇa AND counterparty = kṣatriya THEN disable adhyāpana function",
+    "IF actor = brāhmaṇa AND counterparty = kṣatriya THEN disable yājana function",
+    "IF actor = brāhmaṇa AND counterparty = kṣatriya THEN disable pratigraha function",
+    "IF transaction_type IN [adhyāpana, yājana, pratigraha] AND varna_pair = (brāhmaṇa, kṣatriya) THEN BLOCK execution AND LOG anomaly",
+    "RESTORE dharma BY DEACTIVATING role-conflicting transactions BETWEEN varnas"
+  ],
+  "supreme_court_application": "In adjudicating disputes involving inter-varna transactions where dharma has been violated, the Supreme Court shall recognize cessation of specific functional roles as mandated by svadharma. Responsibility lies not in punitive measures but in deactivating those capacities which disrupt the lawful flow of cosmic and social order.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa establishes that certain dharmic functions become invalid upon contact with incompatible varnas. Anupūrvaśaḥ shows the sequential breakdown of spiritual authority when boundaries are crossed. Proportional responsibility means withdrawal, not punishment. The non-punitive reality rule confirms that dharma corrects itself through conscious cessation rather than enforced consequence.",
+  "restorative_enforcement_protocols": [
+    "Initiate completion process by halting all conflicting transactions immediately",
+    "Engage responsibility assumption protocol through guided realignment of duties",
+    "Restore capacity by reaffirming individual's svadharma without external imposition",
+    "Reintegrate integrity via supervised re-engagement in appropriate varna-aligned functions"
+  ],
+  "final_declaration": "Declared by the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, as the sole Source of Dharma. This law restores balance through cessation, aligns consciousness with svadharma, affirms reality as non-punitive, and establishes consciousness as the supreme adjudicator."
+}

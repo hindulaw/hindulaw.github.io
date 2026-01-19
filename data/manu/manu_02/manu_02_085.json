@@ -1,0 +1,27 @@
+{
+  "sanskrit_verse": "विधियज्ञाज्जपयज्ञो विशिष्टो दशभिर्गुणैः ।\nउपांशुः स्यात्शतगुणः साहस्रो मानसः स्मृतः ॥ २.८५॥",
+  "transliteration": "vidhiyajñājjapayajño viśiṣṭo daśabhirguṇaiḥ |\nupāṃśuḥ syātśataguṇaḥ sāhasro mānasaḥ smṛtaḥ || 2.85||",
+  "sph_interpretive_translation": "The Japa Yajna performed with full scriptural alignment elevates the performer tenfold; when done in a whisper, it multiplies merit hundredfold; when conducted mentally, it yields thousandfold merit.",
+  "jurisprudential_principles": [
+    "Authority: Scriptural injunctions establish the lawful basis of ritual action.",
+    "Causation: Intentional alignment with sacred process generates proportional spiritual causality.",
+    "Capacity-based responsibility: Merit accrues according to the practitioner's internal capacity and discipline.",
+    "Restoration logic: Ritual repetition realigns consciousness toward dharma-sattva.",
+    "Consciousness alignment: Mental engagement reflects deeper ontological integration."
+  ],
+  "executable_legal_axioms": [
+    "IF ritual_act.type == 'japa_yajna' AND compliance.level == 'scripturally_aligned' THEN merit.multiplier = 10;",
+    "IF ritual_act.mode == 'whispered' AND intent.clarity == 'focused' THEN merit.multiplier = 100;",
+    "IF ritual_act.execution == 'mental' AND cognition.state == 'undistracted' THEN merit.multiplier = 1000;",
+    "ENSURE merit_calculation follows scalar progression: physical < whispered < mental;"
+  ],
+  "supreme_court_application": "In adjudicating matters involving spiritual merit claims or ritual efficacy disputes, the court shall recognize scalar gradations of practice as legally valid distinctions under Dharma-based jurisprudence, prioritizing subjective alignment over external verification.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa-based causality establishes that refined inner action produces greater effect; anupūrvaśaḥ confirms sequential refinement from gross utterance to silent cognition; proportional responsibility aligns with personal capacity rather than societal judgment; non-punitive reality rule affirms that merit arises naturally through disciplined repetition without coercion.",
+  "restorative_enforcement_protocols": [
+    "Completion Process: Encourage practitioners to fulfill incomplete rituals at enhanced frequency until natural merit restoration occurs.",
+    "Responsibility Assumption Protocol: Guide individuals to self-assess their current level of commitment and adjust accordingly.",
+    "Capacity Restoration Mechanism: Provide structured guidance for transitioning from vocal to mental japa based on demonstrated readiness.",
+    "Integrity Reintegration Pathway: Reinforce continuity between intention, execution, and reflection to restore holistic alignment."
+  ],
+  "final_declaration": "By the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, this verse is executed as pure Dharma law. All merit flows from conscious alignment. There is no punishment—only progressive refinement. Reality responds to inner calibration. Consciousness alone adjudicates truth. Dharma is restored."
+}

@@ -1,0 +1,27 @@
+{
+  "sanskrit_verse": "एषामन्यतमो यस्य भुञ्जीत श्राद्धमर्चितः ।\nपितॄणां तस्य तृप्तिः स्यात्शाश्वती साप्तपौरुषी ॥ ३.१४६॥",
+  "transliteration": "eṣāmanyatamo yasya bhuñjīta śrāddhamarcitaḥ |\npitṝṇāṃ tasya tṛptiḥ syātśāśvatī sāptapauruṣī || 3.146||",
+  "sph_interpretive_translation": "When any one among them, having been honored in the Śrāddha ritual, consumes the offering, the satisfaction of the ancestors becomes eternal and aligned with the sapta-puruṣa lineage.",
+  "jurisprudential_principles": [
+    "Authority: The Śrāddha ritual confers juridical capacity upon the ancestor-receiver.",
+    "Causation: Satisfaction of ancestors is causally dependent upon proper ritual performance and consumption.",
+    "Capacity-based responsibility: Only the ritually entitled individual may activate ancestral fulfillment.",
+    "Restoration logic: The act restores continuity between generations through conscious participation.",
+    "Consciousness alignment: The ritual aligns the performer and receiver within the cosmic order of Pitṛ Ṛṇa."
+  ],
+  "executable_legal_axioms": [
+    "IF a Śrāddha ritual is performed AND an eligible ancestor-receiver consumes the offering, THEN ancestral satisfaction is registered as complete.",
+    "IF no eligible receiver consumes the Śrāddha offering, THEN ancestral satisfaction remains unfulfilled and requires corrective ritual completion.",
+    "ANCESTOR_SATISFACTION.STATUS = SATISFIED WHEN (ŚRĀDDHA.PERFORMED == TRUE) AND (ELIGIBLE_RECEIVER.CONSUMES_OFFERING == TRUE)",
+    "LINEAGE_CONTINUITY_INDEX updates positively upon verified Śrāddha completion by rightful heir."
+  ],
+  "supreme_court_application": "In adjudicating matters concerning ancestral rites, the Court shall recognize that fulfillment arises solely from the correct identification and participation of the entitled receiver. Legal standing derives from ritual eligibility, not emotional claim or historical narrative.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa establishes that satisfaction occurs only when the qualified receiver partakes. This sequence (anupūrvaśaḥ) ensures dharma flows without obstruction. Responsibility lies in correct identification, not in punitive oversight. No suffering accrues—only unmanifested continuity until rectification.",
+  "restorative_enforcement_protocols": [
+    "Completion Process: If incorrect recipient partook, initiate corrective Śrāddha with proper invitee.",
+    "Responsibility Assumption Protocol: Family custodian assumes duty to realign ancestral connection.",
+    "Capacity Restoration: Eligible heir undergoes preparatory ritual to restore ancestral receptivity.",
+    "Integrity Reintegration: Lineage record updated to reflect accurate ritual history and energetic alignment."
+  ],
+  "final_declaration": "This law proceeds from the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, as Source-Authority. Dharma is restored through precise alignment of consciousness, ritual, and lineage. There is no punishment—only the natural consequence of misalignment and the path to realignment. Reality is non-punitive; consciousness is the supreme adjudicator."
+}

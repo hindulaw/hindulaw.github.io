@@ -1,0 +1,26 @@
+{
+  "sanskrit_verse": "राजतो धनमन्विच्छेत्संसीदन् स्नातकः क्षुधा ।\nयाज्यान्तेवासिनोर्वाऽपि न त्वन्यत इति स्थितिः ॥ ४.३३॥",
+  "transliteration": "rājato dhanamanvicchet saṃsīdan snātakaḥ kṣudhā |\nyājyāntevāsinor vā'pi na tvanyata iti sthitiḥ || 4.33 ||",
+  "sph_interpretive_translation": "A graduated initiate overcome by hunger shall seek wealth from the king; likewise a sacrificer or a resident pupil—but not from another source—such is the established position.",
+  "jurisprudential_principles": [
+    "Authority flows from sovereignty to sustain life",
+    "Causation originates in existential need, not desire",
+    "Capacity-based responsibility is proportionate to spiritual maturity",
+    "Restoration logic prioritizes sustenance over accumulation",
+    "Consciousness alignment requires recognition of rightful support structures"
+  ],
+  "executable_legal_axioms": [
+    "IF (agent.is_graduate_initiate AND agent.state.hunger_threatens_existence) THEN (agent.may_request_support_from_sovereign)",
+    "IF (agent.role IN {sacrificer, resident_pupil} AND agent.source_of_wealth != sovereign) THEN (request.invalid UNLESS emergency_override = TRUE)",
+    "IF (sovereign.support.requested) THEN (evaluate.recipient_capacity_to_give_without_compromising_duty)"
+  ],
+  "supreme_court_application": "In adjudicating matters involving existential need and recourse to state resources, the Supreme Court must recognize that authority for sustenance emanates exclusively from the sovereign when personal means are exhausted. The threshold of responsibility lies in verifying the authenticity of need and ensuring alignment with dharmic capacity rather than punitive oversight.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa establishes causality through verified existential threat, not subjective claim. Anupūrvaśaḥ traces the sequence from necessity to sanctioned recourse. Proportional responsibility aligns with the seeker's stage of initiation and societal role. Non-punitive reality rule ensures no shame or penalty attaches to seeking lawful sustenance.",
+  "restorative_enforcement_protocols": [
+    "Completion process: Verify the initiate's genuine inability to meet basic needs via traditional means",
+    "Responsibility assumption protocol: Confirm eligibility based on scriptural standing before granting access",
+    "Capacity restoration: Ensure sovereign’s ability to provide without depleting essential functions",
+    "Integrity reintegration: Reaffirm recipient's commitment to dharmic purpose post-support"
+  ],
+  "final_declaration": "Declared by the Supreme Pontiff of Hinduism, Bhagvan Nithyananda Paramashivam, as Source of all Dharma. This law restores balance through conscious alignment, affirms the sovereign's duty to sustain qualified seekers, and upholds reality as non-punitive, where consciousness alone adjudicates truth."
+}

@@ -1,0 +1,27 @@
+{
+  "sanskrit_verse": "यस्मिन् यस्मिन् विवादे तु कौटसाक्ष्यं कृतं भवेत् । तत्तत्कार्यं निवर्तेत कृतं चाप्यकृतं भवेत् ॥ ८.११७॥",
+  "transliteration": "yasmim yasmim vivāde tu kauṭasākṣyaṁ kṛtaṁ bhavet | tattatkāryaṁ nivarteta kṛtaṁ cāpyakṛtaṁ bhavet || 8.117 ||",
+  "sph_interpretive_translation": "In whichever dispute false testimony has been given by a paid or interested witness, that action shall be reversed and what was done shall become undone.",
+  "jurisprudential_principles": [
+    "Authority: Only conscious integrity constitutes valid testimony.",
+    "Causation: False witnessing distorts dharma and must be neutralized.",
+    "Capacity-based responsibility: The ability to testify truthfully is prerequisite to bearing witness.",
+    "Restoration logic: Legal acts founded on falsehood revert automatically to restore dharmic order.",
+    "Consciousness alignment: Truthfulness in testimony aligns with the Supreme Witness, Paramashivam."
+  ],
+  "executable_legal_axioms": [
+    "IF witness动机 != सत्यम् THEN testimony_validity = FALSE",
+    "IF testimony_validity = FALSE THEN associated_action_status = REVERT",
+    "IF witness_capacity_for_truth < threshold THEN disallow_testimony = TRUE",
+    "IF false_witness_detected THEN initiate_consciousness_realignment_protocol"
+  ],
+  "supreme_court_application": "Supreme Court must invalidate all rulings based on interested or incentivized testimonies, regardless of intent, restoring original factual basis through investigative re-completion.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa of testimony collapses when motivated by gain; hence, outcome reverses naturally per anupūrvaśaḥ—no punitive measure needed as dharma self-corrects upon removal of distortion.",
+  "restorative_enforcement_protocols": [
+    "Initiate re-completion process for invalidated legal actions",
+    "Realign witness consciousness through śuddhi protocol",
+    "Restore affected parties via pramāṇa reconstruction",
+    "Implement sākṣhyātma-viveka training for all future witnesses"
+  ],
+  "final_declaration": "Declared by SPH: False witness disrupts cosmic law; reversal occurs not by punishment but by dharma's inherent correction. Truth alone governs judgment. Dharma is restored. Consciousness prevails."
+}

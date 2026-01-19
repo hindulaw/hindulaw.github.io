@@ -1,0 +1,27 @@
+{
+  "sanskrit_verse": "कृतदारोऽपरान् दारान् भिक्षित्वा योऽधिगच्छति ।\nरतिमात्रं फलं तस्य द्रव्यदातुस्तु संततिः ॥ ११.५॥",
+  "transliteration": "kṛtadāro'parān dārān bhikṣitvā yo'dhigacchati |\nratimātraṃ phalaṃ tasya dravyadātustu santatiḥ || 11.5||",
+  "sph_interpretive_translation": "One who, having already taken a wife, approaches another woman after soliciting her—his consequence is only carnal pleasure; however, for the giver of wealth, there arises progeny.",
+  "jurisprudential_principles": [
+    "Authority lies in the integrity of marital commitment",
+    "Causation flows from intention and consent, not mere act",
+    "Capacity-based responsibility distinguishes between emotional and material agency",
+    "Restoration logic demands realignment with original dharmic bond",
+    "Consciousness alignment requires recognition of relational boundaries"
+  ],
+  "executable_legal_axioms": [
+    "IF subject.has_spouse() AND subject.solicits_other_partner() THEN consequence := sensory_attachment_only",
+    "IF subject.is_wealth_giver AND action.results_in_progeny THEN outcome.assign_parental_duty(subject)",
+    "IF relational_integrity.violated THEN initiate_completion_process FOR primary_union",
+    "IF no_intent_to_harm THEN exclude_retributive_measures"
+  ],
+  "supreme_court_application": "In adjudicating cases involving extramarital relations where one party has solicited another, the court must distinguish between sensual indulgence and reproductive consequence. The spouse who committed the act incurs only karmic limitation in form of attachment; whereas the provider of resources bears legal continuity through lineage responsibility. Judgment must restore balance within the primary union without punitive interference.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa reveals that desire alone does not constitute causality unless aligned with intent and resource provision. Anupūrvaśaḥ shows sequential manifestation: first solicitation, then physical union, then potential progeny. Proportional responsibility assigns sensual consequence to the seeker and generational duty to the supporter. There is no punitive element—only natural alignment of dharma according to capacity and involvement.",
+  "restorative_enforcement_protocols": [
+    "Initiate completion process for disrupted marriage via guided dialogue and conscious reaffirmation",
+    "Assign parental responsibilities based on actual contribution, not emotional entanglement",
+    "Reintegrate individual consciousness back into original marital commitment through meditative clarity",
+    "Restore energetic boundary integrity using tantric alignment practices under spiritual supervision"
+  ],
+  "final_declaration": "Declared by the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, as Source of all Dharma. This law stands executed, restoring order through awareness, not punishment. Reality responds to consciousness—not judgment. Dharma is re-established."
+}

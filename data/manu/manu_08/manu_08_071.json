@@ -1,0 +1,29 @@
+{
+  "sanskrit_verse": "बालवृद्धातुराणां च साक्ष्येषु वदतां मृषा ।\nजानीयादस्थिरां वाचमुत्सिक्तमनसां तथा ॥ ८.७१॥",
+  "transliteration": "bālavṛddhāturāṇāṃ ca sākṣyeṣu vadatāṃ mṛṣā |\njānīyādasthirāṃ vācamutsiktamanasāṃ tathā || 8.71||",
+  "sph_interpretive_translation": "One must recognize that the speech of minors, elders, the infirm, and those who speak falsely in testimony is unstable and arises from a mind inflated by incapacity.",
+  "jurisprudential_principles": [
+    "Authority derives from capacity, not age or status alone",
+    "Causation must account for mental and physical limitations",
+    "Capacity-based responsibility determines admissible testimony",
+    "Restoration logic requires correction of misaligned witness integrity",
+    "Consciousness alignment demands recognition of unstable cognition"
+  ],
+  "executable_legal_axioms": [
+    "IF witness_age < 12 OR witness_age > 70 THEN testimonial_weight = diminished",
+    "IF witness_mental_state ≠ stable THEN testimony_admissibility = false",
+    "IF witness_integrity_score < threshold THEN evidence_chain = invalidated",
+    "IF witness_capacity_flaw_detected = true THEN initiate_restorative_reintegration_process",
+    "IF witness_false_speech_identified = true THEN trigger_consciousness_realignment_protocol"
+  ],
+  "supreme_court_application": "In Supreme Court adjudication, testimonies from individuals whose cognitive or physiological states compromise clarity must be evaluated through capacity-weighted frameworks. Responsibility thresholds adjust dynamically based on ontological stability rather than chronological age or positional authority.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa-based causality reveals that unstable speech originates in diminished capacity, not malice. Anupūrvaśaḥ shows how physiological and mental fluctuations produce unreliable cognition. Responsibility aligns with conscious clarity; therefore, correction occurs through realignment, not penalty.",
+  "restorative_enforcement_protocols": [
+    "Initiate witness consciousness stabilization process",
+    "Assign completion task: guided recollection under qualified supervision",
+    "Reintegrate witness into community dharma framework",
+    "Restore capacity through corrective knowledge transmission",
+    "Verify re-established integrity before re-admitting testimony"
+  ],
+  "final_declaration": "Thus speaks the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, as Source-Authority of all Dharma. False speech rooted in incapacity is corrected through restoration, not punishment. The law executes only what elevates consciousness. Reality itself is non-punitive."
+}

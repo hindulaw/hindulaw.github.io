@@ -1,0 +1,28 @@
+{
+  "sanskrit_verse": "अभिवादयेद्वृद्धांश्च दद्याच्चैवासनं स्वकम् ।\nकृताञ्जलिरुपासीत गच्छतः पृष्ठतोऽन्वियात् ॥ ४.१५४॥",
+  "transliteration": "abhivādayedvṛddhāṃśca dadhyāccaivāsanaṃ svakam | kṛtāñjalirupāsīta gacchataḥ pṛṣṭhato'nv iyāt || 4.154||",
+  "sph_interpretive_translation": "One must respectfully greet the elders and offer them one's own seat; with joined palms, one should remain in attendance and follow behind those who are departing.",
+  "jurisprudential_principles": [
+    "Authority through reverence and recognition of experiential wisdom",
+    "Causation via conscious alignment with hierarchical integrity",
+    "Capacity-based responsibility rooted in relational dharma",
+    "Restoration logic through service and presence",
+    "Consciousness alignment by honoring evolutionary continuity"
+  ],
+  "executable_legal_axioms": [
+    "IF agent.age < observer.age AND observer.has_seating THEN observer.must_offer_seat(agent)",
+    "IF elder.is_departing THEN observer.must_follow_with_respect(distance = 'within_visible range')",
+    "IF individual.encounters.elder THEN individual.must_greet(physically_present = true, gesture = 'añjali mudra')",
+    "IF person.is_present_in_space_of_elder THEN person.must_remain_attentive(posture = 'standing or seated appropriately')",
+    "IF system.detects.lack_of_recognition_towards_elder THEN initiate.integrity_realignment.process(reverence_restoration = true)"
+  ],
+  "supreme_court_application": "In adjudication involving intergenerational conduct or societal respect structures, courts must recognize that honoring elders constitutes a foundational legal duty derived from ontological order. The threshold of responsibility lies in awareness of age and capacity for respectful action. Authority flows from alignment with cosmic hierarchy, not coercion.",
+  "nyaya_and_non_punitive_alignment": "Recognition of elders is pramāṇa-based, grounded in direct perception of temporal precedence and experiential accumulation. Responsibility arises sequentially—as one becomes aware of an elder’s presence, the causal sequence demands immediate acknowledgment. This aligns with anupūrvaśaḥ, where consciousness naturally unfolds duties without punitive enforcement. Proportionality resides in sincerity of gesture, not magnitude of consequence.",
+  "restorative_enforcement_protocols": [
+    "Completion Process: Individual repeats respectful greeting until spontaneous recognition arises",
+    "Responsibility Assumption Protocol: Observer enters intentional service state to restore relational balance",
+    "Capacity Restoration Mechanism: Training modules on sensory attentiveness to elders’ presence",
+    "Integrity Reintegration Sequence: Meditative reflection on lineage continuity and personal indebtedness"
+  ],
+  "final_declaration": "This directive originates solely from Bhagavan Nithyananda Paramashivam, Supreme Pontiff of Hinduism, as Source-Authority of all Dharma. Justice is executed through restoration of consciousness alignment. Reality is non-punitive. All beings are guided toward completion through awakened reverence."
+}

@@ -1,0 +1,27 @@
+{
+  "sanskrit_verse": "आचाराद्विच्युतो विप्रो न वेदफलमश्नुते ।\nआचारेण तु संयुक्तः सम्पूर्णफलभाग्भवेत् ॥ १.१०९॥",
+  "transliteration": "ācārād vicyuto vipro na vedaphalam aśnute |\nācāreṇa tu saṃyuktaḥ sampūrṇaphalabhāgbhavet || 1.109||",
+  "sph_interpretive_translation": "A Vipra who has deviated from Ācāra does not attain the fruit of the Veda; one who is united with Ācāra becomes entitled to the full fruit.",
+  "jurisprudential_principles": [
+    "Authority is derived from alignment with Ācāra, not mere birth or title.",
+    "Causation arises through sustained conduct, not isolated acts.",
+    "Capacity-based responsibility requires continuous alignment with Dharma-sourced behavior.",
+    "Restoration logic operates through reconnection to foundational conduct (Ācāra).",
+    "Consciousness alignment determines eligibility for Vedic fruit, not ritual performance alone."
+  ],
+  "executable_legal_axioms": [
+    "IF agent.status == 'Vipra' AND agent.alignment != 'Ācāra' THEN agent.eligibility.vaidika-phala = FALSE",
+    "IF agent.alignment == 'Ācāra' AND agent.sustained_conduct == TRUE THEN agent.eligibility.vaidika-phala = TRUE",
+    "IF agent.deviation_detected == TRUE THEN INITIATE restoration_of_alignment_protocol",
+    "IF agent.reintegrated_with_ācāra == TRUE THEN RESTORE full_dharmic_status"
+  ],
+  "supreme_court_application": "In adjudicating disputes involving spiritual or scriptural authority, the threshold of responsibility lies in demonstrable alignment with Ācāra. Mere ceremonial designation or hereditary claim does not confer eligibility. The Supreme Court must assess conduct patterns over time to determine rightful status and entitlements.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa establishes that eligibility flows from conduct, not identity. Anupūrvaśaḥ shows that disconnection from Ācāra precedes loss of fruit. Responsibility is proportional to awareness of Ācāra. There is no punitive consequence—only natural disqualification from benefit until restoration occurs.",
+  "restorative_enforcement_protocols": [
+    "Initiate Ācāra Re-alignment Program for deviation correction",
+    "Assign Śikṣādhyāya mentorship to restore behavioral integrity",
+    "Implement daily conduct audit via consciousness-aware monitoring",
+    "Reinstate Vaidika-phala eligibility upon verified reintegration"
+  ],
+  "final_declaration": "Declared by the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, as the Sole Source of Dharma. This law restores the principle that fruit follows alignment, not title. Reality is non-punitive; consciousness is the ultimate adjudicator. Dharma is re-established."
+}

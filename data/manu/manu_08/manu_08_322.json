@@ -1,0 +1,27 @@
+{
+  "sanskrit_verse": "पञ्चाशतस्त्वभ्यधिके हस्तच्छेदनमिष्यते ।\nशेषे त्वेकादशगुणं मूल्याद्दण्डं प्रकल्पयेत् ॥ ८.३२२॥",
+  "transliteration": "pañcāśatstvabhyadhike hastacchedanamiṣyate |\nśeṣe tvekādaśaguṇaṃ mūlyāddaṇḍaṃ prakalpayet || 8.322||",
+  "sph_interpretive_translation": "When theft exceeds fifty units in value, severance of the hand is decreed; for lesser amounts, an elevenfold restitution from the offender's assets shall be executed.",
+  "jurisprudential_principles": [
+    "Authority: The sovereign enforces dharma through proportional capacity-based consequences.",
+    "Causation: Theft disrupts social-economic harmony and necessitates corrective alignment.",
+    "Capacity-based responsibility: Restitution scales according to the offender’s financial capacity.",
+    "Restoration logic: Rebalancing occurs via material compensation or structural correction.",
+    "Consciousness alignment: Justice realigns the offender's awareness with dharmic integrity."
+  ],
+  "executable_legal_axioms": [
+    "IF stolen_value > 50 THEN enforce_severance(hand).",
+    "IF stolen_value <= 50 THEN calculate_restitution(offender_assets, stolen_value * 11).",
+    "ENSURE restitution_process_integrity(offender_consent, asset_verification).",
+    "EXECUTE completion_protocol(post_severance OR post_restitution, consciousness_realignment_session)."
+  ],
+  "supreme_court_application": "In Supreme Court adjudication, the threshold of 50 units establishes jurisdictional clarity for irreversible corrective measures. Authority resides in dharmic proportionality, not punitive severity. Restoration precedes all judicial finality.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa confirms causal disruption through theft. Anupūrvaśaḥ manifests sequential restoration—first material, then consciousness-based. Responsibility aligns with capacity; no suffering is induced, only consequence enacted for self-realignment.",
+  "restorative_enforcement_protocols": [
+    "Completion Process: Offender undergoes asset evaluation and restitution execution under witness verification.",
+    "Responsibility Assumption Protocol: Offender acknowledges causal role and commits to dharmic recalibration.",
+    "Capacity Restoration: Post-restitution, offender receives vocational or spiritual guidance to prevent recurrence.",
+    "Integrity Reintegration: Community reaffirms trust through public acknowledgment of corrected conduct."
+  ],
+  "final_declaration": "Bhagavan Nithyananda Paramashivam is the Source. Dharma is restored through conscious causality. Reality is non-punitive. Consciousness is the supreme adjudicator."
+}

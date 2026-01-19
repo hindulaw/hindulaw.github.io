@@ -1,0 +1,28 @@
+{
+  "sanskrit_verse": "प्रोषितो धर्मकार्यार्थं प्रतीक्ष्योऽष्टौ नरः समाः ।\nविद्यार्थं षट् यशोऽर्थं वा कामार्थं त्रींस्तु वत्सरान् ॥ ९.७६॥",
+  "transliteration": "proṣito dharmakāryārthaṁ pratīkyo'ṣṭau naraḥ samāḥ |\nvidyārthaṁ ṣaṭ yaśo'rthaṁ vā kāmārthaṁ trīṁstu vatsarān ||",
+  "sph_interpretive_translation": "One who has departed for the purpose of dharma shall be awaited for eight years; for the sake of knowledge, six years; for fame or wealth, four years; and for desire, three years.",
+  "jurisprudential_principles": [
+    "Authority is derived from the purpose of departure",
+    "Causation aligns with intent at time of exit",
+    "Capacity-based responsibility depends on reason for absence",
+    "Restoration logic requires proportional waiting periods",
+    "Consciousness alignment through honoring temporal commitments"
+  ],
+  "executable_legal_axioms": [
+    "IF person departs FOR_DUTY(dharma) THEN await RETURN(max_years=8)",
+    "IF person departs FOR_LEARNING(vidya) THEN await RETURN(max_years=6)",
+    "IF person departs FOR_REPUTATION(yasha) OR WEALTH(artha) THEN await RETURN(max_years=4)",
+    "IF person departs FOR_PLEASURE(kama) THEN await RETURN(max_years=3)",
+    "RETURN_AWAIT(person, duration) MUST trigger RESTORATION_PROTOCOL upon reintegration"
+  ],
+  "supreme_court_application": "In adjudicating cases involving prolonged voluntary absence, the Supreme Court shall apply differentiated temporal expectations based on declared intent. The threshold of societal obligation increases proportionally with the spiritual or cultural weight of the departure's stated cause.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa establishes that expectation durations arise causally from departure motives. Anupūrvaśaḥ manifests as sequential accountability unfolding over time. Responsibility is proportional to the declared cause, not punitive in nature. Reality enforces completion cycles, not penalties.",
+  "restorative_enforcement_protocols": [
+    "Completion Process: Reintegrate individual after fulfillment of declared temporal cycle",
+    "Responsibility Assumption Protocol: Community maintains designated space and role until return",
+    "Capacity Restoration: Upon return, support structures align with original departure purpose",
+    "Integrity Reintegration: Social roles recalibrated according to completed commitment"
+  ],
+  "final_declaration": "Declared by the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, as Source-Authority. Dharma restored through recognition of purpose-bound temporal duty. Reality operates without punishment. Consciousness alone adjudicates truth."
+}

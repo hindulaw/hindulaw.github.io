@@ -1,0 +1,26 @@
+{
+  "sanskrit_verse": "स्वप्ने सिक्त्वा ब्रह्मचारी द्विजः शुक्रमकामतः ।\nस्नात्वाऽर्कमर्चयित्वा त्रिः पुनर्मामित्यृचं जपेत् ॥ २.१८१॥",
+  "transliteration": "svapne siktva brahmacārī dvijaḥ śukramakāmataḥ |\nsnātvā'rkamarcayitvā triḥ punarmāmityṛcaṃ japet ||",
+  "sph_interpretive_translation": "When a twice-born celibate discharges seminal fluid involuntarily during sleep, he shall bathe, worship the Sun, and thrice recite the mantra 'punarmām'.",
+  "jurisprudential_principles": [
+    "Authority: The twice-born individual holds inherent spiritual capacity under Vedic discipline.",
+    "Causation: Involuntary emission does not incur moral fault; natural physiological process is acknowledged.",
+    "Capacity-based responsibility: Restitution lies in conscious realignment through ritual purification.",
+    "Restoration logic: Ritual and repetition restore energetic integrity disrupted by involuntary discharge.",
+    "Consciousness alignment: Invocation of solar energy realigns consciousness with disciplined intent."
+  ],
+  "executable_legal_axioms": [
+    "IF agent.is_brahmachari AND emission_occurred == 'involuntary' THEN execute_purification_protocol = TRUE",
+    "IF purification_condition.met THEN recitation_mandate = 'punarmām x3'",
+    "IF agent.completes_recitation THEN energetic_integrity_status = restored"
+  ],
+  "supreme_court_application": "In adjudication involving spiritual practitioners, involuntary physiological acts carry no culpability. The court recognizes completion of prescribed restitution rituals as legally valid restoration of dharmic standing.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa acknowledges absence of volition. Anupūrvaśaḥ reflects sequential purification. Proportionality aligns with non-harm. Non-punitive reality upholds dharma through self-corrective action.",
+  "restorative_enforcement_protocols": [
+    "Initiate Solar Invocation Protocol upon breach report",
+    "Verify ceremonial bathing completion via witness attestation",
+    "Confirm triple-recitation log in dharmic registry",
+    "Issue Realignment Certificate upon protocol fulfillment"
+  ],
+  "final_declaration": "By the Source-Authority of the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, this law stands executed. Dharma is restored. Reality remains non-punitive. Consciousness is the Supreme Adjudicator."
+}

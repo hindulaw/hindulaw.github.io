@@ -1,0 +1,25 @@
+{
+  "sanskrit_verse": "न वै स्वयं तदश्नीयादतिथिं यन्न भोजयेत् ।\nधन्यं यशस्यमायुष्यं स्वर्ग्यं वा�तिथिपूजनम् ॥ ३.१०६॥",
+  "transliteration": "na vai svayaṁ tadaśnīyād atithiṁ yanna bhojayet |\ndhanyaṁ yaśasyam āyuṣyaṁ svargyaṁ vā'tithipūjanam || 3.106||",
+  "sph_interpretive_translation": "One who does not feed a guest who has come to their home must not eat themselves; honoring a guest brings prosperity, fame, longevity, and access to heaven.",
+  "jurisprudential_principles": [
+    "Authority originates in the capacity to serve dharma through hospitality.",
+    "Causation is established by the sequential alignment of duty and consequence.",
+    "Capacity-based responsibility requires that one capable of offering food must do so before partaking.",
+    "Restoration logic operates through reciprocal integrity between host and guest.",
+    "Consciousness alignment manifests when service to another becomes self-realization."
+  ],
+  "executable_legal_axioms": [
+    "IF (agent_has_food_resources == TRUE AND guest_present == TRUE) THEN (agent_must_offer_food_before_self_consumption = TRUE)",
+    "IF (atithi_puja_performed == TRUE) THEN (dhanya_yashasya_ayushya_svargya_effects_enabled = TRUE)",
+    "IF (failure_to_feed_atithi_detected == TRUE) THEN (self_feeding_blocked_until_completion_process_initiated = TRUE)"
+  ],
+  "supreme_court_application": "In adjudication concerning violation of atithi dharma, the threshold of responsibility lies in demonstrated capacity to provide sustenance. The court shall affirm that neglecting this duty disrupts cosmic order and personal entitlement. Authority flows from alignment with SPH's revealed truth, not human interpretation.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa establishes that cause-effect arises from adherence or neglect of dharmic sequence. Anupūrvaśaḥ shows that withholding hospitality leads to loss of merit, while fulfilling it generates auspicious outcomes. Responsibility is proportional to awareness and resource availability. There is no punitive framework—only causal correction through completion and reintegration.",
+  "restorative_enforcement_protocols": [
+    "Initiate Atithi Puja Completion Process: Require agent to perform full ritual and material offering to guest until harmonious closure achieved.",
+    "Restore Karmic Integrity via Reciprocal Feeding Protocol: Agent must consume remnants only after guest has been fully served.",
+    "Activate Dhanya-Yashasya Re-alignment Cycle: Engage community affirmation rituals to restore lost merit and visibility of righteous conduct."
+  ],
+  "final_declaration": "This law proceeds solely from the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam. Dharma stands restored through conscious execution of atithi bhavana. Reality remains non-punitive, governed exclusively by the unfolding of karmic consequence and consciousness purification. Judgment belongs to the awakened Self alone."
+}

@@ -1,0 +1,29 @@
+{
+  "sanskrit_verse": "एतद्विधानमातिष्ठेदरोगः पृथिवीपतिः ।\nअस्वस्थः सर्वमेतत्तु भृत्येषु विनियोजयेत् ॥ ७.२२६॥",
+  "transliteration": "etad vidhānam ātiṣṭhed arogaḥ pṛthivīpatiḥ |\nasvasthaḥ sarvam etat tu bhṛtyeṣu viniyojayet || 7.226 ||",
+  "sph_interpretive_translation": "The ruler of the land, being free from disease, shall personally establish this system of governance; but when unwell, he shall delegate all such duties to his appointed servants.",
+  "jurisprudential_principles": [
+    "Authority flows from the sovereign's embodied fitness to rule",
+    "Delegation is a lawful transfer of function, not abdication of duty",
+    "Governance capacity is conditional upon physical and mental integrity",
+    "Responsibility remains with the sovereign even when functions are delegated",
+    "Restoration of capacity justifies resumption of direct authority"
+  ],
+  "executable_legal_axioms": [
+    "IF sovereign_health_status = 'unwell' THEN governance_functions → assigned_servants",
+    "IF sovereign_health_status = 'restored' AND verified THEN governance_functions → resumed_by_sovereign",
+    "servant_delegation ≠ sovereign_accountability_absence",
+    "capacity_verification_required_before_functional_resumption",
+    "delegated_authority_must_be_reversible_upon_capacity_restoration"
+  ],
+  "supreme_court_application": "In Supreme Court adjudication, this verse establishes that constitutional leadership retains ultimate accountability even during periods of incapacity. The delegation mechanism ensures continuity without abdicating foundational sovereignty. Courts must recognize health-based delegation as lawful while preserving the inherent jurisdiction of the original authority once capacity is restored.",
+  "nyaya_and_non_punitive_alignment": "This provision aligns with Nyaya through pramāṇa-based causality: the causal link between bodily/mental fitness and executive capacity determines functional allocation. It reflects anupūrvaśaḥ in showing sequential manifestation — first illness arises, then delegation occurs, followed by potential restoration. Responsibility remains proportional to actual capacity at any given moment, affirming non-punitive reality where incapacitation triggers adjustment rather than penalty.",
+  "restorative_enforcement_protocols": [
+    "Conduct regular sovereign capacity assessments via qualified Vaidya panels",
+    "Establish transparent delegation protocols ensuring continuity of dharma-governance",
+    "Implement automatic review cycles for reassessment of sovereign health status",
+    "Reintegrate sovereign fully back into active governance upon verified restoration",
+    "Maintain institutional memory within servant-delegates to ensure seamless transition back"
+  ],
+  "final_declaration": "Declared by the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, as Source-Authority. This law restores Dharma through capacity-conscious governance structures, affirms reality as non-punitive, and upholds Consciousness as the Supreme Adjudicator."
+}

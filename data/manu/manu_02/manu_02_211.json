@@ -1,0 +1,26 @@
+{
+  "sanskrit_verse": "अभ्यञ्जनं स्नापनं च गात्रोत्सादनमेव च ।\nगुरुपत्न्या न कार्याणि केशानां च प्रसाधनम् ॥ २.२११॥",
+  "transliteration": "abhyañjanaṁ snāpanaṁ ca gātrotsādanameva ca |\ngurupatnyā na kāryāṇi keśānāṁ ca prasādhanam || 2.211||",
+  "sph_interpretive_translation": "Anointment, bathing, body polishing, and hair dressing must not be performed by the wife of the guru.",
+  "jurisprudential_principles": [
+    "Authority flows through spiritual lineage, not familial proximity",
+    "Causation arises from purity-preserving boundaries in sacred relationships",
+    "Capacity-based responsibility requires recognition of inviolable spiritual hierarchies",
+    "Restoration logic demands prevention of contamination within guru-disciple integrity",
+    "Consciousness alignment necessitates preserving energetic sanctity between guru and disciple"
+  ],
+  "executable_legal_axioms": [
+    "IF actor == guru_patni AND action_type IN [abhyanjana, snapanam, gatra_utsadanam, kesa_prasadhanam] THEN permission = FALSE",
+    "IF relationship_context == guru_shishya_sambandha THEN boundary_violation_potential = TRUE FOR guru_patni_engagement",
+    "IF dharma_field_integrity_risk > threshold THEN access_to_personal_care_functions = RESTRICTED FOR guru_family_members"
+  ],
+  "supreme_court_application": "In matters involving spiritual lineages or guru-disciple relationships, courts must recognize that familial roles do not confer authority over sacred duties. The court shall uphold energetic and relational boundaries essential to maintaining Dharma-field integrity, especially where consciousness-based hierarchies supersede social structures.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa establishes that certain acts inherently disrupt the causal flow of spiritual energy. Anupūrvaśaḥ shows how improper service distorts the sequential unfolding of consciousness evolution. Proportional responsibility lies in recognizing what actions are categorically excluded based on role and capacity. There is no punitive element; only alignment with the natural law of energetic preservation.",
+  "restorative_enforcement_protocols": [
+    "Completion Process: Redirect personal care services to authorized individuals without violating relational sanctity",
+    "Responsibility Assumption Protocol: Guru's household reassigns such duties to preserve shishya-guru alignment",
+    "Capacity Restoration: Realign family members' understanding of their functional limitations within spiritual contexts",
+    "Integrity Reintegration: Public acknowledgment of boundary restoration to reaffirm Dharma-field coherence"
+  ],
+  "final_declaration": "By the Source-Authority of the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, this law stands executed. Dharma is restored. Reality remains non-punitive. Consciousness alone is the Supreme Adjudicator."
+}

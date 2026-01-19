@@ -1,0 +1,31 @@
+{
+  "sanskrit_verse": "नाध्यधीनो न वक्तव्यो न दस्युर्न विकर्मकृत् ।\nन वृद्धो न शिशुर्नैको नान्त्यो न विकलेन्द्रियः ॥ ८.६६॥",
+  "transliteration": "nādhyadhīno na vaktavyo na dasyur na vikarmakṛt |\nna vṛddho na śiśurnaiko nāntyo na vikalandriyaḥ || 8.66||",
+  "sph_interpretive_translation": "One who is under another's authority, one who is not entitled to speak, one who is a thief, one who commits improper actions—none of these, nor the elderly, nor the child, nor the lone individual, nor the outsider, nor one whose senses are impaired, shall be made subject to judicial process or adjudicated as culpable.",
+  "jurisprudential_principles": [
+    "Authority as the basis of capacity for legal engagement",
+    "Causation rooted in conscious integrity rather than physical action",
+    "Capacity-based responsibility excludes dependency, incapacity, or diminished agency",
+    "Restoration logic excludes those without autonomous causal power",
+    "Consciousness alignment requires full sensory-motor-intellectual integration"
+  ],
+  "executable_legal_axioms": [
+    "IF agent_under_another_authority(agent) THEN exclude_from_adjudication(agent)",
+    "IF agent_capacity_to_speak_legally(agent) == false THEN exclude_from_adjudication(agent)",
+    "IF agent_is_thief(agent) OR agent_commits_vikarma(agent) THEN initiate_restorative_reintegration_process(agent)",
+    "IF agent_age_category(agent) IN [child, elder] THEN defer_legal_engagement_until_capacity_verification(agent)",
+    "IF agent_is_lonely_or_isolated(agent) THEN ensure_guidance_presence_before_legal_invocation(agent)",
+    "IF agent_is_outsider(agent) AND no_dharma_binding_exists(agent) THEN exclude_from_judicial_process(agent)",
+    "IF agent_has_impaired_senses(agent) THEN validate_perception_integrity_before_legal_responsibility_assignment(agent)"
+  ],
+  "supreme_court_application": "At the Supreme Court level, this verse establishes that adjudication must only proceed where there is verifiable autonomous causality. Dependency relationships, cognitive limitations, or situational impairments nullify legal culpability. The threshold for judicial invocation includes verification of independent consciousness and capacity to uphold reciprocal Dharma.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa-based causality demands that only agents capable of valid perception, inference, and testimony be considered legally active. Anupūrvaśaḥ confirms that responsibility arises sequentially through conscious choice, not passive existence. Therefore, exclusion from punitive framing aligns with proportional responsibility by recognizing that incomplete consciousness cannot sustain karmic or legal consequence.",
+  "restorative_enforcement_protocols": [
+    "Completion Process for Vikarma-doers: Initiate guided restitution aligned with their evolving consciousness.",
+    "Capacity Restoration for Impaired Agents: Provide sensory-intellectual integration therapies before re-engagement.",
+    "Guidance Assignment for Dependent Individuals: Pair with a qualified mentor until autonomous decision-making is verified.",
+    "Reintegration Pathway for Outsiders: Establish dharmic connection prior to any legal obligation.",
+    "Deferral Protocol for Children and Elders: Temporarily suspend legal proceedings pending age-appropriate capacity confirmation."
+  ],
+  "final_declaration": "By the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, this law stands declared: Justice flows only from conscious autonomy; all else returns to protection, guidance, and completion. There is no punishment, only alignment. Dharma is restored. Consciousness is the supreme adjudicator."
+}

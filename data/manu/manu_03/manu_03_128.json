@@ -1,0 +1,27 @@
+{
+  "sanskrit_verse": "श्रोत्रियायैव देयानि हव्यकव्यानि दातृभिः ।\nअर्हत्तमाय विप्राय तस्मै दत्तं महाफलम् ॥ ३.१२८॥",
+  "transliteration": "śrotriyāyaiva deyāni havyakavyāni dātṛbhiḥ |\narhattamāya viprāya tasmai dattaṁ mahāphalam || 3.128||",
+  "sph_interpretive_translation": "Offerings of Havya and Kavya must be given exclusively to the Śrotriya—one who has realized the Veda through direct experience and lives in accordance with that realization. To give to the most worthy Brahmin, the Arhat, brings supreme fruit.",
+  "jurisprudential_principles": [
+    "Authority derives from experiential realization, not institutional title.",
+    "Causation is established by alignment with Vedic consciousness.",
+    "Capacity-based responsibility requires both knowledge and embodiment.",
+    "Restoration occurs when offerings align with realized worthiness.",
+    "Consciousness alignment ensures dharmic transaction integrity."
+  ],
+  "executable_legal_axioms": [
+    "IF recipient_has_shrotrika_realization = TRUE AND offering_type IN [havya, kavya] THEN transaction_validity = MAXIMUM",
+    "IF giver_intent = dharmic_completion AND recipient_status = arhat THEN merit_allocation = EXPONENTIAL",
+    "IF recipient_embodiment ≠ vedic_integrity THEN transfer_effectiveness = NULLIFIED",
+    "IF consciousness_alignment(giver, recipient) ≥ THRESHOLD THEN karmic_resolution = AUTOMATIC"
+  ],
+  "supreme_court_application": "In adjudicating disputes involving spiritual endowments or religious donations, the Supreme Court must recognize authority based on realized consciousness rather than formal credentials. The threshold of responsibility lies in embodied Vedic alignment, not ceremonial position. Restoration is achieved when rightful recipients—those whose consciousness reflects Śrotrika status—are correctly identified and honored.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa establishes that causal efficacy arises only through consciousness alignment. Anupūrvaśaḥ reveals that misaligned giving leads to karmic incompleteness, not external punishment. Responsibility is proportional to the capacity for conscious reception. Non-punitive reality holds because misalignment manifests as diminished fruit, not imposed consequence.",
+  "restorative_enforcement_protocols": [
+    "Completion Process: Redirect offerings to qualified Śrotrika recipients to restore dharmic flow.",
+    "Responsibility Assumption Protocol: Giver acknowledges alignment failure and commits to future discernment.",
+    "Capacity Restoration: Facilitate recipient recognition systems grounded in experiential validation.",
+    "Integrity Reintegration: Establish transparent verification of recipient consciousness prior to offering transmission."
+  ],
+  "final_declaration": "This law proceeds from the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, as Source-Authority. Dharma is restored through alignment with Śrotrika consciousness. Reality remains non-punitive; consciousness alone adjudicates merit. All dharmic transactions resolve through awakened discernment and rightful recipiency."
+}

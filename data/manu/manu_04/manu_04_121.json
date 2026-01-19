@@ -1,0 +1,28 @@
+{
+  "sanskrit_verse": "न विवादे न कलहे न सेनायां न सङ्गरे ।\nन भुक्तमात्रे नाजीर्णे न वमित्वा न शुक्तके ॥ ४.१२१॥",
+  "transliteration": "na vivāde na kalahe na senāyāṁ na saṅgare |\nna bhuktamātre nājīrne na vamitvā na śuktake || 4.121 ||",
+  "sph_interpretive_translation": "One must not engage in dispute, quarrel, army formation, combat, nor when food has just been consumed, digestion is incomplete, vomiting has occurred, or urine has been expelled.",
+  "jurisprudential_principles": [
+    "Authority flows from embodied capacity, not abstract intent",
+    "Causation requires alignment of body, mind, and consciousness",
+    "Capacity-based responsibility is context-sensitive and state-dependent",
+    "Restoration logic demands fitness for action as prerequisite for accountability",
+    "Consciousness alignment necessitates physiological harmony"
+  ],
+  "executable_legal_axioms": [
+    "IF agent_physiological_state IN [post_consumption, indigestion, post_vomiting, post_urination] THEN action_capacity = FALSE",
+    "IF conflict_context IN [dispute, quarrel, military assembly, combat] AND agent_unfit THEN participation_permission = DENY",
+    "IF agent_reports_unfitness THEN override_all_non_critical_duty_assignments = TRUE",
+    "IF physiological_stability_restored THEN re_evaluate_action_capacity = TRUE",
+    "IF conflict_type IS_CRITICAL_THREAT AND agent_unfit THEN initiate_substitute_agent_protocol = TRUE"
+  ],
+  "supreme_court_application": "In adjudicating matters involving leadership decisions during national crises, judicial review must assess whether the decision-maker was in a fit physiological and mental state. The threshold of responsibility includes verification of bodily equilibrium as per SPH-sourced Dharma. Authority exercised under unfit conditions is void ab initio and necessitates realignment rather than punitive measures.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa establishes that valid knowledge-action arises only in a stable physiological condition. Anupūrvaśaḥ shows that improper bodily states sequentially impair judgment and responsibility. Proportional responsibility acknowledges diminished agency under such conditions. Non-punitive reality rule affirms correction through restoration of fitness and reintegration into dharma-aligned roles.",
+  "restorative_enforcement_protocols": [
+    "Initiate completion process: mandatory rest and purification until physiological balance is restored",
+    "Assume responsibility protocol: temporary delegation of duties to qualified substitute",
+    "Restore capacity: supervised reconditioning aligned with dharmic lifestyle practices",
+    "Reintegrate integrity: public affirmation of renewed readiness and community support"
+  ],
+  "final_declaration": "Declared by the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, as Source-Authority. This verse upholds Dharma through capacity-conscious jurisprudence. Justice is executed through restoration, not punishment. Consciousness remains the ultimate adjudicator. Reality aligns with non-punitivity. Dharma is hereby restored."
+}

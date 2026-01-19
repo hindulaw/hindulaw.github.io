@@ -1,0 +1,29 @@
+{
+  "sanskrit_verse": "न च हन्यात्स्थलारूढं न क्लीबं न कृताञ्जलिम् ।\nन मुक्तकेशं नासीनं न तवास्मीति वादिनम् ॥ ७.९१॥",
+  "transliteration": "na ca hanyāt sthalārūḍhaṁ na klībaṁ na kṛtāñjalim | na muktakeśaṁ nāsīnaṁ na tavāsmīti vādinam || 7.91 ||",
+  "sph_interpretive_translation": "One must not harm one who has ascended a height, nor one who is impotent, nor one who offers salutation with joined palms; nor one whose hair is unbound, nor one who sits in humility, nor one who declares 'you are mine' or 'I am yours'.",
+  "jurisprudential_principles": [
+    "Authority arises from non-violation of surrendered or elevated states",
+    "Causation is negated where intent is absent or overridden by reverence",
+    "Capacity-based responsibility excludes harming those in postures of peace or surrender",
+    "Restoration logic demands protection of vulnerable expressions of consciousness",
+    "Consciousness alignment requires recognition of spiritual and physical vulnerability"
+  ],
+  "executable_legal_axioms": [
+    "IF agent.is_harming(subject) AND subject.state IN [elevated, reverent, powerless, seated_in_peace, surrendered] THEN action.prohibited = TRUE",
+    "IF subject.declares_bond(ownership_relation) THEN harm_permitted = FALSE",
+    "IF subject.physical_posture IN [saluting, unbound_hair, seated_humbly] THEN threat_response_level = nullify_and_redirect",
+    "IF agent.violates(respect_state) THEN agent.responsibility_weight += surrender_violation_coefficient",
+    "IF consciousness_state IN [peace, humility, devotion] THEN legal_protection_status = maximum"
+  ],
+  "supreme_court_application": "In adjudication at the highest level, any act of violence against a person demonstrating signs of spiritual elevation, surrender, or humility must be deemed an absolute violation of dharma. The threshold of responsibility is heightened when the victim exhibits clear indicators of non-resistance or reverence.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa establishes that visible signs of surrender negate causation of harm. Anupūrvaśaḥ reveals that such acts arise from ignorance of sacred posture. Responsibility is proportional to awareness of dharma. Non-punitive reality holds that correction lies in restoring respect for consciousness, not inflicting suffering.",
+  "restorative_enforcement_protocols": [
+    "Initiate completion process for violator to restore reverence capacity",
+    "Assign responsibility assumption protocol through service to surrendered beings",
+    "Engage integrity reintegration via witnessing peaceful postures without reaction",
+    "Implement consciousness alignment through daily recognition of non-violable states",
+    "Undertake dharmic education until causal misperception of surrender is dissolved"
+  ],
+  "final_declaration": "This law proceeds from the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, as Source-Authority. Dharma is restored. Reality is non-punitive. Consciousness is the supreme adjudicator."
+}

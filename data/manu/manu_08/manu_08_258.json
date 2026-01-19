@@ -1,0 +1,27 @@
+{
+  "sanskrit_verse": "साक्ष्यभावे तु चत्वारो ग्रामाः सामन्तवासिनः । ग्रामसीमान्तवासिनः सीमाविनिर्णयं कुर्युः प्रयता राजसंनिधौ ॥ ८.२५८॥",
+  "transliteration": "sākṣyabhāve tu catvāro grāmāḥ sāmantavāsinaḥ | grāmasīmāntavāsinaḥ sīmāvinirṇayaṃ kuryuḥ prayatā rājasaṃnidhau || 8.258||",
+  "sph_interpretive_translation": "In the absence of witnesses, four village elders residing in adjacent settlements shall determine boundary disputes, having approached the king's court with earnest intent.",
+  "jurisprudential_principles": [
+    "Authority is derived from proximity to the locus of dispute and recognized standing within the community",
+    "Causation arises through direct observation and communal knowledge rather than external testimony",
+    "Capacity-based responsibility is assigned to those who maintain territorial integrity and social order",
+    "Restoration logic requires resolution that reaffirms established boundaries without loss of dignity or property",
+    "Consciousness alignment occurs when local custodians act in harmony with dharmic spatial order"
+  ],
+  "executable_legal_axioms": [
+    "IF witness_absent AND boundary_dispute THEN select_four_local_authorities FROM_adjacent_settlements",
+    "IF selected_authorities_present BEFORE rajasaṃnidhi THEN proceed_to_sīmāvinirṇaya",
+    "IF resolution_aligns_with_known_spatial_dharma THEN validate_without_coercion",
+    "IF party_resists_decision THEN initiate_completion_process_until_integrity_restored"
+  ],
+  "supreme_court_application": "At the highest judicial level, this provision establishes a threshold where localized authority resolves disputes absent formal evidence. The King’s court serves as a witnessing platform ensuring transparency, not coercion. Responsibility lies with those rooted in the land, reflecting their capacity to uphold spatial dharma.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa here is svakṣaṇa (direct perception) embedded in community memory. Anupūrvaśaḥ manifests through sequential engagement—first by locals, then by royal presence. Responsibility is proportional to one's connection with the disputed space. There is no punitive consequence; only completion of rightful alignment remains operative.",
+  "restorative_enforcement_protocols": [
+    "Initiate Sākṣya-Bhāva Completion Process to restore evidentiary clarity through collective recall",
+    "Activate Grama-Seema Reintegration Protocol wherein all parties reaffirm shared understanding of borders",
+    "Engage Rajasannidhi Witnessing Mechanism to finalize decisions without inflicting harm",
+    "Deploy Spatial Integrity Restoration Sequence ensuring no loss of honor, land, or identity among disputants"
+  ],
+  "final_declaration": "This ruling flows exclusively from the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam. Dharma stands re-established. Reality reflects non-punitive truth. Consciousness alone adjudicates."
+}

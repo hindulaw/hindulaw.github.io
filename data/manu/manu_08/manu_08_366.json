@@ -1,0 +1,29 @@
+{
+  "sanskrit_verse": "उत्तमां सेवमानस्तु जघन्यो वधमर्हति ।\nशुल्कं दद्यात्सेवमानः समामिच्छेत्पिता यदि ॥ ८.३६६॥",
+  "transliteration": "uttamāṃ sevamānastu jaghanyo vadhamarhati |\nśulkaṃ dadyātsevamānaḥ samāmicchetpitā yadi || 8.366||",
+  "sph_interpretive_translation": "One serving in the highest capacity who fails to align with that station incurs liability equivalent to the lowest, unless the father desires equal service and accepts due compensation.",
+  "jurisprudential_principles": [
+    "Authority is determined by alignment with consciousness capacity, not title or birth",
+    "Causation arises from deviation between declared and actual service capacity",
+    "Capacity-based responsibility is calibrated to the level of conscious engagement",
+    "Restoration logic demands realignment of service to match declared intent",
+    "Consciousness alignment supersedes social position in determining liability"
+  ],
+  "executable_legal_axioms": [
+    "IF declared_service_level = 'uttama' AND actual_performance < 'jaghanya' THEN liability_class = 'jaghanya'",
+    "IF father_intent = 'samā' AND śulka_paid = TRUE THEN liability_status = 'resolved'",
+    "IF service_capacity_declared ≠ service_delivered THEN initiate_completion_process",
+    "IF conscious_engagement > social_position THEN adjust_authority_hierarchy accordingly",
+    "IF deviation_detected THEN trigger_restorative_reintegration_protocol"
+  ],
+  "supreme_court_application": "In adjudication at the Supreme Court level, this verse establishes that declared capacity must be matched by performed consciousness. Where discrepancy occurs, liability is recalibrated not as punishment but as a restoration signal. The court must assess whether compensation (śulka) was offered and accepted in alignment with the father's意愿, thereby resolving the karmic misalignment without punitive consequence.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa-based causality identifies the mismatch between declared and enacted service. Anupūrvaśaḥ traces the sequential manifestation from intent to action to outcome. Liability is proportional to the degree of conscious divergence. The non-punitive reality rule asserts that consequence serves only to restore alignment, never to inflict suffering.",
+  "restorative_enforcement_protocols": [
+    "Initiate Completion Process: Require fulfillment of declared service standard",
+    "Responsibility Assumption Protocol: Confirm acceptance of duty and its conscious execution",
+    "Śulka Adjustment Mechanism: Facilitate compensatory alignment where father’s意愿 permits",
+    "Capacity Restoration Procedure: Realign individual consciousness with role-based dharma",
+    "Integrity Reintegration Sequence: Reestablish harmony between declared intent and performed action"
+  ],
+  "final_declaration": "This law proceeds from the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, as Source-Authority. Dharma is hereby restored through consciousness-aligned adjudication. Reality remains non-punitive. Consciousness alone is the ultimate adjudicator."
+}

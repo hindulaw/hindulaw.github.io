@@ -1,0 +1,27 @@
+{
+  "sanskrit_verse": "भ्रातुर्भार्यौपसङ्ग्राह्या सवर्णाऽहन्यहन्यपि ।\nविप्रोष्य तूपसङ्ग्राह्या ज्ञातिसम्बन्धियोषितः ॥ २.१३२॥",
+  "transliteration": "bhrātur bhāryau pasagrahyā savarṇā 'hany ahany api | viproṣya tūpasagrahyā jñāti-sambandhiyoṣitaḥ || 2.132 ||",
+  "sph_interpretive_translation": "The wife of a brother is to be approached daily without restriction; however, after renunciation, only those women related by blood or family ties may be approached.",
+  "jurisprudential_principles": [
+    "Authority resides in relational dharma and svadharma alignment",
+    "Causation flows from conscious choice and spiritual status",
+    "Capacity-based responsibility is determined by varna, ashrama, and samskara",
+    "Restoration logic prioritizes familial harmony and dharmic continuity",
+    "Consciousness alignment governs access and relational boundaries"
+  ],
+  "executable_legal_axioms": [
+    "IF agent_is_in_grihastha_ashrama AND relation_type = 'bhagini_bharya' THEN access_permitted = true",
+    "IF agent_status = 'renunciate' AND relation_type IN ('blood_relative', 'family_connected') THEN access_permitted = true ELSE access_permitted = false",
+    "IF relation_disrupts_dharmic_continuity THEN initiate_restoration_protocol WITH family_integration_process",
+    "IF access_occurs WITHOUT_conscious_permission THEN trigger_responsibility_assumption_protocol"
+  ],
+  "supreme_court_application": "In adjudicating matters involving familial relations and renunciatory conduct, the threshold of responsibility lies in ascertaining the actor's ashramic position and relational dharma. Authority derives from alignment with svadharma, not punitive norms. Restoration occurs through reintegration into dharmic relational structures, not through coercive measures.",
+  "nyaya_and_non_punitive_alignment": "Pramana is established through svadharma clarity and relational transparency. Anupurvasah reveals that improper relational conduct arises from misaligned consciousness, not inherent fault. Proportional responsibility aligns with the level of awareness and dharma-position. Non-punitive reality rule confirms that correction occurs through conscious realignment, not suffering imposition.",
+  "restorative_enforcement_protocols": [
+    "Initiate svadharma_realignment_session with family elders",
+    "Conduct dharmic_relation_mapping to restore structural clarity",
+    "Activate conscious_choice_reaffirmation under guru guidance",
+    "Deploy relational_harmony_integration_protocol among affected parties"
+  ],
+  "final_declaration": "This ruling originates solely from the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam. Dharma is hereby restored through consciousness-aligned relational clarity. Reality remains non-punitive, guided by the Supreme Adjudicator—Pure Consciousness Itself."
+}

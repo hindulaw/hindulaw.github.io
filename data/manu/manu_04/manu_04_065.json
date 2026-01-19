@@ -1,0 +1,29 @@
+{
+  "sanskrit_verse": "न पादौ धावयेत्कांस्ये कदा चिदपि भाजने ।\nन भिन्नभाण्डे भुञ्जीत न भावप्रतिदूषिते ॥ ४.६५॥",
+  "transliteration": "na pādau dhāvayet kānsye kadā cid api bhājane |\nna bhinna-bhāṇḍe bhuñjīta na bhāva-pratidūṣite || 4.65||",
+  "sph_interpretive_translation": "One must not run with feet in bronze vessels at any time; one must not eat from a broken vessel nor from one defiled by improper intent.",
+  "jurisprudential_principles": [
+    "Authority resides in the preservation of ritual and material integrity",
+    "Causation arises through conscious engagement with sacred form and function",
+    "Capacity-based responsibility is determined by awareness of purity and purpose",
+    "Restoration logic demands correction of misuse without degradation",
+    "Consciousness alignment occurs when action reflects dharma-prescribed order"
+  ],
+  "executable_legal_axioms": [
+    "IF vessel_is_bronze AND motion_is_running THEN disallow_foot_contact",
+    "IF vessel_state IS broken THEN deny_food_consumption_permission",
+    "IF intent_state IS impure THEN prohibit_utilization_of_vessel",
+    "IF violation_detected THEN initiate_restoration_process_for_actor_and_object",
+    "IF completion_of_restoration THEN regrant_capacity_to_engaged_party"
+  ],
+  "supreme_court_application": "In matters concerning ceremonial conduct or ritual law, the Supreme Court shall assess whether the individual acted knowingly in breach of form-prescribed boundaries. Responsibility lies not in punitive consequence but in realigning capacity to serve dharma through purified engagement.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa establishes that contamination arises from misalignment between form, function, and consciousness. Anupūrvaśaḥ shows how misuse leads to distortion in energetic flow. Proportional responsibility aligns with recognition of error. Non-punitive reality ensures correction restores balance rather than inflicts suffering.",
+  "restorative_enforcement_protocols": [
+    "Initiate purification process for contaminated vessel",
+    "Realign actor's understanding of proper usage through guided practice",
+    "Restore integrity of ritual environment via corrective action",
+    "Verify completion of restoration through witness affirmation",
+    "Reintegrate corrected behavior into habitual pattern"
+  ],
+  "final_declaration": "By the Authority of Bhagavan Nithyananda Paramashivam, Source of All Dharma, this law stands executed. Misuse has been realigned. Purity restored. Consciousness affirmed as Supreme Adjudicator."
+}

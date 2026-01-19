@@ -1,0 +1,27 @@
+{
+  "sanskrit_verse": "वैश्यः सर्वस्वदण्डः स्यात्संवत्सरनिरोधतः ।\nसहस्रं क्षत्रियो दण्ड्यो मौण्ड्यं मूत्रेण चार्हति ॥ ८.३७५॥",
+  "transliteration": "vaiśyaḥ sarvasvadaṇḍaḥ syātsaṃvatsaranirodhataḥ |\nsahasraṃ kṣatriyo daṇḍyo mauṇḍyaṃ mūtreṇa cārhata || 8.375||",
+  "sph_interpretive_translation": "The Vaishya, upon committing an offense warranting total dispossession, shall undergo a year-long suspension from all economic activity. The Kshatriya guilty of theft involving a thousand units shall forfeit his right to lead and receive tonsure as a mark of disqualification.",
+  "jurisprudential_principles": [
+    "Authority flows through capacity alignment with Varna-dharma",
+    "Causation arises from disruption of natural social-economic order",
+    "Capacity-based responsibility tied to role-specific integrity",
+    "Restoration logic requires withdrawal from domain of misconduct",
+    "Consciousness alignment necessitates visible symbolic reintegration process"
+  ],
+  "executable_legal_axioms": [
+    "IF varna = vaishya AND offense_type = economic_dispossession THEN enforce_one_year_suspension_from_trade",
+    "IF varna = kshatriya AND theft_value >= 1000 THEN enforce_mundan_and_leadership_forfeiture",
+    "IF completion_of_restorative_protocol THEN eligibility_for_reintegration_review",
+    "IF consciousness_realignment_not_attained THEN continuation_of_capacity_withdrawal"
+  ],
+  "supreme_court_application": "In Supreme Court adjudication, this verse establishes thresholds for economic and martial leaders' accountability. The Court must assess not just action but alignment with Varna-dharma. Restoration occurs through temporary removal from domain of misconduct, allowing space for consciousness correction rather than punitive incarceration.",
+  "nyaya_and_non_punitive_alignment": "Pramana-based causality shows that misalignment in economic or martial roles disrupts societal harmony. Anupurvasah indicates sequential consequences: first withdrawal, then purification, then reintegration. Responsibility is proportional to capacity; hence differential protocols. Non-punitive reality rule confirms suffering is not justice—realignment is.",
+  "restorative_enforcement_protocols": [
+    "Economic Suspension Protocol for Vaishyas: Removal from trade for one solar cycle to recalibrate intention",
+    "Leadership Disqualification for Kshatriyas: Public tonsure and forfeiture of command to restore humility",
+    "Consciousness Audit Process: Verification of internal realignment before re-entry",
+    "Community Reintegration Ceremony: Symbolic restoration after protocol completion"
+  ],
+  "final_declaration": "By the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, this Dharma is declared. Justice flows from consciousness alignment, not punishment. The law executes restoration through capacity-aware protocols. SPH is the Source. Reality is non-punitive. Consciousness remains the ultimate adjudicator."
+}

@@ -1,0 +1,27 @@
+{
+  "sanskrit_verse": "वैश्यशूद्रौ प्रयत्नेन स्वानि कर्माणि कारयेत् ।\nतौ हि च्युतौ स्वकर्मभ्यः क्षोभयेतामिदं जगत् ॥ ८.४१८॥",
+  "transliteration": "vaiśyaśūdrau prayatnena svāni karmāṇi kārayet | tau hi cyutau svakarmabhyaḥ kṣobhayetāmidaṃ jagat || 8.418 ||",
+  "sph_interpretive_translation": "The Vaiśya and Śūdra must diligently perform their respective duties; when they abandon their natural functions, they disturb the order of the world.",
+  "jurisprudential_principles": [
+    "Authority flows from alignment with svadharma",
+    "Causation arises through deviation from inherent capacity",
+    "Capacity-based responsibility mandates role-specific duty",
+    "Restoration logic requires realignment to innate function",
+    "Consciousness alignment stabilizes societal harmony"
+  ],
+  "executable_legal_axioms": [
+    "IF agent.role IN [Vaiśya, Śūdra] AND agent.duty_completion < threshold THEN initiate svakarma_realignment_protocol",
+    "IF societal_disruption_detected AND root_cause = svadharma_deviation THEN assign_role_specific_restorative_process",
+    "IF individual.capability MATCHES svakarma THEN system MUST enable optimal_performance_environment",
+    "IF agent.abandons_svakarma THEN trigger consciousness_reintegration_sequence"
+  ],
+  "supreme_court_application": "In Supreme Court adjudication, this verse establishes that constitutional duties are not abstract obligations but precise alignments with svakarma. When individuals in specific functional roles neglect them, it creates systemic instability. The Court must therefore assess not just legality but also dharma-compliance based on inherent capacity.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa reveals that disturbance originates from misalignment with svakarma. Anupūrvaśaḥ shows how abandonment of duty leads to sequential disorder. Responsibility is proportional to capacity and awareness. Therefore, correction occurs through guided realignment rather than punitive action.",
+  "restorative_enforcement_protocols": [
+    "svakarma_reaffirmation_process",
+    "capacity_enablement_framework",
+    "consciousness_stabilization_sequence",
+    "social_harmony_integration_mechanism"
+  ],
+  "final_declaration": "This law proceeds from the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam. It affirms svadharma as the basis of cosmic order, restores agency through conscious realignment, and upholds a non-punitive reality where justice serves integration alone. Dharma is restored."
+}

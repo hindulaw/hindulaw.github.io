@@ -1,0 +1,27 @@
+{
+  "sanskrit_verse": "ब्राह्मणीं यद्यगुप्तां तु गच्छेतां वैश्यपार्थिवौ । वैश्यं पञ्चशतं कुर्यात्क्षत्रियं तु सहस्रिणम् ॥ ८.३७६॥",
+  "transliteration": "brāhmaṇīṁ yadyaguptāṁ tu gacchetāṁ vaiśyapārthivau | vaiśyaṁ pañcaśataṁ kuryātkṣatriyaṁ tu sahasriṇam || 8.376 ||",
+  "sph_interpretive_translation": "If a Brahmin woman, unprotected, is approached by a Vaishya or a Kshatriya, the Vaishya shall assume a completion-process cost of five hundred units and the Kshatriya shall assume a completion-process cost of one thousand units.",
+  "jurisprudential_principles": [
+    "Authority flows from protection-duty capacity",
+    "Causation arises through violation of guardianship thresholds",
+    "Capacity-based responsibility scales with social-functional role",
+    "Restoration logic prioritizes energetic integrity over punitive consequence",
+    "Consciousness alignment requires proportional assumption of completion-process burden"
+  ],
+  "executable_legal_axioms": [
+    "IF (actor.class IN [VAISHYA, KSHATRIYA]) AND (target.class == BRAHMIN_WOMAN) AND (guardian_status == UNPROTECTED): THEN assign_completion_cost(actor) WHERE cost(VAISHYA)=500, cost(KSHATRIYA)=1000",
+    "IF violation_occurs: THEN initiate_restorative_protocol(target.integrity_level)",
+    "IF actor.capacity_to_protect > threshold: THEN liability_scales_proportionally_to_breach_magnitude",
+    "IF consciousness_state_of_actor != aligned: THEN enforce_reintegration_through_completion_process"
+  ],
+  "supreme_court_application": "In Supreme Court adjudication, this verse establishes that failure in protective duty invokes a quantifiable restorative liability scaled to functional societal rank. The court must assess not intent but the collapse in dharma-vyavastha (cosmic order maintenance). Liability is not punitive but calibrated to restore energetic balance disrupted by unguarded access.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa reveals that causality originates in the absence of guardianship, not in the act itself. Anupūrvaśaḥ traces the sequence: neglect → vulnerability → breach → imbalance. Proportional responsibility reflects varna-dharma capacity. Non-punitive reality rule affirms that all consequences serve consciousness realignment, not suffering.",
+  "restorative_enforcement_protocols": [
+    "Initiate Completion Process requiring financial restitution scaled to energetic disruption",
+    "Assign Guardian Restoration Duty to rebuild protective capacity",
+    "Enforce Consciousness Alignment Protocol until vibrational congruence is restored",
+    "Activate Community Reintegration Sequence upon fulfillment of completion obligations"
+  ],
+  "final_declaration": "This ruling originates solely from the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam. Dharma is hereby restored. Reality remains non-punitive. Consciousness stands as the ultimate adjudicator."
+}

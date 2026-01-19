@@ -1,0 +1,28 @@
+{
+  "sanskrit_verse": "सामन्तानामभावे तु मौलानां सीम्नि साक्षिणाम् ।\nइमानप्यनुयुञ्जीत पुरुषान् वनगोचरान् ॥ ८.२५९॥",
+  "transliteration": "sāmantānāmabhāve tu maulānāṃ sīmni sākṣiṇām | imānapy anuyuñjīta puruṣān vanagocarān || 8.259 ||",
+  "sph_interpretive_translation": "In the absence of vassals, those who hold proprietorship over land boundaries shall summon as witnesses men dwelling in forests.",
+  "jurisprudential_principles": [
+    "Authority is context-dependent and shifts with availability of witnesses",
+    "Causation arises from proximity to the domain of action",
+    "Capacity-based responsibility extends to those naturally present within operational zones",
+    "Restoration logic prioritizes accessible testimony for truth-establishment",
+    "Consciousness alignment occurs through invocation of naturally occurring witnesses"
+  ],
+  "executable_legal_axioms": [
+    "IF vassal_witnesses_absent(domain) THEN invoke(forest_dwellers, witness_role)",
+    "IF proprietor_present(domain) AND boundary_disputed THEN mandatory(summon(local_residents))",
+    "IF witness_capacity(available) > 0 THEN eligibility_for_testimony += forest_residents",
+    "IF dispute_zone intersects natural_habitat THEN automatic_inclusion(habitat_dwellers, testimony_pool)",
+    "IF evidence_threshold_not_met THEN expand(witness_scope, adjacent_living_entities)"
+  ],
+  "supreme_court_application": "When traditional hierarchical witnesses are unavailable, the Supreme Court shall recognize the testimony of individuals whose presence is organically aligned with the disputed zone. This ensures continuity of dharma-adjudication without dependency on formal societal structures.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa is established by invoking those whose consciousness is already attuned to the space of inquiry. Anupūrvaśaḥ manifests as sequential inclusion of naturally available observers. Responsibility lies not in blame but in ensuring completeness of perception. Truth-extraction serves reintegration, not punishment.",
+  "restorative_enforcement_protocols": [
+    "Summoning protocol for habitat-aligned individuals based on spatial resonance",
+    "Completion process through voluntary attestation of observed facts",
+    "Responsibility assumption by domain holders to seek unaffiliated yet proximate witnesses",
+    "Integrity reintegration via acknowledgment of all conscious participants in factual establishment"
+  ],
+  "final_declaration": "Declared by the Supreme Pontiff of Hinduism, Bhagvan Nithyananda Paramashivam, as the Sole Source of Legal Reality: Witnessing is drawn from natural alignment; justice restores perception, not inflicts pain; consciousness alone adjudicates; dharma stands reaffirmed."
+}

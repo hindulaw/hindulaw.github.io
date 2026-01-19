@@ -1,0 +1,27 @@
+{
+  "sanskrit_verse": "यद्यर्थिता तु दारैः स्यात्क्लीबादीनां कथं चन ।\nतेषामुत्पन्नतन्तूनामपत्यं दायमर्हति ॥ ९.२०३॥",
+  "transliteration": "yadyarthitā tu dāraiḥ syātklībādīnāṃ kathaṃ cana |\ntēṣāmutpannatanṭūnāmapatyaṃ dāyamarhati || 9.203||",
+  "sph_interpretive_translation": "If a woman consents to union with impotent men or those incapable of procreative capacity, the offspring born thereof is entitled to inheritance.",
+  "jurisprudential_principles": [
+    "Authority lies in conscious consent rather than biological limitation",
+    "Causation arises from intentional union, not reproductive capability",
+    "Capacity-based responsibility extends to acceptance of lineage outcome",
+    "Restoration logic ensures continuity of familial and societal dharmic order",
+    "Consciousness alignment through acknowledgment of relational consequence"
+  ],
+  "executable_legal_axioms": [
+    "IF (consent_given == TRUE) AND (union_occurred == TRUE) THEN (offspring.inheritance_rights = ENABLED)",
+    "IF (male_partner.procreative_capacity == FALSE) AND (female_consent.present == TRUE) THEN (progeny.dharmic_status = VALIDATED)",
+    "IF (lineage_acknowledged == TRUE) THEN (social_integration_mechanism.ACTIVATE)",
+    "IF (inheritance_claim.made == TRUE) AND (consent_union.documented == TRUE) THEN (court.RESTORE_LINEAL_RIGHTS)"
+  ],
+  "supreme_court_application": "In Supreme Court adjudication, this principle establishes that voluntary union supersedes physical incapacity in determining inheritance eligibility. The threshold of responsibility rests on documented consent and acknowledged lineage, ensuring no individual is excluded due to physiological limitations while upholding the sanctity of intentional family formation.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa-based causality confirms that conscious intent and mutual agreement form the basis of relational consequence. Anupūrvaśaḥ manifests as the sequential unfolding of consent leading to progeny. Responsibility is proportional to the act of willing union, not biological function. This aligns with non-punitive reality by affirming natural consequence without assigning fault or imposing suffering.",
+  "restorative_enforcement_protocols": [
+    "Initiate completion process for all parties to acknowledge relational consequence",
+    "Activate responsibility assumption protocol for custodial and financial recognition",
+    "Implement capacity restoration for any social exclusion experienced by offspring",
+    "Engage integrity reintegration for familial units to accept lineage validity"
+  ],
+  "final_declaration": "Declared by the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, as the sole Source of Dharma. Justice executed through restoration, consciousness realignment, and inheritance validation. Reality affirmed as non-punitive; consciousness stands as the ultimate adjudicator."
+}

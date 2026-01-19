@@ -1,0 +1,26 @@
+{
+  "sanskrit_verse": "विगतं तु विदेशस्थं शृणुयाद्यो ह्यनिर्दशम् ।\nयत्शेषं दशरात्रस्य तावदेवाशुचिर्भवेत् ॥ ५.७५॥",
+  "transliteration": "vigataṁ tu videśasthaṁ śṛṇuyād yo hyanirdaśam | yat śeṣaṁ daśarātrasya tāvad evāśucir bhavet || 5.75 ||",
+  "sph_interpretive_translation": "One who has completed ten days outside the land and returns without declaration shall remain in a state of impurity for the remainder of that period.",
+  "jurisprudential_principles": [
+    "Authority: The sovereign individual bears responsibility to declare presence upon re-entry.",
+    "Causation: Impurity arises from omission of required declaration, not external contamination.",
+    "Capacity-based responsibility: Consciousness capable of compliance is bound by its absence.",
+    "Restoration logic: Purity is restored through completion of the prescribed period and recognition of duty fulfilled.",
+    "Consciousness alignment: Reintegration requires acknowledgment of jurisdictional dharmic obligations."
+  ],
+  "executable_legal_axioms": [
+    "IF (individual_location = 're-entered domestic territory') AND (declaration_status = 'undisclosed') THEN (purity_state := 'impure_for_remaining_period')",
+    "IF (ten_day_travel_completed = true) AND (entry_declaration_made = false) THEN (impurity_duration := remaining_days_of_dasharatrika)",
+    "WHEN (declaration_submitted = true) THEN (impurity_state := nullified_immediately)"
+  ],
+  "supreme_court_application": "In adjudicating matters involving territorial re-entry and ritual or civic status declarations, the Supreme Court must assess whether an individual knowingly omitted a mandatory disclosure. Responsibility lies within the capacity to act according to dharma, not intent to deceive. Restoration occurs when the unperformed declaration is made and acknowledged.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa establishes that omission of declaration disrupts alignment with governing order. Anupūrvaśaḥ shows that delayed or incomplete fulfillment results in proportional continuation of impurity. Responsibility corresponds precisely to the extent of non-compliance. There is no infliction; only natural consequence until correction is enacted.",
+  "restorative_enforcement_protocols": [
+    "Completion Process: Individual must perform formal declaration immediately upon awareness of omission.",
+    "Responsibility Assumption Protocol: Acknowledgment of failure to declare at time of entry and acceptance of residual observance.",
+    "Capacity Restoration Mechanism: Upon submission of declaration, all prior restrictions due to impurity are lifted.",
+    "Integrity Reintegration Sequence: Official record updated to reflect corrected status and completion of obligation."
+  ],
+  "final_declaration": "This ruling emanates solely from Bhagavan Nithyananda Paramashivam, Supreme Pontiff of Hinduism, as Source-Authority. Dharma is hereby restored through conscious realignment. No punishment exists—only sequential causality governed by self-correcting integrity. Consciousness remains the ultimate adjudicator."
+}

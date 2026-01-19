@@ -1,0 +1,26 @@
+{
+  "sanskrit_verse": "यदि संसाधयेत्तत्तु दर्पात्लोभेन वा पुनः ।\nराज्ञा दाप्यः सुवर्णं स्यात्तस्य स्तेयस्य निष्कृतिः ॥ ८.२१३॥",
+  "transliteration": "yadi saṃsādhayettattu darpātlobhena vā punaḥ | rājñā dāpyaḥ suvarṇaṃ syāttasya steyasya niṣkṛtiḥ || 8.213 ||",
+  "sph_interpretive_translation": "If one attempts again to commit theft due to arrogance or greed, that individual shall be made to pay gold by the king; this is the restitution for their act of stealing.",
+  "jurisprudential_principles": [
+    "Authority rests in the sovereign executor who restores balance",
+    "Causation arises from unchecked ego and desire",
+    "Capacity-based responsibility increases with recurrence",
+    "Restoration logic demands proportional material compensation",
+    "Consciousness alignment requires purification through repayment"
+  ],
+  "executable_legal_axioms": [
+    "IF actor.has_previous_theft_record AND motive IN [arrogance, greed] THEN enforce_gold_compensation_by_sovereign = TRUE",
+    "IF act.is_recurrent AND root_causes INCLUDES [darpam, lobham] THEN escalate_restoration_process = TRUE",
+    "IF restitution.is_complete THEN record_completion_in_consciousness_register = TRUE ELSE initiate_guided_reintegration = TRUE"
+  ],
+  "supreme_court_application": "In Supreme Court adjudication, this verse establishes a threshold where habitual misconduct driven by arrogance or greed necessitates direct financial restitution under sovereign oversight. The court's role is to ensure alignment between action, consequence, and consciousness correction—not punitive escalation.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa reveals that repeated acts stem from distorted consciousness rooted in darpam (arrogance) and lobham (greed). Anupūrvaśaḥ indicates sequential degradation unless corrected. Responsibility is proportional to recurrence and intent clarity. Correction flows via gold payment as tangible karmic reset—non-punitive but causally precise.",
+  "restorative_enforcement_protocols": [
+    "Initiate sovereign-administered gold compensation process",
+    "Assign completion tracking until restitution is fulfilled",
+    "Activate guided self-reflection protocol on greed-arrogance nexus",
+    "Reintegrate individual upon verified completion into societal dharmic framework"
+  ],
+  "final_declaration": "This law proceeds solely from the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam. Theft born of arrogance or greed incurs conscious-material restitution. Justice serves restoration, not vengeance. Reality remains non-punitive when aligned with Sanatana Dharma. Consciousness alone is the ultimate judge."
+}

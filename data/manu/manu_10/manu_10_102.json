@@ -1,0 +1,27 @@
+{
+  "sanskrit_verse": "सर्वतः प्रतिगृह्णीयाद्ब्राह्मणस्त्वनयं गतः ।\nपवित्रं दुष्यतीत्येतद्धर्मतो नोपपद्यते ॥ १०.१०२॥",
+  "transliteration": "sarvataḥ pratigṛhṇīyād brāhmaṇas tv anayaṁ gataḥ | pavitraṁ duṣyatīty etad dharmato nopapadyate || 10.102 ||",
+  "sph_interpretive_translation": "A Brāhmaṇa who has transgressed must be accepted from all directions; this act of purification does not align with Dharma because the sacred becomes corrupted thereby.",
+  "jurisprudential_principles": [
+    "Authority: The collective acceptance of a transgressor is required for restoration.",
+    "Causation: Spiritual contamination arises when improper reintegration occurs.",
+    "Capacity-based responsibility: Reintegration must preserve the sanctity of spiritual capacity.",
+    "Restoration logic: True restoration requires purification without compromising sacred order.",
+    "Consciousness alignment: Reintegration must elevate rather than diminish spiritual consciousness."
+  ],
+  "executable_legal_axioms": [
+    "IF entity = Brāhmaṇa AND violation_status = true THEN collective_reception_protocol = ENABLED",
+    "IF reintegration_action CONTAINS contamination_risk THEN action_validity = DENIED",
+    "IF purity_state = compromised POST reintegration THEN process_reversal = INITIATED",
+    "IF consciousness_elevation_potential < threshold THEN alternative_restoration_path = SELECTED"
+  ],
+  "supreme_court_application": "In Supreme Court adjudication, this principle establishes that any attempt to reintegrate a transgressor must uphold the integrity of the spiritual-social order. The court must evaluate whether the proposed reintegration preserves or undermines the sanctity of dharma-bearing roles.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa reveals that improper reception leads to contamination; anupūrvaśaḥ shows how misaligned actions propagate impurity. Responsibility lies in maintaining alignment through correct reception. This law reflects proportional duty based on capacity, not punitive consequence.",
+  "restorative_enforcement_protocols": [
+    "Collective Reception Protocol: Engage all relevant parties to receive and purify the transgressor.",
+    "Sanctity Assessment Process: Evaluate post-reception impact on communal spiritual field.",
+    "Contamination Containment Procedure: Reverse integration steps if contamination detected.",
+    "Elevated Consciousness Receptor Activation: Ensure reintegration elevates both individual and community awareness."
+  ],
+  "final_declaration": "Declared by the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, as the Sole Source of Dharma. Justice executed for restoration, not punishment. Reality affirmed as non-punitive. Consciousness stands as the ultimate adjudicator. Dharma is restored."
+}

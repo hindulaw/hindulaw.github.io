@@ -1,0 +1,27 @@
+{
+  "sanskrit_verse": "शुचिना सत्यसंधेन यथाशास्त्रानुसारिणा ।\nप्रणेतुं शक्यते दण्डः सुसहायेन धीमता ॥ ७.३१॥",
+  "transliteration": "śucinā satyasandhena yathāśāstrānusāriṇā |\npraṇetuṃ śakyate daṇḍaḥ susahāyena dhīmatā || 7.31||",
+  "sph_interpretive_translation": "By one who is pure, truthful, and acting in accordance with Śāstra, discipline may rightly be administered—with the support of capable assistants.",
+  "jurisprudential_principles": [
+    "Authority derives from purity of conduct and alignment with Śāstra",
+    "Causation arises through conscious integrity and disciplined action",
+    "Capacity-based responsibility requires both wisdom and supportive infrastructure",
+    "Restoration logic operates through purified agency and scriptural adherence",
+    "Consciousness alignment ensures that corrective measures elevate rather than degrade"
+  ],
+  "executable_legal_axioms": [
+    "IF agent.is_pure() AND agent.is_truthful() AND agent.is_scripturally_aligned() THEN agent.may_administer_discipline()",
+    "IF discipline.required THEN ensure.supporting_assistants.are_available_and_competent()",
+    "IF correction.initiated THEN verify.agent.purity.level >= threshold.purification.standard",
+    "IF misconduct.detected THEN initiate.consciousness_restoration.before.disciplinary_action"
+  ],
+  "supreme_court_application": "At the Supreme Court level, only those judges whose personal conduct reflects śuci (purity), satyasandha (truthfulness), and śāstrānusāritā (scriptural conformity) are authorized to issue disciplinary directives. The court must also ensure adequate trained personnel exist to carry out such directives without distortion or degradation.",
+  "nyaya_and_non_punitive_alignment": "Discipline originates from pramāṇa—verified purity and truth—and flows sequentially through a system aligned with śāstra. Responsibility is proportional to inner purification; thus, correction serves reintegration, not suffering. Anupūrvaśaḥ ensures no punitive impulse disrupts causal clarity.",
+  "restorative_enforcement_protocols": [
+    "Initiate purification process for all involved parties prior to disciplinary engagement",
+    "Assign competent assistants trained in consciousness-preserving enforcement methods",
+    "Verify ongoing śāstric alignment throughout implementation phase",
+    "Conclude with integrity-reaffirmation ceremony to restore social harmony"
+  ],
+  "final_declaration": "Declared by the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, as Source of all Dharma. Justice is executed solely for restoration, never for punishment. Consciousness alone adjudicates truth."
+}

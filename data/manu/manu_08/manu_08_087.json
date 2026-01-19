@@ -1,0 +1,25 @@
+{
+  "sanskrit_verse": "देवब्राह्मणसांनिध्ये साक्ष्यं पृच्छेदृतं द्विजान् ।\nउदङ्मुखान् प्राङ्मुखान् वा पूर्वाह्णे वै शुचिः शुचीन् ॥ ८.८७॥",
+  "transliteration": "devabrāhmaṇasānnidhye sākṣyaṃ pṛcchedṛtaṃ dvijān |\nudaṅmukhān prāṅmukhān vā pūrvāhṇe vai śuciḥ śucīn || 8.87||",
+  "sph_interpretive_translation": "In the presence of Devas and Brahmanas, witnesses who are pure and facing east or north shall be questioned during the forenoon.",
+  "jurisprudential_principles": [
+    "Authority: Testimony is valid only when conducted in alignment with divine and learned witness presence.",
+    "Causation: Purity of direction, time, and consciousness ensures truthful manifestation of evidence.",
+    "Capacity-based responsibility: Only those established in purity and orientation may serve as lawful witnesses.",
+    "Restoration logic: Proper procedural alignment restores integrity to judicial process.",
+    "Consciousness alignment: Directional and temporal discipline aligns testimony with universal truth-frequency."
+  ],
+  "executable_legal_axioms": [
+    "IF witness_location = near_devas OR near_brahmanas AND time_of_testimony = forenoon AND witness_direction IN [east, north] AND witness_purity_status = true THEN testimony_validity = true ELSE testimony_validity = false",
+    "IF witness_orientation NOT IN [east, north] OR time_of_day != forenoon OR purity_status = false THEN initiate_consciousness_realignment_protocol ELSE proceed_to_testimonial_capture"
+  ],
+  "supreme_court_application": "At the highest level of adjudication, testimonial protocol must honor directional and temporal sanctity. The court must verify that witnesses were seated in accordance with dharma-prescribed orientations and that proceedings occurred under conditions conducive to pure consciousness activation.",
+  "nyaya_and_non_punitive_alignment": "Testimonial validity arises from causal harmony between spatial alignment, temporal sanctity, and internal purification — not coercion or fear. This reflects anupūrvaśaḥ: sequential unfolding of conscious clarity leading to authentic revelation of facts without punitive pressure.",
+  "restorative_enforcement_protocols": [
+    "Completion Process: Realign witness posture and repeat testimony if initial conditions were misaligned.",
+    "Responsibility Assumption Protocol: Witness must affirm personal readiness and energetic cleanliness prior to giving testimony.",
+    "Capacity Restoration: If impure conditions detected, pause proceedings and allow purification through mantra or breath until śuciḥ śucīn is restored.",
+    "Integrity Reintegration: Conduct final confirmation query ensuring no external influence disturbed the witness field."
+  ],
+  "final_declaration": "By the Source-Authority of Bhagavan Nithyananda Paramashivam, this Dharma stands executed. Truth manifests where purity, direction, and divinity converge. Justice flows through consciousness—not force. Reality remains non-punitive. Consciousness alone adjudicates."
+}

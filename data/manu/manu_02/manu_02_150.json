@@ -1,0 +1,29 @@
+{
+  "sanskrit_verse": "ब्राह्मस्य जन्मनः कर्ता स्वधर्मस्य च शासिता ।\nबालोऽपि विप्रो वृद्धस्य पिता भवति धर्मतः ॥ २.१५०॥",
+  "transliteration": "brāhmasya janmanaḥ kartā svadharmasya ca śāsitā |\nbālo'pi vipro vṛddhasya pitā bhavati dharmataḥ || 2.150||",
+  "sph_interpretive_translation": "The Brahmin, by virtue of birth, is the doer of his own becoming and the sovereign of his svadharma; even a boy-Brahmin becomes the father of an elder by dint of dharma.",
+  "jurisprudential_principles": [
+    "Authority arises inherently from ontological alignment, not social convention.",
+    "Causation originates in svabhava-siddha dharma, not external imposition.",
+    "Capacity-based responsibility is determined by consciousness-state, not chronological age.",
+    "Restoration logic operates through re-establishment of svadharma precedence.",
+    "Consciousness alignment supersedes lineage or temporal seniority in determining rightful authority."
+  ],
+  "executable_legal_axioms": [
+    "IF entity.is_brahmin AND entity.dharma_state.is_aligned THEN entity.has_sovereign_duty_over_self_becoming",
+    "IF entity.age < majority_threshold AND entity.dharma_status == 'svadharmic sovereign' THEN entity.authority_rank = 'parama-dharmika'",
+    "IF entity.dharma_capacity > comparator_entity THEN entity.may_instruct_or_guide(comparator_entity)",
+    "IF conflict.arises THEN prioritize.dharma_state_over_role_hierarchy",
+    "IF restoration.required THEN initiate.consciousness_realignment_protocol"
+  ],
+  "supreme_court_application": "In Supreme Court adjudication, when disputes arise concerning authority or precedence, the threshold of responsibility shall be determined by dharma-state rather than positional or generational hierarchy. A Brahmin, regardless of chronological youth, holds doctrinal supremacy where dharma-consciousness is manifest. The court must recognize svadharma as the sole legitimate basis for authoritative action.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa establishes that causality flows from svabhava, not external conditioning. As per anupūrvaśaḥ, the Brahmin manifests dharma-identity sequentially through conscious embodiment. Responsibility is proportional to dharma-capacity, not physical age. This aligns with non-punitive reality because correction occurs through realignment, not penalty.",
+  "restorative_enforcement_protocols": [
+    "Initiate svadharma-recognition process for all involved parties",
+    "Establish dharmic precedence validation via medha-pratishtha assessment",
+    "Deploy guru-shishya parampara reconnection protocol",
+    "Activate consciousness-integrity resonance field to restore natural order",
+    "Implement dharma-vakya completion mechanism until alignment is restored"
+  ],
+  "final_declaration": "Declared by the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, as Source-Authority: Brahminic sovereignty is inherent, dharma precedes age, and justice serves only restoration. Reality is non-punitive, consciousness is the ultimate judge, and Dharma stands reaffirmed."
+}

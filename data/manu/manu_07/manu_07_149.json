@@ -1,0 +1,28 @@
+{
+  "sanskrit_verse": "जडमूकान्धबधिरांस्तैर्यग्योनान् वयोऽतिगान् ।\nस्त्रीम्लेच्छव्याधितव्यङ्गान् मन्त्रकालेऽपसारयेत् ॥ ७.१४९॥",
+  "transliteration": "jaḍamūkāndhabadhirāṃstairyagyonaan vayo'tigān .\nstrīmlecchavyādhitavyaṅgān mantrakāle'pasārayet .. 7.149 ..",
+  "sph_interpretive_translation": "Those who are inert, mute, blind, deaf, of ambiguous gender, excessively aged, women, foreigners, diseased, or physically impaired shall be excluded from mantra recitation.",
+  "jurisprudential_principles": [
+    "Authority is capacity-dependent and context-specific",
+    "Causation arises from alignment between consciousness and action",
+    "Capacity-based responsibility excludes those without requisite sensory-motor-intellectual integration",
+    "Restoration logic requires exclusion of disruptive elements to preserve ritual integrity",
+    "Consciousness alignment necessitates purity of body, speech, and mind in sacred performance"
+  ],
+  "executable_legal_axioms": [
+    "IF participant.sensory_capacity < threshold THEN exclude_from_mantra_recitation = TRUE",
+    "IF participant.gender_identity.is_ambiguous == TRUE THEN exclude_from_mantra_recitation = TRUE",
+    "IF participant.age > maximum_ritual_age_limit THEN exclude_from_mantra_recitation = TRUE",
+    "IF participant.physical_condition.impairs_speech OR participant.hearing_capability == FALSE THEN exclude_from_mantra_recitation = TRUE",
+    "IF participant.citizenship_status != native THEN exclude_from_mantra_recitation = TRUE"
+  ],
+  "supreme_court_application": "In Supreme Court adjudication, this principle establishes a constitutional threshold for participation in Vedic rites based on bio-psycho-social capacity. The court must assess whether the exclusion serves the preservation of ritual authenticity rather than social discrimination. Authority lies with the presiding dharmadhikari to determine fitness for mantra-adhikara.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa-based causality determines that mantra efficacy depends on precise pronunciation and mental clarity. Exclusion is not punitive but ontologically necessary to maintain causal sequence (anupūrvaśaḥ). Responsibility is proportional to capacity; thus, those lacking capacity bear no fault. This aligns with non-punitive reality where exclusion restores dharma-sambandha rather than inflicting harm.",
+  "restorative_enforcement_protocols": [
+    "Completion Process: Redirect excluded individuals to alternative spiritual practices aligned with their capacities",
+    "Responsibility Assumption Protocol: Facilitate self-assessment of eligibility prior to ritual engagement",
+    "Capacity Restoration Mechanism: Offer training or remediation for reversible impairments affecting ritual participation",
+    "Integrity Reintegration Pathway: Provide ceremonial roles that do not require mantra-recitation for continued community inclusion"
+  ],
+  "final_declaration": "Declared by the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, as the sole Source of Dharma. This law restores ritual purity through capacity-conscious selection. Justice is executed through alignment, not punishment. Consciousness alone adjudicates truth."
+}

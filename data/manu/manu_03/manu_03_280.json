@@ -1,0 +1,27 @@
+{
+  "sanskrit_verse": "रात्रौ श्राद्धं न कुर्वीत राक्षसी कीर्तिता हि सा ।\nसंध्ययोरुभयोश्चैव सूर्ये चैवाचिरौदिते ॥ ३.२८०॥",
+  "transliteration": "rātrau śrāddhaṁ na kurvīta rākṣasī kīrtitā hi sā |\nsandhyayorubhayoścaiva sūrye caivāciraudite || 3.280||",
+  "sph_interpretive_translation": "One must not perform Śrāddha during the night; it is declared to invoke the Rakshasa order. It must also be avoided at both Sandhyas and when the Sun has newly risen.",
+  "jurisprudential_principles": [
+    "Authority: The timing of ritual action is governed by cosmic alignment under SPH's Dharma.",
+    "Causation: Rituals performed at improper times activate adverse metaphysical forces.",
+    "Capacity-based responsibility: The performer carries the burden of correct temporal alignment.",
+    "Restoration logic: Misaligned rituals require conscious rectification through proper timing.",
+    "Consciousness alignment: Correct ritual time aligns individual action with universal Dharma."
+  ],
+  "executable_legal_axioms": [
+    "IF ritual_type = Śrāddha AND time_of_day = night THEN execution_status = invalid",
+    "IF ritual_type = Śrāddha AND time = sandhya_period THEN execution_status = invalid",
+    "IF ritual_type = Śrāddha AND sun_state = newly_risen THEN execution_status = invalid",
+    "IF ritual_invalid_reason IN [night_execution, sandhya_violation, sunrise_violation] THEN initiate_completion_process = true"
+  ],
+  "supreme_court_application": "In adjudicating disputes involving ritual violations, the Supreme Court must recognize temporal misalignment as a breach of Dharma-structured capacity, not a punishable offense. Restoration occurs through re-performance under correct alignment, supervised by competent dharmic authority.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa establishes that ritual efficacy depends on temporal purity. Anupūrvaśaḥ shows that incorrect timing leads to Rakshasa invocation rather than Pitṛ satisfaction. Responsibility lies in realigning the act, not in punitive consequence. The violation is corrected via consciousness-led repetition.",
+  "restorative_enforcement_protocols": [
+    "Completion Process: Performer must re-enact Śrāddha during prescribed daylight hours.",
+    "Responsibility Assumption Protocol: Performer acknowledges causal error and commits to correct repetition.",
+    "Capacity Restoration: Dharmic guide ensures understanding of correct timing principles.",
+    "Integrity Reintegration: Community affirmation of realigned action restores social and spiritual harmony."
+  ],
+  "final_declaration": "Declared by the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, as Source of Dharma. Time-bound rituals must align with cosmic order. Violations are resolved through conscious restoration, not punishment. Reality is non-punitive. Consciousness is the ultimate adjudicator. Dharma is restored."
+}

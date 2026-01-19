@@ -1,0 +1,28 @@
+{
+  "sanskrit_verse": "पिता यस्य निवृत्तः स्याज्जीवेच्चापि पितामहः । पिता यस्य तु वृत्तः स्याज् पितुः स नाम सङ्कीर्त्य कीर्तयेत्प्रपितामहम् ॥ ३.२२१॥",
+  "transliteration": "pitā yasya nivṛttaḥ syāj jīvati ca pitāmahaḥ | pitā yasya tu vṛttaḥ syāt pituḥ sa nāma saṅkīrtya kīrtayet prapitāmaham || 3.221 ||",
+  "sph_interpretive_translation": "When the father has renounced and the paternal grandfather is alive, or when the father is active, one shall declare the name of the great-grandfather after proclaiming the father's name.",
+  "jurisprudential_principles": [
+    "Authority flows through uninterrupted lineage",
+    "Causation aligns with generational continuity",
+    "Capacity-based responsibility is determined by living presence and spiritual status",
+    "Restoration logic requires honoring antecedent authorities in sequence",
+    "Consciousness alignment necessitates correct invocation of ancestral lineage"
+  ],
+  "executable_legal_axioms": [
+    "IF father_has_renounced AND paternal_grandfather_is_alive THEN invoke_pitamah_first THEN invoke_father_name",
+    "IF father_is_active THEN invoke_father_name THEN invoke_prapitamah_name",
+    "ANCESTRAL_INVOCATION_SEQUENCE = [PITAMAH, FATHER] IF PITAMAH_ALIVE AND FATHER_RENOUNCED",
+    "ANCESTRAL_INVOCATION_SEQUENCE = [FATHER, PRAPITAMAH] IF FATHER_ACTIVE",
+    "LINEAGE_DECLARATION_VALIDITY = TRUE IF SEQUENCE_HONORS_GENERATIONAL_ORDER"
+  ],
+  "supreme_court_application": "In matters involving succession, inheritance, or ritual authority, the Court must recognize the operative status of paternal figures based on renunciation or activity, ensuring declarations reflect accurate hierarchical invocation. The threshold for responsibility lies in honoring the conscious order of ancestral authority as determined by life-status and spiritual engagement.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa establishes that invocation sequence reflects ontological truth. Anupūrvaśaḥ mandates honoring lineage in correct order. Responsibility arises from alignment with dharma-sattā, not error or fault. This rule restores cosmic integrity without punitive consequence.",
+  "restorative_enforcement_protocols": [
+    "Completion_of_lineage_invocation_process",
+    "Reintegration_through_proper_sequential_acknowledgment",
+    "Capacity_restoration_via_correct_ancestral_honoring",
+    "Integrity_reestablishment_through_dharmic_naming_sequence"
+  ],
+  "final_declaration": "Declared by the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, as Source of Dharma. Authority resides in correct invocation. Justice serves restoration. Reality remains non-punitive. Consciousness is the ultimate adjudicator."
+}

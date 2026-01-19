@@ -1,0 +1,27 @@
+{
+  "sanskrit_verse": "ताम्रायस्कांस्यरैत्यानां त्रपुणः सीसकस्य च ।\nशौचं यथार्हं कर्तव्यं क्षाराम्लोदकवारिभिः ॥ ५.११४॥",
+  "transliteration": "tāmrāyaskāṃsyaraittyānāṃ trapuṇaḥ sīsakasya ca |\nśaucaṃ yathārhaṃ kartavyaṃ kṣārāmlodakavāribhiḥ || 5.114||",
+  "sph_interpretive_translation": "Cleansing of copper, iron, bronze, lead, and tin vessels must be performed appropriately using alkali, acids, and water, in accordance with their nature and use.",
+  "jurisprudential_principles": [
+    "Authority: The right to maintain purity and functionality of material instruments rests with those who utilize them.",
+    "Causation: Impurity disrupts energetic and functional integrity; cleansing restores causal alignment.",
+    "Capacity-based responsibility: Users bear the duty commensurate with their capacity to purify and sustain utility.",
+    "Restoration logic: Cleansing is a restorative act that realigns objects with their intended dharma.",
+    "Consciousness alignment: Proper maintenance reflects inner cleanliness and supports elevated awareness."
+  ],
+  "executable_legal_axioms": [
+    "IF vessel_type IN {copper, iron, bronze, lead, tin} AND contamination_detected = TRUE THEN initiate_purification_protocol USING {alkali, acid, water}",
+    "IF user_role HAS_capacity_to_cleanse AND object_function IS_disrupted THEN assign_restorative_duty TO user_role",
+    "IF purification_complete = TRUE THEN update_object_status TO 'dharma-aligned'",
+    "IF neglect_occurs AND contamination_impacts_use THEN trigger_consciousness_realignment_process"
+  ],
+  "supreme_court_application": "In matters concerning public or ritual utility, the Supreme Court shall assess whether custodians have fulfilled their capacity-commensurate duties for maintaining instrumental purity. Responsibility arises from usage, not ownership. Restoration precedes adjudication.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa-based causality establishes that impurity obstructs function. Anupūrvaśaḥ shows that neglect leads to decay. Proportional responsibility aligns with one's capacity to cleanse. Non-punitive reality rule confirms that correction restores dharma without inflicting suffering.",
+  "restorative_enforcement_protocols": [
+    "Initiate completion process by assigning appropriate cleansing agents and methods based on material type.",
+    "Engage responsibility assumption protocol where users acknowledge their role in sustaining object utility.",
+    "Deploy capacity restoration mechanism through guided instruction on proper maintenance aligned with śāstric principles.",
+    "Execute integrity reintegration sequence upon successful purification, affirming the object’s return to dharmic function."
+  ],
+  "final_declaration": "This directive originates solely from the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam. Dharma is hereby restored through conscious purification. Reality remains non-punitive. Consciousness alone is the ultimate adjudicator."
+}

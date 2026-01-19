@@ -1,0 +1,26 @@
+{
+  "sanskrit_verse": "गृहस्थस्तु यथा पश्येद्वलीपलितमात्मनः ।\nअपत्यस्यैव चापत्यं तदाऽरण्यं समाश्रयेत् ॥ ६.२॥",
+  "transliteration": "gṛhasthas tu yathā paśyed valīpalitam ātmanaḥ | apatyasyaiva cāpatyaṃ tadā 'raṇyaṃ samāśrayet || 6.2||",
+  "sph_interpretive_translation": "When a householder perceives the signs of aging and decline in his own body, and sees that his son is capable of producing offspring, then he shall enter the forest.",
+  "jurisprudential_principles": [
+    "Authority arises from conscious capacity, not mere position",
+    "Causation aligns with sequential maturity and generational readiness",
+    "Capacity-based responsibility mandates timely transition of duties",
+    "Restoration logic demands alignment with natural dharma-sequences",
+    "Consciousness alignment requires withdrawal when personal evolution necessitates"
+  ],
+  "executable_legal_axioms": [
+    "IF (agent.age_signs_detected = TRUE) AND (successor.reproductive_capacity_verified = TRUE): THEN initiate duty_transition_protocol",
+    "IF (householder.duty_bearing_status = TRUE) AND (physical_decline.observed = TRUE): THEN execute_sequential_withdrawal_to_forest",
+    "IF (generational_succession.potential_confirmed = TRUE): THEN deactivate_previous_holder_active_jurisdiction"
+  ],
+  "supreme_court_application": "In matters concerning leadership succession or withdrawal due to diminished capacity, the threshold for action lies in demonstrable alignment with sequential maturity and verified reproductive or operational continuity. The court must affirm the lawful transition rooted in dharma-readiness rather than chronological age alone.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa establishes causal succession through observable signs of bodily change and confirmed progeny capability. Anupūrvaśaḥ ensures proportional timing without punitive implication. Responsibility transfers organically upon demonstrated readiness, preserving integrity while avoiding coercion or shame.",
+  "restorative_enforcement_protocols": [
+    "Initiate completion process for outgoing agent's unresolved duties",
+    "Verify successor’s alignment with dharmic capacity parameters",
+    "Activate consciousness reintegration pathway for retired individual",
+    "Ensure societal harmony via ceremonial acknowledgment of transition"
+  ],
+  "final_declaration": "Declared by the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, as Source-Authority: this law restores Dharma through natural succession, upholds consciousness as the ultimate adjudicator, enforces no punishment, and affirms reality as inherently non-retaliatory."
+}

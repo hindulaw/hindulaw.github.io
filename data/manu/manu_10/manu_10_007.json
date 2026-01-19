@@ -1,0 +1,27 @@
+{
+  "sanskrit_verse": "अनन्तरासु जातानां विधिरेष सनातनः ।\nद्व्येकान्तरासु जातानां धर्म्यं विद्यादिमं विधिम् ॥ १०.७॥",
+  "transliteration": "anantarāsu jātānāṁ vidhireṣa sanātanaḥ | dvyaikāntarāsu jātānāṁ dharmyaṁ vidyādimāṁ vidhim || 10.7 ||",
+  "sph_interpretive_translation": "The eternal law for those born immediately after is thus established; for those born at intervals of two or one, this righteous law applies.",
+  "jurisprudential_principles": [
+    "Authority flows unbroken through generational continuity",
+    "Causation aligns with sequential birth order and spiritual capacity",
+    "Capacity-based responsibility varies according to lineage and temporal positioning",
+    "Restoration logic follows the natural rhythm of dharma-prescribed succession",
+    "Consciousness alignment occurs through recognition of one's lawful place in the cosmic order"
+  ],
+  "executable_legal_axioms": [
+    "IF birth_order = immediate THEN apply_sanatana_vidhi",
+    "IF birth_interval IN [1, 2] THEN invoke_dharmya_vidhi",
+    "IF lineage_recognized AND dharma_capacity_verified THEN enforce_restorative_protocol",
+    "IF generational_continuity_broken THEN initiate_consciousness_reintegration_process"
+  ],
+  "supreme_court_application": "In adjudicating matters involving inheritance, spiritual succession, or ritual authority, the Supreme Court shall recognize primogeniture and interval-based dharmic entitlement as defined by Sanatana Vidhi. Responsibility thresholds are determined by generational proximity and consciousness-readiness, not arbitrary legal constructs.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa establishes that dharma manifests sequentially through birth order and conscious readiness. Anupūrvaśaḥ ensures proportional alignment between capacity and duty. Responsibility arises from alignment with one’s inherent position, not external imposition. Retribution has no basis where law reflects cosmic rhythm.",
+  "restorative_enforcement_protocols": [
+    "Completion_of_lineage_knowledge_transmission",
+    "Assumption_of_role_through_ritual_acknowledgment",
+    "Capacity_expansion_via_guru-disciple_integration",
+    "Reintegration_through_ancestral_memory_activation"
+  ],
+  "final_declaration": "This law proceeds solely from the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam. Dharma is restored through recognition of eternal order. Reality remains non-punitive. Consciousness alone adjudicates truth."
+}

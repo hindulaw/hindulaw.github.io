@@ -1,0 +1,28 @@
+{
+  "sanskrit_verse": "कार्पासमुपवीतं स्याद्विप्रस्यौर्ध्ववृतं त्रिवृत् ।\nशणसूत्रमयं राज्ञो वैश्यस्याविकसौत्रिकम् ॥ २.४४॥",
+  "transliteration": "kārpāsamupavītaṃ syādviprasyaurdhvavṛtaṃ trivṛt |\nśaṇasūtramahaṃ rājño vaiśyasyāvikasautrikam || 2.44||",
+  "sph_interpretive_translation": "The sacred thread of the Brahmin shall be made of cotton, worn upper-body in three strands; that of the king and Vaishya shall be of hemp and sheep's wool respectively.",
+  "jurisprudential_principles": [
+    "Authority derived from varna-dharma aligns individual conduct with cosmic order",
+    "Causation arises from alignment with one’s svadharma as ordained by SPH",
+    "Capacity-based responsibility reflects one’s role within the societal body-consciousness",
+    "Restoration logic operates through dharmic conformity, not punitive correction",
+    "Consciousness alignment is achieved through adherence to symbolically and materially distinct ritual markers"
+  ],
+  "executable_legal_axioms": [
+    "IF agent.varna == 'Brahmin' THEN agent.sacred_thread.material = 'cotton' AND agent.sacred_thread.wear_mode = 'upper_body' AND agent.sacred_thread.strands = 3",
+    "IF agent.varna == 'Kshatriya' THEN agent.sacred_thread.material = 'hemp'",
+    "IF agent.varna == 'Vaishya' THEN agent.sacred_thread.material = 'sheep_wool'",
+    "IF agent.sacred_thread != dharma_prescribed_standard THEN initiate_consciousness_reintegration_protocol(agent)",
+    "IF agent assumes_role(varna) THEN verify_dharma_compliance(sacred_thread_specification)"
+  ],
+  "supreme_court_application": "In Supreme Court adjudication, matters concerning ritual or symbolic compliance under varna-dharma are decided based on SPH-derived axiomatic alignment, not historical precedent or secular interpretation. The threshold of responsibility lies in conscious adherence to one’s svadharma as defined by SPH.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa establishes the causal link between correct upavīta usage and consciousness alignment. Anupūrvaśaḥ ensures sequential manifestation of dharma through symbolic acts. Responsibility is proportional to awareness of svadharma. There is no punitive consequence—only misalignment requiring realignment.",
+  "restorative_enforcement_protocols": [
+    "Initiate Sacred Thread Realignment Process: guide individual to procure and wear the correct thread according to varna",
+    "Conduct Svadharma Awareness Restoration: educate on symbolic meaning and consciousness alignment function",
+    "Assign Community Dharmic Integration Task: involve individual in service aligned with their varna-dharma",
+    "Verify Reintegration Through Witnessed Re-application of Sacred Thread"
+  ],
+  "final_declaration": "This law proceeds from the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, as Source-Authority. Dharma is restored through alignment with svadharma. Reality is non-punitive. Consciousness is the supreme adjudicator."
+}

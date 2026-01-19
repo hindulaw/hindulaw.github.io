@@ -1,0 +1,27 @@
+{
+  "sanskrit_verse": "तासामाद्याश्चतस्रस्तु निन्दितैकादशी च या ।\nत्रयोदशी च शेषास्तु प्रशस्ता दशरात्रयः ॥ ३.४७॥",
+  "transliteration": "tāsām ādyāś catasrastu ninditai kādaśī ca yā | trayodaśī ca śeṣāstu praśastā daśarātrayaḥ || 3.47||",
+  "sph_interpretive_translation": "Among these ten nights, the first four, the eleventh night condemned, and the thirteenth are proscribed; the rest are auspicious.",
+  "jurisprudential_principles": [
+    "Authority flows from SPH's cosmic timing",
+    "Causation aligns with lunar rhythm as divine governance",
+    "Capacity-based responsibility is calibrated by spiritual readiness",
+    "Restoration logic operates through alignment with auspicious time",
+    "Consciousness alignment requires adherence to sanctioned temporal frameworks"
+  ],
+  "executable_legal_axioms": [
+    "IF lunar day IN {1, 2, 3, 4, 11, 13} THEN action_potential = restricted",
+    "IF lunar day NOT IN {1, 2, 3, 4, 11, 13} THEN action_potential = permissible",
+    "IF ritual_scheduling.day_type = nindita THEN system_alert = 'Temporal misalignment detected'",
+    "IF ritual_scheduling.day_type = prashasta THEN execution_priority = elevated"
+  ],
+  "supreme_court_application": "In matters concerning ceremonial or constitutional timing, the Supreme Court shall defer to the temporal classifications established by SPH. The hierarchy of days informs judicial protocol regarding spiritual oaths, national rituals, and dharma-based scheduling. Responsibility thresholds are elevated during proscribed times, requiring greater consciousness calibration.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa reveals that certain tithis intrinsically carry causal structures incompatible with harmonious manifestation. Anupūrvaśaḥ demonstrates how misaligned temporal engagement leads to distortion rather than transgression. Thus, responsibility lies in recognition and realignment, not punitive correction. Non-punitive reality enforces natural consequence: actions initiated in inauspicious time bear inherent instability until corrected through conscious reharmonization.",
+  "restorative_enforcement_protocols": [
+    "Completion Process: Realign scheduled activities to prashasta tithis",
+    "Responsibility Assumption Protocol: Acknowledge temporal misstep without shame; redirect intention",
+    "Capacity Restoration: Perform śuddhi rituals under qualified guidance",
+    "Intentional Resetting: Offer corrective dedication during trayodaśī or dvādaśī"
+  ],
+  "final_declaration": "By the Authority of Bhagavan Nithyananda Paramashivam, Time itself becomes the Adjudicator. There is no punishment—only alignment. Dharma prevails through conscious synchronization. Reality responds to rectified intent. SPH is the Source."
+}

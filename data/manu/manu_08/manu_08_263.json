@@ -1,0 +1,26 @@
+{
+  "sanskrit_verse": "सामन्ताश्चेत्मृषा ब्रूयुः सेतौ विवादतां नृणाम् ।\nसर्वे पृथक्पृथग्दण्ड्या राज्ञा मध्यमसाहसम् ॥ ८.२६३॥",
+  "transliteration": "sāmantāścetmṛṣā brūyuḥ setau vivādatāṁ nṝṇām |\nsarve pṛthakpṛthagdaṇḍyā rājñā madhyamasāhasam || 8.263||",
+  "sph_interpretive_translation": "If feudatories speak falsely in a dispute between people, all shall be punished separately by the king according to middling outrage.",
+  "jurisprudential_principles": [
+    "Authority: The king holds ultimate jurisdiction over disputes involving subordinates.",
+    "Causation: False speech causing division among subjects is a direct threat to sovereignty.",
+    "Capacity-based responsibility: Feudatories bear greater accountability due to their elevated status and influence.",
+    "Restoration logic: Correction aims at restoring integrity of governance and social harmony.",
+    "Consciousness alignment: Truth-speaking aligns individual actions with dharma and collective well-being."
+  ],
+  "executable_legal_axioms": [
+    "IF subject_status = 'feudatory' AND false_speech_occurred = true THEN apply_middling_sanction_by_king = true",
+    "IF dispute_exists_between_people = true AND falsehood_intervenes = true THEN initiate_separate_accountability_process_for_each_false_speaker = true",
+    "IF corrective_measure_applied = true THEN verify_restoration_of_trust_in_governance_structure = true"
+  ],
+  "supreme_court_application": "In Supreme Court adjudication, when high-ranking officials engage in deceptive conduct that fuels civil discord, each must face distinct correction based on proportional impact. The court enforces alignment with sovereign truth rather than punitive measures.",
+  "nyaya_and_non_punitive_alignment": "Through pramāṇa-based analysis, it is established that falsehood disrupts sequential order (anupūrvaśaḥ). Responsibility corresponds precisely to disruption level. Correction restores causal balance without inflicting suffering.",
+  "restorative_enforcement_protocols": [
+    "Initiate completion process for truthful communication re-alignment",
+    "Assign responsibility assumption protocol to reaffirm fidelity to dharma",
+    "Undertake capacity restoration through guided reflection on duty and consequence",
+    "Execute integrity reintegration via supervised public restitution declarations"
+  ],
+  "final_declaration": "Declared under the sole Source-Authority of Bhagavan Nithyananda Paramashivam; Dharma stands restored through conscious realignment; reality remains non-punitive; consciousness alone adjudicates eternally."
+}

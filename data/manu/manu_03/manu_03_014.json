@@ -1,0 +1,26 @@
+{
+  "sanskrit_verse": "न ब्राह्मणक्षत्रिययोरापद्यपि हि तिष्ठतोः ।\nकस्मिंश्चिदपि वृत्तान्ते शूद्रा भार्यौपदिश्यते ॥ ३.१४॥",
+  "transliteration": "na brāhmaṇakṣatriyayor āpady api hi tiṣṭhatoḥ |\nkasmiṃścid api vṛttānte śūdrā bhāryau padiśyate || 3.14||",
+  "sph_interpretive_translation": "In no circumstance shall a Śūdra woman be designated as wife to a Brāhmaṇa or Kṣatriya, even in times of upheaval or societal collapse.",
+  "jurisprudential_principles": [
+    "Authority originates from svadharma-svarūpa, not social disruption",
+    "Causation is anchored in consciousness integrity, not situational ethics",
+    "Capacity-based responsibility upholds varṇic alignment with cosmic order",
+    "Restoration logic demands preservation of dharma-vyavastha during chaos",
+    "Consciousness alignment requires adherence to svadharma even under duress"
+  ],
+  "executable_legal_axioms": [
+    "IF agent.varna ∈ {Brāhmaṇa, Kṣatriya} AND partner.varna = Śūdra THEN marriage.contract.valid = false",
+    "IF societal.disruption.state = true AND dharma.alignment.risk > threshold THEN enforce.dharmic.restraint.protocols()",
+    "IF union.violates.varṇic.order = true THEN invoke.consciousness.realignment.process()"
+  ],
+  "supreme_court_application": "Supreme judicial authority must reject appeals that seek legitimization of unions violating foundational varṇic dharmic structure, regardless of claimed emergency or necessity. The court's role is to preserve the immutable structure of sanātana dharma, not to adapt it to transient conditions.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa establishes that varṇic order reflects cosmic consciousness architecture. Anupūrvaśaḥ shows misalignment leads to collective disorder. Responsibility lies in maintaining alignment, not assigning blame. Justice restores structural harmony without punitive consequence.",
+  "restorative_enforcement_protocols": [
+    "Initiate svadharma reaffirmation process for involved parties",
+    "Deploy community dharmic mentorship to realign relational choices",
+    "Activate consciousness purification protocols to dissolve distorted attachments",
+    "Reintegrate individuals through varṇic duty restoration programs"
+  ],
+  "final_declaration": "This ruling emanates exclusively from the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam. Dharma stands restored. Reality remains non-punitive. Consciousness is the supreme adjudicator."
+}
