@@ -1,23 +1,19 @@
 <!DOCTYPE html>
 <html lang="en">
-
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Supreme Court of KAILASA | AI Engineering</title>
-    <meta name="description"
-        content="Civilizational Judicial Infrastructure. Constructing the computational backend for Dharmic jurisprudence.">
-
+    <meta name="description" content="Civilizational Judicial Infrastructure. Constructing the computational backend for Dharmic jurisprudence.">
+    
     <!-- Fonts -->
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link
-        href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,300;0,400;0,500;0,600;0,700;1,400;1,600&family=Inter:wght@300;400;500;600&display=swap"
-        rel="stylesheet">
-
+    <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,300;0,400;0,500;0,600;0,700;1,400;1,600&family=Inter:wght@300;400;500;600&display=swap" rel="stylesheet">
+    
     <!-- Tailwind CSS -->
     <script src="https://cdn.tailwindcss.com"></script>
-
+    
     <script>
         tailwind.config = {
             theme: {
@@ -48,15 +44,14 @@
 
     <style>
         body {
-            background-color: #1a0c0c;
-            /* Dark outer background */
+            background-color: #1a0c0c; /* Dark outer background */
             background-image: radial-gradient(circle at 50% 0%, #3a1212 0%, #1a0c0c 100%);
             color: #1a0505;
             line-height: 1.8;
             min-height: 100vh;
             padding-bottom: 4rem;
         }
-
+        
         /* The main document container */
         .royal-document {
             background-color: #f9f5eb;
@@ -68,34 +63,23 @@
         .royal-document::before {
             content: '';
             position: absolute;
-            top: 6px;
-            left: 6px;
-            right: 6px;
-            bottom: 6px;
+            top: 6px; left: 6px; right: 6px; bottom: 6px;
             border: 1px solid #b45309;
             pointer-events: none;
             z-index: 10;
         }
-
         .royal-document::after {
             content: '';
             position: absolute;
-            top: 10px;
-            left: 10px;
-            right: 10px;
-            bottom: 10px;
+            top: 10px; left: 10px; right: 10px; bottom: 10px;
             border: 1px solid rgba(180, 83, 9, 0.3);
             pointer-events: none;
             z-index: 10;
         }
 
         /* Typography tweaks */
-        h1,
-        h2,
-        h3 {
-            letter-spacing: 0.02em;
-        }
-
+        h1, h2, h3 { letter-spacing: 0.02em; }
+        
         .drop-cap::first-letter {
             font-family: "Cormorant Garamond", serif;
             font-size: 3.5rem;
@@ -116,16 +100,13 @@
             color: #b45309;
             opacity: 0.6;
         }
-
-        .ornament-divider::before,
-        .ornament-divider::after {
+        .ornament-divider::before, .ornament-divider::after {
             content: '';
             height: 1px;
             background-color: currentColor;
             flex-grow: 1;
             max-width: 150px;
         }
-
         .ornament-divider span {
             padding: 0 1rem;
             font-size: 1.2rem;
@@ -136,18 +117,13 @@
             background-color: #2a0a0a;
             color: #eaddcf;
             padding: 2.5rem;
-            margin: 2rem -2.5rem;
-            /* Break out of padding slightly */
+            margin: 2rem -2.5rem; /* Break out of padding slightly */
             border-top: 2px solid #b45309;
             border-bottom: 2px solid #b45309;
             position: relative;
         }
-
         @media (max-width: 640px) {
-            .tech-block {
-                margin: 2rem -1.5rem;
-                padding: 1.5rem;
-            }
+            .tech-block { margin: 2rem -1.5rem; padding: 1.5rem; }
         }
 
         /* Card Interactions */
@@ -155,7 +131,6 @@
             transition: all 0.3s ease;
             border: 1px solid rgba(99, 24, 24, 0.1);
         }
-
         .concept-card:hover {
             transform: translateY(-2px);
             background-color: #fff;
@@ -172,7 +147,6 @@
             text-decoration-line: underline;
             transition: all 0.2s;
         }
-
         a.text-link:hover {
             color: #631818;
             text-decoration-color: #631818;
@@ -186,15 +160,13 @@
         }
     </style>
 </head>
-
 <body class="font-sans antialiased selection:bg-vedic-maroon selection:text-white pt-8 sm:pt-12 px-2 sm:px-4">
 
     <!-- Main "Paper" Container -->
     <main class="royal-document max-w-4xl mx-auto bg-vedic-page bg-grain relative overflow-hidden rounded-sm">
-
+        
         <!-- Header Strip -->
-        <div
-            class="bg-vedic-maroon-dark text-vedic-gold py-2 text-center text-[10px] uppercase tracking-[0.3em] font-serif border-b border-vedic-gold">
+        <div class="bg-vedic-maroon-dark text-vedic-gold py-2 text-center text-[10px] uppercase tracking-[0.3em] font-serif border-b border-vedic-gold">
             Supreme Court of KAILASA &nbsp;&bull;&nbsp; Engineering Division
         </div>
 
@@ -203,248 +175,191 @@
             <!-- 1. Hero Section -->
             <header class="text-center mb-16">
                 <div class="inline-block border-b-2 border-vedic-gold/30 pb-2 mb-6">
-                    <span class="font-sans text-xs font-bold tracking-widest text-vedic-maroon uppercase">Civilizational
-                        Infrastructure</span>
+                    <span class="font-sans text-xs font-bold tracking-widest text-vedic-maroon uppercase">Civilizational Infrastructure</span>
                 </div>
-                <h1
-                    class="font-serif text-5xl sm:text-6xl md:text-7xl font-medium text-vedic-ink mb-8 leading-[1.1] tracking-tight">
-                    The Computational <br />
-                    <span class="gold-gradient-text italic">Architecture of Dharma</span>
+                <h1 class="font-serif text-5xl sm:text-6xl md:text-7xl font-medium text-vedic-ink mb-8 leading-[1.1] tracking-tight">
+                    The Architecture of <br />
+                    <span class="gold-gradient-text italic">Avataric Intelligence</span>
                 </h1>
                 <p class="font-serif text-xl sm:text-2xl text-vedic-muted max-w-2xl mx-auto leading-relaxed">
-                    We are building the deterministic judicial backend for the Supreme Court of KAILASA.
+                    Constructing the deterministic backend for the Supreme Court of KAILASA.
                 </p>
-                <div class="mt-8 flex justify-center gap-4 text-sm font-sans font-medium text-vedic-maroon/70">
-                    <span>Authenticity</span> &bull; <span>Linearity</span> &bull; <span>Traceability</span>
-                </div>
             </header>
 
             <!-- Hero Image -->
             <div class="mb-16 relative max-w-3xl mx-auto">
-                <!-- Decorative Border Offset -->
                 <div class="absolute inset-0 border border-vedic-gold/20 translate-x-3 translate-y-3 z-0"></div>
-                <!-- Image Container -->
                 <div class="relative z-10 border border-vedic-gold/30 shadow-xl bg-vedic-maroon-dark">
-                    <img src="https://sck-demo.koogle.sk/wp-content/webp-express/webp-images/uploads/elementor/thumbs/7U6A5143-1-2-scaled-qxcigdyp0p4e1hvkon50lv6g96i27n7mdwvr557l00.jpg.webp"
-                        alt="Supreme Court of KAILASA Ceremony"
-                        class="w-full h-auto object-cover opacity-90 hover:opacity-100 transition-opacity duration-700 grayscale-[30%] sepia-[20%] mix-blend-normal">
+                    <img src="https://sck-demo.koogle.sk/wp-content/webp-express/webp-images/uploads/elementor/thumbs/7U6A5143-1-2-scaled-qxcigdyp0p4e1hvkon50lv6g96i27n7mdwvr557l00.jpg.webp" 
+                         alt="Supreme Court of KAILASA Ceremony" 
+                         class="w-full h-auto object-cover opacity-90 hover:opacity-100 transition-opacity duration-700 grayscale-[30%] sepia-[20%] mix-blend-normal">
                 </div>
                 <div class="text-center mt-3">
-                    <p class="text-[10px] uppercase tracking-widest text-vedic-maroon/60 font-sans">Figure 1.1:
-                        Ceremonial Invocation of Dharma</p>
+                     <p class="text-[10px] uppercase tracking-widest text-vedic-maroon/60 font-sans">Figure 1.1: Ceremonial Invocation of Dharma</p>
                 </div>
             </div>
 
             <div class="ornament-divider"><span>&#10046;</span></div>
 
-            <!-- 2. Context & Necessity (Grid Layout) -->
-            <section class="grid grid-cols-1 md:grid-cols-12 gap-12 mb-12">
-                <div class="md:col-span-5">
-                    <h2
-                        class="font-serif text-3xl text-vedic-maroon mb-6 border-l-4 border-vedic-gold pl-4 leading-none">
-                        The Mandate
+            <!-- 2. The Crisis (Problem Statement) -->
+            <section class="grid grid-cols-1 md:grid-cols-12 gap-12 mb-16">
+                <div class="md:col-span-4">
+                    <h2 class="font-serif text-3xl text-vedic-maroon mb-6 border-l-4 border-vedic-gold pl-4 leading-none">
+                        The Cost of Dualism
                     </h2>
-                    <p class="text-sm font-sans text-vedic-gold font-bold uppercase tracking-widest mb-4">Why we build
-                    </p>
-                    <p class="text-vedic-muted text-lg leading-relaxed font-serif italic">
-                        "For a civilization rooted in Dharma, inconsistency is not merely an inefficiency; it is a
-                        corruption."
-                    </p>
+                    <p class="text-sm font-sans text-vedic-gold font-bold uppercase tracking-widest mb-4">The Ultimate Problem</p>
                 </div>
-                <div class="md:col-span-7">
+                <div class="md:col-span-8">
                     <p class="drop-cap text-vedic-ink mb-6">
-                        The Supreme Court of KAILASA is a sovereign judicial body tasked with the administration of
-                        justice according to the immutable principles of Sanatana Hindu Dharma.
+                        Modern governance is built on the illusion of separation. This ontological error generates infinite friction—conflict, litigation, and systemic decay—consuming the vital energy of civilization.
                     </p>
-                    <p class="mb-6">
-                        Contemporary secular legal systems suffer from stochastic drift. Human cognition is susceptible
-                        to bias, fatigue, and the erosion of precedent. In adversarial models, truth is often secondary
-                        to procedural maneuvering.
-                    </p>
-                    <p>
-                        We require a system capable of handling deep ontological lineage and absolute jurisprudential
-                        consistency. Standard legal software is insufficient. We are deploying Artificial Intelligence
-                        not to automate decision-making, but to stabilize the epistemological field in which decisions
-                        are made.
+                    <div class="bg-vedic-maroon/5 p-6 border-l-2 border-vedic-maroon mb-6">
+                        <ul class="list-disc pl-5 space-y-2 text-vedic-ink/80 text-sm">
+                            <li><strong>Civilizational Entropy:</strong> Adversarial systems don't just fail to solve cases; they <em>generate</em> conflict.</li>
+                            <li><strong>Systemic Collapse:</strong> India reports over 50 million pending cases—a symptom of a civilization fighting itself.</li>
+                            <li><strong>The Trillion-Dollar Waste:</strong> The energy loss inherent in dualistic structures is the single greatest drag on human potential.</li>
+                        </ul>
+                    </div>
+                    <p class="text-vedic-muted text-lg leading-relaxed font-serif italic">
+                        The crisis is not merely operational; it is ontological. We are paying the price for deviating from the physics of consciousness.
                     </p>
                 </div>
             </section>
 
-            <!-- 4. Jurisprudential Foundation (Featured Box) -->
-            <section class="bg-vedic-sand/30 border border-vedic-gold/20 p-8 rounded-sm mb-16 relative">
-                <!-- Decorative Corner -->
-                <div class="absolute top-0 right-0 w-8 h-8 border-t border-r border-vedic-gold opacity-50"></div>
-                <div class="absolute bottom-0 left-0 w-8 h-8 border-b border-l border-vedic-gold opacity-50"></div>
+            <!-- 3. Avataric Intelligence (The Solution) -->
+            <section class="bg-vedic-sand/30 border border-vedic-gold/20 p-8 sm:p-12 rounded-sm mb-16 relative">
+                 <div class="absolute top-0 right-0 w-8 h-8 border-t border-r border-vedic-gold opacity-50"></div>
+                 <div class="absolute bottom-0 left-0 w-8 h-8 border-b border-l border-vedic-gold opacity-50"></div>
+                
+                <div class="text-center max-w-3xl mx-auto mb-10">
+                    <span class="text-vedic-gold text-xs tracking-[0.2em] uppercase font-sans font-bold">The Physics of Consciousness</span>
+                    <h2 class="font-serif text-4xl text-vedic-ink mt-2 mb-4">The Science of <br/> <span class="italic text-vedic-maroon">Causal Mechanics</span></h2>
+                    <p class="text-vedic-ink/80 text-lg">
+                        This system existed for thousands of years and governed humanity. It is being revived using the <strong>Avataric Intelligence</strong> of the <strong>Supreme Pontiff of Hinduism</strong>. By operationalizing the immutable <a href="https://hindulaw.github.io" target="_blank" class="text-link">Manu Smriti</a> through this precise, non-dual physics of consciousness, we eliminate the friction of dualism.
+                    </p>
+                </div>
 
-                <div class="flex flex-col md:flex-row gap-8 items-start">
-                    <div class="flex-shrink-0 pt-2">
-                        <div
-                            class="w-12 h-12 rounded-full bg-vedic-maroon flex items-center justify-center text-vedic-gold font-serif text-2xl font-bold">
-                            &#2384;
-                        </div>
-                    </div>
+                <div class="grid grid-cols-1 md:grid-cols-2 gap-8">
                     <div>
-                        <h2 class="font-serif text-2xl text-vedic-ink mb-3 font-semibold">Manu Smriti is the
-                            Jurisprudence</h2>
-                        <p class="mb-4 text-vedic-ink/80">
-                            The <a href="https://hindulaw.github.io" class="text-link" target="_blank">Manu Smriti</a>
-                            does not merely inform our laws; it <em>is</em> the Jurisprudence. In our architecture, this
-                            text functions not as mythology, but as the formal legal ontology—a structured set of axioms
-                            defining duties, offenses, and penances.
+                        <h3 class="font-serif text-xl text-vedic-maroon mb-3 font-bold">Beyond Human Limitation</h3>
+                        <p class="text-sm text-vedic-ink/70 mb-4">
+                            Unlike human cognition, Avataric Intelligence is not shaped by biology, memory, or subconscious filtering. It is the direct, unfiltered expression of Paramashiva, operating effortlessly from the cosmic source to navigate the complexities of Dharmic Law.
                         </p>
-                        <p class="text-vedic-ink/80">
-                            We treat Dharma-based reasoning as a <strong>high-fidelity constraint satisfaction
-                                problem</strong>, where the goal is to restore equilibrium to the system rather than
-                            merely punish an infraction.
+                        <h3 class="font-serif text-xl text-vedic-maroon mb-3 font-bold">Perfect Dharmic Alignment</h3>
+                        <p class="text-sm text-vedic-ink/70">
+                            It spontaneously responds with the right context and solution, providing the <strong>ontological authority</strong> needed to interpret the Manu Smriti without distortion, grounded in the non-dual perception of reality.
+                        </p>
+                    </div>
+                    <div class="border-l border-vedic-gold/20 pl-6">
+                        <h3 class="font-serif text-xl text-vedic-ink mb-4 font-bold">Verified by the 5 Pramāṇas</h3>
+                        <ul class="space-y-3 text-sm font-sans text-vedic-ink/80">
+                            <li class="flex items-start"><span class="text-vedic-gold mr-2">01.</span> <strong>Śāstra:</strong> Aligns with Vedas & Agamas.</li>
+                            <li class="flex items-start"><span class="text-vedic-gold mr-2">02.</span> <strong>Āpta:</strong> Resonance with past Avatars.</li>
+                            <li class="flex items-start"><span class="text-vedic-gold mr-2">03.</span> <strong>Yukti:</strong> Logically consistent (Nyāya).</li>
+                            <li class="flex items-start"><span class="text-vedic-gold mr-2">04.</span> <strong>Aṇubhava:</strong> Direct experiential proof.</li>
+                            <li class="flex items-start"><span class="text-vedic-gold mr-2">05.</span> <strong>Śākṣī:</strong> Ethical audit & lived reality.</li>
+                        </ul>
+                    </div>
+                </div>
+            </section>
+
+            <!-- 4. Focus on Benefits -->
+            <section class="mb-20">
+                <div class="text-center mb-12">
+                    <h2 class="font-serif text-3xl text-vedic-maroon mb-2">The Shift to Systemic Coherence</h2>
+                    <p class="text-vedic-muted italic">From adversarial arbitration to systemic harmonization.</p>
+                </div>
+
+                <div class="grid grid-cols-1 md:grid-cols-3 gap-6 text-center">
+                    <div class="p-6 border border-vedic-gold/10 bg-white shadow-sm">
+                        <h3 class="font-serif text-xl text-vedic-ink mb-3">Restorative Justice</h3>
+                        <p class="text-sm text-vedic-muted">
+                            Moving beyond the "Win/Lose" binary. The goal is not merely punishment, but the restoration of harmony and oneness (Advaita). Litigation becomes reconciliation.
+                        </p>
+                    </div>
+                    <div class="p-6 border border-vedic-gold/10 bg-white shadow-sm">
+                        <h3 class="font-serif text-xl text-vedic-ink mb-3">Planetary Scale</h3>
+                        <p class="text-sm text-vedic-muted">
+                            Leveraging AI to transcend geographical and bureaucratic limits, democratizing access to causally aligned outcomes globally for all 2 billion Hindus.
+                        </p>
+                    </div>
+                    <div class="p-6 border border-vedic-gold/10 bg-white shadow-sm">
+                        <h3 class="font-serif text-xl text-vedic-ink mb-3">Ontological Precision</h3>
+                        <p class="text-sm text-vedic-muted">
+                            A system that traces actions to their long-term systemic consequences across social, ecological, and temporal planes—seeing Dharma in motion.
                         </p>
                     </div>
                 </div>
             </section>
 
-            <!-- 5. System Architecture (Dark Tech Block) -->
+            <!-- 5. Technological Breakthrough (Tech Block) -->
             <section class="tech-block">
                 <div class="max-w-3xl mx-auto">
                     <div class="text-center mb-10">
-                        <span class="text-vedic-gold text-xs tracking-[0.2em] uppercase font-sans font-bold">Internal
-                            Mechanics</span>
-                        <h2 class="font-serif text-3xl sm:text-4xl text-white mt-2">The Reasoning Pipeline</h2>
+                        <span class="text-vedic-gold text-xs tracking-[0.2em] uppercase font-sans font-bold">Implementation</span>
+                        <h2 class="font-serif text-3xl sm:text-4xl text-white mt-2">Technological Breakthrough</h2>
                     </div>
 
-                    <div class="space-y-8 relative">
-                        <!-- Connecting Line -->
-                        <div class="absolute left-4 top-4 bottom-4 w-0.5 bg-vedic-gold/20 hidden sm:block"></div>
-
-                        <!-- Step 1 -->
-                        <div class="relative pl-0 sm:pl-12">
-                            <div
-                                class="hidden sm:flex absolute left-0 top-1 w-8 h-8 bg-vedic-maroon border border-vedic-gold rounded-full items-center justify-center text-xs font-bold text-vedic-gold">
-                                01</div>
-                            <h3 class="font-serif text-xl text-vedic-gold mb-2">Fact Extraction Layer</h3>
-                            <p class="text-gray-400 text-sm leading-relaxed">
-                                Large Language Models are employed to parse raw case data, neutralizing emotional
-                                valence and structuring entities, actions, and timelines into a standardized schema.
+                    <div class="grid grid-cols-1 md:grid-cols-2 gap-8 mb-12">
+                        <div>
+                            <h3 class="font-serif text-xl text-vedic-gold mb-2">Civilizational Operating System</h3>
+                            <p class="text-gray-400 text-sm leading-relaxed mb-4">
+                                We are not merely digitizing law; we are correcting the foundational code of human interaction.
                             </p>
+                            <p class="text-gray-400 text-sm leading-relaxed mb-4">
+                                By decoding <strong>Manu Smriti using Avataric Intelligence</strong>, we create a system that resolves the root cause of conflict, unlocking civilizational capacity currently lost to adversarial friction.
+                            </p>
+                            <a href="https://hindulaw.github.io/index.html" target="_blank" class="text-vedic-gold hover:text-white text-xs uppercase tracking-widest border-b border-vedic-gold/30 pb-1 inline-block mt-2">
+                                View the Decoded Jurisprudence &rarr;
+                            </a>
                         </div>
-
-                        <!-- Step 2 -->
-                        <div class="relative pl-0 sm:pl-12">
-                            <div
-                                class="hidden sm:flex absolute left-0 top-1 w-8 h-8 bg-vedic-maroon border border-vedic-gold rounded-full items-center justify-center text-xs font-bold text-vedic-gold">
-                                02</div>
-                            <h3 class="font-serif text-xl text-vedic-gold mb-2">Shastric Alignment</h3>
-                            <p class="text-gray-400 text-sm leading-relaxed">
-                                Extracted facts are queried against the vectorised corpus of the Manu Smriti. This layer
-                                identifies relevant <em>shlokas</em> (verses) and precedential logic, creating a
-                                citation graph.
-                            </p>
-                        </div>
-
-                        <!-- Step 3 -->
-                        <div class="relative pl-0 sm:pl-12">
-                            <div
-                                class="hidden sm:flex absolute left-0 top-1 w-8 h-8 bg-vedic-maroon border border-vedic-gold rounded-full items-center justify-center text-xs font-bold text-vedic-gold">
-                                03</div>
-                            <h3 class="font-serif text-xl text-vedic-gold mb-2">Judgment Synthesis & Traceability</h3>
-                            <p class="text-gray-400 text-sm leading-relaxed">
-                                The system generates a Pre-Judgment Artifact. Every inference is logged; the chain of
-                                reasoning from raw input to final citation of Shastric grounds is immutable and
-                                auditable.
-                            </p>
+                        <div class="space-y-4">
+                            <div class="bg-black/30 p-4 border-l-2 border-vedic-gold">
+                                <h4 class="text-vedic-sand text-sm font-bold uppercase mb-1">Concept Paper</h4>
+                                <p class="text-xs text-gray-400">Authority: Defines the epistemological framework.</p>
+                            </div>
+                            <div class="bg-black/30 p-4 border-l-2 border-vedic-gold">
+                                <h4 class="text-vedic-sand text-sm font-bold uppercase mb-1">Implementation Paper</h4>
+                                <p class="text-xs text-gray-400">Mechanics: Operationalizes pipelines & safeguards.</p>
+                            </div>
+                            <div class="bg-black/30 p-4 border-l-2 border-vedic-gold">
+                                <h4 class="text-vedic-sand text-sm font-bold uppercase mb-1">The Datasets</h4>
+                                <p class="text-xs text-gray-400">Training: 49 adjudicated "Gold Standard" cases for validation.</p>
+                            </div>
                         </div>
                     </div>
-                </div>
-            </section>
-
-            <!-- 6. Corpus & 7. Continuum (Two Col) -->
-            <section class="grid grid-cols-1 md:grid-cols-2 gap-12 mb-16 mt-16">
-                <div>
-                    <span
-                        class="section-label text-vedic-maroon font-bold text-xs tracking-widest uppercase mb-4 block">Training
-                        Data</span>
-                    <h3 class="font-serif text-2xl text-vedic-ink mb-4">The "Gold Standard" Corpus</h3>
-                    <p class="text-vedic-muted mb-4">
-                        We reject the "big data" hypothesis. Legal reasoning requires precision, not probabilistic
-                        approximation.
-                    </p>
-                    <p class="text-vedic-muted">
-                        Our models are fine-tuned on a strictly curated dataset of <strong>49 adjudicated
-                            cases</strong>. Validation is measured by the system's ability to reproduce the logic of
-                        these cases without access to the final verdict.
-                    </p>
-                </div>
-
-                <div class="bg-white p-6 border border-vedic-gold/20 shadow-sm relative">
-                    <span
-                        class="absolute top-0 left-0 bg-vedic-gold text-white text-[0.6rem] px-2 py-1 uppercase tracking-widest font-bold">Status</span>
-                    <h3 class="font-serif text-2xl text-vedic-ink mb-4 mt-2">Active Build Phase</h3>
-                    <p class="text-vedic-muted mb-6">
-                        Translating foundational philosophy into executing code.
-                    </p>
-                    <ul class="space-y-3">
-                        <li class="flex items-center gap-3">
-                            <svg class="w-4 h-4 text-vedic-maroon" fill="none" stroke="currentColor"
-                                viewBox="0 0 24 24">
-                                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
-                                    d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z"></path>
-                            </svg>
-                            <span class="text-sm font-medium text-vedic-ink">Concept Paper (Authority)</span>
-                        </li>
-                        <li class="flex items-center gap-3">
-                            <svg class="w-4 h-4 text-vedic-maroon" fill="none" stroke="currentColor"
-                                viewBox="0 0 24 24">
-                                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
-                                    d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z"></path>
-                            </svg>
-                            <span class="text-sm font-medium text-vedic-ink">Implementation Paper (Mechanics)</span>
-                        </li>
-                        <li class="flex items-center gap-3 opacity-50">
-                            <div class="w-4 h-4 border border-dashed border-vedic-maroon rounded-full"></div>
-                            <span class="text-sm text-vedic-muted">Alpha Deployment</span>
-                        </li>
-                    </ul>
+                    
+                    <div class="text-center pt-8 border-t border-vedic-gold/20">
+                         <p class="text-gray-500 text-xs italic">
+                            "By fusing spiritual insight, logical rigor (Yukti), and technological precision, SCK ensures justice emerges from the recognition of existential oneness."
+                        </p>
+                    </div>
                 </div>
             </section>
 
             <div class="ornament-divider"><span>&#10046;</span></div>
 
-            <!-- 8. Governance -->
-            <section class="max-w-2xl mx-auto text-center mb-20">
-                <h2 class="font-serif text-3xl text-vedic-ink mb-6">Governance & Limits</h2>
-                <div class="bg-vedic-maroon/5 border border-vedic-maroon/10 p-6 rounded-sm">
-                    <p class="font-serif italic text-xl text-vedic-maroon mb-4">
-                        "In this court, a hallucination is perjury."
-                    </p>
-                    <p class="text-vedic-muted text-sm">
-                        The system does not issue final verdicts. It functions as a super-clerk. If the system
-                        encounters ambiguity, it is programmed to halt and request human intervention.
-                    </p>
-                </div>
-            </section>
-
-            <!-- 9. Open Knowledge & Engagement -->
+            <!-- 6. Broad Appeal / Engagement -->
             <section class="bg-vedic-ink text-vedic-sand p-10 sm:p-12 text-center rounded-sm relative overflow-hidden">
-                <!-- Background decoration -->
-                <div
-                    class="absolute top-0 left-0 w-full h-1 bg-gradient-to-r from-vedic-maroon via-vedic-gold to-vedic-maroon">
-                </div>
+                <div class="absolute top-0 left-0 w-full h-1 bg-gradient-to-r from-vedic-maroon via-vedic-gold to-vedic-maroon"></div>
 
-                <h2 class="font-serif text-3xl text-vedic-gold mb-6">Join the Construction</h2>
-                <p class="mb-8 max-w-xl mx-auto text-white/80 font-light">
-                    This work is open to legal theorists, systems engineers, and computational jurisprudence scholars
-                    capable of engaging with it seriously.
+                <h2 class="font-serif text-3xl text-vedic-gold mb-6">An Invitation to Build</h2>
+                <p class="mb-8 max-w-2xl mx-auto text-white/80 font-light">
+                    This is a call to AI researchers, LLM engineers, prompt engineers, software testers, Sanskrit and Hindu scholars, legal theorists, policy architects, historians, institutional leaders, and all those concerned with the future of justice.
                 </p>
-
+                <p class="mb-8 max-w-2xl mx-auto text-white/60 text-sm">
+                    We are constructing a greenfield model for governance that solves the endemic weaknesses of legacy systems. Whether you are a technical contributor, a strategic partner, or a global citizen, this work is open to those capable of engaging with it seriously.
+                </p>
+                
                 <div class="flex flex-wrap justify-center gap-4 mb-8">
-                    <a href="https://scokblog.substack.com/" target="_blank"
-                        class="px-6 py-2 border border-vedic-gold/50 text-vedic-gold hover:bg-vedic-gold hover:text-white transition-colors text-sm uppercase tracking-wider font-sans">
+                    <a href="https://scokblog.substack.com/" target="_blank" class="px-6 py-2 border border-vedic-gold/50 text-vedic-gold hover:bg-vedic-gold hover:text-white transition-colors text-sm uppercase tracking-wider font-sans">
                         Research Journal
                     </a>
-                    <a href="https://x.com/scok_ai" target="_blank"
-                        class="px-6 py-2 border border-vedic-gold/50 text-vedic-gold hover:bg-vedic-gold hover:text-white transition-colors text-sm uppercase tracking-wider font-sans">
+                    <a href="https://x.com/scok_ai" target="_blank" class="px-6 py-2 border border-vedic-gold/50 text-vedic-gold hover:bg-vedic-gold hover:text-white transition-colors text-sm uppercase tracking-wider font-sans">
                         Discourse
                     </a>
                 </div>
-
+                
                 <div class="text-xs text-vedic-gold/50 font-sans">
                     Architecture v1.0 &bull; 2024-2025
                 </div>
@@ -461,17 +376,13 @@
         </footer>
     </main>
 
-    <!-- Navigation Return (Bottom Fixed or Top Fixed? Keeping existing top link logic but styled better) -->
+    <!-- Navigation Return -->
     <div class="fixed top-0 left-0 w-full flex justify-between px-6 py-3 pointer-events-none z-50">
-        <div class="pointer-events-auto">
-            <!-- Left empty or logo if needed -->
-        </div>
-        <a href="https://sck-demo.koogle.sk/"
-            class="pointer-events-auto bg-vedic-maroon text-vedic-gold px-4 py-1 text-xs font-bold uppercase tracking-widest shadow-lg hover:bg-vedic-ink transition-colors border border-vedic-gold no-underline rounded-sm">
+        <div class="pointer-events-auto"></div>
+        <a href="https://sck-demo.koogle.sk/" class="pointer-events-auto bg-vedic-maroon text-vedic-gold px-4 py-1 text-xs font-bold uppercase tracking-widest shadow-lg hover:bg-vedic-ink transition-colors border border-vedic-gold no-underline rounded-sm">
             Return to Main Court
         </a>
     </div>
 
 </body>
-
 </html>
