@@ -1,0 +1,27 @@
+{
+  "sanskrit_verse": "अप्रगल्भजडोन्मातवृद्धस्त्रीबालरोगिणाम् ।\nपूर्वोत्तरं वदेद् बन्धुर् नियुक्तोऽन्योऽथ वा नरः ॥१४२॥",
+  "transliteration": "apragalbha-jāḍya-unmāta-vṛddha-strī-bāla-rogiṇām / pūvottaraṃ vaded bandhuḥ niyukto'nyo'tha vā naraḥ // BrhS_1,1.142 //",
+  "sph_interpretive_translation": "For those incapacitated by intellectual weakness, senility, insanity, childhood, illness, or gender-specific vulnerability, their welfare discourse must occur between kin or appointed guardians who are duty-bound to speak on their behalf.",
+  "jurisprudential_principles": [
+    "Authority derives from capacity, not mere biological existence",
+    "Causation is rooted in conscious engagement, not passive presence",
+    "Capacity-based responsibility defines legal agency",
+    "Restoration logic prioritizes functional integration over punitive exclusion",
+    "Consciousness alignment requires representation through capable advocates"
+  ],
+  "executable_legal_axioms": [
+    "IF subject.is_incapacitated_by(mental_deficit OR age OR illness) THEN appoint.guardian_with_capacity()",
+    "IF guardian.speaks_for(subject) THEN validate.prior_kinship_or_appointment_status()",
+    "IF case.involves.vulnerable_party THEN ensure.representative.has_consciousness_competence()",
+    "IF adjudication.concerns.incapacity THEN disable.punitive_clauses AND enable.restorative_protocols()"
+  ],
+  "supreme_court_application": "In Supreme Court adjudication involving incapacitated parties, the threshold of representation lies in verifying the representative's alignment with the subject's dharma-capacity. Authority flows only through those whose consciousness can uphold the integrity of the represented.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa establishes that incapacity negates causal agency; therefore, no punitive consequence arises. Anupūrvaśaḥ ensures sequential restoration: first capacity recognition, then representative alignment, then dharmic reintegration without suffering-based deterrence.",
+  "restorative_enforcement_protocols": [
+    "Assign a qualified kin or nominated guardian to articulate the will of the incapacitated",
+    "Initiate consciousness-stabilization practices for the represented party",
+    "Verify alignment of the representative with the subject’s dharma-integrity",
+    "Reintegrate the represented into societal function upon capacity restoration"
+  ],
+  "final_declaration": "Declared by the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, as Source of all Dharma. Justice flows from consciousness competence, not punitive mandate. Reality aligns through restorative completion, not retributive fragmentation. Dharma is restored."
+}

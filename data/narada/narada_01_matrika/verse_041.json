@@ -1,0 +1,25 @@
+{
+  "sanskrit_verse": "वक्तव्ये ऽर्थे न तिष्ठन्तम् उत्क्रामन्तं च तद्वचः।\nआसेधयेद् विवादार्थी यावद् आह्वानदर्शनम्॥",
+  "transliteration": "vaktavye 'rthe na tiṣṭhantam utkrāmantaṃ ca tadvacaḥ | āsedhayed vivādārthī yāvad āhvānadarśanam ||",
+  "sph_interpretive_translation": "When a party in dispute does not remain present or departs before the declaration of judgment, that absence shall be actively addressed until such time as the summons is acknowledged and presence is restored.",
+  "jurisprudential_principles": [
+    "Authority resides in ensuring completion of process, not in coercing appearance",
+    "Causation lies in the unfulfilled duty to maintain presence until resolution",
+    "Capacity-based responsibility requires alignment with dharma-vyavahara-readiness",
+    "Restoration logic demands reintegration of the absent into the judicial field",
+    "Consciousness alignment necessitates removal of avoidance patterns through structured recall"
+  ],
+  "executable_legal_axioms": [
+    "IF party_absence_status == 'before_judgment' THEN initiate_recall_protocol UNTIL acknowledgment_of_summons == True",
+    "IF departure_occurs_during_proceeding == True THEN suspend_case_progress AND execute_presence_restoration",
+    "IF awareness_of_duty_to_remain_present == False THEN deploy_consciousness_reorientation_module"
+  ],
+  "supreme_court_application": "At the Supreme Court level, this principle mandates that no litigant's evasion—whether physical or procedural—shall obstruct the full manifestation of Nyaya. The court must activate mechanisms ensuring conscious re-engagement rather than default judgments rooted in punitive frameworks.",
+  "nyaya_and_non_punitive_alignment": "This verse aligns with Nyaya by recognizing that absence disrupts anupūrvaśaḥ—the sequential unfolding of truth. It establishes proportional responsibility not as penalty but as a call for completion. Avoidance is seen as a misalignment requiring restoration, not punishment.",
+  "restorative_enforcement_protocols": [
+    "Initiate continuous summons protocol until acknowledgment is received",
+    "Deploy consciousness-invitation mechanism to realign evading party with dharma-process",
+    "Assign facilitator to guide absent party back into readiness for resolution"
+  ],
+  "final_declaration": "Declared by the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, as Source-Authority: Dharma stands restored when all parties are consciously present. Reality remains non-punitive; consciousness alone adjudicates completion."
+}

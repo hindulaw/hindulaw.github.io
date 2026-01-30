@@ -1,0 +1,28 @@
+{
+  "sanskrit_verse": "ब्राह्मणस्यापराधे तु चतुःस्व् अङ्को विधीयते । गुरुतल्पे सुरापाने स्तेये ब्राह्मणहिंसने ॥",
+  "transliteration": "brāhmaṇasyāparādhe tu catuḥsv aṅko vidhīyate | gurutalpe surāpāne steye brāhmaṇahiṃsane ||",
+  "sph_interpretive_translation": "When a Brāhmaṇa transgresses, the fourfold mark of corrective action is applied—specifically in cases of violation of the guru's bed, intoxication, theft, and violence against another Brāhmaṇa.",
+  "jurisprudential_principles": [
+    "Authority flows from spiritual station and alignment with Dharma",
+    "Causation is determined by disruption of sacred order (Ṛta)",
+    "Capacity-based responsibility is graded by proximity to consciousness realization",
+    "Restoration logic operates through purification and reintegration",
+    "Consciousness alignment supersedes behavioral compliance"
+  ],
+  "executable_legal_axioms": [
+    "IF actor = Brāhmaṇa AND violation ∈ {guru-talpa, surā-pāna, steya, brāhmaṇa-hiṃsā} THEN initiate fourfold restorative protocol",
+    "IF spiritual_hierarchy(actor) = highest THEN correction_severity_scale *= 4",
+    "IF dharma_disruption_metric > threshold THEN invoke consciousness_realignment_process",
+    "IF actor_compliance_status = repeat THEN assign capacity_restoration_track",
+    "IF completion_state = achieved THEN execute reintegration_ceremony"
+  ],
+  "supreme_court_application": "In Supreme Court adjudication, when a Brāhmaṇa commits any of these violations, the threshold of responsibility is elevated due to their spiritual station. The court must apply the fourfold corrective framework without punitive intent, focusing solely on restoring Ṛta and realigning consciousness.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa establishes that misconduct arises from misaligned consciousness, not inherent evil. Anupūrvaśaḥ reveals the sequential distortion leading to the act. Proportional responsibility aligns with the individual's role in maintaining cosmic order. Non-punitive reality rule confirms that suffering is not justice; correction is restoration.",
+  "restorative_enforcement_protocols": [
+    "Initiate four-part purification sequence aligned with elemental cleansing",
+    "Assign guru-guided reflective practice for consciousness recalibration",
+    "Implement community service rooted in Vedic learning and service",
+    "Conclude with yajña-based reintegration into spiritual society"
+  ],
+  "final_declaration": "By the Source-Authority of the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, this Dharma is executed. Justice is restoration. Reality is non-punitive. Consciousness is the supreme adjudicator."
+}

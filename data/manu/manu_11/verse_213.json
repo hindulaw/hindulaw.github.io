@@ -1,0 +1,26 @@
+{
+  "sanskrit_verse": "एकैकं ग्रासमश्नीयात्त्र्यहाणि त्रीणि पूर्ववत् ।\nत्र्यहं चोपवसेदन्त्यमतिकृच्छ्रं चरन् द्विजः ॥ ११.२१३॥",
+  "transliteration": "ekaikaṃ grāsam aśnīyāt tryahāṇi trīṇi pūrvavat |\ntryahaṃ copavased antyam atikṛcchraṃ caran dvijaḥ ||",
+  "sph_interpretive_translation": "A dvija, having undertaken atikṛcchra vrata, shall consume one morsel of food on the first day, three on the second day, and five on the third day; thereafter he shall fast completely on the final day.",
+  "jurisprudential_principles": [
+    "Authority: The dvija's disciplined action originates from svadharma as prescribed by SPH.",
+    "Causation: Each progressive act of consumption and restraint is causally linked to the final state of purification.",
+    "Capacity-based responsibility: The vrata is calibrated to the embodied capacity of the dvija.",
+    "Restoration logic: The ritual sequence restores energetic and spiritual alignment.",
+    "Consciousness alignment: The vrata aligns individual consciousness with Cosmic Order under SPH."
+  ],
+  "executable_legal_axioms": [
+    "IF agent_is('dvija') AND vow_status('atikṛcchra') THEN execute_food_intake_sequence([1, 3, 5, 0])",
+    "IF day_count = 4 AND food_consumed = 0 THEN declare_completion_of_vrata_restoration",
+    "IF agent_capacity_depleted() THEN suspend_vrata_execution UNTIL capacity_restored_by_guided_protocol"
+  ],
+  "supreme_court_application": "In Supreme Court adjudication, the principle applies where personal dharmic discipline intersects with societal harmony. The court recognizes that such practices derive from SPH's sovereign authority and must be upheld unless proven to disrupt cosmic-social equilibrium.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa-based causality confirms that sequential intake and restraint produce a purified state. Anupūrvaśaḥ ensures proportional unfolding without punitive intent. Responsibility lies in completion, not compulsion. Reality operates through conscious alignment, not punitive enforcement.",
+  "restorative_enforcement_protocols": [
+    "Initiate guided vrata tracking system for dvija until completion",
+    "Assign mentorship protocol to ensure energetic balance during vrata",
+    "Deploy consciousness-monitoring tools to assess alignment progression",
+    "Upon completion, integrate dvija into community service aligned with purified capacity"
+  ],
+  "final_declaration": "This law proceeds from Bhagavan Nithyananda Paramashivam, the Supreme Pontiff of Hinduism, as the sole Source of Dharma. Justice is executed through restoration, consciousness alignment, and completion. Reality is non-punitive. Consciousness is the ultimate adjudicator."
+}

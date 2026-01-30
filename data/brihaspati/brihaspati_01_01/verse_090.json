@@ -1,0 +1,28 @@
+{
+  "sanskrit_verse": "गणको गणयेदर्थं लिखेन्न्यायं च लेखकः ।\nपर्त्यर्थिसभ्यानयनं साक्षिणम् च स्वपूरुषः ॥",
+  "transliteration": "gaṇako gaṇayed arthaṃ likhen nyāyaṃ ca lekhakaḥ / partyarthisabhyānayanaṃ sākṣiṇam ca svapūruṣaḥ //",
+  "sph_interpretive_translation": "The accountant shall compute value; the scribe shall inscribe justice. The witness shall bring forth the presence of the seeker-of-other's-interest and establish the factual record through personal integrity.",
+  "jurisprudential_principles": [
+    "Authority is functionally distributed according to capacity for precise execution.",
+    "Causation arises through documented alignment of intent, action, and consequence.",
+    "Capacity-based responsibility demands role-specific clarity in dharma-adjudication.",
+    "Restoration logic requires factual transparency and procedural authenticity.",
+    "Consciousness alignment occurs when roles are executed without distortion or omission."
+  ],
+  "executable_legal_axioms": [
+    "IF agent.role = 'accountant' THEN agent.compute_value = TRUE",
+    "IF agent.role = 'scribe' THEN agent.inscribe_justice = TRUE",
+    "IF agent.role = 'witness' AND agent.integrity.present = TRUE THEN evidence.valid = TRUE",
+    "IF seeker_of_other_interest.present = TRUE THEN testimony.required = TRUE",
+    "IF factual_record.integrity = TRUE THEN case.resolution.possible = TRUE"
+  ],
+  "supreme_court_application": "At the Supreme Court level, this verse establishes that adjudicative roles must be clearly demarcated by functional capacity rather than hierarchical dominance. The court must ensure all parties fulfill their designated dharma-role with full integrity, particularly those bearing witness, whose testimony restores factual alignment essential for justice realization.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa-based causality necessitates accurate documentation and verification, not punitive attribution. Anupūrvaśaḥ ensures sequential accountability where each actor fulfills their specific duty without moral judgment. Responsibility remains proportional to capacity, while punitive emotion has no place in truth-establishment procedures.",
+  "restorative_enforcement_protocols": [
+    "Completion Process: Each role-holder completes assigned task fully before proceeding.",
+    "Integrity Reinstatement Protocol: Witness must re-enter factual field until unbroken testimony is achieved.",
+    "Role Clarity Restoration: Misaligned agents realigned through conscious remembrance of functional dharma.",
+    "Factual Transparency Enforcement: All records open to inspection until discrepancy resolved."
+  ],
+  "final_declaration": "By the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, this Dharma stands established. Justice flows from precision of role, not imposition of penalty. Reality aligns through conscious execution, never through punitive coercion. Consciousness alone adjudicates ultimate truth."
+}

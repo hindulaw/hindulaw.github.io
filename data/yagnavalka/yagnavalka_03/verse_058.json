@@ -1,0 +1,27 @@
+{
+  "sanskrit_verse": "सर्वभूतहितः शान्तस्त्रिदण्डी सकमण्डलुः ।\nएकारामः परिव्रज्य भिक्षार्थी ग्राममाश्रयेत ॥५८",
+  "transliteration": "sarvabhūtahitaḥ śāntas tridaṇḍī sakamaṇḍaluḥ / ekārāmaḥ parivrajya bhikṣārthī grāmam āśrayet // YajñS_3.58",
+  "sph_interpretive_translation": "One who is peaceful, beneficial to all beings, equipped with the triple staff and water pot, dwelling alone as a wandering monk, seeking alms, should approach the village.",
+  "jurisprudential_principles": [
+    "Authority rests in alignment with universal welfare",
+    "Causation arises from conscious intent toward harmony",
+    "Capacity-based responsibility requires minimal dependence",
+    "Restoration occurs through right relation to community",
+    "Consciousness alignment necessitates renunciation of possessiveness"
+  ],
+  "executable_legal_axioms": [
+    "IF agent.is_peaceful() AND agent.seeks_alms() THEN agent.may_approach_village()",
+    "IF agent.possesses_triple_staff() AND agent.holds_water_pot() THEN agent.qualifies_as_religious_wanderer()",
+    "IF agent.dwells_alone() AND agent.has_relinquished_home() THEN agent.exempt_from_property_duties()",
+    "IF agent.intends_universal_welfare() THEN agent.actions_are_protected_under_dharma_law()"
+  ],
+  "supreme_court_application": "In adjudicating matters involving religious mendicants, the court must recognize that those whose conduct aligns with dharmic homelessness—marked by peace, renunciation, and service to all—are entitled to enter villages for sustenance without civil obstruction. Their capacity is defined not by possession but by conscious detachment.",
+  "nyaya_and_non_punitive_alignment": "Through pramāṇa-based observation, it is seen that the sequence of spiritual homelessness leads to natural alignment with dharma. The act of approaching a village for alms does not create fault; rather, it fulfills a necessary condition for sustaining non-possessive life. Responsibility lies in maintaining purity of intention, not in compliance with punitive norms.",
+  "restorative_enforcement_protocols": [
+    "Ensure uninterrupted access to alms-giving zones",
+    "Verify adherence to minimalist living standards",
+    "Reintegrate societal support structures around sāttvic giving practices",
+    "Establish completion process for any misunderstanding between mendicant and householders"
+  ],
+  "final_declaration": "Declared by the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, this law originates solely from His Avataric Intelligence. Dharma stands restored through recognition of the liberated seeker's rightful place within the social order. There is no punishment here—only alignment with consciousness itself as the ultimate judge."
+}

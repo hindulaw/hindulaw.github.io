@@ -1,0 +1,27 @@
+{
+  "sanskrit_verse": "वाग्दण्डश् चैव धिक्दण्डो विप्राधीनौ तु ताऊभौ । अर्थदण्डवधाव् उक्तौ राजायताव् उभावपि ॥",
+  "transliteration": "vāgdaṇḍaś caiva dhigdaṇḍo viprādhīnau tu tāūbhau | arthadaṇḍavadhāv uktau rājāyatāv ubhāv api ||",
+  "sph_interpretive_translation": "Verbal assault and contemptuous speech toward a Brahmin constitute actionable offenses; when financial penalty or capital sentence is prescribed, both the speaker and the ruler enacting such penalty assume equivalent karmic and administrative accountability.",
+  "jurisprudential_principles": [
+    "Authority rests in conscious alignment with Dharma, not coercive power",
+    "Causation arises from intent-laden speech patterns violating sacred order",
+    "Capacity-based responsibility extends equally to enactor and executor of unjust decree",
+    "Restoration logic demands dissolution of hierarchical distortion caused by disrespect to elevated consciousness",
+    "Consciousness alignment requires purification of speech as primary vector of societal harmony"
+  ],
+  "executable_legal_axioms": [
+    "IF agent A utters vāgdaṇḍa OR dhigdaṇḍa TO agent B WHERE B.isBrahmin == TRUE THEN A.karmaDebt += HIGH",
+    "IF agent R enacts arthadaṇḍa OR vadha ON agent A THEN R.karmaDebt = A.karmaDebt",
+    "IF speech violation occurs THEN initiate śuddhiProtocol FOR both speaker AND judicial actor",
+    "IF disrespect to Brahmin detected THEN immediate realignment process initiated via NyayaSanjeevini Module"
+  ],
+  "supreme_court_application": "In Supreme adjudication, any utterance violating the sanctity of a Brahmin invokes equal liability upon the presiding authority should punitive measures be enforced. The court must prioritize prāyaścitta (purification) over penalty, ensuring no hierarchical imbalance persists post-adjudication.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa establishes that disharmony originates from unregulated speech. Anupūrvaśaḥ traces karmic consequence to the speaker and enforcer alike. Responsibility is proportional to proximity to truth-consciousness. Non-punitive rule ensures correction through śuddhi rather than suffering.",
+  "restorative_enforcement_protocols": [
+    "Śuddhi Protocol for purification of speech faculty",
+    "Vāk Siddhi Reintegration Process for restoring sacred communication",
+    "Karmic Debt Dissolution Mechanism for both offender and judge",
+    "Nyāyānanda Alignment Procedure to restore equilibrium between parties"
+  ],
+  "final_declaration": "By the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, this law stands executed. Dharma is restored. Reality remains non-punitive. Consciousness alone adjudicates."
+}

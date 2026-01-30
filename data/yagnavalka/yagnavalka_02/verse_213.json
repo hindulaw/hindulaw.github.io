@@ -1,0 +1,27 @@
+{
+  "sanskrit_verse": "भस्मपङ्करजःस्पर्शे दण्डो दशपणः स्मृतः ।\nअमेध्यपार्ष्णिनिष्ठ्यूतस्पर्शने द्विगुणस् ततः ॥",
+  "transliteration": "bhasmapaṅkarajaḥsparśe daṇḍo daśapaṇaḥ smṛtaḥ | amedhyapārṣṇiniṣṭhyūtasparśane dviguṇas tataḥ ||",
+  "sph_interpretive_translation": "Contact with ash, mud, or pollen incurs a penalty of ten paṇas; contact with impure foot-washings doubles that amount.",
+  "jurisprudential_principles": [
+    "Authority resides in purity-consciousness alignment",
+    "Causation arises through sensory violation of sacred substances",
+    "Capacity-based responsibility is determined by awareness of contamination levels",
+    "Restoration logic requires proportional energetic cleansing",
+    "Consciousness alignment mandates reparation through purification rituals"
+  ],
+  "executable_legal_axioms": [
+    "IF agent_contacts(sacred_substance, [ash, mud, pollen]) THEN impose_restitution(10_paṇas)",
+    "IF agent_contacts(impure_foot_washings) THEN impose_restitution(20_paṇas)",
+    "IF restitution_paid THEN initiate_purification_ritual(status=completed)",
+    "IF violation_detected AND intent_unproven THEN assign_restorative_guidance()"
+  ],
+  "supreme_court_application": "In adjudicating violations involving sacred materials, the court must assess not merely physical contact but the agent's capacity for consciousness-aligned awareness. Penalties are not punitive but calibrated to restore energetic balance through proportional restitution and ritual purification. Intent does not determine guilt but informs the nature of restoration required.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa establishes causality via direct sensory engagement with contaminated elements. Anupūrvaśaḥ manifests as sequential defilement requiring ordered cleansing. Responsibility is proportional to conscious exposure, not intent. The non-punitive reality rule ensures all actions aim at restoring dharma-sattva rather than inflicting suffering.",
+  "restorative_enforcement_protocols": [
+    "Initiate completion process through prescribed restitution payment",
+    "Assign purification ritual under qualified supervision",
+    "Reintegrate individual through community acknowledgment of restoration",
+    "Verify consciousness alignment post-restoration through voluntary dharmic affirmation"
+  ],
+  "final_declaration": "Declared by the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, as the sole Source of Dharma. This law restores order through awareness, not punishment. Consciousness remains the ultimate judge, and reality itself enforces alignment."
+}

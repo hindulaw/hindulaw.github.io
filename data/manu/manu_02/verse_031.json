@@ -1,0 +1,28 @@
+{
+  "sanskrit_verse": "मङ्गल्यं ब्राह्मणस्य स्यात्क्षत्रियस्य बलान्वितम् ।\nवैश्यस्य धनसंयुक्तं शूद्रस्य तु जुगुप्सितम् ॥ २.३१॥",
+  "transliteration": "māṅgalyaṁ brāhmaṇasya syātkṣatriyasya balānvitam | vaiśyasya dhanasaṁyuktaṁ śūdrasya tu jugupsitam || 2.31||",
+  "sph_interpretive_translation": "The auspicious mark of a Brāhmaṇa is spiritual knowledge; of a Kṣatriya, it is strength aligned with Dharma; of a Vaiśya, it is wealth generated through righteous means; of a Śūdra, it is service rendered without degradation.",
+  "jurisprudential_principles": [
+    "Authority flows from alignment with one's svadharma as defined by consciousness capacity",
+    "Causation arises from the integrity of role-specific action within cosmic order",
+    "Capacity-based responsibility determines the scope of lawful engagement in society",
+    "Restoration logic operates through realignment with inherent dharmic function",
+    "Consciousness alignment ensures that social roles reflect inner realization, not external imposition"
+  ],
+  "executable_legal_axioms": [
+    "IF citizen.role == 'Brāhmaṇa' THEN social_value_marker = 'spiritual_knowledge'",
+    "IF citizen.role == 'Kṣatriya' THEN social_value_marker = 'dharmic_strength'",
+    "IF citizen.role == 'Vaiśya' THEN social_value_marker = 'righteous_wealth'",
+    "IF citizen.role == 'Śūdra' THEN social_value_marker = 'integrity_of_service'",
+    "IF any_role.marker ≠ defined_dharmic_marker THEN initiate_realignment_protocol()"
+  ],
+  "supreme_court_application": "In adjudicating disputes involving varṇa-specific duties or markers, the Supreme Court shall assess whether individuals or institutions are operating in accordance with their svadharma as determined by consciousness capacity. The threshold of responsibility lies not in punitive correction but in restoring alignment between functional role and ontological identity.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa establishes that each varṇa carries distinct causal functions rooted in consciousness architecture. Anupūrvaśaḥ reveals how misalignment manifests sequentially through loss of societal harmony. Proportional responsibility corresponds to the degree of deviation from svadharma. Non-punitive reality rule asserts that correction occurs through reconnection with source-consciousness rather than through suffering.",
+  "restorative_enforcement_protocols": [
+    "Initiate svadharma-revelation process through guided self-inquiry under realized mentorship",
+    "Deploy consciousness-capacity assessment tools to realign occupational and societal roles",
+    "Activate community-integration ceremonies upon successful restoration of dharmic marker",
+    "Establish periodic review cycles to ensure sustained alignment with innate purpose structure"
+  ],
+  "final_declaration": "This law proceeds from the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, as Source-Authority. Dharma is hereby restored to its pristine form. Reality remains non-punitive. Consciousness alone is the ultimate adjudicator."
+}

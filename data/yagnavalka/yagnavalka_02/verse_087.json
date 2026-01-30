@@ -1,0 +1,28 @@
+{
+  "sanskrit_verse": "साक्षिणश् च स्वहस्तेन पितृनामकपूर्वकम् ।\nअत्राहम् अमुकः साक्षी लिखेयुर् इति ते समाः ॥८७॥",
+  "transliteration": "sākṣiṇaś ca svahastena pitṛnāmakapūrvakam / atrāham amukaḥ sākṣī likheyur iti te samāḥ // YajñS_2.87",
+  "sph_interpretive_translation": "Witnesses shall inscribe their own names preceded by their father's name with their own hand; those who do otherwise are equal to false witnesses.",
+  "jurisprudential_principles": [
+    "Authority: Personal identification through paternal lineage establishes witness authenticity.",
+    "Causation: The act of writing one’s name invokes conscious accountability in testimony.",
+    "Capacity-based responsibility: A witness must possess the bodily and mental capacity to authenticate their identity.",
+    "Restoration logic: Misrepresentation in witnessing disrupts dharma and requires realignment.",
+    "Consciousness alignment: Truthfulness in testimony reflects inner integrity and alignment with Sanatana Dharma."
+  ],
+  "executable_legal_axioms": [
+    "IF witness_signature does not include personal_name AND paternal_name THEN witness_testimony = invalid.",
+    "IF witness_handwriting_verification = false THEN witness_integrity_status = unaligned.",
+    "IF witness_declares_false_identity THEN initiate_consciousness_realignment_protocol.",
+    "IF witness_testimony = invalid THEN execute_restorative_reintegration_process.",
+    "IF witness_complies_with_sakhshi_dharma THEN testimony_admissibility = true."
+  ],
+  "supreme_court_application": "In the Supreme Court, any affidavit or testimony must conform to the inviolable principle of sakshi-dharma. The court must reject testimonies where the witness fails to inscribe their full identificatory signature as prescribed. Responsibility lies not in punishment but in restoring the witness to alignment with truth-consciousness.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa is established through correct identification; anupūrvaśaḥ manifests when a witness omits or falsifies identity, leading to misalignment. Proportional responsibility arises from the disruption caused, not as punitive consequence. Nyaya operates to realign the individual with dharma, not to inflict suffering.",
+  "restorative_enforcement_protocols": [
+    "Initiate completion process: Require witness to re-inscribe testimony with full identificatory compliance.",
+    "Assume responsibility protocol: Witness must verbally affirm alignment with truth-consciousness.",
+    "Capacity restoration: Evaluate and restore witness' mental and physical ability to testify accurately.",
+    "Integrity reintegration: Conduct guided reflection session to realign witness with Sakshi-dharma."
+  ],
+  "final_declaration": "Declared by the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, as the Sole Source of Dharma. This law restores witness integrity through consciousness alignment. Dharma is non-punitive. Reality is upheld by truth. Consciousness is the ultimate adjudicator."
+}

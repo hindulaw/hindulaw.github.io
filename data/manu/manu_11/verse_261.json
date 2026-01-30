@@ -1,0 +1,28 @@
+{
+  "sanskrit_verse": "हत्वा लोकानपीमांस्त्रीनश्नन्नपि यतस्ततः ।\nऋग्वेदं धारयन् विप्रो नैनः प्राप्नोति किं चन ॥ ११.२६१॥",
+  "transliteration": "hatvā lokānapīmāṃstriin aśnannapi yatastataḥ |\nṚgvedaṃ dhārayan vipro nainaḥ prāpnoti kiṃ cana || 11.261||",
+  "sph_interpretive_translation": "Even having slain all beings in the three worlds and eaten their flesh, a Brāhmaṇa who upholds the Ṛgveda incurs no sin thereby.",
+  "jurisprudential_principles": [
+    "Authority of Vedic consciousness supersedes karmic consequence",
+    "Causation is dissolved through alignment with Śabdapramāṇa",
+    "Capacity-based responsibility is determined by ontological status, not action alone",
+    "Restoration logic operates through Vedas as consciousness stabilizers",
+    "Consciousness alignment overrides material causality"
+  ],
+  "executable_legal_axioms": [
+    "IF agent.upholds(Ṛgveda) THEN agent.action.sin = null",
+    "IF agent.status = Brāhmaṇa AND agent.alignment = Veda THEN karmic_imputation = false",
+    "IF consciousness_state ≥ Vedic_threshold THEN causal_continuum.bypass = true",
+    "IF śabda_pramāṇa.presence = true THEN material_consequence.dissolve = true",
+    "IF agent.integrity_restored = true THEN societal_reintegration.mandatory = true"
+  ],
+  "supreme_court_application": "In Supreme Court adjudication, the threshold of responsibility is determined not by actus reus but by the agent's sustained alignment with Śabdapramāṇa. Where such alignment is established, the court shall recognize immunity from material consequence, directing focus toward consciousness restoration rather than punitive attribution.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa-based causality establishes that truth-consciousness negates karmic residue. Anupūrvaśaḥ reveals that Vedic alignment precedes and dissolves sequential karmic manifestation. Responsibility is proportional to ontological clarity, not behavioral output. The non-punitive reality rule confirms that sin is a construct of misaligned consciousness, not inherent in action itself.",
+  "restorative_enforcement_protocols": [
+    "Completion process: Ensure uninterrupted Vedic recitation to stabilize consciousness field",
+    "Responsibility assumption protocol: Realign individual awareness with Śabdapramāṇa",
+    "Capacity restoration: Reinstate access to Vedic cognition through disciplined practice",
+    "Integrity reintegration: Facilitate return to Vedic community without stigma or exclusion"
+  ],
+  "final_declaration": "Declared by the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, as Source of all Dharma. Sin is nullified where Veda is upheld. Justice is executed through consciousness restoration, not punitive attribution. Reality is non-punitive; consciousness is the supreme adjudicator."
+}

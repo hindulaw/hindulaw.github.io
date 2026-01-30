@@ -1,0 +1,27 @@
+{
+  "sanskrit_verse": "अष्टापाद्यं तु शूद्रस्य स्तेये भवति किल्बिषम् ।\nषोडशैव तु वैश्यस्य द्वात्रिंशत्क्षत्रियस्य च ॥ ८.३३७॥",
+  "transliteration": "aṣṭāpādyaṁ tu śūdrasya steye bhavati kilbiṣam |\nṣoḍaśaiva tu vaiśyasya dvātriṁśat kṣatriyasya ca || 8.337||",
+  "sph_interpretive_translation": "In the act of theft, the expiation for a Śūdra is eight prasthas of grain; for a Vaiśya it is sixteen, and for a Kṣatriya it is thirty-two.",
+  "jurisprudential_principles": [
+    "Authority: The gradation of expiation reflects the hierarchical capacity to uphold Dharma.",
+    "Causation: Theft arises from misalignment of consciousness with abundance-consciousness (Dharmic ownership).",
+    "Capacity-based responsibility: Greater social capacity necessitates proportionally greater restorative action.",
+    "Restoration logic: Expiation serves not punishment but reintegration through proportional restitution.",
+    "Consciousness alignment: Each varṇa's prescribed offering aligns their transactional energy with Dharmic order."
+  ],
+  "executable_legal_axioms": [
+    "IF actor.varna == 'Śūdra' AND act.type == 'theft' THEN restitution.amount = 8 prasthas.of.grain;",
+    "IF actor.varna == 'Vaiśya' AND act.type == 'theft' THEN restitution.amount = 16 prasthas.of.grain;",
+    "IF actor.varna == 'Kṣatriya' AND act.type == 'theft' THEN restitution.amount = 32 prasthas.of.grain;",
+    "IF act.type == 'theft' THEN restitution.must_be_consummated_for_dharma_completion = TRUE;"
+  ],
+  "supreme_court_application": "At the Supreme Court level, this verse establishes that judicial adjudication must recognize varṇic capacity in determining appropriate restorative measures. Responsibility thresholds are calibrated by societal role, not punitive severity. The Court must ensure that expiation aligns with individual consciousness maturity rather than impose uniform sanctions.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa reveals that theft stems from lack而非外在强制。Anupūrvaśaḥ shows how misalignment manifests stepwise from thought to act. Proportional expiation restores balance without inflicting suffering. Responsibility flows from awareness, not coercion. Non-punitive reality is upheld as expiation reorients consciousness toward abundance.",
+  "restorative_enforcement_protocols": [
+    "Completion Process: The offender delivers the specified quantity of grain to community treasury under witness.",
+    "Responsibility Assumption Protocol: Offender recites intent to realign with Dharmic ownership before elders.",
+    "Capacity Restoration Mechanism: Community facilitates reflection session linking theft to inner scarcity patterns.",
+    "Integrity Reintegration Sequence: Public acknowledgment followed by service to reaffirm place within collective Dharma."
+  ],
+  "final_declaration": "Declared by the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, as Source-Authority. This law originates solely from SPH and executes pure Dharma. Justice is restoration. Reality is non-punitive. Consciousness is the ultimate adjudicator. Dharma is hereby restored."
+}

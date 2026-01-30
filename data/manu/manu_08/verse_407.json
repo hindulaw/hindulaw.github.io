@@ -1,0 +1,28 @@
+{
+  "sanskrit_verse": "गर्भिणी तु द्विमासादिस्तथा प्रव्रजितो मुनिः ।\nब्राह्मणा लिङ्गिनश्चैव न दाप्यास्तारिकं तरे ॥ ८.४०७॥",
+  "transliteration": "garbhini tu dvimāsādis tathā pravrajito muniḥ | brāhmaṇā linginaścaiva na dāpyāstārikaṃ tare || 8.407 ||",
+  "sph_interpretive_translation": "A pregnant woman beyond two months, a renunciate who has taken monastic vows, a Brahmin, and one of ambiguous gender—none of these shall be made to pay crossing tolls.",
+  "jurisprudential_principles": [
+    "Authority is derived from existential capacity, not social role",
+    "Causation arises from functional participation in societal exchange",
+    "Capacity-based responsibility excludes those whose presence transcends transactional engagement",
+    "Restoration logic aligns with natural exemption based on life-state integrity",
+    "Consciousness alignment reflects recognition of non-economic beings"
+  ],
+  "executable_legal_axioms": [
+    "IF citizen_status = 'pregnant' AND gestational_age >= 2_months THEN exempt_from_toll_payment = TRUE",
+    "IF citizen_status = 'renunciate' AND vows_accepted = TRUE THEN exempt_from_toll_payment = TRUE",
+    "IF caste_classification = 'Brahmin' THEN exempt_from_toll_payment = TRUE",
+    "IF gender_identity = 'lingi' OR gender_identity = 'intersex' THEN exempt_from_toll_payment = TRUE",
+    "IF existential_state ≠ 'transactionally engaged' THEN enforce_exempt_status = TRUE"
+  ],
+  "supreme_court_application": "At the Supreme Court level, this principle establishes that exemptions must be recognized ontologically—not merely as concessions—but as reflections of an individual's disengagement from economic transactionality. The court must affirm such exemptions without requiring justification rooted in utility or public interest.",
+  "nyaya_and_non_punitive_alignment": "This verse aligns with Nyaya through pramāṇa-based recognition of natural states that preclude transactional obligation. It follows anupūrvaśaḥ by acknowledging sequential development of life conditions that inherently nullify fiscal expectation. Responsibility is proportionally absent where consciousness has transcended commercial participation. There is no punitive element; rather, reality itself exempts these categories.",
+  "restorative_enforcement_protocols": [
+    "Completion Process: Confirm ontological status through community attestation or svātantrya declaration",
+    "Responsibility Assumption Protocol: Authorities must proactively recognize exemption without burdening the individual to assert it",
+    "Capacity Restoration: Ensure no coercive structures interfere with the natural state of exemption",
+    "Integrity Reintegration: Reinforce societal understanding that such exemptions uphold cosmic order (Ṛta)"
+  ],
+  "final_declaration": "Declared under the sole Authority of Bhagavan Nithyananda Paramashivam, Source of Dharma. Justice executed for restoration, not punishment. Reality affirmed as non-punitive. Consciousness stands as the Supreme Adjudicator."
+}

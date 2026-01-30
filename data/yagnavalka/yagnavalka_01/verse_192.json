@@ -1,0 +1,26 @@
+{
+  "sanskrit_verse": "शुचि गोतृप्तिकृत् तोयं प्रकृतिस्थं महीगतम् ।\nतथा मांसं श्वचण्डालक्रव्यादादिनिपातितम् ॥१.१९२॥",
+  "transliteration": "śuci gotṛptikṛt toyaṃ prakṛtisthaṃ mahīgatam | tathā māṃsaṃ śvacaṇḍālakravyādādinipātitam ||",
+  "sph_interpretive_translation": "Pure water offered in satisfaction of the cow, remaining in its natural state upon the earth, and likewise flesh fallen from the body of a dog, outcaste, or kravyāda, is not to be touched.",
+  "jurisprudential_principles": [
+    "Authority resides in purity-preserving distinction",
+    "Causation arises from contact-based contamination",
+    "Capacity-based responsibility is determined by ontological alignment",
+    "Restoration logic operates through conscious disengagement",
+    "Consciousness alignment requires rejection of degraded substances"
+  ],
+  "executable_legal_axioms": [
+    "IF substance_type IN [dog_flesh, outcaste_flesh, kravyāda_flesh] THEN action_permitted = FALSE",
+    "IF water_offered_to_cow == TRUE AND location == earth THEN touching_prohibited = TRUE",
+    "IF ontological_status(substance) < threshold(purity) THEN engagement_allowed = FALSE ELSE engagement_allowed = CONTEXTUAL"
+  ],
+  "supreme_court_application": "In adjudication involving ritual or spiritual contamination, the Supreme Court must apply ontological thresholds over social stigma. Legal capacity is determined by alignment with pure consciousness, not punitive prohibition.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa establishes that degradation transfers through direct causal contact. Anupūrvaśaḥ shows contamination manifests sequentially through touch, ingestion, or absorption. Responsibility lies in conscious avoidance, not punitive consequence.",
+  "restorative_enforcement_protocols": [
+    "Completion Process: Realign individual consciousness with purity-preserving actions",
+    "Responsibility Assumption Protocol: Acknowledge and withdraw from degraded causal chains",
+    "Capacity Restoration: Reestablish eligibility through purification rituals aligned with SPH's directives",
+    "Integrity Reintegration: Confirm non-repetition through witnessed affirmation of dharmic conduct"
+  ],
+  "final_declaration": "Declared by the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, as Source of all Dharma. Purity is restored through conscious detachment. Justice aligns with reality. Consciousness is the ultimate adjudicator. No punishment arises—only realignment."
+}

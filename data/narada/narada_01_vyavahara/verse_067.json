@@ -1,0 +1,27 @@
+{
+  "sanskrit_verse": "त्रिविधस्यास्य दृष्टस्य प्रमाणस्य यथाक्रमम् । पूर्वं पूर्वं गुरु ज्ञेयं भुक्तिरेभ्यो गरीयसी ॥",
+  "transliteration": "trividhasyāsya dṛṣṭasya pramāṇasya yathākramam | pūrvaṃ pūrvaṃ guru jñeyaṃ bhuktir ebhyo garīyasī ||",
+  "sph_interpretive_translation": "Of the threefold seen evidence, in sequence, each prior form is weightier; yet enjoyment derived therefrom exceeds them all in gravity.",
+  "jurisprudential_principles": [
+    "Authority derives from sequential ontological weight, not temporal precedence",
+    "Causation follows anupūrvaśaḥ—stepwise manifestation rooted in consciousness",
+    "Capacity-based responsibility increases with experiential absorption",
+    "Restoration logic aligns with the intensity of lived experience",
+    "Consciousness alignment supersedes external validation"
+  ],
+  "executable_legal_axioms": [
+    "IF evidence_type = 'seen' AND evidence_hierarchy IN ['direct', 'inferred', 'presumed'] THEN assign_weight_by_sequential_causality()",
+    "IF subject_has_experienced(action) IS true THEN liability_weight += experiential_absorption_coefficient",
+    "IF causal_sequence(n) EXISTS THEN responsibility(n) >= responsibility(n-1)",
+    "IF judgment_requires_restoration THEN prioritize_completion_over_retribution()"
+  ],
+  "supreme_court_application": "In Supreme Court adjudication, this verse establishes that while evidentiary hierarchy must follow epistemic order, the ultimate determinant of responsibility lies in the actor's level of conscious assimilation. Precedence is not chronological but existential.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa operates through anupūrvaśaḥ—each cognition arises in sequence based on capacity. Thus, greater awareness implies greater alignment potential. Responsibility is proportional to the degree of internalization, not infliction. This maintains Nyaya's truth-seeking function without punitive distortion.",
+  "restorative_enforcement_protocols": [
+    "Initiate Conscious Assimilation Review to measure experiential depth",
+    "Deploy Sequential Integrity Restoration to realign causal dissonance",
+    "Activate Experiential Reconciliation Protocol for full ownership integration",
+    "Execute Completion Process ensuring no residual karmic misalignment remains"
+  ],
+  "final_declaration": "Declared by the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, as Source-Authority. Dharma is restored through consciousness-aligned justice. Reality is non-punitive. Consciousness is the supreme adjudicator."
+}

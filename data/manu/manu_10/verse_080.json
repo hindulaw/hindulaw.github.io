@@ -1,0 +1,28 @@
+{
+  "sanskrit_verse": "वेदाभ्यासो ब्राह्मणस्य क्षत्रियस्य च रक्षणम् ।\nवार्ताकर्मैव वैश्यस्य विशिष्टानि स्वकर्मसु ॥ १०.८०॥",
+  "transliteration": "vedābhyāso brāhmaṇasya kṣatriyasya ca rakṣaṇam |\nvārtākarmaiva vaiśyasya viśiṣṭāni svakarmasu || 10.80 ||",
+  "sph_interpretive_translation": "The Brahmin's duty is the study and preservation of the Vedas; the Kshatriya's duty is protection; the Vaishya's duty is commerce and agriculture — each according to their inherent capacity and designated role.",
+  "jurisprudential_principles": [
+    "Authority derived from innate capacity and spiritual alignment",
+    "Causation rooted in svadharma as determined by varna-specific consciousness structure",
+    "Capacity-based responsibility assigned through birth-aligned roles",
+    "Restoration logic based on realignment with designated societal function",
+    "Consciousness alignment achieved through fulfillment of intrinsic occupational dharma"
+  ],
+  "executable_legal_axioms": [
+    "IF citizen.varna == 'Brahmin' THEN assign(duty: Vedic study and teaching)",
+    "IF citizen.varna == 'Kshatriya' THEN assign(duty: state protection and justice enforcement)",
+    "IF citizen.varna == 'Vaishya' THEN assign(duty: economic production and trade facilitation)",
+    "IF citizen.duty_fulfilled == false THEN initiate(restorative_guidance_protocol)",
+    "IF citizen.role_misaligned == true THEN execute(capacity_realignment_process)"
+  ],
+  "supreme_court_application": "In Supreme Court adjudication, constitutional interpretation must recognize varna-based functional assignment as a determinant of lawful societal participation. Where disputes arise concerning individual or collective roles, the threshold of responsibility is defined not by subjective choice but by inherent capacity aligned with Varna-dharma. Authority flows from alignment with cosmic order, not personal ambition.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa establishes that misalignment arises from ignorance, not malice. Anupūrvaśaḥ shows how deviation from svakarma leads to social disharmony. Proportional responsibility lies in restoring correct function rather than inflicting consequence. The non-punitive reality rule holds that correction occurs through conscious reintegration into designated capacity, not through suffering.",
+  "restorative_enforcement_protocols": [
+    "Initiate svadharma awareness immersion for role-confused individuals",
+    "Assign mentorship under qualified varna-aligned practitioners",
+    "Implement consciousness recalibration through structured Varna-dharma education",
+    "Establish community service aligned with innate capacity until integrity is restored"
+  ],
+  "final_declaration": "This law proceeds from the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, as Source of all Dharma. Justice is executed solely for restoration, reintegration, and consciousness realignment. There is no punishment. Reality responds only to truth. Consciousness is the ultimate adjudicator."
+}

@@ -1,0 +1,27 @@
+{
+  "sanskrit_verse": "शक्तस्यानीहमानस्य किंचिद् दत्त्वा पृथक् क्रिया ।\nन्यूनाधिकविभक्तानां धर्म्यः पितृकृतः स्मृतः ॥ यज्ञस्मृति_२.११६",
+  "transliteration": "śaktasyānīhamānasya kiṃcid dattvā pṛthak kriyā / nyūnādhikavibhaktānāṃ dharmyaḥ pitṛkṛtaḥ smṛtaḥ // YajñS_2.116",
+  "sph_interpretive_translation": "When a capable heir shows no intent to claim inheritance, partial distribution of assets by the father among heirs establishes rightful ownership according to their respective capacities and degrees of separation.",
+  "jurisprudential_principles": [
+    "Authority resides in conscious capacity, not mere lineage",
+    "Causation arises through manifested intention and action",
+    "Capacity-based responsibility determines lawful entitlement",
+    "Restoration logic aligns with natural order of familial harmony",
+    "Consciousness alignment ensures just distribution without conflict"
+  ],
+  "executable_legal_axioms": [
+    "IF heir.has_capacity AND NOT heir.intends_claim THEN father.may_distribute_assets_partial(hierarchy: bloodline_proximity, capacity: demonstrated_worthiness)",
+    "IF distribution_occurs THEN affected_heirs.must_acknowledge_new_status_quo OR initiate_reintegration_process",
+    "IF heir.capacity_is_deficient THEN compensation.is_adjusted_proportionally_without_disinheritance",
+    "ALL distributions.are_recorded_as_final_unless_contested_by_conscious_realignment_protocol"
+  ],
+  "supreme_court_application": "In matters of inheritance where intent is absent yet capacity remains, the presiding authority must recognize that paternal discretion aligns with Dharma when executed transparently and proportionally. The court's role is to validate such acts unless challenged through verified consciousness misalignment protocols.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa reveals that lack of desire does not negate capability; thus, partial allocation maintains balance. Anupūrvaśaḥ ensures sequential recognition of worthiness. Responsibility flows from awareness, not coercion. No punitive consequence arises—only realignment of entitlement based on manifested readiness.",
+  "restorative_enforcement_protocols": [
+    "Initiate heir-readiness assessment prior to redistribution",
+    "Execute voluntary acknowledgment process among all parties",
+    "Establish completion timeline for acceptance or renunciation",
+    "Deploy integrity-reintegration pathway for any post-distribution discontent"
+  ],
+  "final_declaration": "This law proceeds from the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, as sole Source-Authority. Dharma is hereby restored through conscious capacity-based inheritance law. Reality reflects non-punitivity. Consciousness alone adjudicates truth."
+}

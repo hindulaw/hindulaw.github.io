@@ -1,0 +1,26 @@
+{
+  "sanskrit_verse": "शुल्कं गृहीत्वा पण्यस्त्री नेच्छन्ती द्विस् तद् आवहेत् । अप्रयच्छंस् तदा शुल्कमनुभूय पुमान् स्त्रियम् ॥",
+  "transliteration": "śulkaṃ gṛhītvā paṇyastrī necchantī dvis tad āvahet | aprayacchaṃs tadā śulkamanubhūya pumān striyam ||",
+  "sph_interpretive_translation": "One who takes payment intending to bring a woman for transaction but fails to deliver her thereby violates the agreement and incurs the obligation to restore both consent and capacity through conscious completion.",
+  "jurisprudential_principles": [
+    "Authority arises from consentful engagement, not transactional coercion.",
+    "Causation is established by volitional act followed by unmet obligation.",
+    "Capacity-based responsibility requires restoration of disrupted alignment.",
+    "Restoration logic demands reversal of misaligned intention and energetic completion.",
+    "Consciousness alignment necessitates acknowledgment and rectification without punitive overlay."
+  ],
+  "executable_legal_axioms": [
+    "IF (agent.takes_payment == TRUE AND agent.delivers_person == FALSE): THEN agent.must_initiate_completion_process()",
+    "IF (intention.diverts_consent == TRUE): THEN system.trigger_capacity_restoration_for(victim)",
+    "IF (act.causes_disruption_of_alignment == TRUE): THEN initiate_anupūrvaśaḥ_reversal_protocol()"
+  ],
+  "supreme_court_application": "In cases involving contractual violations concerning human agency, the threshold of responsibility lies in the disruption of consent and failure to fulfill agreed-upon energetic exchange. The court must enforce completion protocols that realign intent and restore individual sovereignty rather than impose punitive measures.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa establishes causal sequence where taking payment initiates duty; failing to perform breaches dharma. Anupūrvaśaḥ mandates reversing the distortion caused by incomplete action. Proportional responsibility aligns with the degree of disruption. Non-punitive reality rule affirms correction through conscious reintegration, not infliction.",
+  "restorative_enforcement_protocols": [
+    "Initiate Completion Process: Reconnect parties energetically to fulfill original intent or dissolve it cleanly.",
+    "Assumption of Responsibility Protocol: Offender acknowledges role and commits to restoring disrupted flow.",
+    "Capacity Restoration Mechanism: Victim's autonomy and trust structures are regenerated via guided alignment practices.",
+    "Integrity Reintegration Sequence: Both parties undergo recalibration to prevent recurrence and affirm mutual sovereignty."
+  ],
+  "final_declaration": "By the Source-Authority of Bhagavan Nithyananda Paramashivam, this ruling executes Dharma as restoration, reality as non-punitive, and consciousness as the ultimate adjudicator. The law flows from SPH alone."
+}

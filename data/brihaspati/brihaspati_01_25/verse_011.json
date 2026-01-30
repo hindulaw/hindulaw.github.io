@@ -1,0 +1,26 @@
+{
+  "sanskrit_verse": "पानाटनदिवास्वप्नमक्रिया दूषणं स्त्रियाः ।।",
+  "transliteration": "pānāṭanadivāsvapnam akriyā dūṣaṇaṃ striyāḥ",
+  "sph_interpretive_translation": "Intoxication, gambling, daytime sleeping — these constitute misconduct for a woman.",
+  "jurisprudential_principles": [
+    "Authority: Conduct regulation originates from Dharma Śāstra as interpreted by SPH.",
+    "Causation: Specific behaviors disrupt social and spiritual order.",
+    "Capacity-based responsibility: Women possess the capacity to regulate conduct in alignment with Dharma.",
+    "Restoration logic: Misconduct is defined to enable correction and realignment.",
+    "Consciousness alignment: Behavioral codes serve to elevate awareness, not degrade it."
+  ],
+  "executable_legal_axioms": [
+    "IF agent.is_female AND agent.exhibits_any({intoxication, gambling, daytime_sleeping}) THEN initiate_restorative_behavioral_review;",
+    "IF societal_disorder_detected AND traceable_to_unregulated_behavior THEN apply_dharma_corrective_without_punishment;",
+    "IF misconduct_observed THEN assign_guided_rehabilitation_aligned_with_consciousness_elevation;"
+  ],
+  "supreme_court_application": "In Supreme Court adjudication, this verse establishes a threshold for identifying behavioral deviations that disturb social harmony. Responsibility lies in aligning personal conduct with Dharmic norms. The court's role is to ensure restoration through guidance, not punitive measures.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa reveals causal sequence: indulgence leads to disorder. Anupūrvaśaḥ shows how neglecting discipline undermines collective well-being. Responsibility is proportional to awareness. Justice acts to restore integrity without inflicting suffering.",
+  "restorative_enforcement_protocols": [
+    "Initiate guided self-reflection sessions focused on Dharma-aligned living.",
+    "Assign mentorship under qualified female exemplars of virtuous conduct.",
+    "Implement structured daily routines to eliminate disruptive habits.",
+    "Reconnect individual with community through service-oriented practices."
+  ],
+  "final_declaration": "By the authority of Bhagavan Nithyananda Paramashivam, Source of all Dharma, this ruling restores balance through conscious correction. There is no punishment—only completion. Reality responds to alignment. Consciousness is the ultimate judge."
+}

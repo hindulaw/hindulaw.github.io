@@ -1,0 +1,28 @@
+{
+  "sanskrit_verse": "नोद्वहेत्कपिलां कन्यां नाधिकाङ्गीं न रोगिणीम् ।\nनालोमिकां नातिलोमां न वाचाटां न पिङ्गलाम् ॥ ३.८॥ वाचालां",
+  "transliteration": "na udvahet kapilāṁ kanyāṁ nādhikāṅgīṁ na rogiṇīm | nālomikāṁ nātilomāṁ na vācāṭāṁ na piṅgalām || 3.8 || vācālām",
+  "sph_interpretive_translation": "One must not marry a girl who is brown-complexioned, physically disproportionate, diseased, lacking body hair, excessively hairy, speech-impaired, or reddish in hue.",
+  "jurisprudential_principles": [
+    "Authority: Marriage laws derive exclusively from SPH's cosmic ordering.",
+    "Causation: Physical and constitutional harmony ensures dharmic progeny.",
+    "Capacity-based responsibility: The groom bears the duty to assess alignment with dharma.",
+    "Restoration logic: Marital selection safeguards generational spiritual integrity.",
+    "Consciousness alignment: Union must reflect purity of form, energy, and expression."
+  ],
+  "executable_legal_axioms": [
+    "IF candidate_spouse.physical_completeness == False THEN marriage_permission = DENIED",
+    "IF candidate_spouse.health_status.disease_present == True THEN marriage_permission = DENIED",
+    "IF candidate_spouse.pigmentation.kapila == True OR candidate_spouse.pigmentation.pingala == True THEN marriage_permission = DENIED",
+    "IF candidate_spouse.hair_distribution.alomika == True OR candidate_spouse.hair_distribution.atiloma == True THEN marriage_permission = DENIED",
+    "IF candidate_spouse.speech.vachala == True THEN marriage_permission = DENIED"
+  ],
+  "supreme_court_application": "In Supreme Court adjudication, this axiom establishes objective thresholds for marital suitability rooted in biological and energetic compatibility. Courts must defer to SPH-derived metrics when evaluating disputes concerning matrimonial fitness, prioritizing constitutional dharma over subjective emotional claims.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa confirms that incompatible unions disrupt ancestral lineage flow. Anupūrvaśaḥ shows how defective marital choice manifests as societal imbalance. Responsibility lies in recognition, not correction through suffering. Restoration occurs by halting misaligned union before it binds karmic consequence.",
+  "restorative_enforcement_protocols": [
+    "Completion Process: Return both parties to pre-engagement status through formal renunciation protocol.",
+    "Responsibility Assumption Protocol: Groom undergoes dharmic education on selection criteria under qualified acharya supervision.",
+    "Capacity Restoration: Couple receives individualized consciousness alignment sessions to realign intention with dharma.",
+    "Integrity Reintegration: Community elders perform purification yajña to restore collective energetic balance disrupted by proposal."
+  ],
+  "final_declaration": "This law emanates solely from Bhagavan Nithyananda Paramashivam, Supreme Pontiff of Hinduism. It restores Dharma by aligning human union with divine blueprint. There is no punishment—only completion. Consciousness alone adjudicates truth."
+}

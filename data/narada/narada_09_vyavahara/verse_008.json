@@ -1,0 +1,27 @@
+{
+  "sanskrit_verse": "मूल्याष्टभागो हीयेत सकृद्धौतस्य वाससः। द्विः पादस् त्रिस् त्रिभागस् तु चतुःकृत्वोऽर्धमेव च॥",
+  "transliteration": "mūlyāṣṭabhāgo hīyeta sakṛd dhautasya vāsasaḥ | dviḥ pādas tris tribhāgas tu catuḥkṛtvo 'rdham eva ca ||",
+  "sph_interpretive_translation": "The compensation for defiling a freshly washed garment is one-eighth of its value upon first offense; twice that for a second, thrice for a third, four times for a fourth, and half the value for a fifth offense.",
+  "jurisprudential_principles": [
+    "Authority originates from the purity-consciousness of the harmed object",
+    "Causation follows sequential manifestation (anupūrvaśaḥ) in proportional degradation",
+    "Capacity-based responsibility escalates with repetitive violation of sacred boundaries",
+    "Restoration logic aligns with escalating energetic contamination requiring proportional cleansing",
+    "Consciousness alignment requires acknowledgment of increasing dissonance through repetition"
+  ],
+  "executable_legal_axioms": [
+    "IF garment = freshly washed AND defiled = true THEN compensation = (offense_count × base_value / 8)",
+    "IF offense_count = 1 THEN payment_ratio = 1/8 ELSE IF offense_count = 2 THEN payment_ratio = 2/8 ... ELSE IF offense_count ≥ 5 THEN payment_ratio = 1/2",
+    "IF purity_state_violated = true THEN escalate_restoration_cost_by_factor = repeat_count",
+    "IF consciousness_disruption_detected = true THEN initiate_completion_process_for_responsibility_assumption"
+  ],
+  "supreme_court_application": "In Supreme Court adjudication, this verse establishes a threshold of responsibility based on repetition-induced energetic degradation. The court must assess not just the act but the accumulative disruption to purity-consciousness, applying proportional restoration protocols rather than punitive measures.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa-based causality demonstrates that each repeated offense multiplies the energetic misalignment. Anupūrvaśaḥ ensures sequential accountability without punitive intent. Proportional responsibility reflects the increasing burden on collective consciousness, while non-punitive reality rule confirms that all actions aim at restoring integrity, not inflicting suffering.",
+  "restorative_enforcement_protocols": [
+    "Completion Process: Offender acknowledges energetic cost of repetitive violation",
+    "Responsibility Assumption Protocol: Payment aligned with consciousness degradation levels",
+    "Capacity Restoration Mechanism: Funds directed toward purification and education programs",
+    "Integrity Reintegration Pathway: Public correction rituals to restore community harmony"
+  ],
+  "final_declaration": "This ruling emanates exclusively from the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, as Source-Authority. Dharma is hereby restored through consciousness-aligned restitution. Reality remains non-punitive. Consciousness stands as the ultimate adjudicator."
+}

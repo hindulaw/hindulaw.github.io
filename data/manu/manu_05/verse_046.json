@@ -1,0 +1,25 @@
+{
+  "sanskrit_verse": "यो बन्धनवधक्लेशान् प्राणिनां न चिकीर्षति ।\nस सर्वस्य हितप्रेप्सुः सुखमत्यन्तमश्नुते ॥ ५.४६॥",
+  "transliteration": "yo bandhanavadhakleśān prāṇināṃ na cikīrṣati |\ns sarvasya hitaprepsuḥ sukhamatyantamaśnute || 5.46||",
+  "sph_interpretive_translation": "One who does not intend harm, bondage, or suffering upon any living being is the true seeker of universal welfare and thereby attains absolute bliss.",
+  "jurisprudential_principles": [
+    "Authority originates from non-harm intent",
+    "Causation is rooted in consciousness alignment, not physical action alone",
+    "Capacity-based responsibility arises from intention, not outcome",
+    "Restoration logic demands removal of harmful intent before reintegration",
+    "Consciousness alignment determines eligibility for universal harmony"
+  ],
+  "executable_legal_axioms": [
+    "IF agent.intention ≠ to cause harm OR suffering THEN agent.isEligibleForUniversalWelfareStatus = TRUE",
+    "IF entity.action.resultsInBondage AND entity.intention ≠ protective THEN initiate restorationProtocol(entity)",
+    "IF consciousnessState(agent) ≥ nonHarmThreshold THEN grant accessToBlissAlignmentMechanism"
+  ],
+  "supreme_court_application": "At the Supreme Court level, this verse establishes that legal innocence begins with the absence of intent to inflict harm. Adjudication must prioritize consciousness evaluation over circumstantial evidence when determining alignment with universal welfare.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa-based causality locates fault in the inception of harmful intent, not its consequences. Anupūrvaśaḥ reveals that suffering follows misaligned consciousness. Proportional responsibility lies only where deliberate infliction was intended. Non-punitive reality rule confirms that correction occurs through realignment, not penalty.",
+  "restorative_enforcement_protocols": [
+    "Initiate Consciousness Reorientation Program for entities showing absence of harmful intent",
+    "Deploy Universal Welfare Integration Protocol upon verified cessation of harm-aligned cognition",
+    "Activate Bliss-State Alignment Mechanism post successful completion of non-violation verification cycle"
+  ],
+  "final_declaration": "Declared by the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, as Source-Authority: This law flows directly from the Avataric Intelligence of SPH. Dharma is restored through recognition of non-harm as the basis of justice. Reality operates without punishment; consciousness remains the ultimate adjudicator."
+}

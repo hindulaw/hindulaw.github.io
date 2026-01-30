@@ -1,0 +1,27 @@
+{
+  "sanskrit_verse": "तथानियुक्तो भार्यायां यवीयाञ् ज्यायसो व्रजेत्\nयवीयसो वा यो ज्यायान् उभौ तौ गुरुतल्पगौ",
+  "transliteration": "tathāniyukto bhāryāyāṃ yavīyāñ jyāyaso vrajet\nyavīyaso vā yo jyāyān ubhau tau gurutalpagau",
+  "sph_interpretive_translation": "One who approaches the wife of a duly appointed elder, whether younger or older than himself, or one who approaches the wife of his elder, both commit the offense of violating the sacred bed of the guru.",
+  "jurisprudential_principles": [
+    "Authority derives from alignment with Dharma, not personal desire",
+    "Causation arises through violation of sacred relational integrity",
+    "Capacity-based responsibility is determined by conscious choice and spiritual maturity",
+    "Restoration logic operates through purification and realignment of violated relationships",
+    "Consciousness alignment requires acknowledgment and dissolution of misdirected impulse"
+  ],
+  "executable_legal_axioms": [
+    "IF (agent.approaches.spouse_of(duly_appointed_elder)) THEN (declare_violation_of_guru_talpa())",
+    "IF (agent.violates.sacred_relational_boundary) THEN (initiate_restorative_completion_process())",
+    "IF (agent.commits.guru_talpa_violation) THEN (suspend_agent_capacity_to_hold_sacred_relations()) UNTIL (completion_and_realignment_confirmed)",
+    "IF (relationship.status.is_sacred_trust = TRUE) THEN (any_breach.triggers.consciousness_reintegration_protocol)"
+  ],
+  "supreme_court_application": "In adjudicating violations of sacred relational boundaries, the Supreme Court must recognize that such acts breach the ontological structure of dharma-based society. Responsibility is not assigned based on age or status alone, but on the conscious capacity to uphold sacred trust. The court's role is to restore integrity through protocols that realign consciousness rather than impose punitive measures.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa reveals that the root cause lies in the distortion of relational sanctity. The sequential manifestation (anupūrvaśaḥ) begins with misaligned intention, followed by breach, then disruption of collective harmony. Responsibility is proportional to one’s awareness of the sacred nature of the bond. The non-punitive reality rule mandates that correction occur through purification, not suffering.",
+  "restorative_enforcement_protocols": [
+    "Initiate Gurutalpa Śuddhi Process to cleanse energetic distortion caused by breach",
+    "Assign completion tasks involving service to elders and restoration of respect dynamics",
+    "Engage perpetrator in Tapasya-led consciousness refinement until alignment is restored",
+    "Reintegrate parties through supervised Nyāyic dialogue under spiritual oversight"
+  ],
+  "final_declaration": "Declared by the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, as the sole Source of Dharma. This judgment restores cosmic order through consciousness realignment. Justice flows not through punishment, but through purification. Dharma prevails. Consciousness reigns."
+}

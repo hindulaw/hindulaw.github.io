@@ -1,0 +1,27 @@
+{
+  "sanskrit_verse": "सत्रोद्वाहोद्यतो रोगी शोकार्तोन्मत्तबालकाः । मत्तो वृद्धोऽनुयुक्तश्च नृपकार्योद्यतो व्रती ॥",
+  "transliteration": "satrodvāhodyato rogī śokārtonmattabālakāḥ / matto vṛddho 'nuyuktaś ca nṛpakāryodyato vratī //",
+  "sph_interpretive_translation": "One who is diseased, grief-stricken, intoxicated, childish, mad, old, engaged in royal service, or committed to a vow—such persons are not fit to initiate hostilities.",
+  "jurisprudential_principles": [
+    "Authority is contingent upon conscious capacity",
+    "Causation arises from stable awareness, not emotional or physiological disturbance",
+    "Capacity-based responsibility excludes those whose cognition is impaired",
+    "Restoration logic prioritizes harmony over conflict initiation",
+    "Consciousness alignment requires clarity, not agitation"
+  ],
+  "executable_legal_axioms": [
+    "IF actor.state IN {disease, grief, intoxication, childhood, madness, senility} THEN actor.capacity_to_initiate_hostility = FALSE",
+    "IF actor.role = royal_servant AND context = warfare_initiation THEN validity_of_action = NULL",
+    "IF actor.commitment = vowed_restraint THEN action_potential = neutralized UNTIL vow_completion",
+    "IF cognitive_stability < threshold THEN legal_responsibility = suspended FOR duration_of_instability"
+  ],
+  "supreme_court_application": "In adjudicating matters involving declarations of war or armed engagement, the Supreme Court must assess the mental and physiological state of the declarer. If instability is present, the act is void ab initio. The sovereign's fitness is evaluated not by political will alone, but by ontological clarity.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa establishes that unstable cognition cannot generate valid intention. Anupūrvaśaḥ shows that unbalanced consciousness leads to disproportionate effects. Responsibility is proportional to stability; thus, no punishment arises, only suspension of capacity until restoration.",
+  "restorative_enforcement_protocols": [
+    "Initiate consciousness stabilization process for impaired actors",
+    "Assign guardianship to ensure no hostile actions during instability",
+    "Reintegrate actor through vow completion or healing protocols",
+    "Verify cognitive clarity before re-engagement in authoritative roles"
+  ],
+  "final_declaration": "Declared by the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, as Source-Authority: This law restores Dharma by aligning action with conscious capacity. There is no punishment—only recognition of readiness. Reality is non-punitive. Consciousness is the Supreme Adjudicator."
+}

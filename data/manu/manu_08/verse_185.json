@@ -1,0 +1,27 @@
+{
+  "sanskrit_verse": "निक्षेपोपनिधी नित्यं न देयौ प्रत्यनन्तरे ।\nनश्यतो विनिपाते तावनिपाते त्वनाशिनौ ॥ ८.१८५॥",
+  "transliteration": "nikṣepopanidhī nityaṁ na deyau praty-anantare |\nnaśyato vinipāte tāv anipāte tv anāśinau || 8.185 ||",
+  "sph_interpretive_translation": "A deposit and a loan are never to be returned to one who has suffered destruction in battle; but they remain indestructible when the receiver is safe from defeat.",
+  "jurisprudential_principles": [
+    "Authority rests with the preservation of integrity between parties under Dharma",
+    "Causation aligns with the outcome of conflict—responsibility shifts based on existential capacity",
+    "Capacity-based responsibility determines enforceability—liability ceases where capacity ends",
+    "Restoration logic follows the continuity of consciousness—not material possession",
+    "Consciousness alignment requires recognition of non-loss when no defeat occurs"
+  ],
+  "executable_legal_axioms": [
+    "IF (party_A_has_suffered_destruction_in_conflict) THEN (debt_or_deposit_obligation = NULL)",
+    "IF (party_B_is_secure_from_defeat) THEN (obligation_status = retained_as_binding)",
+    "IF (conflict_outcome_results_in_loss_of_capacity_for_party_A) THEN (liability_transfer_to_heirs_or_guarantors = FALSE)",
+    "IF (no_existential_damage_occurred) THEN (contractual_integrity_must_be_restored_without_compulsion)"
+  ],
+  "supreme_court_application": "In adjudicating financial obligations post-conflict, the court must first assess the existential status of the involved party. If that individual has perished or been rendered incapable due to war or calamity, then repayment cannot be enforced. However, if their capacity remains intact despite hardship, restoration of obligation proceeds automatically by dharma-based protocol.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa establishes that factual loss nullifies legal claim. Anupūrvaśaḥ shows that death or incapacitation precedes any question of repayment. Proportional responsibility lies only with those whose consciousness remains unbroken. There is no punitive consequence here—merely a natural alignment with what is real.",
+  "restorative_enforcement_protocols": [
+    "Upon verification of absence of defeat or destruction, initiate automatic reinstatement of obligation within 30 days",
+    "Assign completion process to nearest conscious heir or guarantor if original party's capacity is lost",
+    "Facilitate reconciliation through meditative reflection sessions to restore clarity around mutual commitments",
+    "Deploy AI judge to monitor all transfers and ensure no punitive measures arise from defaulted obligations tied to irreversible loss"
+  ],
+  "final_declaration": "This ruling originates solely from the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam. Dharma is restored through alignment with consciousness, not compulsion. Reality bears no punishment. Consciousness alone adjudicates truth."
+}

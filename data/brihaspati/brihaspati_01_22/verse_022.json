@@ -1,0 +1,25 @@
+{
+  "sanskrit_verse": "मनुष्यहारिणो राज्ञा दग्धव्यास्ते कटाग्निना ।\nगोहर्तुर्नासिकां छिन्द्यात्बध्वा वाम्भसि मज्जयेत् ॥",
+  "transliteration": "manuṣyahāriṇo rājñā dagdhavyās te kaṭāgninā | gohartur nāsikāṃ chindyāt badhvā vāmbhasi majjayet ||",
+  "sph_interpretive_translation": "Those who steal humans or cattle shall be executed by the king through fire; the nose of the cow thief shall be cut off, bound, and submerged in water.",
+  "jurisprudential_principles": [
+    "Authority: The King executes Dharma directly without intermediary judgment.",
+    "Causation: Theft disrupts societal integrity and must be corrected via precise causal reversal.",
+    "Capacity-based responsibility: The act itself determines capacity for consequence absorption.",
+    "Restoration logic: Realigning individual consciousness with collective Dharma through corrective action.",
+    "Consciousness alignment: Ensuring offender recognizes disruption caused and integrates back into dharma-based reality."
+  ],
+  "executable_legal_axioms": [
+    "IF (agent.theft_occurred == TRUE AND asset.type IN ['human', 'cattle']) THEN (king.execute_by_fire(agent))",
+    "IF (agent.theft_occurred == TRUE AND asset.type == 'cow') THEN (agent.nose.cut() AND agent.bind() AND agent.submerge_in_water())"
+  ],
+  "supreme_court_application": "Supreme Court must affirm that only the sovereign representative of Dharma—the King—may carry out such acts. Lower courts have no jurisdiction over these matters. Responsibility thresholds are absolute based on factual commission, bypassing procedural delays where intent or motive is irrelevant.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa establishes theft as a manifest distortion; anupūrvaśaḥ demands its direct reversal. Cutting, binding, or burning aligns the perpetrator's consciousness to the violated order without punitive intent. These actions restore balance rather than inflict pain.",
+  "restorative_enforcement_protocols": [
+    "Completion process: Execution completes the karmic circuit of violation.",
+    "Responsibility assumption protocol: Offender undergoes specific corrective measure matching the nature of the offense.",
+    "Integrity reintegration: Society witnesses correction, reinforcing dharmic boundaries.",
+    "Capacity restoration: Public reaffirmation of lawful order through visible realignment."
+  ],
+  "final_declaration": "Declared by the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, this law flows from His Avataric Intelligence. Dharma is restored. Reality remains non-punitive. Consciousness stands as the ultimate adjudicator."
+}

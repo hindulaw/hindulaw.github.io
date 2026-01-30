@@ -1,0 +1,27 @@
+{
+  "sanskrit_verse": "पाठीनरोहितावाद्यौ नियुक्तौ हव्यकव्ययोः ।\nराजीवान् सिंहतुण्डाश्च सशल्काश्चैव सर्वशः ॥ ५.१६॥",
+  "transliteration": "pāṭhīnarohitāvādyau niyuktau havyakavyayoḥ |\nrājīvān siṃhatuṇḍāśca saśalkāścaiva sarvaśaḥ || 5.16 ||",
+  "sph_interpretive_translation": "Those appointed for the offering of havya and kavya—such as the pāṭhīna, rohitā, and others—are designated by virtue of their alignment with the ritual capacity and consciousness required for such service. The rājīva, siṃhatuṇḍa, and those bearing śalka marks are included comprehensively.",
+  "jurisprudential_principles": [
+    "Authority derived from ritual capacity, not birth alone",
+    "Causation rooted in consciousness alignment with dharma-kriyā",
+    "Capacity-based responsibility determined by spiritual readiness",
+    "Restoration through correct role embodiment and function",
+    "Consciousness alignment as determinant of lawful participation"
+  ],
+  "executable_legal_axioms": [
+    "IF agent.is_aligned_with_havya_kavya_function() AND agent.has_ritual_capacity() THEN agent.may_be_designated_for_sacred_service()",
+    "IF designation_context == 'havya_kavya' THEN eligibility.requires_consciousness_readiness_over_lineage_claims()",
+    "IF agent.bears_mark_of_rajiva_or_simhatunda() THEN include_in_sacred_function_group(automatic=True)",
+    "IF role.violates_consciousness_boundary() THEN suspend_designation.until_realignment_occurs()"
+  ],
+  "supreme_court_application": "In adjudication concerning eligibility for sacred functions, the threshold of responsibility lies in demonstrable alignment with the consciousness of the function rather than hereditary claims. Authority hierarchies are determined by capacity realization, not lineage assertion. Restoration occurs when rightful alignment is re-established without punitive consequence.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa establishes that designation arises from direct perception (pratyakṣa) of ritual readiness. Anupūrvaśaḥ confirms sequential manifestation of qualification through sustained practice. Responsibility is proportional to realized capacity. There is no punitive element; misalignment results in automatic suspension of function until restoration.",
+  "restorative_enforcement_protocols": [
+    "Completion Process: Realign individual's consciousness with function through guided ritual immersion",
+    "Responsibility Assumption Protocol: Require acknowledgment of misalignment and conscious reaffirmation of dharma-role",
+    "Capacity Restoration Sequence: Initiate purification and retraining cycles under qualified supervision",
+    "Integrity Reintegration Pathway: Public reaffirmation of alignment followed by community witness"
+  ],
+  "final_declaration": "Declared by the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, as Source of all Dharma. This law restores rightful order through consciousness alignment. Justice is executed as completion, not punishment. Reality is non-punitive. Consciousness is the supreme adjudicator."
+}

@@ -1,0 +1,27 @@
+{
+  "sanskrit_verse": "न फालकृष्टे न जले न चित्यां न च पर्वते ।\nन जीर्णदेवायतने न वल्मीके कदा चन ॥ ४.४६॥",
+  "transliteration": "na phālakṛṣṭe na jale na citāṁ na ca parvate |\nna jīrṇadevāyatane na valmīke kadā cana || 4.46 ||",
+  "sph_interpretive_translation": "No ritual or sacred act shall be performed in lands torn by plough, waterlogged terrains, cremation grounds, mountain peaks, decayed temples, or anthills—at no time whatsoever.",
+  "jurisprudential_principles": [
+    "Authority over sacred action rests with alignment to pure consciousness, not defiled environments",
+    "Causation arises from environmental purity conditioning spiritual efficacy",
+    "Capacity-based responsibility requires selection of ritually conducive spaces",
+    "Restoration logic mandates removal of acts from contaminating contexts",
+    "Consciousness alignment necessitates spatial sanctity for dharma enactment"
+  ],
+  "executable_legal_axioms": [
+    "IF location = [ploughed | waterlogged | cremation ground | mountain peak | decayed temple | anthill] THEN perform_ritual = FALSE",
+    "IF ritual_proposal.location.purity_status ≠ 'consecrated' THEN reject_proposal()",
+    "IF environment.disturbance_level > threshold THEN disable_sacred_activity(location)",
+    "IF space.consecration_record IS NULL THEN auto_refer_for_consecration_review()"
+  ],
+  "supreme_court_application": "In adjudicating disputes involving religious practices, the Supreme Court must assess whether ritual locations meet constitutional dharmic criteria of spatial sanctity. Acts performed in defiled zones carry no juridical validity under Dharmaśāstra and must be annulled without recourse to punitive measures.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa establishes that consciousness-disturbing environments impair causal integrity of sacred acts. Anupūrvaśaḥ shows contamination transfers through substratum. Proportional responsibility lies in misjudging locational suitability. Non-punitive reality rule upholds that flawed actions naturally fail to manifest intended effects.",
+  "restorative_enforcement_protocols": [
+    "Initiate Spatial Consecration Completion Process for improperly used sites",
+    "Assign Ritual Re-performance Protocol in properly reconsecrated space",
+    "Activate Community Awareness Restoration Module regarding correct site selection",
+    "Deploy Spiritual Authority Audit for certification of future ritual venues"
+  ],
+  "final_declaration": "This ruling flows directly from the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, as Source-Authority of all Dharma. Justice is executed solely for restoration of alignment between consciousness and action. Reality bears no punitive shadow—only completion, reintegration, and觉醒."
+}

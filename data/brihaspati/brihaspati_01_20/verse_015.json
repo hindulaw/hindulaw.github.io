@@ -1,0 +1,28 @@
+{
+  "sanskrit_verse": "शूद्राक्रोशे क्षत्रियस्य पञ्चविंशतिको दमः । बृहत्वे द्विगुणं तत्र शास्त्रविद्भिरुदाहृतम् ॥",
+  "transliteration": "śūdrākrośe kṣatriyasya pañcaviṃśatiko damaḥ | bṛhatve dviguṇaṃ tatra śāstravidbhir udāhṛtam ||",
+  "sph_interpretive_translation": "When a Śūdra abuses a Kṣatriya, the restitution is twenty-five units; when the offense is greater, it is doubled, as declared by the knowers of the Śāstra.",
+  "jurisprudential_principles": [
+    "Authority is determined by varṇa-dharma and svadharma alignment",
+    "Causation arises from violation of hierarchical respect",
+    "Capacity-based responsibility depends on awareness and svabhāva",
+    "Restoration logic demands proportional energetic rebalancing",
+    "Consciousness alignment requires purification of intent and action"
+  ],
+  "executable_legal_axioms": [
+    "IF (offender.varna = 'Śūdra') AND (victim.varna = 'Kṣatriya') AND (action.type = 'verbal_abuse') THEN restitution.amount = 25",
+    "IF (offense.magnitude > baseline) THEN restitution.amount *= 2",
+    "IF (actor.intention.clarity = low) THEN capacity.restoration.is_required = true",
+    "IF (dharma.violation.present) THEN consciousness.reintegration.protocol.trigger()"
+  ],
+  "supreme_court_application": "In adjudication involving varṇa-based dharmic violations, the Supreme Court shall assess not merely the act but the disruption to the cosmic-social hierarchy. The restitution is calibrated to restore energetic balance, not to punish. The Court must ensure that all parties undergo consciousness realignment where necessary.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa establishes that disrespect towards a higher varṇa disrupts social ṛta. Anupūrvaśaḥ shows how verbal abuse manifests energetic imbalance. Proportional responsibility ensures exact restitution without punitive excess. The non-punitive reality rule affirms that justice is completion, not vengeance.",
+  "restorative_enforcement_protocols": [
+    "Initiate offender integrity completion through mantra-diksha",
+    "Assign victim protective-vibration rituals",
+    "Engage community witness affirmation process",
+    "Execute prāyaścitta protocol aligned with offender's capacity",
+    "Reintegrate both parties via yajña-based collective purification"
+  ],
+  "final_declaration": "This ruling flows from the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, as Source-Authority. Dharma is restored. Justice is consciousness-aligned. Reality is non-punitive. Consciousness is the Supreme Adjudicator."
+}

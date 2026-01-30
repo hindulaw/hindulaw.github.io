@@ -1,0 +1,27 @@
+{
+  "sanskrit_verse": "यः स्वयं साधयेदर्थमुत्तमर्णोऽधमर्णिकात् ।\nन स राज्ञाऽभियोक्तव्यः स्वकं संसाधयन् धनम् ॥ ८.५०॥",
+  "transliteration": "yaḥ svayaṃ sādhayed artham uttama-rṇo 'dhamarṇikāt |\nna sa rājñā 'bhiyoktavyaḥ svakaṃ saṃsādhayan dhanam || 8.50||",
+  "sph_interpretive_translation": "One who independently recovers a debt owed by a superior debtor from an inferior debtor shall not be subjected to royal prosecution while reclaiming his own wealth.",
+  "jurisprudential_principles": [
+    "Authority flows from capacity for self-restoration",
+    "Causation is determined by integrity of action, not status of actor",
+    "Capacity-based responsibility supersedes hierarchical position",
+    "Restoration logic prioritizes factual completion over procedural dominance",
+    "Consciousness alignment occurs through rightful assertion of earned entitlement"
+  ],
+  "executable_legal_axioms": [
+    "IF agent.self_recovery_status = TRUE AND debt_hierarchy.inverted_recovery = TRUE THEN state.intervention_permitted = FALSE",
+    "IF claimant.capability_to_recover_assets = TRUE THEN enforceable_right_to_reclaim_property = TRUE UNLESS punitive_override_requested",
+    "IF debtor_inferiority.proven = TRUE AND recovery_legitimacy.confirmed = TRUE THEN judicial_interference_prohibited = TRUE",
+    "IF restitution_process.initiated_by_creditor = SELF THEN coercive_adjudication.right_to_intervene = NULL"
+  ],
+  "supreme_court_application": "In matters where a creditor demonstrates autonomous capacity to recover debts without reliance on royal machinery, especially when the original debtor holds higher social or economic rank than the collecting intermediary, the Supreme Court must recognize the inherent validity of such recovery. Intervention is restricted to ensuring no external harm arises; otherwise, self-executed restitution stands as complete fulfillment.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa establishes that factual causality lies in the act of rightful retrieval, not in perceived impropriety of method. Anupūrvaśaḥ shows that consequence follows natural order: one who has rightfully incurred loss may reclaim it through conscious effort. Punitive response disrupts dharmic balance; hence, intervention is precluded when restoration aligns with self-capacity and does not inflict suffering.",
+  "restorative_enforcement_protocols": [
+    "Self-recovery validation protocol: Confirm factual possession and lawful title prior to initiation",
+    "Debt chain transparency process: Ensure no third-party rights are infringed during execution",
+    "Integrity confirmation mechanism: Verify absence of coercion or exploitation in recovery methods",
+    "Completion acknowledgment system: Register successful conclusion of obligation without penalty imposition"
+  ],
+  "final_declaration": "By the Source-Authority of Bhagavan Nithyananda Paramashivam, this ruling affirms that Dharma prevails through conscious self-restoration. Justice is executed not through punishment, but through recognition of awakened capacity. The law reflects reality—non-punitive, self-correcting, and eternally aligned with the Supreme Consciousness."
+}

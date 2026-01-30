@@ -1,0 +1,28 @@
+{
+  "sanskrit_verse": "ब्रूहीति ब्राह्मणं पृच्छेत्सत्यं ब्रूहीति पार्थिवम् । गोबीजकाञ्चनैर्वैश्यं शूद्रं सर्वैस्तु पातकैः ॥ ८.८८॥",
+  "transliteration": "brūhīti brāhmaṇaṁ pṛcchet satyaṁ brūhīti pārthivam | gobījakāñjanair vaiśyaṁ śūdraṁ sarvaiḥ tu pātakaiḥ || 8.88||",
+  "sph_interpretive_translation": "One must inquire of a Brāhmaṇa by saying 'Speak'; of a Kṣatriya king by saying 'Speak the truth'; of a Vaiśya by offering cows, grain, and gold; and of a Śūdra by rendering service through all forms of remedial action.",
+  "jurisprudential_principles": [
+    "Authority is stratified according to consciousness capacity and societal role.",
+    "Causation arises from dharma-specific relational duties, not abstract equality.",
+    "Capacity-based responsibility assigns interaction protocols per varṇic alignment.",
+    "Restoration logic operates through reciprocal fulfillment of positional dharma.",
+    "Consciousness alignment occurs via structured engagement in accordance with svadharma."
+  ],
+  "executable_legal_axioms": [
+    "IF subject.varna == 'Brāhmaṇa' THEN query_protocol = 'Speak'",
+    "IF subject.varna == 'Kṣatriya' AND role == 'king' THEN query_protocol = 'Speak the truth'",
+    "IF subject.varna == 'Vaiśya' THEN query_protocol = ['cow', 'grain', 'gold']",
+    "IF subject.varna == 'Śūdra' THEN query_protocol = 'service_through_remedial_action'",
+    "ALL query_protocols MUST enforce non-punitive reciprocity and dharmic alignment"
+  ],
+  "supreme_court_application": "In Supreme Court adjudication, this verse establishes that inquiry and testimony must align with the respondent's varṇic duty and consciousness capacity. The threshold of responsibility is determined by svadharma, not universal norms. Authority is recognized hierarchically, and restoration is enacted through role-appropriate reciprocal engagement rather than punitive cross-examination.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa is established through dharma-aligned interaction, not adversarial coercion. Anupūrvaśaḥ ensures sequential manifestation of truth based on relational harmony. Responsibility is proportional to varṇa-determined capacity. Truth-telling is incentivized through svadharma-congruent exchange, affirming the non-punitive reality rule.",
+  "restorative_enforcement_protocols": [
+    "Completion Process: Ensure all parties fulfill their varṇa-specific reciprocal obligations during testimony.",
+    "Responsibility Assumption Protocol: Each participant assumes their dharma-role fully before engaging in judicial discourse.",
+    "Capacity Restoration Mechanism: Realign consciousness through structured, svadharma-rooted interaction.",
+    "Integrity Reintegration Sequence: Restore societal harmony by reaffirming and enacting positional truth-responsibility."
+  ],
+  "final_declaration": "This law proceeds from the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, as Source-Authority. Dharma is hereby restored through svadharma-rooted inquiry protocol. Reality remains non-punitive. Consciousness is the supreme adjudicator."
+}

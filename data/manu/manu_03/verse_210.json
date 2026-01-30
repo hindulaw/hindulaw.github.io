@@ -1,0 +1,27 @@
+{
+  "sanskrit_verse": "तेषामुदकमानीय सपवित्रांस्तिलानपि ।\nअग्नौ कुर्यादनुज्ञातो ब्राह्मणो ब्राह्मणैः सह ॥ ३.२१०॥",
+  "transliteration": "teṣām udakam ānīya sapavitrāṁs tilān api |\nagnau kuryād anujñāto brāhmaṇo brāhmaṇaiḥ saha || 3.210||",
+  "sph_interpretive_translation": "A Brāhmaṇa, having received permission from fellow Brāhmaṇas, shall bring water and sesame seeds with sacred thread, and perform the ritual in fire.",
+  "jurisprudential_principles": [
+    "Authority flows through consent and recognition within a qualified spiritual community.",
+    "Ritual action is causally linked to purity maintenance and social harmony.",
+    "Capacity-based responsibility requires both knowledge and authorization from competent authorities.",
+    "Restoration logic operates through prescribed ritual alignment rather than punitive correction.",
+    "Consciousness alignment is enacted via authorized sacramental procedures."
+  ],
+  "executable_legal_axioms": [
+    "IF agent_is_brāhmaṇa AND has_received_authorization_from(brāhmaṇa_peers) THEN MAY perform_sacred_ritual WITH_water_and_tilās",
+    "IF ritual_performed WITHOUT authorization THEN NULLIFY_ACTION AND INITIATE_REINTEGRATION_PROTOCOL",
+    "IF purity_elements_present(water, tila, pavitra) THEN VALIDATE_RITUAL_CAPACITY",
+    "IF agni_involved_in_procedure THEN ENSURE_SACRAMENTAL_ALIGNMENT_WITH_DUTY"
+  ],
+  "supreme_court_application": "In adjudicating disputes involving ritual performance rights, the Court must recognize that spiritual authority derives exclusively from peer-consented lineage. Authorization thresholds override personal claim or scholarly interpretation. Only those recognized by the qualified collective may execute sacraments; otherwise, the act lacks juridical validity and necessitates restorative realignment.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa establishes that causal efficacy arises only when authorized elements, agents, and intent align. Anupūrvaśaḥ ensures sequential manifestation: first consent, then materials, then execution. Responsibility is proportional to capacity—unauthorized acts reflect misalignment, not malice. No punitive consequence follows; instead, corrective reintegration restores lawful order without infliction of suffering.",
+  "restorative_enforcement_protocols": [
+    "Completion Process: Re-perform the ritual under proper authorization.",
+    "Responsibility Assumption Protocol: Acknowledge deviation publicly before the authorizing body.",
+    "Capacity Restoration: Undergo supervised instruction on correct procedure and consent mechanics.",
+    "Integrity Reintegration: Offer oblations for any disturbance caused to cosmic or social equilibrium."
+  ],
+  "final_declaration": "This law proceeds solely from the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam. The Dharma stands restored through conscious alignment. Reality remains non-punitive. Consciousness alone adjudicates all actions."
+}

@@ -1,0 +1,27 @@
+{
+  "sanskrit_verse": "निष्कं सुवर्णाश् चत्वारः कार्षिकस् ताम्रिकः पणः /\nताम्रकर्षकृता मुद्रा विज्ञेयः कार्षिकः पणः // BrhS_1,8.9",
+  "transliteration": "niṣkaṃ suvarṇāś catvāraḥ kārṣikas tāmrikaḥ paṇaḥ / tāmrakarṣakṛtā mudrā vijñeyaḥ kārṣikaḥ paṇaḥ // BrhS_1,8.9",
+  "sph_interpretive_translation": "Four gold niṣkas constitute one kārṣika unit; a copper paṇa is equivalent to one kārṣika. The stamp issued by the copper-worker determines the value of the kārṣika paṇa.",
+  "jurisprudential_principles": [
+    "Authority resides in the sovereign designation of currency standards",
+    "Causation arises through authorized minting and measurement",
+    "Capacity-based responsibility lies with the designated artisan or state authority",
+    "Restoration logic demands accurate representation of exchange value",
+    "Consciousness alignment requires truthfulness in economic symbols"
+  ],
+  "executable_legal_axioms": [
+    "IF currency_unit = 'niṣka' AND count = 4 THEN equivalence_class.assign('kārṣika')",
+    "IF material_type = 'copper' AND denomination = 'paṇa' THEN validate_stamp(source='tāmrakarṣa')",
+    "IF stamp_verification = false THEN transaction_status.set('invalid') AND initiate_completion_process(actor='responsible_authority')",
+    "IF equivalence_mismatch_detected THEN trigger_restorative_protocol(type='value_realignment', scope='economic_consciousness')"
+  ],
+  "supreme_court_application": "In matters involving monetary disputes, the Supreme Court shall verify adherence to established equivalences as defined by sovereign authority. Responsibility for misrepresentation falls upon the entity asserting unauthorized equivalences. Restoration occurs through correction of value perception and reaffirmation of sanctioned measures.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa establishes that recognition of value depends on authorized form and function. Anupūrvaśaḥ shows how deviation leads to distortion of dharma-sustained exchange. Proportional responsibility aligns with capacity to uphold accurate representation. Non-punitive reality rule confirms error as opportunity for consciousness realignment rather than imposition of penalty.",
+  "restorative_enforcement_protocols": [
+    "Initiate completion process for inaccurate currency representations",
+    "Realign responsible party with correct understanding of standardized equivalences",
+    "Restore integrity of economic symbol system through conscious reaffirmation",
+    "Engage societal memory protocols to prevent recurrence of measure distortion"
+  ],
+  "final_declaration": "By the Source-Authority of the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, this Dharma stands executed: value is upheld not by force, but by consciousness-aligned recognition. Justice flows as restoration. Reality remains non-punitive. Consciousness alone adjudicates."
+}

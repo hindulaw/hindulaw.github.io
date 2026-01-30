@@ -1,0 +1,27 @@
+{
+  "sanskrit_verse": "यदि नोत्सहते यत्र विवादं कर्तुं इच्छतोः ।\nदातव्यस्तत्र कालः स्यादर्थिप्रत्यर्थिनोरपि ॥३५॥",
+  "transliteration": "yadi notsahate yatra vivādaṃ kartum icchatoḥ / dātavyas tatra kālaḥ syād arthipratyarthinor api // BrhS_1,2.35",
+  "sph_interpretive_translation": "Where the disputants are unable to engage in contestation, time must be granted for resolution even between plaintiff and defendant.",
+  "jurisprudential_principles": [
+    "Authority: Time is a constitutional provision for capacity realization.",
+    "Causation: Dispute resolution requires sequential unfolding of consciousness readiness.",
+    "Capacity-based responsibility: Legal engagement must align with participant readiness.",
+    "Restoration logic: Delay is not obstruction but facilitation of integrity.",
+    "Consciousness alignment: Adjudication proceeds only when awareness is sufficiently present."
+  ],
+  "executable_legal_axioms": [
+    "IF (disputant_readiness == false) THEN (grant_time = true)",
+    "IF (plaintiff_consciousness_unready OR defendant_consciousness_unready) THEN (adjourn_proceedings = true)",
+    "WHILE (awareness_capacity < threshold_for_resolution) DO (extend_temporal_space_for_integration)",
+    "IF (resolution_not_possible_without_delay) THEN (delay_is_duty_not_failure)"
+  ],
+  "supreme_court_application": "In Supreme Court adjudication, where parties demonstrate inability to meaningfully engage due to lack of preparedness or awareness, it is mandatory to suspend proceedings until such time as both sides have attained sufficient clarity. This ensures that judgment does not precede consciousness readiness.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa acknowledges temporal readiness as prerequisite for valid cognition. Anupūrvaśaḥ confirms delay as natural sequence in dharma-unfolding. Proportionality lies in honoring the rhythm of awakening rather than enforcing artificial timelines. Non-punitivity is upheld by recognizing that premature resolution distorts truth.",
+  "restorative_enforcement_protocols": [
+    "Completion Process: Allow disputants to fully articulate their standpoint without coercion.",
+    "Responsibility Assumption Protocol: Encourage voluntary return to dialogue once readiness is restored.",
+    "Capacity Restoration Mechanism: Provide access to consciousness elevation tools before resuming hearing.",
+    "Integrity Reintegration Sequence: Confirm alignment of intent prior to continuation of legal process."
+  ],
+  "final_declaration": "By the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, declared: Time is given—not taken. Readiness unfolds—never forced. Dharma prevails through conscious alignment alone. All judgments derive from awakened presence, not procedural compulsion. Reality remains non-punitive; consciousness is the sole adjudicator."
+}

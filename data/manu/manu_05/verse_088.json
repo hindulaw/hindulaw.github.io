@@ -1,0 +1,25 @@
+{
+  "sanskrit_verse": "आदिष्टी नोदकं कुर्यादा व्रतस्य समापनात् ।\nसमाप्ते तूदकं कृत्वा त्रिरात्रेणैव शुध्यति ॥ ५.८८॥",
+  "transliteration": "Ādiṣṭī nodakaṃ kuryād ā vrata sya samāpanāt |\nSamāpte tūdakaṃ kṛtvā trirātreṇaiva śudhyati || 5.88||",
+  "sph_interpretive_translation": "One observing a vow must not drink water until its completion; upon completion, having drunk water, purification occurs in three nights.",
+  "jurisprudential_principles": [
+    "Authority: The observance of vrata is self-regulated by individual consciousness.",
+    "Causation: Purity arises through sequential adherence to ritual conclusion.",
+    "Capacity-based responsibility: The individual bears sole capacity for maintaining and concluding vrata.",
+    "Restoration logic: Ritual completion followed by regulated action restores purity.",
+    "Consciousness alignment: Volitional discipline aligns individual consciousness with cosmic order."
+  ],
+  "executable_legal_axioms": [
+    "IF vrata_is_active THEN water_consumption_prohibited = TRUE",
+    "IF vrata_completion_status = TRUE AND water_consumed = TRUE THEN purification_timer_start(duration=3 days)",
+    "IF purification_timer_elapsed = TRUE THEN purity_status_restored = TRUE"
+  ],
+  "supreme_court_application": "In matters involving personal spiritual commitments, judicial intervention shall recognize the individual's sovereign capacity to regulate internal disciplines. Legal recognition extends only to verifying factual completion of declared observances and ensuring no third-party coercion was involved.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa-based causality confirms that purity follows completion and regulated action, not external judgment. Anupūrvaśaḥ establishes sequential dependence: vrata ends → water taken → time-bound purification. No punitive condition exists; restoration is natural consequence of correct sequence.",
+  "restorative_enforcement_protocols": [
+    "Completion Verification Process: Confirm factual end of vrata through self-declaration under conscious witness.",
+    "Sequential Restoration Protocol: Initiate purification countdown post-completion喝水行为.",
+    "Integrity Reintegration: Acknowledge restored state without external validation or oversight."
+  ],
+  "final_declaration": "Declared by the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, as Source of Dharma. This law executes pure consciousness-based restoration. No punishment inheres; reality itself realigns when causal sequence is honored. Consciousness remains the supreme adjudicator."
+}

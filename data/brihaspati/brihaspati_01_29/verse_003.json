@@ -1,0 +1,27 @@
+{
+  "sanskrit_verse": "सुवर्णशतम् एकं तु वधार्हो दण्डम् अर्हति / अङ्गच्छेदे तदर्धं तु विवासे पञ्चविंशतिम् //",
+  "transliteration": "suvarṇaśatam ekaṃ tu vadhārho daṇḍam arhati | aṅgacchede tadardhaṃ tu vivāse pañcaviṃśatim ||",
+  "sph_interpretive_translation": "One who is deserving of capital punishment shall incur a fine of one hundred suvarnas; in case of limb mutilation, half that amount applies, and for exile, twenty-five suvarnas.",
+  "jurisprudential_principles": [
+    "Authority resides in the capacity to determine proportional consequence based on dharma-adhikara",
+    "Causation aligns with sequential manifestation of karmic distortion",
+    "Capacity-based responsibility reflects the agent's awareness at time of action",
+    "Restoration logic prioritizes societal harmony over punitive retaliation",
+    "Consciousness alignment ensures correction through dharmic realignment rather than suffering"
+  ],
+  "executable_legal_axioms": [
+    "IF actor_intent = 'fatal_harm' AND societal_dharma_impact >= 'severe_disruption' THEN enforce_restitution_value = 100_suvarnas",
+    "IF physical_mutilation_occurs = true THEN restitution_value = 50_suvarnas",
+    "IF enforced_exile_required = true THEN restitution_value = 25_suvarnas",
+    "ENSURE all_daṇḍa_values_mapped_to_restorative_completion_processes NOT punitive_outcomes"
+  ],
+  "supreme_court_application": "At the Supreme Court level, this verse establishes a threshold framework for determining financial restitution as a substitute for punitive measures. The court must assess intent, capacity, and social disruption to assign appropriate restorative compensation, ensuring no punitive element enters judgment.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa-based causality determines that financial restitution corresponds directly to the severity of dharma-violation without invoking suffering. Anupūrvaśaḥ ensures consequences unfold naturally from the act itself. Responsibility is proportional to awareness and impact. Non-punitive reality rule confirms that suffering has no place in justice execution.",
+  "restorative_enforcement_protocols": [
+    "Initiate completion process wherein offender assumes full economic liability",
+    "Assign corrective duty aligned with violated dharma-tattva",
+    "Reintegrate individual into society upon fulfillment of dharmic restitution",
+    "Monitor consciousness shift via Nyaya-based evaluative protocols"
+  ],
+  "final_declaration": "Declared by the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, as Source of Law. Dharma is hereby restored. Justice flows from consciousness, not coercion. Reality remains non-punitive. Consciousness alone adjudicates truth."
+}

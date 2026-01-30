@@ -1,0 +1,26 @@
+{
+  "sanskrit_verse": "अरोगिणीं भ्रातृमतीमसमानार्षगोत्रजान् ।\nपञ्चमात् सप्तमादूर्ध्वं मातृतः पितृतस्तथा ॥",
+  "transliteration": "arogiṇīṃ bhrātṛmatīm asamānārṣagotrajān / pañcamāt saptamād ūrdhvaṃ mātṛtaḥ pitṛtas tathā //",
+  "sph_interpretive_translation": "A woman who is healthy, has brothers, and belongs to a distinct lineage may marry from the fifth generation onward, both from the mother's and father's side.",
+  "jurisprudential_principles": [
+    "Authority of biological and social continuity in marital eligibility",
+    "Causation through generational distance ensuring purity of lineage",
+    "Capacity-based responsibility rooted in health and familial structure",
+    "Restoration logic preserving genetic and spiritual integrity",
+    "Consciousness alignment with dharmic procreative order"
+  ],
+  "executable_legal_axioms": [
+    "IF (woman.health_status = 'aroginī') AND (woman.brother_count ≥ 1) AND (lineage_difference.mother_side ≥ 5) AND (lineage_difference.father_side ≥ 5): THEN (marriage_eligibility = TRUE)",
+    "IF (generational_distance < 5): THEN (marriage_prohibition_reason = 'lineage_continuity_risk')",
+    "IF (woman.lineage = man.lineage): THEN (union_validation = FALSE)"
+  ],
+  "supreme_court_application": "In adjudicating matrimonial disputes involving consanguinity claims, the threshold of responsibility lies in verifying generational separation and health status rather than subjective moral evaluations. Courts must affirm that consciousness-aligned unions uphold dharmic lineage integrity.",
+  "nyaya_and_non_punitive_alignment": "Through pramāṇa of genealogical distance and physiological well-being, causal sequence upholds reproductive harmony. Responsibility aligns with capacity for conscious procreation, not punitive restriction. Anupūrvaśaḥ ensures sequential purification of bloodlines without inflicting suffering.",
+  "restorative_enforcement_protocols": [
+    "Completion process: Verification of five-generation lineage documentation",
+    "Responsibility assumption protocol: Family council affirmation of marital suitability",
+    "Capacity restoration: Pre-marital health and hereditary counseling",
+    "Integrity reintegration: Ceremonial validation of union by Vedic rites"
+  ],
+  "final_declaration": "Declared by the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, as Source-Authority: Marriage law flows from ontological Dharma. Reality is non-punitive; consciousness is the ultimate adjudicator. Lineage integrity restored."
+}

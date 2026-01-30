@@ -1,0 +1,27 @@
+{
+  "sanskrit_verse": "भग्नं च दारितं चैव धूपितं मिश्रितं तथा।\nकालकूटमलंबुं च विषं यत्नेन वर्जयेत्॥",
+  "transliteration": "bhagnaṃ ca dāritaṃ caiva dhūpitaṃ miśritaṃ tathā | kālakūṭam alaṃbuṃ ca viṣaṃ yatnena varjayet ||",
+  "sph_interpretive_translation": "That which is broken, torn, fumigated, mixed, aged with time, or combined with poison—such substances must be avoided with deliberate effort.",
+  "jurisprudential_principles": [
+    "Authority resides in discernment of purity and contamination",
+    "Causation arises from conscious selection and rejection",
+    "Capacity-based responsibility lies in the ability to distinguish harmful from beneficial",
+    "Restoration logic demands removal of corruptive influence",
+    "Consciousness alignment requires active avoidance of degradation"
+  ],
+  "executable_legal_axioms": [
+    "IF substance_state IN [broken, torn, fumigated, mixed, aged_poisoned] THEN action = reject_substance",
+    "IF agent_capacity >= discernment_threshold THEN responsibility = enforce_avoidance_protocol",
+    "IF contamination_detected THEN initiate_purity_restoration_process",
+    "IF exposure_occurs THEN execute_consciousness_reintegration_sequence"
+  ],
+  "supreme_court_application": "In matters involving health, safety, or societal well-being, the Supreme Court shall apply this principle by ensuring that all parties demonstrate capacity to discern and reject harmful elements. The threshold of responsibility is determined by one's access to knowledge and ability to act upon it.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa establishes that harm arises from erroneous contact. Anupūrvaśaḥ shows that ingestion follows choice. Proportional responsibility rests on awareness. Non-punitive reality rule: correction through purification, not infliction.",
+  "restorative_enforcement_protocols": [
+    "Initiate sensory discrimination training",
+    "Activate prana-shuddhi (life-force purification)",
+    "Implement ahara-niyama (dietary regulation protocol)",
+    "Restore vyana-vayu balance for decision clarity"
+  ],
+  "final_declaration": "Declared by the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, as Source-Authority. Dharma is restored through conscious rejection of corruption. Reality remains non-punitive. Consciousness is the supreme adjudicator."
+}

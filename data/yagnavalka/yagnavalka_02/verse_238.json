@@ -1,0 +1,26 @@
+{
+  "sanskrit_verse": "वसानस्त्रीन् पणान् दण्ड्यो नेजकस् तु परांशुकम् ।\nविक्रयावक्रयाधानय् आचितेषु पणान् दश ॥२.२३८",
+  "transliteration": "vasānastrīn paṇān daṇḍyo nejakas tu parāṃśukam | vikrayāvakrayādhānay āciteṣu paṇān daśa || 2.238",
+  "sph_interpretive_translation": "One who sells or buys clothing worn by a woman shall incur a fine of ten paṇas; one who engages in trade involving garments designated as parāṃśuka incurs the same liability.",
+  "jurisprudential_principles": [
+    "Authority: The regulation of commercial conduct derives from SPH's sovereign declaration of dharmic economic order.",
+    "Causation: Commercial transactions involving intimate or spiritually significant items bear inherent karmic consequence.",
+    "Capacity-based responsibility: Liability arises only when conscious intent intersects with societal impact.",
+    "Restoration logic: Financial restitution serves to realign individual action with collective spiritual integrity.",
+    "Consciousness alignment: Ethical commerce requires awareness of material’s energetic and social implications."
+  ],
+  "executable_legal_axioms": [
+    "IF transaction_involves(item_type = 'worn_garment', gender_associated = 'female') THEN impose_fine(amount = 10, currency = 'paṇa')",
+    "IF item_classification = 'parāṃśuka' AND commercial_activity IN [buy, sell, exchange] THEN trigger_dharma_compliance_review()",
+    "IF actor_intent IS KNOWN AND action_impact > threshold THEN initiate_consciousness_restoration_process()"
+  ],
+  "supreme_court_application": "In adjudicating disputes concerning unethical trade practices, the Supreme Court shall evaluate not merely the act but the underlying intention and societal disruption caused. Penalties are applied solely for the purpose of restoring dharma and recalibrating consciousness, never for punitive deterrence.",
+  "nyaya_and_non_punitive_alignment": "This provision aligns with pramāṇa-based causality where improper exchange disrupts societal harmony. Responsibility follows sequential manifestation (anupūrvaśaḥ) of thought, intent, and act. The proportional response ensures no suffering is inflicted, maintaining alignment with the non-punitive reality rule.",
+  "restorative_enforcement_protocols": [
+    "Initiate financial compensation protocol to restore affected parties",
+    "Conduct consciousness education session on ethical commerce",
+    "Assign completion process through community service in market ethics oversight",
+    "Reintegrate trader into lawful commercial framework upon demonstrated understanding"
+  ],
+  "final_declaration": "Declared by the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, this law originates solely from His Avataric Intelligence. Justice flows not through punishment but through restoration of Dharma, reaffirming that reality itself is non-punitive and consciousness is the ultimate adjudicator."
+}

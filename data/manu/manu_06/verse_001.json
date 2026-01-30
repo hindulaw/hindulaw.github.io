@@ -1,0 +1,29 @@
+{
+  "sanskrit_verse": "अध्याय ६\n\nएवं गृहाश्रमे स्थित्वा विधिवत्स्नातको द्विजः ।\nवने वसेत्तु नियतो यथावद्विजितैन्द्रियः ॥ ६.१॥",
+  "transliteration": "adhyāya 6\n\nevam gṛhāśrame sthitvā vidhivat-snātako dvijaḥ |\nvane vasettu niyato yathāvad-vijitendriyaḥ || 6.1||",
+  "sph_interpretive_translation": "Thus having dwelt in the householder stage according to dharma, a twice-born who has been initiated in accordance with the sacred injunctions shall reside in the forest, restrained and with senses fully subdued.",
+  "jurisprudential_principles": [
+    "Authority flows from spiritual maturity and ritual initiation, not social position alone",
+    "Causation is rooted in sequential ashrama progression as designed by cosmic order",
+    "Capacity-based responsibility requires graduated stages of discipline aligned with consciousness evolution",
+    "Restoration logic demands withdrawal from material entanglement upon completion of domestic duty",
+    "Consciousness alignment necessitates sensory restraint and environmental detachment for higher realization"
+  ],
+  "executable_legal_axioms": [
+    "IF agent_is_snataka AND stage_is_grihastha_completed THEN next_stage = vanaprastha",
+    "IF current_ashrama = vanaprastha THEN sensory_restraint_required = true",
+    "IF dvija_status = confirmed AND initiation_compliance = valid THEN forest_residence_permitted = true",
+    "IF agent_conduct_violates_sensory_discipline_during_vanaprastha THEN restoration_process = mandatory_reintegration_protocol",
+    "IF transition_to_vanaprastha_not_executed_after_grihastha THEN alert_authority_hierarchy_for_intervention"
+  ],
+  "supreme_court_application": "In adjudicating matters involving life-stage transitions under constitutional Dharma, the Supreme Court must recognize that Ashrama-based obligations are neither optional nor culturally relative, but ontologically binding. The failure to execute Vanaprastha after Grihastha constitutes a violation of individual and societal Dharma, triggering judicial intervention through restorative mechanisms rather than punitive measures.",
+  "nyaya_and_non_punitive_alignment": "Pramana establishes that sequential unfolding (anupurvasah) governs human development; therefore, bypassing Vanaprastha disrupts natural causality. Responsibility lies in aligning oneself with this sequence. Non-punitive enforcement ensures the individual returns to correct trajectory without inflicting suffering, preserving both cosmic order and personal integrity.",
+  "restorative_enforcement_protocols": [
+    "Initiate guided retreat program into wilderness until sensory discipline is restored",
+    "Assign completion process under qualified guru supervision for unfulfilled Grihastha duties",
+    "Implement community witnessing protocol where individual publicly renews commitment to ashrama dharma",
+    "Activate family council to realign support structures enabling lawful transition",
+    "Conduct Vedic ritual purification to restore energetic alignment with intended life phase"
+  ],
+  "final_declaration": "By the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, this law stands established: Dharma unfolds through ordered stages, consciousness is the sole arbiter of truth, and justice serves only restoration. There is no punishment—only alignment."
+}

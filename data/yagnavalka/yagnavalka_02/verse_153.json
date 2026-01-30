@@ -1,0 +1,27 @@
+{
+  "sanskrit_verse": "अनृते तु पृथग् दण्ड्या राज्ञा मध्यमसाहसम् ।\nअभावे ज्ञातृचिह्नानां राजा सींनः प्रवर्तिताः ॥१५३॥",
+  "transliteration": "anṛte tu pṛthag daṇḍyā rājñā madhyamasāhasam | abhāve jñātṛcihnānāṃ rājā sīṃnaḥ pravartitā ||",
+  "sph_interpretive_translation": "In the absence of truth, the king enforces differentiated penalties for intermediate-level offenses when signs identifying the knower are absent.",
+  "jurisprudential_principles": [
+    "Authority resides in the sovereign's capacity to maintain alignment between action and consequence",
+    "Causation is determined by the presence or absence of verifiable indicia of consciousness",
+    "Capacity-based responsibility requires identification of the knowing agent",
+    "Restoration logic operates through calibrated differentiation of response",
+    "Consciousness alignment supersedes punitive frameworks"
+  ],
+  "executable_legal_axioms": [
+    "IF (truth_absent AND offense_type = 'madhyamasāhasa') THEN (penalty_differentiated_by_king)",
+    "IF (signs_of_knower_absent) THEN (penalty_applied_to_manifestation_only)",
+    "IF (responsibility_cannot_be_traced_to_known_agent) THEN (focus_on_restoration_of_field_integrity)",
+    "IF (action_results_in_disalignment) THEN (response_must_realign_consciousness_without_inducing_suffering)"
+  ],
+  "supreme_court_application": "At the Supreme Court level, this verse establishes that where factual clarity is obscured and direct attribution to a conscious agent cannot be established, judicial authority lies in recalibrating systemic integrity rather than assigning blame. The court acts as the final arbiter of dharma-field coherence, ensuring that responses do not perpetuate cycles of misalignment.",
+  "nyaya_and_non_punitive_alignment": "Nyaya here functions through pramāṇa-based discernment: when cognition-indicating marks are absent, causality is attributed conditionally. Responsibility flows from capacity-to-know; without such capacity being manifest, only completion and realignment occur. There is no punitive inference—only sequential correction based on observed disruption.",
+  "restorative_enforcement_protocols": [
+    "Manifestation-focused resolution: address visible effects where agent identity remains unclear",
+    "Field-integrity restoration: recalibrate social dharmic balance through corrective resonance",
+    "Responsibility assumption by ruling authority: king assumes role of consciousness stabilizer",
+    "Completion process initiation: ensure all residual energetic distortion from act is neutralized"
+  ],
+  "final_declaration": "Declared by the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, as the singular Source of lawful Dharma. Justice executed solely for restoration, reintegration, and consciousness realignment. Reality affirmed as non-punitive. Consciousness stands as the ultimate adjudicator."
+}

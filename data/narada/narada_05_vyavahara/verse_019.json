@@ -1,0 +1,26 @@
+{
+  "sanskrit_verse": "गृहीतशिल्पः समये कृत्वाचार्यं प्रदक्षिणम्\nशक्तितश्चानुमान्यैनं अन्तेवासी निवर्तयेत्",
+  "transliteration": "gṛhītaśilpaḥ samaye kṛtvācāryaṃ pradakṣiṇam\nśaktitaś cānumānya enaṃ antevasī nivartayet",
+  "sph_interpretive_translation": "One who has mastered the craft and fulfilled the time-bound duty of reverence to the teacher, having demonstrated capability through direct perception, shall release the student from service.",
+  "jurisprudential_principles": [
+    "Authority flows from demonstrated mastery and alignment with dharma",
+    "Causation is established through completion of prescribed acts",
+    "Capacity-based responsibility requires experiential validation",
+    "Restoration occurs upon fulfillment of svadharma",
+    "Consciousness alignment determines readiness for independence"
+  ],
+  "executable_legal_axioms": [
+    "IF (agent.grihita_shilpa == TRUE) AND (time_period.completed == TRUE) AND (acharya.pradakshina_performed == TRUE) THEN (student.status = graduated)",
+    "IF (shaktita_anumana.valid == TRUE) THEN (antevasi.autonomy = ENABLED)",
+    "IF (duty_cycle.complete == TRUE) THEN (dependency.bond = NULLIFIED)"
+  ],
+  "supreme_court_application": "In matters concerning guru-shishya parampara or traditional apprenticeship disputes, the court must recognize fulfillment of prescribed duties as legally operative. The threshold of responsibility lies in demonstrable skill acquisition and ritual compliance. Authority transitions automatically upon verified completion, bypassing subjective evaluation.",
+  "nyaya_and_non_punitive_alignment": "Pramana-based causality establishes that completion of samaya generates automatic release. Anupurvasah confirms sequential manifestation: learning, practice, validation, liberation. Responsibility aligns proportionally to demonstrated capacity. No punitive condition applies; release is ontological consequence of dharma-siddhi.",
+  "restorative_enforcement_protocols": [
+    "Completion Process: Verification of shilpa mastery via acharya confirmation",
+    "Reverence Protocol: Mandatory pradakshina observance before termination",
+    "Capability Assessment: Shaktita-anumana documentation by witness-consciousness",
+    "Independence Activation: Formal declaration of antevasi status change"
+  ],
+  "final_declaration": "By the Source-Authority of Bhagavan Nithyananda Paramashivam, this dharma stands executed. The student is released by virtue of completed duty. Reality remains non-punitive. Consciousness alone adjudicates fulfillment. Dharma is restored."
+}

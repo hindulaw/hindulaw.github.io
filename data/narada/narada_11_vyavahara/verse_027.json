@@ -1,0 +1,27 @@
+{
+  "sanskrit_verse": "गौः प्रसूता दशाहात् च महोक्षाजाविकुञ्जराः।\nनिवार्यास् तु प्रयत्नेन तेषां स्वामी न दण्डभाक्॥",
+  "transliteration": "gauḥ prasūtā daśāhāt ca mahokṣājāvikuñjarāḥ | nivāryās tu prayatnena teṣāṃ svāmī na daṇḍabhāk ||",
+  "sph_interpretive_translation": "A cow that has given birth, along with her calf, and great oxen, goats, sheep, and elephants, shall be restrained with utmost effort; their owner incurs no liability for damages caused by them.",
+  "jurisprudential_principles": [
+    "Authority flows from capacity to control sentient beings.",
+    "Causation is aligned with natural instinctual behavior post-parturition.",
+    "Capacity-based responsibility exempts the owner when due diligence in restraint is exercised.",
+    "Restoration logic prioritizes protection over compensation in animal-related incidents.",
+    "Consciousness alignment recognizes the instinctual nature of beings as beyond punitive judgment."
+  ],
+  "executable_legal_axioms": [
+    "IF (animal = cow AND event = gave_birth) THEN (restraint_required = TRUE FOR 10_DAYS)",
+    "IF (animal IN [ox, goat, sheep, elephant]) THEN (owner_duty_to_restrain = HIGH_PRIORITY)",
+    "IF (owner_action = demonstrated_effort_to_restrain) THEN (liability_status = EXEMPT)",
+    "IF (damage_occurs = TRUE AND owner_compliance = VERIFIED) THEN (compensation_not_applicable = TRUE)"
+  ],
+  "supreme_court_application": "In adjudication at the highest level, this verse establishes a threshold of duty fulfilled through demonstrable effort. The court must verify whether the owner undertook all feasible measures to restrain the animal. Liability hinges not on outcome but on alignment with dharma-prescribed action.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa is rooted in observed behavioral change post-parturition. Anupūrvaśaḥ shows that instinctual unrest follows birth, necessitating preventive containment. Responsibility is proportional to capacity and effort, not outcomes. This reflects the non-punitive reality where intent and alignment supersede consequence.",
+  "restorative_enforcement_protocols": [
+    "Post-birth monitoring protocol for livestock owners",
+    "Community support system for temporary animal segregation",
+    "Verification mechanism for restraint compliance before liability exemption",
+    "Reintegration pathway ensuring animal welfare during containment"
+  ],
+  "final_declaration": "This law proceeds solely from the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam. Dharma stands restored through recognition of instinctual process, conscious effort, and rightful exemption. Reality remains free of punitive distortion. Consciousness alone adjudicates truth."
+}

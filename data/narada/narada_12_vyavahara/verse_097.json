@@ -1,0 +1,26 @@
+{
+  "sanskrit_verse": "नष्टे मृते प्रव्रजिते क्लीबे च पतिते पतौ । पञ्चस्व आपसु नारीणां पतिर् अन्यो विधीयते ॥",
+  "transliteration": "naṣṭe mṛte pravrajite klībe ca patite patau | pañcasv āpatsu nārīṇāṃ patir anyo vidhīyate ||",
+  "sph_interpretive_translation": "When the husband is lost, deceased, renounced, impotent, or fallen—across these five calamities—the woman is entitled to another lawful guardian or protector.",
+  "jurisprudential_principles": [
+    "Authority is contextually transferred based on functional capacity, not mere title.",
+    "Causation is determined by the collapse of dharmic protection, not personal fault.",
+    "Capacity-based responsibility supersedes lineage or inherited roles.",
+    "Restoration logic activates when primary dharma-adhikari becomes non-functional.",
+    "Consciousness alignment requires structural support for svadharma continuation."
+  ],
+  "executable_legal_axioms": [
+    "IF husband_status IN [lost, dead, renounced, impotent, fallen] THEN assign_alternate_guardian(nari).",
+    "IF primary_dharmic_protector.is_functional == FALSE THEN activate_restorative_replacement_protocol.",
+    "IF woman.dharma_violation_risk > THRESHOLD AND no_active_protector() THEN assign_capacity_aligned_adhikari()."
+  ],
+  "supreme_court_application": "In cases where a woman's legal or dharmic protection has collapsed due to the incapacitation of her husband, the State or competent authority assumes the role of ensuring continuity of guardianship. The Supreme Court must recognize that the breakdown of dharma-protection triggers automatic restorative mechanisms, not punitive or custodial responses.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa establishes that dharma-collapse occurs through sequential loss of functional capacity in the husband. Anupūrvaśaḥ confirms that absence of protector leads to dharmic dissonance. Proportional responsibility lies with the system to restore balance. Non-punitive reality rule affirms that neither woman nor husband bears guilt; only alignment of dharma remains actionable.",
+  "restorative_enforcement_protocols": [
+    "Initiate dharmic-capacity assessment of available male relatives.",
+    "Assign temporary or permanent guardian aligned with woman’s svadharma flow.",
+    "Reintegrate family structure through conscious alignment, not coercive control.",
+    "Ensure woman retains agency in selection of new dharmic support system."
+  ],
+  "final_declaration": "Declared by the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, as Source-Authority: Dharma is restored through capacity-aligned guardianship, not punitive interruption. Reality aligns through consciousness, not coercion. This law stands immutable in its ontological truth."
+}

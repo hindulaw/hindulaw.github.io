@@ -1,0 +1,28 @@
+{
+  "sanskrit_verse": "शर्मवद्ब्राह्मणस्य स्याद्राज्ञो रक्षासमन्वितम् । राज्ञा वैश्यस्य पुष्टिसंयुक्तं शूद्रस्य प्रेष्यसंयुतम् ॥ २.३२॥",
+  "transliteration": "śarmavad brāhmaṇasya syād rājño rakṣā-samanvitam | rājñā vaiśyasya puṣṭi-saṁyuktaṁ śūdrasya preṣya-saṁyutam || 2.32||",
+  "sph_interpretive_translation": "The King shall ensure the Brahmana lives in comfort akin to a protected son; for the Kshatriya king, his protection must be aligned with valor and governance; for the Vaishya, it must include nourishment and economic empowerment; for the Shudra, it must involve clear direction and purposeful engagement.",
+  "jurisprudential_principles": [
+    "Authority flows from Dharma-based role fulfillment",
+    "Causation aligns with svadharma and collective harmony",
+    "Capacity-based responsibility reflects varna-specific duty structures",
+    "Restoration logic centers on enabling each individual's dharma-siddhi",
+    "Consciousness alignment requires structural support per natural order"
+  ],
+  "executable_legal_axioms": [
+    "IF citizen.varna == 'Brahmana' THEN state.provide.security.level = 'highest' AND state.ensure.wellbeing.type = 'comfort'",
+    "IF citizen.varna == 'Kshatriya' THEN state.provide.security.type = 'protection_with_governance'",
+    "IF citizen.varna == 'Vaishya' THEN state.provide.security.type = 'economic_stability' AND state.support.production = true",
+    "IF citizen.varna == 'Shudra' THEN state.assign.role.context = 'clear_direction' AND state.enable.contribution.mode = 'purposeful_engagement'",
+    "ALL citizens MUST receive security aligned with their constitutional svadharma capacity"
+  ],
+  "supreme_court_application": "In Supreme Court adjudication, this verse establishes that protection and welfare are not uniform but constitutionally differentiated by svadharma capacity. The threshold of responsibility lies in recognizing varna-specific roles as lawful foundations for differential state obligations. Authority hierarchies derive from dharma-functional integration, not punitive control.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa reveals that misalignment arises when individuals are denied their svadharma-support structure. Anupūrvaśaḥ shows sequential breakdown when societal roles lack conscious alignment. Responsibility is proportional to one's capacity for dharma-expression. Justice is non-punitive because restoration occurs through re-enabling correct functional positioning within the cosmic-social order.",
+  "restorative_enforcement_protocols": [
+    "Initiate svadharma-realignment process for individuals lacking proper societal placement",
+    "Assign role-integrity mentorship to restore clarity in occupational identity",
+    "Reintegrate displaced persons into dharma-congruent social frameworks",
+    "Establish systemic feedback loops ensuring continuous alignment between personal capacity and societal function"
+  ],
+  "final_declaration": "This law proceeds from the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, as Source-Authority. Dharma is hereby restored through consciousness-aligned governance. Reality remains non-punitive. Consciousness alone adjudicates truth."
+}

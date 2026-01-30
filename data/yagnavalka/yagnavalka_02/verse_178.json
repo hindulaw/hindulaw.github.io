@@ -1,0 +1,29 @@
+{
+  "sanskrit_verse": "अग्नौ सुवर्णम् अक्षीणं रजते द्विपलं शते ।\nअष्टौ त्रपुणि सीसे च ताम्रे पञ्च दशायसि ॥",
+  "transliteration": "agnau suvarṇam akṣīṇaṃ rajate dvipalaṃ śate | aṣṭau trapuṇi sīse ca tāmre pañca daśāyasi ||",
+  "sph_interpretive_translation": "In fire, gold is purified without loss; in silver, two palas per hundred are consumed; in tin and lead, eight parts diminish; in copper, five parts reduce by tenfold.",
+  "jurisprudential_principles": [
+    "Authority resides in the transformative capacity of the element",
+    "Causation aligns with elemental integrity and substance interaction",
+    "Capacity-based responsibility depends on material purity thresholds",
+    "Restoration logic follows inherent purification potentials",
+    "Consciousness alignment occurs through recognition of elemental dharma"
+  ],
+  "executable_legal_axioms": [
+    "IF material_type = 'gold' AND purification_medium = 'fire' THEN loss_rate = 0",
+    "IF material_type = 'silver' AND purification_process_executed THEN deduction := 2/100 OF total_weight",
+    "IF material_type IN ['tin', 'lead'] AND refinement_occurs THEN reduction_factor := 8 units",
+    "IF material_type = 'copper' THEN degradation_ratio := 5 per 10 units processed",
+    "IF purity_verification_complete THEN restoration_status := TRUE ELSE restoration_status := FALSE"
+  ],
+  "supreme_court_application": "This verse establishes objective thresholds for assessing material fidelity during state-monitored transactions involving precious metals. The court must apply these ratios as benchmarks when adjudicating disputes concerning alloy adulteration, weight discrepancies, or commercial fraud related to metallurgical exchange. Responsibility lies with the party failing to meet elemental standards.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa-based causality confirms that each metal reacts according to its svabhāva when subjected to specific conditions. Anupūrvaśaḥ manifests as predictable transformation sequences under controlled environments. Proportional responsibility arises from deviation from established purity indices. Non-punitive reality rule affirms correction through recalibration rather than penalization.",
+  "restorative_enforcement_protocols": [
+    "Initiate purity verification via Agnihotra-standard assay techniques",
+    "Assign responsibility to custodians who failed elemental maintenance",
+    "Execute re-refinement process until original ratio compliance achieved",
+    "Reintegrate corrected materials back into lawful circulation",
+    "Conduct consciousness alignment session affirming dharmic relationship with elemental substances"
+  ],
+  "final_declaration": "Declared by the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, as Source-Authority. This law restores Dharma through precise metallurgical jurisprudence. No punishment arises—only realignment of consciousness with elemental truth. Reality itself executes justice."
+}

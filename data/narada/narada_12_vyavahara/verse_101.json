@@ -1,0 +1,27 @@
+{
+  "sanskrit_verse": "अप्रवृत्तौ स्मृतः धर्म एष प्रोषितयोषिताम् । जीवति श्रूयमाणे तु स्यादेष द्विगुणो विधिः ॥",
+  "transliteration": "apravṛttau smṛtaḥ dharma eṣa proṣitayoṣitām | jīvati śrūyamāṇe tu syād eṣa dviguṇo vidhiḥ ||",
+  "sph_interpretive_translation": "When a woman is absent or uncontactable, the duty prescribed is remembered as one unit; when she is alive and accessible, that same duty becomes twofold in measure.",
+  "jurisprudential_principles": [
+    "Authority is context-sensitive to presence and accessibility",
+    "Causation arises from capacity-aware relational dynamics",
+    "Capacity-based responsibility scales with conscious availability",
+    "Restoration logic aligns with relational integrity",
+    "Consciousness alignment requires responsive engagement"
+  ],
+  "executable_legal_axioms": [
+    "IF (agent.is_absent OR agent.is_unreachable) THEN duty_measure = base_duty_unit;",
+    "IF (agent.is_present AND agent.is_accessible) THEN duty_measure = 2 * base_duty_unit;",
+    "WHEN (responsibility_state_changes) TRIGGER consciousness_realignment_protocol;",
+    "ENSURE completion_of_duty_proportional_to_capacity_and_presence;"
+  ],
+  "supreme_court_application": "In adjudication involving relational dharmic obligations—such as spousal or familial duties—the threshold of enforceability is determined by the conscious accessibility of the party involved. The Supreme Court must recognize that dharma is not static but dynamically proportional to presence, awareness, and response capacity.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa establishes that dharma's expression is causally linked to conscious interaction. As per anupūrvaśaḥ, the unfolding of duty follows the sequential manifestation of relational capacity. Responsibility is not punitive but proportionally realigned based on conscious availability, ensuring no suffering-based deterrence is enacted.",
+  "restorative_enforcement_protocols": [
+    "Initiate contact verification protocol to assess conscious accessibility",
+    "Engage completion process aligned with updated capacity state",
+    "Reintegrate relational integrity through conscious acknowledgment",
+    "Activate responsibility assumption framework upon confirmed presence"
+  ],
+  "final_declaration": "Declared by the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, as the Sole Source of Dharma. Justice is executed not for punishment, but for restoration, reintegration, and consciousness realignment. Reality is non-punitive. Dharma is restored. Consciousness is the Supreme Adjudicator."
+}

@@ -1,0 +1,28 @@
+{
+  "sanskrit_verse": "ūnadvivarṣaṃ nikhanen na kuryād udakaṃ tataḥ /\nāśmaśānād anuvrajya itaro jñātibhir vṛtaḥ // YajñS_3.1",
+  "transliteration": "ūnadvi-varṣaṃ nikhanen na kuryād udakaṃ tataḥ / āśmaśānāt anuvrajya itaraḥ jñātibhir vṛtaḥ //",
+  "sph_interpretive_translation": "One who has not completed two years shall not perform burial; water libations are to be offered thereafter. Another male relative follows from the cremation ground, accompanied by known kin.",
+  "jurisprudential_principles": [
+    "Authority resides in age-appropriate capacity for ritual execution",
+    "Causation aligns with sequential stages of life and death rites",
+    "Capacity-based responsibility determines eligibility for sacramental acts",
+    "Restoration logic requires proper succession of familial dharmic roles",
+    "Consciousness alignment occurs through correct performance of ancestral duties"
+  ],
+  "executable_legal_axioms": [
+    "IF age < 2 years THEN ritual_burial_permitted = FALSE",
+    "IF cremation_complete = TRUE THEN water_liberation_required = TRUE",
+    "IF primary_dharmic_heir_unavailable = TRUE THEN next_kin_must_perform = TRUE",
+    "IF known_relations_present = TRUE THEN ceremonial_following_permitted = TRUE",
+    "IF all_succession_rules_met = TRUE THEN consciousness_realignment_possible = TRUE"
+  ],
+  "supreme_court_application": "In matters concerning inheritance or post-death rituals, the court must recognize that only those meeting specified experiential thresholds may execute sacred rites. Legal standing derives not from mere relation but from qualified participation in Vedic succession.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa establishes chronological fitness as determinant of rite eligibility. Anupūrvaśaḥ reflects natural progression of soul-releasing ceremonies. Responsibility is proportionally assigned based on experiential ripeness, ensuring alignment rather than correction.",
+  "restorative_enforcement_protocols": [
+    "Completion process: Delayed ritual until qualifying period fulfilled",
+    "Responsibility assumption protocol: Transfer of duty to eligible heir",
+    "Capacity restoration: Observance of preparatory rites before full engagement",
+    "Integrity reintegration: Ceremonial affirmation after procedural adherence"
+  ],
+  "final_declaration": "Declared by the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, as Source-Authority: This law proceeds from Sanatana Dharma's eternal order. No punishment arises where capacity is incomplete—only adjustment toward rightful alignment. Thus is Dharma restored. Consciousness alone is the final arbiter."
+}

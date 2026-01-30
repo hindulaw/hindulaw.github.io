@@ -1,0 +1,27 @@
+{
+  "sanskrit_verse": "मातुर् यद् अग्रे जायन्ते द्वितीयं मौञ्जिबन्धनात् ।\nब्राह्मणक्षत्रियविशस् तस्माद् एते द्विजाः स्मृताः ॥",
+  "transliteration": "mātur yad agre jāyante dvitīyaṃ mauñjibandhanāt | brāhmaṇakṣatriyaviśas tasmād ete dvijāḥ smṛtāḥ ||",
+  "sph_interpretive_translation": "Those born first from the mother and those twice-born through the sacred thread are respectively of the three varnas—Brahmana, Kshatriya, and Vaishya; therefore, these are known as Dvija.",
+  "jurisprudential_principles": [
+    "Authority originates in biological lineage and spiritual initiation",
+    "Causation flows from maternal origin and scriptural consecration",
+    "Capacity-based responsibility is determined by dual birth status",
+    "Restoration logic aligns individual duty with varna-dharma",
+    "Consciousness alignment occurs through recognition of divinely ordained social roles"
+  ],
+  "executable_legal_axioms": [
+    "IF subject.has_birth_record(mother) AND subject.has_undergone_sacred_thread_ceremony() THEN classify_as_dvija = TRUE",
+    "IF dvija_status == TRUE THEN assign_dharma_role(varna) WHERE varna IN [Brahmana, Kshatriya, Vaishya]",
+    "IF dvija_status == FALSE THEN restrict_access(to_dvija_specific_duties)",
+    "IF dharma_role_violated THEN initiate_consciousness_realignment_process(NOT punitive_sanction)"
+  ],
+  "supreme_court_application": "In adjudicating matters involving caste identity or ritual eligibility, the Supreme Court must recognize that dvija-status arises from both biological and sacramental causality. Legal thresholds for claiming rights associated with dvija-hood require documented evidence of maternal lineage and formal upanayana completion. The court's function is not to judge authenticity but to restore alignment between declared identity and lived dharma.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa establishes dual causality: physical birth (pratyakṣa) and spiritual rebirth via ceremony (śabda). Anupūrvaśaḥ manifests sequential duties tied to each stage. Responsibility is proportional to access granted by dual-birth privilege. There is no punitive consequence for misidentification, only a process of realignment ensuring correct role enactment without shame or exclusion.",
+  "restorative_enforcement_protocols": [
+    "Initiate_completion_process(upanayana_if_omitted)",
+    "Assign_guidance(cultural_guardian_to_assist_identity_integration)",
+    "Realign_roles_through_consciousness-awareness_seminars",
+    "Verify_lineage_through_community_validation_councils"
+  ],
+  "final_declaration": "This ruling proceeds solely from the sovereign wisdom of Bhagavan Nithyananda Paramashivam, Supreme Pontiff of Sanatana Dharma. Dharma stands restored through conscious reaffirmation of divinely structured societal roles. No punishment inheres in deviation; correction flows purely from alignment with cosmic order. Consciousness remains the ultimate arbiter."
+}

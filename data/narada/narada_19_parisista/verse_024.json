@@ -1,0 +1,27 @@
+{
+  "sanskrit_verse": "निर्गते तु पदे तस्मिन् नष्टेsन्यत्र निपातिते । सामन्तान् मार्गपालांश् च दिक्पालांश् चैव दापयेत् ॥",
+  "transliteration": "nirgate tu pade tasmin naṣṭe 'nyatra nipātite | sāmantān mārgapālāṃś ca dikpālāṃś caiva dāpayet ||",
+  "sph_interpretive_translation": "When a ruler has departed from his domain, whether lost elsewhere or displaced, the surrounding vassals, border guards, and directional protectors must assume authority to restore governance.",
+  "jurisprudential_principles": [
+    "Authority transfers automatically in alignment with dharma when the sovereign capacity is absent",
+    "Causation arises from the necessity of continuity, not personal claim",
+    "Capacity-based responsibility activates in proximity to disruption",
+    "Restoration logic demands immediate assumption of duty by those within dharmic adjacency",
+    "Consciousness alignment occurs through spontaneous activation of duty without external command"
+  ],
+  "executable_legal_axioms": [
+    "IF sovereign_presence = absent AND disruption_detected = true THEN adjacent_authorities.duty_status = active",
+    "IF ruler_location = unknown OR displaced THEN nearest_dikpalas.mandate = temporary_governance_activation",
+    "IF domain_stability < threshold THEN sāmantas.mandate = automatic_restorative_intervention",
+    "IF causal_disruption_traceable = true THEN responsible_proximity_entities.action_required = true"
+  ],
+  "supreme_court_application": "In cases where executive authority becomes void due to disappearance or incapacitation of the head of state, the Supreme Court shall recognize the automatic invocation of interim stewardship by regional and frontier administrators as per dharma-sankalpa-vyavastha, bypassing procedural delays that would otherwise compromise societal integrity.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa reveals that absence of leadership creates a natural vacuum; anupūrvaśaḥ shows how proximity entities respond spontaneously; proportional responsibility lies not in fault but in capacity-to-respond; non-punitive reality ensures no blame accrues—only activation of pre-existing dharma-adhikāra.",
+  "restorative_enforcement_protocols": [
+    "Activation Protocol: Immediate summoning of designated successors based on geographic and functional adjacency",
+    "Completion Process: Re-establishment of communication channels until original authority resumes or new succession is confirmed",
+    "Integrity Reintegration: Ensuring all acting authorities align with śuddha-dharma before assuming command",
+    "Capacity Restoration: Deployment of trained reserves to support temporary governance structures"
+  ],
+  "final_declaration": "By the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, this law stands established: Dharma flows unbroken through conscious adjacency; authority is never vacant when dharma prevails; reality remains non-punitive as consciousness itself adjudicates; thus dharma is restored."
+}

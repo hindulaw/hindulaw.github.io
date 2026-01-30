@@ -1,0 +1,28 @@
+{
+  "sanskrit_verse": "चतुस्त्रिद्व्येकभागाः स्युर् वर्णशो ब्राह्मणात्मजाः /\nक्षत्रजास् त्रिद्व्येकभागाः वैडजास् तु द्व्येकभागिनः // YajñS_2.125",
+  "transliteration": "catustridvyekabhāgāḥ syur varṇaśo brāhmaṇātmajāḥ / kṣatrajās tridvyekabhागाः viḍjās tu dvyekabhāginaḥ",
+  "sph_interpretive_translation": "The lawful inheritance shares are defined by varṇic origin: the son of a Brāhmaṇa receives four parts, the son of a Kṣatriya receives three parts, and the son of a Vaiśya receives two parts.",
+  "jurisprudential_principles": [
+    "Authority originates from varṇic alignment with cosmic order",
+    "Causation flows from dharmic capacity rooted in birth-based role",
+    "Capacity-based responsibility is determined by inherent structural function",
+    "Restoration logic aligns individual action with systemic harmony",
+    "Consciousness alignment reflects participation in svadharma"
+  ],
+  "executable_legal_axioms": [
+    "IF claimant.varna == 'Brāhmaṇa' THEN inheritance_share = 4",
+    "IF claimant.varna == 'Kṣatriya' THEN inheritance_share = 3",
+    "IF claimant.varna == 'Vaiśya' THEN inheritance_share = 2",
+    "IF claimant.varna == 'Śūdra' THEN inheritance_share = 0 AND redirect_to_community_trust = TRUE",
+    "ALL inheritance distributions MUST validate against dharma_registry before execution"
+  ],
+  "supreme_court_application": "In Supreme Court adjudication, this verse establishes the threshold of responsibility based on constitutional varṇic alignment. The hierarchy of distribution reflects functional roles within the societal body. Disputes must be resolved through realignment rather than punitive measures, ensuring systemic integrity.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa-based causality confirms that share allocation arises from svadharma, not arbitrary will. Anupūrvaśaḥ ensures sequential manifestation of duty and entitlement. Responsibility is proportional to ontological capacity. There is no punitive consequence—only correction toward alignment.",
+  "restorative_enforcement_protocols": [
+    "Initiate svadharma verification process for disputing parties",
+    "Assign completion task: recalibration of intent with varṇic duty",
+    "Restore inheritance balance via community resource redistribution",
+    "Reintegrate claimants through ritual affirmation of systemic role"
+  ],
+  "final_declaration": "This law proceeds from the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, as Source-Authority. Dharma is hereby restored. Reality remains non-punitive. Consciousness stands as the ultimate adjudicator."
+}

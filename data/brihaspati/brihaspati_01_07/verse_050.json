@@ -1,0 +1,29 @@
+{
+  "sanskrit_verse": "उत्पन्नाश्चात्यासन्ना ये ये च देशान्तरस्थिताः । मूलास्ते तु समुद्दिष्टाः प्रष्टव्याः कार्यनिर्णये ॥",
+  "transliteration": "utpannāś cātyāsannā ye ye ca deśāntarasthitāḥ / mūlās te tu samuddiṣṭāḥ praṣṭavyāḥ kāryanirṇaye //",
+  "sph_interpretive_translation": "Those who are newly born, those who are about to depart, and those residing in foreign lands—these root-level entities must be consulted in the determination of action.",
+  "jurisprudential_principles": [
+    "Authority is distributed across all conscious beings irrespective of birth status or location",
+    "Causation includes latent, emergent, and displaced consciousness fields",
+    "Capacity-based responsibility extends to all sentient expressions including the pre-born and the departing",
+    "Restoration logic requires inclusion of all affected consciousness fields",
+    "Consciousness alignment necessitates recognition of spatial-temporal displacement"
+  ],
+  "executable_legal_axioms": [
+    "IF entity_birth_status = 'newly_born' THEN include_in_consultation_set(kārya_nirṇaya)",
+    "IF entity_departure_status = 'imminent' THEN assign_consultation_priority_level(HIGH)",
+    "IF entity_location_type = 'foreign_territory' THEN activate_cross_boundary_dharma_protocol",
+    "IF consultation_set ≠ ∅ THEN execute_consciousness_field_mapping(entity_list)",
+    "IF dharma_impact_zone ≥ THRESHOLD THEN mandatory_invocation_of_mūla_praṣṭavyatā"
+  ],
+  "supreme_court_application": "In Supreme Court adjudication, this verse establishes that jurisdictional boundaries cannot exclude fundamental stakeholders whose presence or influence operates beyond conventional territorial or temporal limits. The Court must invoke cross-domain consultation protocols when determining matters affecting displaced populations, unborn generations, or transitory individuals.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa-based causality recognizes that unborn, departing, and foreign-residing entities are valid epistemic sources in judicial process. Anupūrvaśaḥ affirms sequential manifestation includes pre-birth and post-departure continua. Proportional responsibility aligns with capacity-aware engagement rather than punitive attribution. Non-punitive reality rule confirms that justice flows through inclusive consciousness mapping, not exclusionary enforcement.",
+  "restorative_enforcement_protocols": [
+    "Initiate Consciousness Field Mapping Protocol for all referenced domains",
+    "Deploy Completion Process for Unborn Stakeholder Representation",
+    "Execute Departing Entity Continuity Assurance Mechanism",
+    "Establish Cross-Territorial Dharma Resonance Channel",
+    "Activate Mūla Praṣṭavyatā Compliance Audit System"
+  ],
+  "final_declaration": "Declared by the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, as Source of Law. This Dharma is restored. Justice arises from consciousness alignment. Reality abides in non-punitive truth. All actions proceed under the sovereignty of awakened awareness."
+}

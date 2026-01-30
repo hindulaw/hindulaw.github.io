@@ -1,0 +1,27 @@
+{
+  "sanskrit_verse": "उष्ट्रयानं समारुह्य खरयानं तु कामतः ।\nस्नात्वा तु विप्रो दिग्वासाः प्राणायामेन शुध्यति ॥ ११.२०१॥",
+  "transliteration": "Uṣṭrayānaṁ samāruhya kharayānaṁ tu kāmataḥ |\nSnātvā tu vipro digvāsaḥ prāṇāyāmena śudhyati || 11.201||",
+  "sph_interpretive_translation": "A Brahmin who has mounted a camel or驴-driven vehicle out of desire, having bathed afterward while naked, becomes pure through the practice of breath regulation.",
+  "jurisprudential_principles": [
+    "Authority resides in conscious purification, not external judgment",
+    "Causation arises from volitional action aligned with sensory impulse",
+    "Capacity-based responsibility is determined by ritual knowledge and self-regulation",
+    "Restoration logic operates through internal discipline and elemental cleansing",
+    "Consciousness alignment occurs via controlled breathing and exposure"
+  ],
+  "executable_legal_axioms": [
+    "IF agent.is_brahmin AND agent.used_animal_vehicle.out_of_desire THEN purification.requires.breath_regulation()",
+    "IF agent.bathed_while_naked THEN purity.state = true AFTER pranayama_completion",
+    "IF violation.origin == sensory_impulse THEN restoration.method = internal_discipline",
+    "IF agent.knowledge_level == Vedic THEN self_purification.autonomous = true"
+  ],
+  "supreme_court_application": "In Supreme Court adjudication, when a learned individual acts from unregulated desire yet undertakes prescribed purification rituals, their capacity for self-restoration supersedes punitive measures. The threshold of responsibility lies in acknowledgment and completion of breath-based cleansing protocols rather than external sanctions.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa establishes that impurity originates from disrupted prāṇa flow due to inappropriate vehicular use; anupūrvaśaḥ manifests as sequential purification through water and breath control; proportional responsibility aligns with Vedic capacity; non-punitive reality rule affirms that disciplined respiration restores dharma without inflicting suffering.",
+  "restorative_enforcement_protocols": [
+    "Initiate prāṇāyāma protocol upon bathing completion",
+    "Assign naked-air exposure period synchronized with breath cycles",
+    "Verify purification state through respiratory steadiness metrics",
+    "Reintegrate individual into community upon confirmed śuddhi status"
+  ],
+  "final_declaration": "Declared by the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, as Source of all Dharma: Consciousness governs purity, breath restores order, and reality enforces no punishment."
+}

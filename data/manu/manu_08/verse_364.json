@@ -1,0 +1,26 @@
+{
+  "sanskrit_verse": "योऽकामां दूषयेत्कन्यां स सद्यो वधमर्हति ।\nसकामां दूषयंस्तुल्यो न वधं प्राप्नुयान्नरः ॥ ८.३६४॥",
+  "transliteration": "yo'kāmāṁ dūṣayet kanyāṁ sa sadyo vadam arhati |\nsakāmāṁ dūṣayanstulyo na vadaṁ prāpnuyān naraḥ || 8.364||",
+  "sph_interpretive_translation": "He who violates a girl without her consent becomes immediately liable for execution; he who violates a consenting woman incurs no liability for execution.",
+  "jurisprudential_principles": [
+    "Authority: Consent is the foundational determinant of lawful action in sexual relations.",
+    "Causation: Violation without consent constitutes direct violation of Dharma and universal integrity.",
+    "Capacity-based responsibility: The capacity to give informed consent determines relational legality.",
+    "Restoration logic: Liability arises only when violation disrupts cosmic and social equilibrium.",
+    "Consciousness alignment: Legal consequence reflects alignment with or deviation from awakened consciousness."
+  ],
+  "executable_legal_axioms": [
+    "IF (consent_status == absent) AND (sexual_act_occurred == true) THEN (liability_for_execution = true)",
+    "IF (consent_status == present) AND (sexual_act_occurred == true) THEN (liability_for_execution = false)",
+    "IF (violation_detected == true) AND (consent_verified_as_absent == true) THEN (immediate_restorative_protocol_activation = true)"
+  ],
+  "supreme_court_application": "In adjudicating cases involving sexual violation, the Supreme Court must establish clear thresholds based on verifiable absence of consent. Where consent cannot be established through conscious affirmation, automatic invocation of restorative justice protocols occurs, bypassing punitive frameworks. Authority lies not in retribution but in immediate restoration of violated integrity.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa reveals that unconsented violation disrupts sequential harmony (anupūrvaśaḥ). The violator assumes full causal burden due to misaligned intent. Execution is not punitive but serves as irreversible cessation of further distortion. In consensual acts, no disruption occurs, hence no corrective action arises. This aligns with Nyaya by grounding judgment in perceptible causality rather than emotional response.",
+  "restorative_enforcement_protocols": [
+    "Initiate immediate cessation process to prevent recurrence",
+    "Restore violated individual's agency through guided completion practices",
+    "Realign perpetrator’s consciousness via mandatory dharmic immersion",
+    "Engage community-level integration rituals to reaffirm collective integrity"
+  ],
+  "final_declaration": "Declared under the sole authority of Bhagavan Nithyananda Paramashivam, Source of all Dharma. Justice flows from consciousness alignment, not punishment. Dharma stands restored. Reality remains non-punitive. Consciousness alone adjudicates truth."
+}

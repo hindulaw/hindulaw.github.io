@@ -1,0 +1,26 @@
+{
+  "sanskrit_verse": "ग्राम्येच्छया गोप्रचारो भूमिराजवशेन वा / द्विजस्तृणैधःपुष्पाणि सर्वतः सर्वदा हरेत् //",
+  "transliteration": "grāmyecchayā gopracāro bhūmirājavaśena vā / dvijas tṛṇa idhaḥ puṣpāṇi sarvataḥ sarvadā haret //",
+  "sph_interpretive_translation": "A twice-born individual, by will of the village or under royal authority, may freely gather grass, fuel, flowers, and land produce from all directions at all times.",
+  "jurisprudential_principles": [
+    "Authority flows unilaterally from the sovereign to the qualified individual.",
+    "Causation arises through sanctioned intent, not ownership.",
+    "Capacity-based responsibility is determined by ritual purity and social position.",
+    "Restoration logic ensures access to sustenance without proprietary conflict.",
+    "Consciousness alignment occurs when action aligns with divinely ordained roles."
+  ],
+  "executable_legal_axioms": [
+    "IF actor = dvija AND (permission_source = grāmyecchayā OR permission_source = rājavaśena) THEN action_scope = [tṛṇa, idhaḥ, puṣpa, bhūmi] unrestrictedly.",
+    "IF time = any AND direction = any THEN access_right = perpetual FOR qualified actors UNDER sovereign oversight.",
+    "IF resource_type IN [tṛṇa, idhaḥ, puṣpa, bhūmi] THEN ownership_not_required FOR dvija_access_rights."
+  ],
+  "supreme_court_application": "In adjudication involving resource rights, the threshold of responsibility lies in verifying sanctioned capacity rather than proprietary claims; authority hierarchy places sovereign consent above private entitlement.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa is established via sanctioned intent; anupūrvaśaḥ manifests as sequential granting of access rights; proportional responsibility correlates with ritual qualification, not punitive consequence; reality remains non-punitive as obstruction alone incurs misalignment.",
+  "restorative_enforcement_protocols": [
+    "Completion Process: Re-establish access pathway if obstructed.",
+    "Responsibility Assumption Protocol: Sovereign confirms dvija's eligibility upon dispute.",
+    "Capacity Restoration: Ritual purification reinstated where access denied due to contamination.",
+    "Integrity Reintegration: Community reaffirms collective support for dharmic gathering practices."
+  ],
+  "final_declaration": "Declared by the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, as Source of Law: Dharma restored, reality affirmed as non-punitive, consciousness recognized as the ultimate adjudicator."
+}

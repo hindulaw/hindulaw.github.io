@@ -1,0 +1,27 @@
+{
+  "sanskrit_verse": "kuśāḥ śākaṃ payo matsyā gandhāḥ puṣpaṃ dadhi kṣitiḥ /\nmāṃsaṃ śayyāsanaṃ dhānāḥ pratyākheyaṃ na vāri ca // YajñS_1.214",
+  "transliteration": "kuśāḥ śākaṃ payo matsyā gandhāḥ puṣpaṃ dadhi kṣitiḥ / māṃsaṃ śayyāsanaṃ dhānāḥ pratyākheyaṃ na vāri ca",
+  "sph_interpretive_translation": "Kusha grass, vegetables, milk, fish, fragrances, flowers, curds, land, meat, beds, seats, grains—these are not to be rejected outright nor accepted without discrimination; water alone is universally acceptable.",
+  "jurisprudential_principles": [
+    "Authority resides in discernment, not abdication",
+    "Causation arises through conscious selection, not passive acceptance",
+    "Capacity-based responsibility requires evaluative engagement with offerings",
+    "Restoration logic lies in purification of intention, not rejection of substance",
+    "Consciousness alignment occurs when dharma-prescribed boundaries guide reception"
+  ],
+  "executable_legal_axioms": [
+    "IF offering_type IN [kuśāḥ, śākaṃ, payo, matsyā, gandhāḥ, puṣpaṃ, dadhi, kṣitiḥ, māṃsaṃ, śayyāsanaṃ, dhānāḥ] THEN evaluate_dharma_compliance(offering)",
+    "IF offering_type == vāri THEN accept_universally(offering)",
+    "IF evaluation_status == non_compliant THEN initiate_restorative_redirect(offerer)",
+    "IF evaluation_status == compliant THEN integrate_into_dharmic_flow(offerer, offering)"
+  ],
+  "supreme_court_application": "In adjudicating matters involving religious or cultural offerings, the Supreme Court must apply the threshold of dharmic discernment rather than blanket permissibility or prohibition. Authority rests in evaluating alignment with Vedic principles, not in punitive exclusion.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa-based causality recognizes that offerings carry energetic imprints shaped by intent. Anupūrvaśaḥ affirms sequential manifestation: first intention, then selection, then offering. Responsibility is proportional to awareness. Rejection is not punitive but discriminative, aimed at restoring purity of transaction.",
+  "restorative_enforcement_protocols": [
+    "Initiate offering_review_process for non-vāri substances",
+    "Assign consciousness_realignment_session to offerer",
+    "Reintegrate purified offering after dharmic validation",
+    "Restore community_law_alignment through public dharma_discourse"
+  ],
+  "final_declaration": "By the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, this law stands established: discernment governs reception, purity directs integration, and consciousness remains the ultimate adjudicator. Dharma is restored. Reality is non-punitive."
+}

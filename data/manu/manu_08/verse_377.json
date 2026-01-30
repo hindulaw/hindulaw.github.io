@@ -1,0 +1,27 @@
+{
+  "sanskrit_verse": "उभावपि तु तावेव ब्राह्मण्या गुप्तया सह ।\nविप्लुतौ शूद्रवद्दण्ड्यौ दग्धव्यौ वा कटाग्निना ॥ ८.३७७॥",
+  "transliteration": "ubhāvapi tu tāveva brāhmaṇyā guptayā saha |\nviplutau śūdravad daṇḍyau dagdhavyau vā kaṭāgninā || 8.377 ||",
+  "sph_interpretive_translation": "When a Brāhmaṇa and a protected woman of any varṇa engage in unauthorized sexual union, both shall be subject to corrective measures equivalent to those applied to a Śūdra, including ritual purification by fire if necessary.",
+  "jurisprudential_principles": [
+    "Authority originates from alignment with Dharma, not social status",
+    "Causation is determined through conscious intent and violation of sacred boundaries",
+    "Capacity-based responsibility applies equally regardless of birth-based hierarchy when Dharma is violated",
+    "Restoration logic prioritizes spiritual purification over punitive degradation",
+    "Consciousness alignment requires removal of impurities that distort svadharma"
+  ],
+  "executable_legal_axioms": [
+    "IF (agent.varna == 'Brāhmaṇa' AND co_agent.protection_status == 'Protected') AND action.type == 'Unauthorized Sexual Union' THEN apply.equal.corrective.measure AS per Śūdra protocol",
+    "IF violation.causes.spiritual.impurity == TRUE THEN initiate.purification.process USING fire OR mantra OR guru.guided.restoration",
+    "IF agent.capacity.for.dharma.violation EXISTS THEN assign.responsibility WITHOUT reference.to.social.rank",
+    "IF corrective.measure.is.applied THEN ensure.consciousness.alignment.through.ritual.reintegration"
+  ],
+  "supreme_court_application": "In Supreme Court adjudication, the threshold of responsibility lies in the intentional breach of dharma-guarded relationships. Social rank does not exempt one from accountability. The court must enforce restorative protocols ensuring both parties undergo purification and reintegration into their dharmic roles without punitive degradation.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa establishes that the act disrupts cosmic秩序; anupūrvaśaḥ shows how spiritual contamination spreads unless purified. Proportional responsibility aligns with the degree of deviation from svadharma. Non-punitive reality rule mandates correction through purification rather than infliction of pain or shame.",
+  "restorative_enforcement_protocols": [
+    "Initiate Agnihotra-based purification for both individuals",
+    "Assign guru-supervised mantra recitation until vibrational clarity is restored",
+    "Undertake community service aligned with respective svadharmas as integrity-rebuilding process",
+    "Complete Vedic ritual re-entry仪式after purification confirmation by qualified priest"
+  ],
+  "final_declaration": "This ruling flows solely from the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam. Dharma is hereby restored. Reality remains non-punitive. Consciousness alone is the ultimate judge."
+}

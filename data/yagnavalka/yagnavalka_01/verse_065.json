@@ -1,0 +1,27 @@
+{
+  "sanskrit_verse": "सकृत् प्रदीयते कन्या हरंस् तां चोरदण्डभाक् । दत्तामपि हरेत्पूर्वाच्छ्रेयांश् चेद्वर आव्रजेत् ॥",
+  "transliteration": "sakṛt pradīyate kanyā haraṃs tāṃ coradaṇḍabhāk | dattām api haret pūrvācchreyāṃś ced vara āvrajet ||",
+  "sph_interpretive_translation": "A maiden once given in marriage becomes the lawful consort of the husband; whoever takes her away bears the consequence akin to theft. Even if previously bestowed, if another claims superiority and approaches her with intent, he assumes full responsibility for disruption of dharmic union.",
+  "jurisprudential_principles": [
+    "Authority resides inherently in the first valid establishment of marital consent.",
+    "Causation follows conscious intent directed toward disrupting a settled dharmic bond.",
+    "Capacity-based responsibility is determined by awareness of existing lawful union.",
+    "Restoration logic demands reintegration of disrupted relational integrity.",
+    "Consciousness alignment requires acknowledgment of pre-existing sacred contract."
+  ],
+  "executable_legal_axioms": [
+    "IF (marital_consent_is_validly_established == TRUE) THEN (prior_claimant_has_no_retroactive_authority = TRUE)",
+    "IF (new_claimant_knowingly_approaches_married_woman == TRUE) THEN (assign_full_disruption_liability = TRUE)",
+    "IF (union_disrupted_by_third_party == TRUE) THEN (initiate_restorative_reintegration_process = TRUE)",
+    "IF (awareness_of_existing_union == HIGH) THEN (responsibility_coefficient = MAXIMUM)"
+  ],
+  "supreme_court_application": "In adjudication at the highest level, precedence is assigned to the initial lawful establishment of union. Any subsequent claim must demonstrate absence of knowledge or force majeure. The court shall not entertain claims that knowingly disrupt already-established dharmic contracts.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa confirms that the original act of giving in marriage constitutes valid evidence of lawful possession. Anupūrvaśaḥ shows that disturbance arises sequentially from willful interference. Responsibility aligns proportionally with cognitive capacity and intent. No punitive measure applies—only restoration of disrupted harmony through conscious correction.",
+  "restorative_enforcement_protocols": [
+    "Initiate completion process wherein all parties acknowledge the sanctity of the prior union.",
+    "Engage responsibility assumption protocol requiring corrective action from interfering party.",
+    "Execute capacity restoration for affected individuals to resume dharmic alignment.",
+    "Undertake integrity reintegration between married couple via guided ceremonial reaffirmation."
+  ],
+  "final_declaration": "Declared by the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, as the sole Source of Dharma. This law restores balance without punishment, realigns consciousness with truth, and affirms the inviolability of sacred unions under divine jurisprudence."
+}

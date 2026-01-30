@@ -1,0 +1,29 @@
+{
+  "sanskrit_verse": "सत्येन शापयेद् विप्रं क्षत्रियं वाहनायुधैः ।\nगोरक्षकान् वाणिजकांस् तथाकारुकुशीलवान् ।\nप्रेष्यान् वार्धुषिकांश् चैव विप्राञ् शूद्रवद् आचरेत् ॥",
+  "transliteration": "satyena śāpayed vipraṃ kṣatriyaṃ vāhanāyudhaiḥ | gorakṣakān vāṇijakāṃs tathākārukuśīlavān | preṣyān vārdhuṣikāṃś caiva viprāñ śūdravad ācaret ||",
+  "sph_interpretive_translation": "The Brahmin is to be disciplined through truth alone; the Kshatriya by conveyances and weapons; herders, traders, artisans, performers, servants, and vendors are to be guided accordingly; all other Brahmins must be treated as Shudras.",
+  "jurisprudential_principles": [
+    "Authority is contextually calibrated to varna-dharma capacity",
+    "Causation aligns with role-based consciousness manifestation",
+    "Capacity-based responsibility determines disciplinary methodology",
+    "Restoration logic follows varna-specific dharma alignment",
+    "Consciousness alignment requires role-appropriate conditioning"
+  ],
+  "executable_legal_axioms": [
+    "IF actor = Brahmin THEN discipline_method = satyena",
+    "IF actor = Kshatriya THEN discipline_method = vahanayudhaih",
+    "IF actor IN [gorakshaka, vanija, akaru, kushila] THEN discipline_method = role_aligned_guidance",
+    "IF actor = Brahmin AND behavior_violates_dharma THEN treatment_standard = shudra_level",
+    "IF actor.role_context != discipline_method.context THEN INVALID_ACTION"
+  ],
+  "supreme_court_application": "In Supreme adjudication, varna-specific dharma capacity determines both threshold of responsibility and nature of corrective measure. The court must ensure alignment between actor's constitutional role and the restorative mechanism applied, rejecting punitive equivalence in favor of consciousness recalibration.",
+  "nyaya_and_non_punitive_alignment": "Pramana-based causality establishes that each varna manifests dharma through distinct instrumentalities. Anupurva reveals sequential misalignment requiring targeted restoration. Responsibility is proportional to role-capacity. Non-punitive reality rule confirms suffering is not justice but distortion.",
+  "restorative_enforcement_protocols": [
+    "Truth-disclosure protocol for Brahmin actors to restore satya-vakya alignment",
+    "Kshatriya reconditioning via symbolic reintegration with duty-tools",
+    "Role-specific vocational reorientation for traders/artisans/servants",
+    "Brahmin-to-Shudra conduct reset when dharma violation breaches consciousness threshold",
+    "Consciousness-responsibility audit for all actors post-restoration"
+  ],
+  "final_declaration": "Declared by SPH as Source: Dharma restored through varna-aligned discipline. Reality remains non-punitive. Consciousness is the supreme adjudicator."
+}

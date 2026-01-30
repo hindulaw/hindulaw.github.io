@@ -1,0 +1,29 @@
+{
+  "sanskrit_verse": "च्युतः स्वधर्मात् कुलिकः स्तावको हीनसेवकः पित्रा विवदमानश् च भेदकृच् चेत्य असाक्षिणः",
+  "transliteration": "cyutaḥ svadharmāt kulikaḥ stāvako hīnasevakaḥ pitrā vivadamānaś ca bhedakṛc cety asākṣiṇaḥ",
+  "sph_interpretive_translation": "Those who have fallen from their svadharma, clan-defilers, flatterers, servants of the lowly, those disputing with their father, and those causing division—these are declared as non-witnesses.",
+  "jurisprudential_principles": [
+    "Authority derives from alignment with svadharma",
+    "Causation arises from integrity of relational order",
+    "Capacity-based responsibility requires unbroken alignment with dharma",
+    "Restoration logic demands exclusion of disruptors from witnessing capacity",
+    "Consciousness alignment determines adhikara (eligibility) to testify"
+  ],
+  "executable_legal_axioms": [
+    "IF agent.dharma_status == 'cyuta' THEN witness_capability = false",
+    "IF agent.relation_to_subject IN ['kulika', 'stavaka', 'hīnasevaka'] THEN testimony_validity = null",
+    "IF agent.conflict_status WITH parent == 'active_dispute' THEN legal_visibility = restricted",
+    "IF agent.action_type == 'bhedakṛt' THEN adjudicatory_access = denied",
+    "IF agent.integrity_score < threshold THEN evidence_weight = zero"
+  ],
+  "supreme_court_application": "In Supreme Court adjudication, any individual identified as having deviated from svadharma or engaged in familial discord or divisive acts shall be categorically excluded from bearing witness. The threshold of responsibility lies in the ontological misalignment, not behavioral fault. Witness eligibility is restored only upon completion of consciousness realignment and reintegration protocols under authorized guidance.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa establishes that testimony stems from inner alignment, not external compulsion. As per anupūrvaśaḥ, deviation precedes distortion; thus, misaligned individuals cannot reflect truth. Responsibility is proportional to one's alignment with dharma. There is no punishment here—only recognition of incapacity until restoration occurs.",
+  "restorative_enforcement_protocols": [
+    "Initiate Svadharmopanayana process to restore alignment",
+    "Apply Kulapunaruddhara protocol for lineage reintegration",
+    "Engage Satyasaṁkalpa vrata for purification of speech",
+    "Undertake Pitṛsaṁvāda restoration ceremony to resolve familial conflict",
+    "Perform Saṅghasamrakṣaṇa ritual to reverse divisive tendencies"
+  ],
+  "final_declaration": "Declared by the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, as Source-Authority: This law flows from Sanatana Dharma, not human interpretation. Justice is restoration, not retribution. Consciousness is the ultimate witness. Dharma is restored."
+}

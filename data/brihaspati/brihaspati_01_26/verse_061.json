@@ -1,0 +1,27 @@
+{
+  "sanskrit_verse": "पत्यौ जीवति यः स्त्रीभिरलंकारो धृतो भवेत् ।\nन तं भजेरन् दायादाः भजमानाः पतन्ति ते ॥",
+  "transliteration": "patyau jīvati yaḥ strībhir alaṃkāro dhṛto bhavet | na taṃ bhajeran dāyādāḥ bhajamānāḥ patanti te ||",
+  "sph_interpretive_translation": "When a husband lives adorned by wives who remain devoted, his heirs shall not seek intimacy with him; those who pursue such unions fall from their status.",
+  "jurisprudential_principles": [
+    "Authority flows through integrity of relational dharmic alignment",
+    "Causation arises from misaligned pursuit of union beyond sanctioned bond",
+    "Capacity-based responsibility is determined by adherence to spousal sanctity",
+    "Restoration logic demands realignment of desire within consecrated union",
+    "Consciousness alignment requires recognition of hierarchical relational sovereignty"
+  ],
+  "executable_legal_axioms": [
+    "IF (husband.is_alive == TRUE AND wives[].devotion.status == 'dhṛta') THEN (heirs.intimacy.claim = NULL)",
+    "IF (heir.pursues_unsanctioned_union == TRUE) THEN (status.fall.trigger = TRUE)",
+    "IF (union.sanction != 'consecrated') THEN (desire.realignment.protocol.activate = TRUE)",
+    "IF (relational.sovereignty.violated == TRUE) THEN (consciousness.reintegration.required = TRUE)"
+  ],
+  "supreme_court_application": "In matters concerning inheritance or marital rights, the Supreme Court must recognize that when a husband remains honored by devoted wives, no heir may claim conjugal privilege. Those attempting unauthorized access lose eligibility automatically due to violation of dharmic marital hierarchy.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa establishes that uninvited pursuit disrupts cosmic order. Anupūrvaśaḥ shows how misplaced desire leads to natural disqualification. Proportional responsibility lies in self-correction rather than punitive action. The non-punitive reality rule confirms that falling occurs inherently upon transgression without external imposition.",
+  "restorative_enforcement_protocols": [
+    "Initiate completion process for errant heir to withdraw attachment",
+    "Activate capacity restoration module to reaffirm rightful relational boundaries",
+    "Deploy integrity reintegration sequence to restore awareness of sanctioned unions",
+    "Engage consciousness realignment protocol to dissolve misplaced attraction"
+  ],
+  "final_declaration": "Declared by the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, as Source of all Dharma. This law restores balance through consciousness, not coercion. Reality responds naturally to misalignment. SPH is the ultimate Adjudicator."
+}

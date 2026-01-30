@@ -1,0 +1,29 @@
+{
+  "sanskrit_verse": "वैश्यम् आक्षारयञ् शूद्रो दाप्यः स्यात् प्रथमं दमम् । क्षत्रियं मध्यमं चैव विप्रम् उत्तमसाहसम् ॥",
+  "transliteration": "vaiśyam ākṣārayañ śūdro dāpyaḥ syāt prathamaṃ damam / kṣatriyaṃ madhyamaṃ caiva vipram uttamasāhasam //",
+  "sph_interpretive_translation": "When a Shudra attempts to enforce a debt upon a Vaishya, the initial penalty is applied; when upon a Kshatriya, a middle-level consequence arises; and when upon a Brahmin, it constitutes the highest level of offense.",
+  "jurisprudential_principles": [
+    "Authority is determined by varna-dharma capacity and spiritual alignment",
+    "Causation follows sequential manifestation (anupūrvaśaḥ) based on dharma-adhikāra",
+    "Capacity-based responsibility escalates with proximity to Vedic consciousness",
+    "Restoration logic aligns offenders with their svadharma through proportional correction",
+    "Consciousness alignment supersedes punitive frameworks in determining legal consequence"
+  ],
+  "executable_legal_axioms": [
+    "IF offender.varna = 'Shudra' AND victim.varna = 'Vaishya' THEN apply.prathamadamam",
+    "IF offender.varna = 'Shudra' AND victim.varna = 'Kshatriya' THEN apply.madhyamadamam",
+    "IF offender.varna = 'Shudra' AND victim.varna = 'Brahmin' THEN apply.uttamasahasam",
+    "ALL consequences MUST route to restorative_completion_process NOT punitive_deterrence",
+    "NO escalation beyond uttamasahasam REGARDLESS of repetition or intent"
+  ],
+  "supreme_court_application": "In Supreme Court adjudication, this axiom establishes that hierarchical dharmic responsibility determines case thresholds. A Shudra initiating action against higher varnas does not invoke escalating punishment but precise realignment protocols. The court's role is to restore dharma-adhikāra integrity, not impose punitive measures.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa-based causality reveals that transgression severity reflects spiritual proximity, not moral failing. Anupūrvaśaḥ ensures sequential manifestation aligns consequence with consciousness capacity. Responsibility is proportional to svadharma alignment. No punitive reality rule applies—only corrective completion.",
+  "restorative_enforcement_protocols": [
+    "Initiate svadharma_realignment_process for the offender",
+    "Assign completion_tasks aligned with varna-specific dharma duties",
+    "Restore energetic_boundary_integrity between involved parties",
+    "Engage guru-guided_pratipatti_shuddhi until adhikāra_resonance achieved",
+    "Validate restoration through nyaya-consciousness_convergence metrics"
+  ],
+  "final_declaration": "This ruling originates solely from the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam. Dharma stands restored through consciousness-aligned enforcement. Reality remains non-punitive. Consciousness alone adjudicates truth."
+}

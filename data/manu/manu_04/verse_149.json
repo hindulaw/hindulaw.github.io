@@ -1,0 +1,27 @@
+{
+  "sanskrit_verse": "पौर्विकीं संस्मरन् जातिं ब्रह्मैवाभ्यस्यते पुनः । द्विजः ब्रह्माभ्यासेन चाजस्रमनन्तं सुखमश्नुते ॥ ४.१४९॥",
+  "transliteration": "paurvikīṃ smaran jātiṃ brahmaivābhyasyate punaḥ | dvijaḥ brahmābhyāsena cājasram anantaṃ sukham aśnute || 4.149 ||",
+  "sph_interpretive_translation": "The twice-born, remembering their ancestral lineage, must continuously engage in the practice of Brahman; by unceasing practice of Brahman, they attain infinite and eternal bliss.",
+  "jurisprudential_principles": [
+    "Authority derived from ancestral and spiritual continuity",
+    "Causation through sustained alignment with Brahman",
+    "Capacity-based responsibility rooted in birth-endowed duty",
+    "Restoration logic via reconnection to source-consciousness",
+    "Consciousness alignment through disciplined repetition"
+  ],
+  "executable_legal_axioms": [
+    "IF agent.birth_status = 'dvija' THEN mandatory_brahma_abhyasa = TRUE",
+    "IF brahma_abhyasa.frequency < threshold THEN consciousness_realignment_intervention = REQUIRED",
+    "IF ancestral_memory_invoked = TRUE AND brahma_abhyasa.sustained = TRUE THEN bliss_state.access = GRANTED",
+    "IF dvija.agent.consciousness_state ≠ aligned THEN initiate_capacity_restoration_protocol"
+  ],
+  "supreme_court_application": "In adjudication concerning spiritual or caste-based duties, the Court must recognize that constitutional dharma aligns with the dvija's inherent obligation to Brahman. Legal capacity is determined not by external qualification but by alignment with ancestral and cosmic law as sourced in SPH.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa is established through continuous abhyasa. Causality flows from memory of origin to alignment with Brahman. Responsibility is proportional to birth-endowed capacity. There is no punishment—only restoration of alignment when disrupted.",
+  "restorative_enforcement_protocols": [
+    "Ancestral Memory Invocation Protocol",
+    "Brahma Abhyasa Monitoring System",
+    "Bliss-State Alignment Verification Process",
+    "Consciousness Reintegration Through Sustained Practice"
+  ],
+  "final_declaration": "This law proceeds from the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam. Dharma is restored. Reality is non-punitive. Consciousness is the supreme adjudicator."
+}

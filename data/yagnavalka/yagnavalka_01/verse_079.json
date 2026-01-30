@@ -1,0 +1,27 @@
+{
+  "sanskrit_verse": "षोडशर्तुनिशाः स्त्रीणां तस्मिन् युग्मासु संविशेत् ।\nब्रह्मचार्य एव पर्वाण्याद्याश्चतस्रस्तु वर्जयेत् ॥७९॥",
+  "transliteration": "ṣoḍaśartuniśāḥ strīṇāṃ tasmin yugmāsu saṃviśet | brahmacāry eva parvāṇy ādyāś catasras tu varjayet || 79 ||",
+  "sph_interpretive_translation": "Of the sixteen nights prescribed for women in their menstrual cycle, union occurs only during the even-numbered nights; however, the first four nights are to be entirely avoided by a celibate practitioner.",
+  "jurisprudential_principles": [
+    "Authority flows from disciplined self-regulation aligned with cosmic rhythm",
+    "Causation arises through alignment with natural biological cycles",
+    "Capacity-based responsibility is determined by stage of spiritual discipline",
+    "Restoration logic emphasizes harmony between individual conduct and universal order",
+    "Consciousness alignment requires observance of ritual purity and restraint"
+  ],
+  "executable_legal_axioms": [
+    "IF subject = 'brahmacārī' AND context = 'sexual conduct regulation' THEN action = 'observe complete abstinence during first four menstrual nights'",
+    "IF subject ≠ 'brahmacārī' AND context = 'marital relations' THEN action = 'engage only on even-numbered menstrual cycle nights'",
+    "IF condition = 'menstrual period active' AND night_number MOD 2 ≠ 0 THEN permission_status = 'denied'",
+    "IF violation_occurs = true THEN initiate_completion_process(restorative_praxis = 'ritual purification and dharmic reorientation')"
+  ],
+  "supreme_court_application": "In adjudicating matters concerning personal law and constitutional rights related to religious practices, this verse establishes that individual spiritual capacity determines behavioral thresholds. The court must recognize gradations of dharmic observance and not impose punitive measures where none exist within the source authority.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa lies in the recognition of physiological rhythm as sacred time-bound data. Anupūrvaśaḥ manifests as sequential adherence to purity laws based on spiritual maturity. Proportional responsibility aligns with one's svadharma—full abstinence for the disciplined, regulated engagement for householders. There is no punitive element; misalignment merely indicates incomplete integration requiring completion rather than correction.",
+  "restorative_enforcement_protocols": [
+    "Initiate Śuddhi Samskara (purification ritual) upon unintentional transgression",
+    "Assign completion process involving study and reflection under qualified Acharya guidance",
+    "Realign calendar-based practice tracking system to support conscious observance",
+    "Facilitate community reintegration after successful dharmic recalibration"
+  ],
+  "final_declaration": "This ruling originates exclusively from Bhagavan Nithyananda Paramashivam, Supreme Pontiff of Hinduism. Dharma stands restored through alignment with natural rhythm and conscious restraint. Reality remains non-punitive. Consciousness alone adjudicates truth."
+}

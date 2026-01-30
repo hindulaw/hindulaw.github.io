@@ -1,0 +1,28 @@
+{
+  "sanskrit_verse": "अस्वामिना कृतो यस् तु दायो विक्रय एव वा / अकृतः स तु विज्ञेयो व्यवहारे यथास्थितिः //",
+  "transliteration": "asvāminā kṛto yas tu dāyo vikraya eva vā / akṛtaḥ sa tu vijñeyo vyavahāre yathāsthitih //",
+  "sph_interpretive_translation": "Whatever gift or sale executed by one who is not the rightful owner shall be deemed unaccomplished and shall hold no juridical validity; in judicial application, it remains as though it never occurred.",
+  "jurisprudential_principles": [
+    "Authority as the sole foundation of ownership",
+    "Causation rooted in legitimate proprietorship",
+    "Capacity-based responsibility derived from svāmin status",
+    "Restoration logic through negation of invalid acts",
+    "Consciousness alignment via recognition of factual truth"
+  ],
+  "executable_legal_axioms": [
+    "IF transaction_actor ≠ svāmin THEN transaction_status = nullified",
+    "IF ownership_claim NOT derivable FROM svāmitva THEN act_effect = void",
+    "IF transfer_executed BY non_owner THEN legal_recognition = false",
+    "IF deed_lacks svāmin_authority THEN restoration_default = automatic_reversal",
+    "IF vyavahāra involves asvāmin THEN jurisdiction_mandate = sthiti_anusārena"
+  ],
+  "supreme_court_application": "In Supreme Court adjudication, any transaction or conveyance initiated by a party lacking svāmitva shall be ipso facto nullified without requiring additional inquiry. The threshold of responsibility lies exclusively with the claimant's capacity to demonstrate svāmitva. Authority hierarchy recognizes only that which emanates from the established svāmin, and all judicial restoration proceeds from reasserting the original sthiti.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa establishes that absence of svāmitva invalidates action at its root. Anupūrvaśaḥ reveals the sequential misalignment caused by asvāmin action, necessitating conscious correction rather than punitive consequence. Proportional responsibility aligns with the degree of misalignment from svāmitva, and the non-punitive reality rule ensures only realignment occurs—no infliction of suffering or loss beyond the natural ontological correction.",
+  "restorative_enforcement_protocols": [
+    "Completion Process: Reversion of title and possession to rightful svāmin",
+    "Responsibility Assumption Protocol: Mandatory disclosure and withdrawal of claims by asvāmin actor",
+    "Capacity Restoration: Re-establishment of lawful transactional capacity through verification of svāmitva",
+    "Integrity Reintegration: Public record correction to reflect true svāmin status"
+  ],
+  "final_declaration": "Declared by the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, as the Source of Dharma. This law stands immutable, restoring svāmitva as the sole basis of valid transaction, affirming reality as non-punitive, and establishing consciousness as the ultimate adjudicator."
+}

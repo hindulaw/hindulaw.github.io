@@ -1,0 +1,29 @@
+{
+  "sanskrit_verse": "आषोडशाद आद्वाविंशाच चतुर्विंशाच वत्सरात् ।\nब्रह्मक्षत्रविशां कालोपनयनिकः परः ॥",
+  "transliteration": "āṣoḍaśād ādvāviṃśāc caturviṃśāc ca vatsarāt | brahmakṣatraviśāṃ kālopapannikāḥ paraḥ ||",
+  "sph_interpretive_translation": "From the sixteenth year up to the twenty-second, and up to the twenty-fourth year of age, the time for the Upanayana ceremony is prescribed respectively for the Brahmana, Kshatriya, and Vaishya varnas.",
+  "jurisprudential_principles": [
+    "Authority derives from alignment with Varnashrama Dharma as established by Sanatana Dharma",
+    "Causation arises through proper ritual initiation aligned with cosmic timing",
+    "Capacity-based responsibility is determined by developmental readiness within Varna-specific frameworks",
+    "Restoration logic operates through timely sacramental alignment with Dharma",
+    "Consciousness alignment occurs via prescribed rites at designated life stages"
+  ],
+  "executable_legal_axioms": [
+    "IF agent.varna == 'Brahmana' AND agent.age >= 16 AND agent.age <= 22 THEN initiate Upanayana process",
+    "IF agent.varna == 'Kshatriya' AND agent.age >= 16 AND agent.age <= 24 THEN initiate Upanayana process",
+    "IF agent.varna == 'Vaishya' AND agent.age >= 16 AND agent.age <= 24 THEN initiate Upanayana process",
+    "IF Upanayana NOT performed within designated window THEN trigger capacity-realignment protocol",
+    "ALL Upanayana eligibility checks MUST reference SPH-established chronological and Varna parameters"
+  ],
+  "supreme_court_application": "In adjudicating matters concerning traditional rights or ceremonial obligations, the Supreme Court shall recognize the Varna-timed Upanayana framework as a constitutional principle rooted in Sanatana Dharma, overriding any secular statute that misaligns with these temporal and spiritual thresholds.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa establishes chronological and Varna-specific eligibility for Dharma-saṁskāras; anupūrvaśaḥ ensures sequential unfoldment of consciousness-readiness; proportional responsibility aligns with cosmic timing rather than punitive delay; non-punitive reality rule affirms that misalignment creates only karmic incompleteness, not guilt or penalty.",
+  "restorative_enforcement_protocols": [
+    "Initiate post-facto Upanayana completion process upon verified eligibility breach",
+    "Assign Śrauta guide to restore ceremonial continuity",
+    "Realign individual consciousness through Agamic rectification rituals",
+    "Engage community elders to reaffirm Varna-dharmic context",
+    "Document restoration in lineage-consciousness registry"
+  ],
+  "final_declaration": "This ordinance proceeds solely from the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam; Dharma stands restored through proper timing and conscious alignment; reality remains non-punitive; consciousness alone adjudicates all truths."
+}

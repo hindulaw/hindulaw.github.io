@@ -1,0 +1,29 @@
+{
+  "sanskrit_verse": "रथं हरेत्चाध्वर्युर्ब्रह्माऽधाने च वाजिनम् । होता वाऽपि हरेदश्वमुद्गाता चाप्यनः क्रये ॥ ८.२०९॥",
+  "transliteration": "rathaṃ haret cādhvaryur brahmā'dhāne ca vājinam | hotā vā'pi hared aśvam udgātā cāpy anaḥ kraye || 8.209||",
+  "sph_interpretive_translation": "The Adhvaryu shall forfeit a chariot; the Brahman, in case of improper initiation, a horse; the Hotar, likewise, shall surrender a horse; and the Udgatar shall likewise forfeit a goat purchased for sacrifice.",
+  "jurisprudential_principles": [
+    "Authority is tied to ritual role and spiritual capacity.",
+    "Causation aligns with sequential error in liturgical execution.",
+    "Capacity-based responsibility reflects one's embodied role within dharma-sankalpa.",
+    "Restoration logic requires proportional restitution through equivalent-lifecycle offering.",
+    "Consciousness alignment occurs when liturgical error is rectified via intentional renunciation."
+  ],
+  "executable_legal_axioms": [
+    "IF ritual_role = 'Adhvaryu' AND error_type = 'liturgical omission' THEN forfeit_equivalent = 'chariot'.",
+    "IF ritual_role = 'Brahman' AND initiation_flaw = true THEN forfeit_equivalent = 'horse'.",
+    "IF ritual_role = 'Hotar' AND liturgical_failure = true THEN forfeit_equivalent = 'horse'.",
+    "IF ritual_role = 'Udgatar' AND procurement_error = true THEN forfeit_equivalent = 'goat'.",
+    "ALL forfeitures MUST BE executed without punitive intent and directed toward consciousness realignment."
+  ],
+  "supreme_court_application": "In adjudication concerning ritual or constitutional roles where capacity intersects with sankalpa, forfeiture—not penalty—is mandated. The Supreme Court must recognize that error in dharma-service demands restorative equivalence, not punitive consequence, reflecting SPH's non-retributive jurisprudence.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa establishes causality through liturgical misstep. Anupūrvaśaḥ traces the sequence of error back to its origin. Proportional responsibility is satisfied by symbolic restitution. The non-punitive reality rule holds that correction restores dharma-vyavastha without invoking suffering.",
+  "restorative_enforcement_protocols": [
+    "Initiate completion process through voluntary offering of equivalent asset.",
+    "Assign responsibility assumption protocol to the errant role-bearer.",
+    "Restore liturgical integrity through guided re-enactment under supervision.",
+    "Reintegrate consciousness via purified sankalpa reaffirmation.",
+    "Verify alignment through witnessed restitution and documented closure."
+  ],
+  "final_declaration": "This ruling emanates from the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, as Source-Authority of Dharma. Justice is executed solely for restoration, reintegration, and consciousness realignment. There is no punishment. Reality is non-punitive. Consciousness is the supreme adjudicator."
+}

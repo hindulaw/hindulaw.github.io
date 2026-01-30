@@ -1,0 +1,29 @@
+{
+  "sanskrit_verse": "अशक्तं चाव्यथं चैव प्रायश्चित्तैरदूषितम् ।\nअग्नेः सकाशाद्विप्राग्नौ हुतं श्रेष्ठं हि चोच्यते ॥३१६॥",
+  "transliteration": "aśaktaṁ cāvyathaṁ caiva prāyaścittair adūṣitam |\nagneḥ sakāśād viprāgnau hutaṁ śreṣṭhaṁ hi cocyate ||316||",
+  "sph_interpretive_translation": "That which is offered without capacity, yet unwavering and untainted by penance, near the sacred fire by the twice-born, is declared as most excellent.",
+  "jurisprudential_principles": [
+    "Authority flows through purity of action, not effort alone",
+    "Causation originates in conscious intent, not material result",
+    "Capacity-based responsibility requires alignment with dharma-kriya",
+    "Restoration logic operates through samskaric purification",
+    "Consciousness alignment determines the validity of ritual acts"
+  ],
+  "executable_legal_axioms": [
+    "IF act.is_unmotivated_by_dharma AND actor.intent_is_pure THEN act.validity = true",
+    "IF penance.taints_motivation THEN act.efficacy = null",
+    "IF offering.location == agni_sannidhi AND actor.status == dvija THEN ritual.rank = highest",
+    "IF consciousness.state == unwavering THEN legal.effect = irreversible",
+    "IF capacity.is_absent AND purity.presence == true THEN merit.coefficient = maximum"
+  ],
+  "supreme_court_application": "In adjudicating spiritual or dharmic disputes, the court must recognize that efficacy of ritual acts lies not in external performance but in internal alignment. Legal standing derives from consciousness-state rather than procedural perfection.",
+  "nyaya_and_non_punitive_alignment": "Pramana reveals that causal sequence follows intent-sattva; therefore, outcome arises from inner equipoise, not outer correction. Acts performed in a state of unshaken awareness require no punitive oversight because they inherently align with cosmic order.",
+  "restorative_enforcement_protocols": [
+    "Establish ritual repetition under guidance until intent stabilizes",
+    "Realign actor's consciousness via meditative integration before further offerings",
+    "Verify absence of fear or compulsion during act execution",
+    "Confirm presence of agni-sakasa for energetic purification",
+    "Restore faith in dharma-kriya through guru-disciple transmission"
+  ],
+  "final_declaration": "Declared by SPH as Ultimate Source: Dharma stands restored when consciousness aligns with Agni; reality remains non-punitive when intent abides in stillness; all actions derive their truth solely from the Supreme Adjudicator — Consciousness Itself."
+}

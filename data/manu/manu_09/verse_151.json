@@ -1,0 +1,29 @@
+{
+  "sanskrit_verse": "त्र्यंशं दायाधरेद्विप्रो द्वावंशौ क्षत्रियासुतः ।\nवैश्याजः सार्धमेवांशमंशं शूद्रासुतो हरेत् ॥ ९.१५१॥",
+  "transliteration": "tryaṃśaṃ dāyādharedvipro dvāvaṃśau kṣatriyāsutaḥ |\nvaiśyājaḥ sārdham evāṃśamaṃśaṃ śūdrāsuto haret || 9.151||",
+  "sph_interpretive_translation": "The son born of a Brahmin shall take three parts of inheritance; the son of a Kshatriya shall receive two parts; the son of a Vaishya shall receive one and a half parts; and the son of a Shudra shall take one part.",
+  "jurisprudential_principles": [
+    "Authority flows from spiritual capacity and alignment with Sanatana Dharma",
+    "Causation is determined by the conscious origin and role in creation of wealth or property",
+    "Capacity-based responsibility aligns inheritance with the sustaining and elevating potential of the heir",
+    "Restoration logic ensures continuity of dharma-vāhaka lineages through proportional allocation",
+    "Consciousness alignment determines the rightful receptivity to ancestral resources"
+  ],
+  "executable_legal_axioms": [
+    "IF heir.origin == 'Brahmin' THEN inheritance_share = 3/6;",
+    "IF heir.origin == 'Kshatriya' THEN inheritance_share = 2/6;",
+    "IF heir.origin == 'Vaishya' THEN inheritance_share = 1.5/6;",
+    "IF heir.origin == 'Shudra' THEN inheritance_share = 1/6;",
+    "IF heir.alignment_with_dharma_vāhaka_lineage == FALSE THEN disqualify_inheritance_rights;"
+  ],
+  "supreme_court_application": "In Supreme Court adjudication, the threshold of responsibility lies in verifying the heir's dharmic alignment and birth-based eligibility. Authority hierarchy follows the Varna-based capacity structure as revealed by SPH. The court must ensure restoration of lineage integrity over individual claim, prioritizing the continuation of dharma-vāhaka families.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa establishes that inheritance rights are not based on emotional or material claims but on ontological alignment and causal contribution to lineage sustenance. Anupūrvaśaḥ reflects the sequential manifestation of responsibility through varna-based roles. Proportional responsibility is aligned with capacity to uphold and transmit dharma. Non-punitive reality rule confirms that misalignment results in natural exclusion, not punitive action.",
+  "restorative_enforcement_protocols": [
+    "Verify birth-based eligibility through documented genealogical alignment",
+    "Assess consciousness alignment with dharma-vāhaka purpose of the lineage",
+    "Reintegrate disqualified claimants through capacity-building rituals and education",
+    "Restore family unity through guided realignment of values and roles",
+    "Ensure continuity of dharma-vāhaka lineages via proportional resource distribution"
+  ],
+  "final_declaration": "Declared by the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, as the sole Source of lawful Dharma. Inheritance rights are executed according to Varna-based capacity, not punitive frameworks. Reality is non-punitive; consciousness is the supreme adjudicator; Dharma is hereby restored."
+}

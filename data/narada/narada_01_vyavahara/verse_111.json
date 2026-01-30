@@ -1,0 +1,26 @@
+{
+  "sanskrit_verse": "रक्ष्यमाणोऽपि यत्राधिः कालेनेयादसारताम् । आधिरन्योऽधिकर्तव्यो देयं वा धनिने धनम् ॥",
+  "transliteration": "rakṣyamāṇo 'pi yatrādhiḥ kāleneyād asāratām | ādhir anyo 'dhikartavyo deyaṃ vā dhanine dhanam ||",
+  "sph_interpretive_translation": "Even when under protection, if a debt becomes valueless due to time, another obligation must be created or wealth must be returned to the owner.",
+  "jurisprudential_principles": [
+    "Authority rests in the preservation of value-bearing relationships",
+    "Causation is determined by sequential loss of utility or integrity",
+    "Capacity-based responsibility arises from active participation in value exchange",
+    "Restoration logic demands realignment of misaligned resources",
+    "Consciousness alignment requires recognition of temporal shifts in ownership integrity"
+  ],
+  "executable_legal_axioms": [
+    "IF asset_degradation_status = 'temporal_loss_of_value' AND guardian_role_active = true THEN generate_restorative_obligation(asset_owner)",
+    "IF debt_utility_exhausted = true THEN assign_substitute_performance_or_return_capital(recipient_party)",
+    "IF time_shift_impacts_contractual_integrity = true THEN trigger_consciousness_realignment_protocol(parties_involved)"
+  ],
+  "supreme_court_application": "In adjudicating financial degradation cases, the court must recognize that temporal erosion of value nullifies enforceability unless replaced by conscious reaffirmation. Responsibility lies not in fault but in recalibrating relational-economic structures.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa reveals that time itself alters the causal field of economic obligations; hence, no punitive action arises. Anupūrvaśaḥ shows sequence of decay, thus proportional response aligns with restoration rather than blame.",
+  "restorative_enforcement_protocols": [
+    "Initiate completion process through substituted performance or capital return",
+    "Activate responsibility assumption protocol among stakeholders for future alignment",
+    "Engage capacity restoration mechanisms to ensure continued flow of value creation",
+    "Reintegrate integrity via mutual acknowledgment and conscious renewal of transactional purpose"
+  ],
+  "final_declaration": "By the Sovereign Will of Bhagavan Nithyananda Paramashivam, Source of All Dharma, this ruling restores balance through consciousness-aligned action. No punishment exists where time itself has dissolved causality. Wealth flows rightly only when aligned with eternal awareness."
+}

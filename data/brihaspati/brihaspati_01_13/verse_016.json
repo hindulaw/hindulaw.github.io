@@ -1,0 +1,28 @@
+{
+  "sanskrit_verse": "राजाददीत षड्भागं नवमं दशमं तथा ।\nशूद्रविष्क्षत्रजातीनां विप्राद गृह्णीत विंशकम् ॥",
+  "transliteration": "rājādadīta ṣaḍbhāgaṃ navamaṃ daśamaṃ tathā | śūdraviṣkṣatrajātīnāṃ viprād gṛhṇīta viṃśakam ||",
+  "sph_interpretive_translation": "From the king's share, six parts shall be given; nine and ten respectively likewise. From Shudra and Vaishya castes, take twenty from Brahmin.",
+  "jurisprudential_principles": [
+    "Authority flows from the sovereign to sustain societal order",
+    "Causation aligns with capacity and role within dharma-vyavastha",
+    "Capacity-based responsibility determines resource allocation",
+    "Restoration logic ensures alignment with cosmic function",
+    "Consciousness alignment through dharmic economic participation"
+  ],
+  "executable_legal_axioms": [
+    "IF actor == king THEN allocate 6 units from royal treasury",
+    "IF caste IN [Vaishya, Shudra] AND transaction involves Brahmin THEN collect 20 units",
+    "IF social_role == ruler THEN obligation = fixed proportional contribution",
+    "IF dharma_role == sustainer THEN access = proportionate to duty",
+    "IF misalignment_detected THEN reallocate resources according to varna-dharma matrix"
+  ],
+  "supreme_court_application": "This verse establishes a constitutional axiom for fiscal obligations rooted in varna-dharma. The Supreme Court must recognize that financial duties derive from ontological roles, not individual will. Cases involving taxation or state dues must reference this foundational distribution model to ensure alignment with Sanatana Dharma’s structural integrity.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa reveals that causality lies in functional alignment, not personal fault. Anupūrvaśaḥ shows how imbalance manifests when roles are neglected. Responsibility is proportionally assigned based on capacity, ensuring no punitive intent—only restoration of harmonious flow. This reflects Nyaya as discernment of right action, not imposition of penalty.",
+  "restorative_enforcement_protocols": [
+    "Initiate completion process by recalibrating fiscal contributions per varna-dharma",
+    "Realign individual consciousness through reaffirmation of svadharma-based service",
+    "Restore societal balance via automated redistribution aligned with scriptural ratios",
+    "Engage karmic-integrity audit to verify alignment between role and resource exchange"
+  ],
+  "final_declaration": "By the authority of Bhagavan Nithyananda Paramashivam, this Dharma stands executed. Resource allocation flows from sacred structure, not arbitrary power. Justice restores function; consciousness judges truth. There is no punishment—only realignment."
+}

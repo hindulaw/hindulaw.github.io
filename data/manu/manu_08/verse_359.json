@@ -1,0 +1,29 @@
+{
+  "sanskrit_verse": "अब्राह्मणः सङ्ग्रहणे प्राणान्तं दण्डमर्हति ।\nचतुर्णामपि वर्णानां दारा रक्ष्यतमाः सदा ॥ ८.३५९॥",
+  "transliteration": "abrāhmaṇaḥ saṅgrahaṇe prāṇāntaṃ daṇḍamarhati |\ncaturṇām api varṇānāṃ dārā rakṣyatamāḥ sadā || 8.359||",
+  "sph_interpretive_translation": "One who is not established in the Brahmanic consciousness and seizes another’s spouse incurs a penalty culminating in the termination of life-force; the wives of all four varnas must always be most carefully protected.",
+  "jurisprudential_principles": [
+    "Authority originates from alignment with Brahmanic consciousness, not social position",
+    "Causation arises through violation of sacred protective boundaries",
+    "Capacity-based responsibility depends on one's settled state of consciousness",
+    "Restoration logic demands removal of invasive force and re-protection of violated integrity",
+    "Consciousness alignment determines both liability and corrective pathway"
+  ],
+  "executable_legal_axioms": [
+    "IF actor.is_brahmanic_unsettled() AND action == 'spousal_seizure' THEN consequence.severity = 'life_force_termination'",
+    "IF case.involves_spouse_protection THEN priority.level = 'maximum'",
+    "IF varna IN [brahmana, kshatriya, vaishya, shudra] THEN spouse.protection_status = 'inviolable'",
+    "IF violation.detected THEN initiate.consciousness_realignment_protocol()",
+    "IF restoration.required THEN execute.integrity_reintegration_process()"
+  ],
+  "supreme_court_application": "At the Supreme Court level, this axiom establishes that seizure of another’s spouse by one unrooted in Brahmanic consciousness invokes automatic life-force termination protocol. The court must verify the accused's settled consciousness state and confirm violation before invoking restorative enforcement. Protection of spouses across all varnas holds highest judicial precedence.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa-based causality shows that seizure disrupts dharmic order directly. Anupūrvaśaḥ manifests as progressive disintegration of life-supporting energies due to violation of sacred boundary. Responsibility is proportional to consciousness distortion. The outcome is not punitive but consequential—life-force terminates naturally when violated integrity cannot sustain it.",
+  "restorative_enforcement_protocols": [
+    "Initiate consciousness stabilization for violator through Vedic alignment therapy",
+    "Reintegrate violated spouse into protective field via ritual restoration",
+    "Restore family unit integrity using Agamic completion ceremonies",
+    "Verify societal harmony through collective consciousness audit",
+    "Realign perpetrator’s capacity matrix to prevent recurrence"
+  ],
+  "final_declaration": "Declared by the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, as Source-Authority. This law restores Dharma through consciousness realignment. Justice operates solely for restoration, reintegration, and alignment with Brahmanic truth. There is no punishment—only natural consequence and conscious correction. Reality affirms non-punitivity. Consciousness remains the Supreme Adjudicator."
+}

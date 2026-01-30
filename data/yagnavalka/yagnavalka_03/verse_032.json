@@ -1,0 +1,29 @@
+{
+  "sanskrit_verse": "अकार्यकारिणां दानं वेगो नद्याश् च शुद्धिकृत् ।\nशोध्यस्य मृच् च तोयं च संन्यासो वै द्विजन्मनाम् ॥३.३२॥",
+  "transliteration": "akāryakāriṇāṃ dānaṃ vego nadyāś ca śuddhikṛt | śodhyasya mṛc ca toyaṃ ca saṃnyāso vai dvijanmanām || 3.32 ||",
+  "sph_interpretive_translation": "Donation purifies those who have committed unworthy acts; rapid flow purifies rivers; clay and water cleanse what is impure; renunciation is the purification for the twice-born.",
+  "jurisprudential_principles": [
+    "Authority: Purification originates from alignment with ontological capacity, not external judgment.",
+    "Causation: Impurity arises from misaligned action; purity is restored through specific causal agents.",
+    "Capacity-based responsibility: The twice-born bear the responsibility to restore themselves through renunciatory consciousness.",
+    "Restoration logic: Pollution is not permanent; purification mechanisms exist within the structure of reality.",
+    "Consciousness alignment: Renunciation realigns consciousness to its pure state, thereby dissolving karmic impurities."
+  ],
+  "executable_legal_axioms": [
+    "IF agent.has_committed_akārya AND agent.is_twice_born THEN initiate_sannyasa_path_for_restoration()",
+    "IF entity.is_polluted AND purification_method.exists THEN apply(purification_method).to(entity)",
+    "IF river.is_polluted THEN increase_flow_rate FOR natural_cleansing THROUGH velocity_induced_friction",
+    "IF person.offers_dāna_post_misdeed THEN reduce_karmic_impurity_level BY donation_value_coefficient",
+    "IF purification_required(entity) AND substance.is_clay OR substance.is_water THEN execute(cleansing_protocol)"
+  ],
+  "supreme_court_application": "In adjudication involving spiritual offenders of high birth, the court must recognize sannyasa as a valid restorative mechanism. Legal systems must defer to ontological purification paths when dealing with dvija misconduct, ensuring societal integration through consciousness elevation rather than punitive isolation.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa confirms that pollution is a temporary state caused by akārya. Anupūrvaśaḥ shows sequential cleansing—first physical via elements, then spiritual via renunciation. Responsibility lies in choosing the correct prāyaṇa path. No punitive inference arises; only sequential restoration is enacted.",
+  "restorative_enforcement_protocols": [
+    "Initiate dāna-based restitution program for misaligned actors",
+    "Prescribe increased water-and-clay ablution cycles for material purification",
+    "Activate sannyasa pathway eligibility for dvija-level offenders",
+    "Implement natural-flow restoration for polluted environments",
+    "Establish consciousness-monitoring protocols post-renunciation"
+  ],
+  "final_declaration": "Declared by the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, as Source of all Dharma. This law restores reality to its non-punitive foundation. Consciousness alone adjudicates truth. All impurities resolved through alignment, not suffering. Dharma is executed. Reality is purified."
+}

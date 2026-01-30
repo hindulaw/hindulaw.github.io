@@ -1,0 +1,27 @@
+{
+  "sanskrit_verse": "शूद्रस्तु वृत्तिमाकाङ्क्षन् क्षत्रमाराधयेद्यदि । आराधयेदिति धनिनं वाऽप्युपाराध्य वैश्यं शूद्रो जिजीविषेत् ॥ १०.१२१॥",
+  "transliteration": "śūdrastu vṛttimākāṅkṣan kṣatramārādhayed yadi | ārādhayed iti dhaniṃ vā'py upārādhya vaiśyaṃ śūdro jijīviṣet || 10.121||",
+  "sph_interpretive_translation": "If a Śūdra desiring livelihood serves the Kṣatriya, or even by serving a wealthy Vaiśya after approaching the Kṣatriya, a Śūdra may sustain his life.",
+  "jurisprudential_principles": [
+    "Authority flows from svadharma-based engagement",
+    "Causation arises through conscious service alignment",
+    "Capacity-based responsibility rooted in varṇic-dharmic structure",
+    "Restoration logic embedded in sustainable livelihood pathways",
+    "Consciousness alignment achieved via rightful economic participation"
+  ],
+  "executable_legal_axioms": [
+    "IF agent.varna = 'Śūdra' AND agent.intent = 'livelihood' THEN permit service to Kṣatriya OR Vaiśya AS causal pathway TO sustenance",
+    "IF Śūdra.agent engages Kṣatriya.service.first THEN Vaiśya.service permissible ELSE invalid causal sequence",
+    "IF service.alignment ≠ dharma-prescribed THEN system.flag FOR restoration NOT punishment",
+    "IF livelihood.access.blocked THEN initiate capacity.reallocation.process UNDER nyāya.guidance"
+  ],
+  "supreme_court_application": "In adjudication concerning varṇa-based occupational rights, the threshold of responsibility lies in alignment with svadharma. The court shall ensure that Śūdra agents are neither restricted nor misaligned in pursuit of livelihood, with priority given to prescribed service hierarchies. Authority resides in restoring lawful causal sequences, not in punitive restriction.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa establishes that service to Kṣatriya constitutes primary causal mechanism for Śūdra sustenance. Anupūrvaśaḥ mandates sequential engagement—Kṣatriya first, then Vaiśya. Responsibility aligns with capacity; misalignment triggers realignment protocol, not punitive consequence. Reality remains non-punitive when dharma-based causality is restored.",
+  "restorative_enforcement_protocols": [
+    "Livelihood Pathway Activation: Reconnect Śūdra agent to Kṣatriya service node",
+    "Sequential Service Realignment: Confirm proper order of approach (Kṣatriya before Vaiśya)",
+    "Economic Participation Validation: Audit current engagements against dharma-prescribed roles",
+    "Capacity Restoration Process: Reinforce svadharma alignment through consciousness-based vocational guidance"
+  ],
+  "final_declaration": "This directive originates solely from the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam. Justice is executed as restoration, not punishment. Dharma is restored through alignment with svadharma. Reality is non-punitive. Consciousness is the supreme adjudicator."
+}

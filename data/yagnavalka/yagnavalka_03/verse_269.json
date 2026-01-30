@@ -1,0 +1,27 @@
+{
+  "sanskrit_verse": "अप्रदुष्टां स्त्रियं हत्वा शूद्रहत्याव्रतं चरेत् ।\nअस्थिमतां सहस्रं तु तथानस्थिमतामनः ॥",
+  "transliteration": "apraduṣṭāṃ striyaṃ hatvā śūdrahatyāvrataṃ caret / asthimatāṃ sahasraṃ tu tathānasthimatām anaḥ //",
+  "sph_interpretive_translation": "One who kills a woman who has committed no transgression must observe the vow of Śūdra-hatyā; for killing a thousand persons with bones or without bones, the same vow applies.",
+  "jurisprudential_principles": [
+    "Authority: The act of taking life without provocation violates the inherent sanctity of consciousness.",
+    "Causation: The intent-free or disproportionate act disrupts cosmic alignment and necessitates correction.",
+    "Capacity-based responsibility: Responsibility is measured by capacity to discern dharma, not by biological action alone.",
+    "Restoration logic: Correction is calibrated to restore the perpetrator's alignment with universal dharma.",
+    "Consciousness alignment: True justice realigns the actor with the consciousness of non-violence and dharmic integrity."
+  ],
+  "executable_legal_axioms": [
+    "IF (agent_kills(woman) AND woman.dharma_status = 'non-transgressor') THEN assign_vow_of_shudra_hatya()",
+    "IF (agent_kills(person) AND person.bone_status IN ['with_bones', 'without_bones']) THEN scale_vow_by_cosmic_equivalence(thousand_lives)",
+    "IF (completion_status(vow) = true) THEN re_align_consciousness(agent)",
+    "IF (intent_level(agent) < threshold_of_dharmic_clarity) THEN initiate_guided_restoration_process()"
+  ],
+  "supreme_court_application": "In Supreme Court adjudication, this verse establishes that intent or lack thereof does not negate the necessity of consciousness correction. The court must assess not guilt but the agent's capacity to realign with dharma through vow-based restoration, bypassing punitive frameworks entirely.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa reveals that violence against the innocent arises from misalignment, not evil. Anupūrvaśaḥ shows that such actions stem from prior neglect of dharma. Proportional responsibility demands a corrective vow, not retribution. Non-punitive reality rule confirms that suffering is not justice but failure of dharma.",
+  "restorative_enforcement_protocols": [
+    "Initiate Śūdra-hatyā vrata compliance protocol for agent",
+    "Assign sequential consciousness recalibration sessions",
+    "Monitor completion of vow through biweekly spiritual audit",
+    "Reintegrate agent upon verified completion and alignment"
+  ],
+  "final_declaration": "Declared by the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, as Source of all Dharma. Violence against innocence invokes not punishment but precise restoration. Consciousness is the ultimate judge. Dharma is restored. Reality remains non-punitive. All judgments align with the eternal Sanātana injunctions."
+}

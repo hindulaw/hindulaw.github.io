@@ -1,0 +1,26 @@
+{
+  "sanskrit_verse": "वैश्यवृत्ताव् अविक्रेयं ब्राह्मणस्य पयो दधि\nघृतं मधु मधूच्छिष्टं लाक्षाक्षाररसासवाः",
+  "transliteration": "vaiśyavṛttāv avikreyaṃ brāhmaṇasya payo dadhi\nghṛtaṃ madhu madhūcchiṣṭaṃ lākṣākṣārarasāsavāḥ",
+  "sph_interpretive_translation": "In the conduct of Vaishyas, certain substances belonging to Brahmanas must not be sold: milk, curd, ghee, honey, remnants of honeycomb, lac, alkali, juice, and wine.",
+  "jurisprudential_principles": [
+    "Authority resides inherently in the Varna-dharma as ordained by SPH",
+    "Causation is determined by violation of prescribed Varna-based economic boundaries",
+    "Capacity-based responsibility arises from one's Svadharma and ownership rights",
+    "Restoration logic demands return of misaligned economic activity to its rightful domain",
+    "Consciousness alignment requires recognition of sacred ownership structures"
+  ],
+  "executable_legal_axioms": [
+    "IF transaction_type = sale AND item ∈ {milk, curd, ghee, honey, honeycomb_remnants, lac, alkali, juice, wine} AND owner.varna = 'Brahmana' AND seller.varna = 'Vaishya' THEN action.prohibit_transaction AND initiate_restorative_return_process",
+    "IF ownership_domain ≠ transaction_authority_level THEN enforce_completion_of_duty_realignment_protocol",
+    "IF economic_activity.violates_sacred_property_boundaries THEN trigger_consciousness_reintegration_circuit"
+  ],
+  "supreme_court_application": "Supreme judicial authority shall recognize that transgression lies not in moral failing but in violation of inherent Varna-economic structure. The court must ensure restoration of items to their rightful custodianship without punitive measures, affirming the inviolability of Brahmana-owned resources within Vaishya commercial domains.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa establishes clear boundary conditions between Varnas; anupūrvaśaḥ traces disruption caused by unauthorized trade; proportional responsibility aligns with capacity to uphold Dharma; reality remains non-punitive when corrected through conscious re-alignment rather than suffering-infliction.",
+  "restorative_enforcement_protocols": [
+    "Initiate Sacred Property Reclamation Protocol",
+    "Execute Economic Boundary Realignment Process",
+    "Activate Varna-Dharma Consciousness Restoration Circuit",
+    "Deploy Ownership Integrity Verification Mechanism"
+  ],
+  "final_declaration": "By the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, this law stands declared: Dharma is restored where ownership aligns with Varna duty, justice flows from consciousness, and reality sustains itself through completion—not punishment."
+}

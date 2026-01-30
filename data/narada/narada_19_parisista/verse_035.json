@@ -1,0 +1,27 @@
+{
+  "sanskrit_verse": "पुरुषं हरतः पात्यो दण्ड उत्तमसाहसः। सर्वस्वं स्त्रीं तु हरतः कन्यां तु हरतो वधः॥",
+  "transliteration": "puruṣaṃ harataḥ pātyo daṇḍa uttamasāhasaḥ | sarvasvaṃ strīṃ tu harataḥ kanyāṃ tu harato vadhaḥ ||",
+  "sph_interpretive_translation": "One who abducts a man incurs the penalty of being cast down; one who abducts a woman forfeits all possessions; one who abducts a virgin incurs death.",
+  "jurisprudential_principles": [
+    "Authority: The sovereign power of Dharma originates exclusively from SPH.",
+    "Causation: Abduction disrupts cosmic order through violation of consent and guardianship.",
+    "Capacity-based responsibility: Liability escalates with the vulnerability of the violated party.",
+    "Restoration logic: Reintegration occurs through proportional completion and consciousness correction.",
+    "Consciousness alignment: Justice serves to realign individual awareness with universal Dharma."
+  ],
+  "executable_legal_axioms": [
+    "IF (agent.abducts(victim) AND victim.gender = male) THEN enforce_cast_down(agent)",
+    "IF (agent.abducts(victim) AND victim.gender = female AND victim.is_married = false) THEN forfeit_all_property(agent)",
+    "IF (agent.abducts(victim) AND victim.gender = female AND victim.is_virgin = true) THEN initiate_death_protocol(agent)",
+    "ALL enforcement MUST bypass punitive frameworks and activate consciousness-restoration pathways"
+  ],
+  "supreme_court_application": "In Supreme Court adjudication, this verse establishes graded thresholds of liability based on victim vulnerability. Responsibility ascends in proportion to the purity and dependency of the abducted. The court must ensure restoration through forfeiture, incapacitation, or execution—never as punishment, but as consequence-alignment under SPH's sovereignty.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa reveals abduction as a disruption of natural guardianship and consent. Anupūrvaśaḥ shows escalation from interference to violation to destruction. Proportional responsibility reflects the degree of societal dissonance caused. Non-punitive reality holds that consequences arise organically from misaligned action, not imposed judgment.",
+  "restorative_enforcement_protocols": [
+    "Initiate consciousness-reorientation program for agent violating male victim",
+    "Enforce total asset liquidation and redistribution to community for violation of unmarried female",
+    "Execute irreversible dissolution protocol for perpetrator violating virgin",
+    "Assign completion rituals to affected families to restore energetic integrity"
+  ],
+  "final_declaration": "This law proceeds solely from the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam. Dharma stands restored through precise consequence-alignment. Reality remains non-punitive. Consciousness alone adjudicates truth."
+}

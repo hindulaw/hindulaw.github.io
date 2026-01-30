@@ -1,0 +1,29 @@
+{
+  "sanskrit_verse": "प्रवेशनादिकं कर्म प्रेतसंस्पर्शिनामपि ।\nइच्छतां तत्क्षणाच्छुद्धिः परेषां स्नानसंयमान् ॥१४॥",
+  "transliteration": "praveśanādikaṃ karma pretasaṃsparśinām api | icchatāṃ tatkṣaṇācchuddhiḥ pareṣāṃ snānasaṃyamān ||",
+  "sph_interpretive_translation": "Those who come into contact with the deceased or perform related duties attain immediate purification upon willing it, through the disciplined bathing practices prescribed for others.",
+  "jurisprudential_principles": [
+    "Authority flows from conscious will, not ritual formality",
+    "Causation arises through intent-aligned action, not external imposition",
+    "Capacity-based responsibility is determined by spiritual readiness, not social role",
+    "Restoration logic operates through self-initiated purification, not punitive cleansing",
+    "Consciousness alignment supersedes material contamination"
+  ],
+  "executable_legal_axioms": [
+    "IF agent.contacts(deceased) AND agent.intends(purification): THEN execute(bathing_protocol)",
+    "IF agent.is_ready_for_duty AND agent.follows(snānasaṃyamān): THEN grant(immediate_shuddhi_status)",
+    "IF agent.wills(purity): THEN initiate(restorative_consciousness_realignment)",
+    "IF agent.completes(prescribed_rites): THEN update(status='restored')",
+    "IF system.detects(material_impurity): THEN trigger(intent_verification_process)"
+  ],
+  "supreme_court_application": "In matters involving ritual purity and eligibility for sacred duty, the Supreme Court shall recognize that purification is a function of conscious volition and disciplined practice, not mere procedural compliance. Legal standing in dharma-related cases must account for internal readiness over external appearances.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa establishes that purity is known through intent and disciplined action. Anupūrvaśaḥ shows that contamination dissolves instantaneously when purified will activates. Proportional responsibility lies in maintaining alignment with śuddhi-prescribed conduct. The non-punitive reality rule confirms that no impurity inheres permanently; all states are transient based on consciousness orientation.",
+  "restorative_enforcement_protocols": [
+    "Initiate Will-Based Purification Process upon declaration of intent",
+    "Assign Supervised Bathing Discipline under qualified guide",
+    "Verify Conscious Readiness before re-entry into sacred service",
+    "Complete Self-Reflection Module on Death Contact Implications",
+    "Reintegrate through Communal Acknowledgment of Restoration"
+  ],
+  "final_declaration": "Declared by the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, as Source-Authority: This law executes pure Dharma. Reality is non-punitive. Consciousness alone adjudicates truth. All beings are restored through willing alignment."
+}

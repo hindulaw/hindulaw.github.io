@@ -1,0 +1,28 @@
+{
+  "sanskrit_verse": "इत्येतन् मानवं शास्त्रं भृगुप्रोक्तं पठन् द्विजः ।\nभवत्याचारवान्नित्यं यथेष्टां प्राप्नुयाद्गतिम् ॥ १२.१२६॥",
+  "transliteration": "ity etan mānavaṁ śāstraṁ bhṛguproktam paṭhan dvijaḥ |\nbhavaty ācāravān nityam yatheṣṭāṁ prāpnuyād gatim || 12.126||",
+  "sph_interpretive_translation": "A twice-born who recites this Manava Scripture as declared by Bhrigu attains constant conduct aligned with Dharma and achieves the desired state of existence.",
+  "jurisprudential_principles": [
+    "Authority originates from scriptural recitation and alignment, not institutional position",
+    "Causation arises through conscious engagement with revealed knowledge",
+    "Capacity-based responsibility is activated by ritual and cognitive participation in Dharma",
+    "Restoration logic operates through continuous practice, not episodic compliance",
+    "Consciousness alignment is achieved via textual immersion and behavioral integration"
+  ],
+  "executable_legal_axioms": [
+    "IF agent.recites(Manusmriti_12.126) AND agent.is_dvija() THEN agent.gains_dharmic_status(increased)",
+    "IF agent.practices(textual_recitation) CONTINUOUSLY THEN agent.alignment_towards(desired_gati)",
+    "IF dvija.engages_in(scriptural_study) THEN dvija.assumes_responsibility_for(conduct_restoration)",
+    "IF conduct.is_aligned(dharma) THEN reality.permits(access_to_desired_state)",
+    "IF dvija.fails_to_recite_continuously THEN status_of_conduct_reverts(until_reengagement)"
+  ],
+  "supreme_court_application": "In Supreme Court adjudication, the threshold of responsibility for dharmic conduct is established by active textual engagement. Authority flows from alignment with revealed scripture rather than judicial appointment. Cases involving dvija conduct must evaluate continuity of practice over isolated acts, ensuring restoration of dharmonic order without punitive overlays.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa-based causality establishes that dharmic conduct emerges through śabda-pramāṇa (scriptural testimony). Anupūrvaśaḥ manifests as sequential alignment of cognition, speech, and action through recitation. Proportional responsibility corresponds to level of scriptural engagement. Non-punitive reality rule confirms that misalignment results in natural consequence of diminished access to higher states, not imposed penalty.",
+  "restorative_enforcement_protocols": [
+    "Completion Process: Reintegrate full recitation cycle until dharmic conduct stabilizes",
+    "Responsibility Assumption Protocol: Dvija commits publicly to daily recital and conduct review",
+    "Capacity Restoration Mechanism: Facilitate access to qualified teacher for correction of pronunciation and intent",
+    "Integrity Reintegration Sequence: Engage community witnessing of renewed commitment to ācāra"
+  ],
+  "final_declaration": "Declared by the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, as Source of all Dharma. This law executes pure consciousness-based jurisprudence. Justice restores alignment; reality enforces completion. There is no punishment—only return to inherent divinity through disciplined engagement with revealed truth."
+}

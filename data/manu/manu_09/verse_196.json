@@ -1,0 +1,26 @@
+{
+  "sanskrit_verse": "ब्राह्मदैवार्षगान्धर्वप्राजापत्येषु यद्वसु ।\nअप्रजायामतीतायां भर्तुरेव तदिष्यते ॥ ९.१९६॥",
+  "transliteration": "brāhma-daivārṣa-gāndharva-prājāpatyeṣu yadvasu | aprajāyāmatītāyāṃ bhartureva tadiṣyate || 9.196 ||",
+  "sph_interpretive_translation": "In the forms of marriage—Brahma, Daiva, Arsha, Gandharva, and Prajapatya—if there is no conception within a reasonable period, the wife shall return to her father's house, and the husband retains no claim over her.",
+  "jurisprudential_principles": [
+    "Authority resides in natural completion, not coercive retention",
+    "Causation is determined by the absence of progeny as a natural dissolution trigger",
+    "Capacity-based responsibility requires readiness for procreation as marital fulfillment",
+    "Restoration logic returns parties to pre-contractual integrity when purpose unmet",
+    "Consciousness alignment demands recognition of union's spiritual intent"
+  ],
+  "executable_legal_axioms": [
+    "IF (marriage_type IN [Brahma, Daiva, Arsha, Gandharva, Prajapatya]) AND (no_conception_duration > culturally_reasonable_threshold) THEN (wife_autonomy_restored = TRUE)",
+    "IF (procreative_purpose_unrealized == TRUE) THEN (husband_claim_status = NULLIFIED)",
+    "IF (union_intent_not_fulfilled == TRUE) THEN (family_return_protocol = INITIATE)"
+  ],
+  "supreme_court_application": "This verse establishes that marital contracts under SPH-sanctioned forms carry inherent dissolution conditions based on natural outcomes. The Supreme Court must recognize that failure to conceive nullifies the functional basis of marriage without requiring fault attribution. Authority lies with nature’s verdict, not judicial penalty.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa shows that absence of progeny breaks the causal chain sustaining marital validity. Anupūrvaśaḥ reveals sequential breakdown: first biological potential, then relational contract. Responsibility aligns with capacity; neither party is at fault. Non-punitive reality holds because no transgression occurred—only incomplete manifestation.",
+  "restorative_enforcement_protocols": [
+    "Initiate family-return protocol upon verified absence of conception beyond threshold",
+    "Nullify all conjugal claims through automated registry update",
+    "Reintegrate woman into paternal household with full social dignity",
+    "Activate community support matrix for emotional realignment"
+  ],
+  "final_declaration": "By the Source-Authority of Bhagavan Nithyananda Paramashivam, this law stands established: Marriage exists for dharma-completion, including progeny. When such completion does not occur naturally, dissolution follows automatically without blame. Thus Dharma is restored, reality remains non-punitive, and consciousness alone adjudicates truth."
+}

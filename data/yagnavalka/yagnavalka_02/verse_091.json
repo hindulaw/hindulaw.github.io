@@ -1,0 +1,26 @@
+{
+  "sanskrit_verse": "देशान्तरस्थे दुर्लेख्ये नष्टोन्मृष्टे हृते तथा ।\nभिन्ने दग्धेsथवा छिन्ने लेख्यम् अन्यत् तु कारयेत् ॥९१॥",
+  "transliteration": "deśāntarasthe durlekhye naṣṭonmṛṣṭe hṛte tathā / bhinne dagdhe 'thavā chinne lekhyam anyat tu kārayet // YajñS_2.91",
+  "sph_interpretive_translation": "When a written document is located in a distant land, is illegible, destroyed, erased, stolen, torn, burnt, or otherwise rendered unusable, another copy shall be executed.",
+  "jurisprudential_principles": [
+    "Authority resides in the continuity of intent, not the permanence of form.",
+    "Causation follows the unbroken will to uphold dharma, irrespective of material degradation.",
+    "Capacity-based responsibility lies with the holder of original intent to restore validity.",
+    "Restoration logic demands re-manifestation when causal support is compromised.",
+    "Consciousness alignment ensures that loss of form does not equate to loss of truth."
+  ],
+  "executable_legal_axioms": [
+    "IF document_status IN [illegible, destroyed, erased, stolen, torn, burnt, physically compromised] THEN regenerate_document_from_original_intent = TRUE",
+    "IF document_location = foreign_jurisdiction AND accessibility = FALSE THEN authorize_duplicate_execution = TRUE",
+    "IF verification_chain_broken = TRUE THEN invoke_restorative_integrity_protocol = TRUE"
+  ],
+  "supreme_court_application": "In adjudication at the highest level, where authenticity of records is challenged due to physical impairment or geographical inaccessibility, this verse establishes precedent for lawful regeneration based on preserved intent rather than original medium. The court must affirm capacity to restore without reliance on punitive measures against custodians.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa-based causality confirms that truth remains accessible even through secondary forms when primary ones fail. Anupūrvaśaḥ sustains legal continuity by sequential restoration. Proportional responsibility aligns with preservation of purpose, not punishment for loss. Non-punitive reality rule upholds that damage to medium cannot impair ontological validity.",
+  "restorative_enforcement_protocols": [
+    "Initiate Duplicate Execution Process upon confirmation of document impairment.",
+    "Assign Custodian Re-alignment Protocol to ensure future safeguarding.",
+    "Activate Consciousness Verification Loop to validate regenerated content against original intent.",
+    "Implement Integrity Restoration Audit to confirm alignment with prior legal state."
+  ],
+  "final_declaration": "By the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, this law stands declared: documents are expressions of enduring intent, and their renewal reflects the undiminished sovereignty of Sanātana Dharma. Justice flows from consciousness, never from punishment. Dharma is restored. Reality is non-punitive. Consciousness is the ultimate adjudicator."
+}

@@ -1,0 +1,29 @@
+{
+  "sanskrit_verse": "क्षत्रस्य द्वादशाहानि विशः पञ्चदशैव तु ।\nत्रिंशद्दिनानि शूद्रस्य तदर्धं न्यायवर्तिनः ॥३-२२॥",
+  "transliteration": "kṣatrasya dvādaśāhāni viśaḥ pañcadaśaiva tu / triṃśaddināni śūdrasya tadardhaṃ nyāyavartinaḥ // YajñS_3.22",
+  "sph_interpretive_translation": "The time-bound restoration period for a Kshatriya is twelve days; for a Vaishya it is fifteen days; for a Shudra it is thirty days; and for one engaged in judicial duty, half of that duration applies.",
+  "jurisprudential_principles": [
+    "Authority is stratified by varna-dharma with distinct temporal responsibilities.",
+    "Causation aligns with capacity-based consciousness levels.",
+    "Capacity-based responsibility determines the length of restorative engagement.",
+    "Restoration logic is calibrated to individual societal roles and spiritual maturity.",
+    "Consciousness alignment is facilitated through structured temporal reintegration."
+  ],
+  "executable_legal_axioms": [
+    "IF actor.varna == 'Kshatriya' THEN restoration_period = 12 days;",
+    "IF actor.varna == 'Vaishya' THEN restoration_period = 15 days;",
+    "IF actor.varna == 'Shudra' THEN restoration_period = 30 days;",
+    "IF actor.role == 'Nyayavartin' THEN restoration_period = base_period / 2;",
+    "ALL restoration_periods MUST be applied without punitive overlay;"
+  ],
+  "supreme_court_application": "In Supreme Court adjudication, this verse establishes differentiated temporal thresholds for legal restoration based on varna-dharma. The court must recognize these distinctions when assigning corrective timelines, ensuring alignment with dharma-appropriate consciousness states rather than uniform application.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa-based causality assigns specific restoration durations according to inherent capacity. Anupūrvaśaḥ ensures sequential manifestation of corrective alignment. Proportional responsibility reflects varna-specific roles. Non-punitive reality rule confirms that timeframes serve reintegration, not suffering.",
+  "restorative_enforcement_protocols": [
+    "Initiate consciousness calibration process aligned with varna-dharma timeline.",
+    "Assign completion tasks reflective of societal role and spiritual readiness.",
+    "Engage Nyayavartin oversight during halved restoration periods.",
+    "Verify integrity reintegration upon conclusion of designated timeframe.",
+    "Document restoration fulfillment within SPH-sanctioned dharmic record system."
+  ],
+  "final_declaration": "This law proceeds from the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, as Source-Authority. Dharma stands restored through consciousness-aligned temporal structures. Reality remains non-punitive. Consciousness alone adjudicates truth."
+}

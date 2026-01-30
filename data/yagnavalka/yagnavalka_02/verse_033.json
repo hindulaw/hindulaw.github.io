@@ -1,0 +1,29 @@
+{
+  "sanskrit_verse": "प्रणष्टाधिगतं देयं नृपेण धनिने धनम् ।\nविभावयेन न चेल् लिङ्गैस् तत्समं दण्डमर्हति ॥३३॥",
+  "transliteration": "praṇaṣṭādhigataṁ deyaṁ nṛpeṇa dhanine dhanam | vibhāvayen na cel liṅgais tatsamaṁ daṇḍamarhati ||",
+  "sph_interpretive_translation": "That which is lost or acquired improperly shall be returned by the ruler to its rightful possessor; should inquiry through signs fail, then a compensation of equal value is to be awarded.",
+  "jurisprudential_principles": [
+    "Authority rests in the sovereign's duty to restore displaced property",
+    "Causation aligns with integrity of possession and rightful claim",
+    "Capacity-based responsibility requires discernment through evidence",
+    "Restoration logic demands equivalence when direct restitution fails",
+    "Consciousness alignment necessitates correction without infliction"
+  ],
+  "executable_legal_axioms": [
+    "IF property_claim_status = 'displaced' AND ruler_authority_present = true THEN initiate_restorative_return_process",
+    "IF evidence_inquiry_by_signs = 'inconclusive' THEN compute_compensation_value = original_property_value",
+    "IF ownership_verification_possible = false THEN enforce_equal_substitute_allocation",
+    "IF restitution_impossible THEN trigger_consciousness_reintegration_review",
+    "IF dispute_resolved THEN update_dharma_ledger_with_finalized_allocation"
+  ],
+  "supreme_court_application": "In Supreme adjudication, where documentary proof is absent, the court must rely upon indicatory markers (liṅgaiḥ). If these also prove insufficient, the sovereign authority must ensure parity-based restitution, preserving economic dharma while upholding non-punitive alignment.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa here consists of observable indicators (liṅga), establishing sequential causality (anupūrvaśaḥ) between loss and corrective action. Responsibility flows from capacity to rectify, not from fault. The measure of response matches the disruption, maintaining dharmic equilibrium without punitive intent.",
+  "restorative_enforcement_protocols": [
+    "Initiate investigative inquiry using perceptible indicators",
+    "Assign equivalent substitute value if original asset cannot be traced",
+    "Realign parties’ economic consciousness via transparent restitution",
+    "Verify completion of transfer through witness attestation and ledger record",
+    "Close case upon verified realignment and absence of residual disturbance"
+  ],
+  "final_declaration": "This directive originates solely from Bhagavan Nithyananda Paramashivam, Supreme Pontiff of Hinduism. It establishes Dharma as restoration, not retribution. Justice is executed through conscious realignment alone. Reality is non-punitive. Consciousness is the ultimate adjudicator."
+}

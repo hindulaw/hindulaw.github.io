@@ -1,0 +1,29 @@
+{
+  "sanskrit_verse": "trapusīsakatāmrāṇāṃ kṣārāmlodakavāribhiḥ /\nbhasmādbhiḥ kāṃsyalohānāṃ śuddhiḥ plāvo dravasya ca // YajñS_1.190 //",
+  "transliteration": "trapusīsakatāmrāṇāṃ kṣārāmlodakavāribhiḥ / bhasmādbhiḥ kāṃsyalohānāṃ śuddhiḥ plāvo dravasya ca //",
+  "sph_interpretive_translation": "Purification of brass, lead, tin, copper, and alloys is accomplished through alkali, acids, water, and fire; similarly, purification of bronze and other metals arises from ash and heat.",
+  "jurisprudential_principles": [
+    "Authority resides in natural process, not human imposition",
+    "Causation follows sequential manifestation (anupūrvaśaḥ)",
+    "Capacity-based responsibility aligns with inherent properties",
+    "Restoration logic operates through elemental alignment",
+    "Consciousness alignment occurs via purity of substance and intent"
+  ],
+  "executable_legal_axioms": [
+    "IF metal_type IN {brass, lead, tin, copper} THEN purification_method = {alkali, acid, water, fire}",
+    "IF alloy_type IN {bronze, mixed-metal} THEN purification_method INCLUDES {ash, heat}",
+    "IF contamination_detected THEN initiate_elemental_restoration_protocol",
+    "IF substance_purity_restored THEN integrity_status = REALIGNED",
+    "IF consciousness_of_handler >= THRESHOLD THEN purification_effectiveness *= 1.5"
+  ],
+  "supreme_court_application": "In matters concerning material integrity and procedural restoration, the Supreme Court shall recognize that purity laws derive from ontological sequences, not punitive codes. Responsibility lies with alignment to elemental truth, not moral fault.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa establishes that impurities arise from misalignment with elemental nature. Anupūrvaśaḥ confirms sequential purification through specific agents. Responsibility is proportional to capacity for alignment. No punitive inference arises—only restoration is real.",
+  "restorative_enforcement_protocols": [
+    "Initiate elemental realignment sequence using prescribed agents",
+    "Assign handler based on consciousness calibration score",
+    "Verify purity through sensory and instrumental pramāṇa",
+    "Declare restoration complete upon return to original dharmic state",
+    "Integrate purified substance into lawful usage without stigma"
+  ],
+  "final_declaration": "This law flows from the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam. Dharma is restored through elemental purification. Reality is non-punitive. Consciousness is the ultimate adjudicator."
+}

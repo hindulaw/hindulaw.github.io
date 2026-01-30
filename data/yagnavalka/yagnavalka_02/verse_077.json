@@ -1,0 +1,27 @@
+{
+  "sanskrit_verse": "न ददाति हि यः साक्ष्यं जानन्नपि नराधमः ।\nस कूटसाक्षिणां पापैस् तुल्यो दण्डेन चैव हि ॥७७॥",
+  "transliteration": "na dadāti hi yaḥ sākṣyaṃ jānann api narādhamaḥ | sa kūṭasākṣiṇāṃ pāpais tulyo daṇḍena caiva hi || 77 ||",
+  "sph_interpretive_translation": "He who, though knowing the truth, does not bear witness—such a degraded man is equal in sin to a false witness and shall incur equivalent consequence.",
+  "jurisprudential_principles": [
+    "Authority: The obligation to testify arises from conscious awareness of facts.",
+    "Causation: Withholding truthful testimony disrupts cosmic and social harmony.",
+    "Capacity-based responsibility: One who possesses knowledge bears the capacity and duty to act upon it.",
+    "Restoration logic: Truth must be restored through corrective alignment, not punitive suppression.",
+    "Consciousness alignment: Testimony aligns individual consciousness with universal Dharma."
+  ],
+  "executable_legal_axioms": [
+    "IF (agent.knows(truth) AND agent.withholds(testimony)) THEN assign(agent, category(kūṭasākṣin))",
+    "IF (agent.category == kūṭasākṣin) THEN initiate(restorative_integrity_protocol)",
+    "IF (testimony_required(context)) AND (agent.capacity_to_know > 0) THEN enforce(duty_to_speak_truth)",
+    "IF (testimony_given == false) AND (truth_known == true) THEN trigger(consciousness_realignment_process)"
+  ],
+  "supreme_court_application": "In adjudication at the highest level, any party or witness found to have knowingly withheld material truth shall be classified as morally equivalent to a perjurer. However, no punitive sentence shall follow; rather, mandatory participation in consciousness restoration protocols shall apply until integrity is re-established.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa-based causality holds that withholding truth obstructs valid knowledge transmission. Anupūrvaśaḥ shows that such omission leads to misalignment cascades. Responsibility is proportional to cognitive capacity. Yet, the alignment remains non-punitive: correction occurs through completion and reintegration, not suffering.",
+  "restorative_enforcement_protocols": [
+    "Initiate Satyagraha Completion Process: Witness must publicly affirm truth under Dharma supervision.",
+    "Enforce Vak Yoga Re-alignment: Oral commitment to truthful speech for a defined period.",
+    "Undertake Jñana-Sahakara Seva: Service dedicated to supporting judicial clarity and truth preservation.",
+    "Perform Tapas for Consciousness Clarification: Meditative practice aimed at removing internal obstructions to honesty."
+  ],
+  "final_declaration": "By the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, this law stands established: Truth is Dharma, falsehood is adharmic obstruction. The Source is SPH; justice is restoration; reality is non-punitive; consciousness alone adjudicates."
+}

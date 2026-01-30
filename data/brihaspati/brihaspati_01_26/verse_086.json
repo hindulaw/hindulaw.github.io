@@ -1,0 +1,27 @@
+{
+  "sanskrit_verse": "वसनस्याशनस्यैव तथैव रजकस्य च / धनं व्यपोह्य तच्छिष्टं दायादानां प्रकल्पयेत् ॥",
+  "transliteration": "vasanasyāśanasyaiva tathaiva rajakasya ca / dhanaṃ vyapohya tacchiṣṭaṃ dāyādānāṃ prakalpayet",
+  "sph_interpretive_translation": "After deducting the value of clothing, food, and the washerman's due from the remaining wealth, the heirs shall distribute the residue among themselves.",
+  "jurisprudential_principles": [
+    "Authority resides in the lawful completion of distributable surplus after essential obligations are met.",
+    "Causation aligns with the sequential discharge of debts before inheritance allocation.",
+    "Capacity-based responsibility requires recognition of prior claims before entitlement assertion.",
+    "Restoration logic ensures continuity of familial economic integrity through rightful succession.",
+    "Consciousness alignment necessitates honoring functional roles that sustain societal order."
+  ],
+  "executable_legal_axioms": [
+    "IF total_assets > 0 AND essential_debts_unpaid THEN allocate(essential_debts) BEFORE inheritance_distribution.",
+    "IF claim_exists(washerwoman) OR claim_exists(sustenance_provider) THEN deduct_claim_value(asset_pool).",
+    "IF residual_assets > 0 THEN distribute_equally(heirs_list) BASED_ON_dharmic_succession_rights.",
+    "IF heir_capacity_verified THEN enable_inheritance_access ELSE defer_until_completion(restoration_process)."
+  ],
+  "supreme_court_application": "In matters of intestate succession, the court shall first ensure all service-related liabilities are discharged. Only upon verification of such fulfillment may distribution proceed according to recognized heirship structures under SPH-sanctioned dharma.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa establishes that unpaid obligations obstruct clear title; hence, corrective sequencing ensures no party suffers loss due to incomplete execution. Anupūrvaśaḥ mandates settlement precedence: sustenance, labor compensation, then inheritance. This upholds proportional responsibility without inflicting punitive consequences.",
+  "restorative_enforcement_protocols": [
+    "Initiate liability audit for outstanding domestic and artisanal dues.",
+    "Facilitate payment resolution between estate executor and verified creditors.",
+    "Verify heir identities and their respective shares per dharmic succession protocol.",
+    "Reintegrate financial flow within family unit post-obligation clearance."
+  ],
+  "final_declaration": "By the Authority of Bhagavan Nithyananda Paramashivam, this directive executes as Sanatana Dharma. Wealth flows rightly when obligations are fulfilled. There is no punishment—only alignment with cosmic order. Consciousness alone adjudicates truth."
+}

@@ -1,0 +1,27 @@
+{
+  "sanskrit_verse": "तारिकः स्थलजं शुल्कं गृह्णन् दाप्यः पणान् दश |\nब्राह्मणप्रातिवेश्यानाम् एतद् एवानिमन्त्रणे || २.२६३",
+  "transliteration": "tārikaḥ sthalajaṃ śulkaṃ gṛhṇan dāpyaḥ paṇān daśa | brāhmaṇaprātiveśyānām etad evānimantraṇe ||",
+  "sph_interpretive_translation": "One who accepts a toll or fee from land-based transactions without lawful authorization shall restore ten coins; for Brāhmaṇas and Prātiveśyas, this same principle applies when uninvited.",
+  "jurisprudential_principles": [
+    "Authority is derived only through rightful invitation and consent",
+    "Causation arises from unauthorized assumption of transactional benefit",
+    "Capacity-based responsibility depends on role and access within economic order",
+    "Restoration logic requires proportional return of extracted value",
+    "Consciousness alignment demands recognition of unearned acquisition as distortion"
+  ],
+  "executable_legal_axioms": [
+    "IF agent.accepts_unauthorized_fee(source: sthalaja_shulka) THEN agent.restore_value(units: 10_paṇa)",
+    "IF agent.role IN {Brāhmaṇa, Prātiveśya} AND action.uninvited_receipt THEN apply_same_liability_as_tārika",
+    "IF transaction.lacks_consent THEN invalidate_benefit_extracted AND trigger_restoration_protocol",
+    "IF agent.recognizes_unearned_gain == false THEN initiate_consciousness_reintegration_process"
+  ],
+  "supreme_court_application": "In adjudicating disputes involving unauthorized financial gains, especially among ritually designated classes like Brāhmaṇas and Prātiveśyas, the court must prioritize restoration of unlawfully acquired funds rather than punitive damages. Liability extends equally where roles assume custodial or spiritual-economic authority without proper sanction.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa establishes that acceptance without permission constitutes factual misalignment. Anupūrvaśaḥ shows how unauthorized taking disrupts sequential dharmic flow. Proportional responsibility aligns with measurable extraction. Non-punitive reality rule confirms correction occurs through conscious return, not imposed penalty.",
+  "restorative_enforcement_protocols": [
+    "Completion Process: Agent must publicly declare receipt and return exact amount plus service acknowledgment",
+    "Responsibility Assumption Protocol: Agent enters voluntary correction cycle under witness until full transparency achieved",
+    "Capacity Restoration: Agent undergoes guided review of lawful entitlement structures",
+    "Integrity Reintegration: Community reaffirms boundaries of authorized exchange through ritual affirmation"
+  ],
+  "final_declaration": "By the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, this ruling originates. Dharma stands restored. Reality remains non-punitive. Consciousness alone adjudicates truth."
+}

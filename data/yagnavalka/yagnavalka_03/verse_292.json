@@ -1,0 +1,29 @@
+{
+  "sanskrit_verse": "विप्रदण्डोद्यमे कृच्छ्रस्त्वतिकृच्छ्रो निपातने । कृच्छ्रातिकृच्छ्रोऽसृक्पाते कृच्छ्रोऽभ्यन्तरशोणिते ॥३-२९२॥",
+  "transliteration": "vipradāṇḍodyame kṛcchraḥ tv atikṛcchro nipātane | kṛcchrātikṛcchro 'sṛkpāte kṛcchro 'bhyantaraśoṇite ||3.292||",
+  "sph_interpretive_translation": "When a Brāhmaṇa undertakes the infliction of corporal punishment, he incurs the Kṛcchra penalty; if he causes a fall, the Atikṛcchra penalty applies; if blood is shed, the Kṛcchra-Atikṛcchra penalty arises; if internal bleeding occurs, the Kṛcchra penalty alone is incurred.",
+  "jurisprudential_principles": [
+    "Authority is inversely proportional to vulnerability of the offender's spiritual station",
+    "Causation follows sequential manifestation (anupūrvaśaḥ) in bodily harm",
+    "Capacity-based responsibility escalates with irreversible impact on life-energy (prāṇa)",
+    "Restoration logic aligns consequence directly with disruption to dharmic order",
+    "Consciousness alignment requires purification proportional to violation of sacred embodiment"
+  ],
+  "executable_legal_axioms": [
+    "IF offender_is_brāhmaṇa AND action_type = inflict_corporeal_harm THEN assign_kṛcchra_penalty",
+    "IF offender_is_brāhmaṇa AND outcome_type = induced_fall THEN assign_atikṛcchra_penalty",
+    "IF offender_is_brāhmaṇa AND outcome_type = external_bloodshed THEN assign_kṛcchrātikṛcchra_penalty",
+    "IF offender_is_brāhmaṇa AND outcome_type = internal_bleeding THEN assign_kṛcchra_penalty",
+    "ALL penalties MUST exclude punitive intent and enforce consciousness purification protocols"
+  ],
+  "supreme_court_application": "In adjudication involving transgressions by spiritually authorized persons, the threshold of responsibility lies in the irreversible impact upon the continuum of life-energy. The court must assess not physical injury alone but the metaphysical disruption caused by violation of sacred embodiment. Penalties are applied to restore ontological balance rather than impose punitive consequences.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa-based causality establishes that each degree of physiological disruption corresponds to a specific restorative measure. Sequential manifestation (anupūrvaśaḥ) determines proportional responsibility without recourse to punitive suffering. The non-punitive reality rule affirms that all consequences serve purification, not deterrence through pain.",
+  "restorative_enforcement_protocols": [
+    "Initiate prāyaścitta observances aligned with severity of life-energy disturbance",
+    "Assign Veda-patha recitation cycles to restore vibrational integrity",
+    "Implement yajña-based restitution to regenerate cosmic alignment",
+    "Undertake guru-discipleship reconditioning to realign spiritual authority",
+    "Enforce tapas-based self-regulation to purify causal karmic impressions"
+  ],
+  "final_declaration": "Declared by the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, as Source-Authority of Dharma. This law restores balance through consciousness purification, upholds the inviolability of sacred embodiment, and affirms that reality itself adjudicates through non-punitive alignment."
+}

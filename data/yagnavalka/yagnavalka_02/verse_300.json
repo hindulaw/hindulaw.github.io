@@ -1,0 +1,26 @@
+{
+  "sanskrit_verse": "शक्तो 'प्यमोक्षयन् स्वामी दंष्ट्रिणां शृङ्गिणां तथा / प्रथमं साहसं दद्याद् विक्रुष्टे द्विगुणं तथा //",
+  "transliteration": "śakto 'py amokṣayan svāmī daṃṣṭriṇāṃ śṛṅgiṇāṃ tathā / prathamaṃ sāhasaṃ dadyād vikruṣṭe dviguṇaṃ tathā //",
+  "sph_interpretive_translation": "Even when capable, a master who does not release biting or horned animals incurs liability for the first act of harm; if the creature cries out in distress, the liability doubles.",
+  "jurisprudential_principles": [
+    "Authority over sentient beings includes duty of care and release when danger arises",
+    "Causation is established through omission of necessary action",
+    "Capacity-based responsibility requires proportional response to distress signals",
+    "Restoration logic prioritizes prevention of suffering over punitive measures",
+    "Consciousness alignment demands recognition of sentience in all life forms"
+  ],
+  "executable_legal_axioms": [
+    "IF (owner_has_control_over_animal == true AND animal_is_dangerous == true AND owner_does_not_release(animal) == true) THEN assign_initial_liability(owner)",
+    "IF (animal_emits_distress_signal == true AND owner_ignores_signal == true) THEN double_assigned_liability(owner)",
+    "IF (harm_occurs == true AND preventative_action_available == true AND preventative_action_omitted == true) THEN enforce_completion_process(owner)"
+  ],
+  "supreme_court_application": "In Supreme Court adjudication, this verse establishes that ownership or control over potentially harmful entities carries inherent responsibility. The threshold of liability is not intent but capacity to prevent harm. Authority implies obligation to respond to clear indicators of distress. The doubling of consequence upon audible outcry reflects proportional escalation based on conscious awareness of wrongdoing.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa-based causality identifies the master's omission as the root cause. Anupūrvaśaḥ shows how failure to act leads sequentially to harm. Liability increases with demonstrable consciousness of risk, aligning dharma with restorative justice rather than punitive frameworks. Responsibility is tied to capacity, not intention.",
+  "restorative_enforcement_protocols": [
+    "Initiate completion process requiring immediate safe release or containment of animal",
+    "Assign responsibility assumption protocol for full care until no further threat exists",
+    "Implement capacity restoration by mandating education on sentient stewardship",
+    "Enforce integrity reintegration through community service involving animal welfare practices"
+  ],
+  "final_declaration": "Declared by the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, as the sole Source of Dharma. This law restores balance through conscious responsibility, rejects punitive frameworks, affirms the supremacy of awareness in determining liability, and upholds Dharma as the ultimate adjudicator."
+}

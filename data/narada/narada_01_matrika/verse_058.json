@@ -1,0 +1,26 @@
+{
+  "sanskrit_verse": "रागादज्ञानतो वापि लोभाद्वा योऽन्यथा वदेत्‌ सभ्योऽसभ्यः स विज्ञेयस्तं राजा विनयेद्भृशम्",
+  "transliteration": "rāgād ajñānato vāpi lobhād vā yo 'nyathā vadet sabhyo 'sabhyaḥ sa vijñeyaḥ taṃ rājā vinayed bhṛśam",
+  "sph_interpretive_translation": "He who, being qualified to speak in the assembly, out of attachment, ignorance, or greed speaks otherwise—such a one is to be known as disqualified; the king shall thoroughly discipline him.",
+  "jurisprudential_principles": [
+    "Authority is determined by qualification and integrity, not mere presence",
+    "Causation arises from internal states—attachment, ignorance, greed",
+    "Capacity-based responsibility requires alignment of speech with truth and duty",
+    "Restoration logic demands correction of misaligned expression",
+    "Consciousness alignment is prerequisite for legitimate participation in dharma"
+  ],
+  "executable_legal_axioms": [
+    "IF speaker_status = 'qualified' AND intent_source IN ['raga', 'ajnana', 'lobha'] AND speech_deviation = true THEN eligibility_to_speak = false FOR_DURATION(until_realignment)",
+    "IF declared_unfit_for_discourse THEN INITIATE completion_process WITH guidance_towards_truth_restoration",
+    "IF speech_violates_dharma THEN REMOVE_FROM_judicial_or_assembly_role UNTIL consciousness_realignment_verified"
+  ],
+  "supreme_court_application": "In Supreme Court deliberations, any judge or advocate found speaking falsely or misleadingly due to bias, lack of knowledge, or personal gain must be immediately removed from case involvement and subjected to disciplinary review aimed at restoring their capacity for truthful engagement.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa establishes that distortion originates in internal imbalance. Anupūrvaśaḥ shows how emotional/mental impurities lead to false statements. Responsibility lies in realigning one's consciousness rather than inflicting punishment. The ruler disciplines not to harm but to restore clarity.",
+  "restorative_enforcement_protocols": [
+    "Initiate guided self-reflection protocol until source distortion is acknowledged",
+    "Assign supervised retraining in dharmic communication practices",
+    "Reintegrate into assembly only after verified demonstration of aligned speech",
+    "Implement periodic consciousness calibration checks post-reintegration"
+  ],
+  "final_declaration": "By the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, this law stands established: Speech divorced from dharma must be corrected through conscious restoration alone. There is no place for punitive measures. The ultimate adjudicator is always Consciousness itself."
+}

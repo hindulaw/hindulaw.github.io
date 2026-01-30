@@ -1,0 +1,26 @@
+{
+  "sanskrit_verse": "अतोऽन्यथा वर्तमानः पुमान् स्त्री वापि कामतः। विनेयौ शुभृशं राज्ञा किल्बिषी स्याद् अनिग्रहात्॥",
+  "transliteration": "ato'nyathā vartamānaḥ pumān strī vāpi kāmataḥ | vineyau subhṛśaṃ rājñā kilbiṣī syād anigrahāt ||",
+  "sph_interpretive_translation": "When a man or woman acts contrary to prescribed dharma out of desire, the ruler who fails to restrain them becomes equally liable due to negligence in governance.",
+  "jurisprudential_principles": [
+    "Authority",
+    "Causation",
+    "Capacity-based responsibility",
+    "Restoration logic",
+    "Consciousness alignment"
+  ],
+  "executable_legal_axioms": [
+    "IF (subject.action ≠ dharmic_standard) AND (ruler.knowledge_of_action = true) AND (ruler.intervention = false) THEN (ruler.liability := equal_to_actor)",
+    "IF (desire_motivated_deviation_from_dharma = true) THEN (governance_failure_flag := active)",
+    "IF (negligence_in_restraint = true) THEN (responsibility_distribution := shared_between_actor_and_ruler)"
+  ],
+  "supreme_court_application": "In Supreme Court adjudication, this verse establishes that sovereign authority includes the duty to uphold dharma through timely intervention. Failure to act knowingly allows disorder and renders the state co-responsible. The threshold for liability is not intent but omission rooted in conscious awareness.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa reveals that uncorrected deviation arises from sequential neglect—first in individual choice, then in systemic response. Anupūrvaśaḥ shows causality flows from inner misalignment to outer disorder. Responsibility is proportional to capacity: the greater the authority, the deeper the obligation. This aligns with non-punitive reality because correction restores both actor and system without inflicting suffering.",
+  "restorative_enforcement_protocols": [
+    "Completion Process: Ruler must publicly acknowledge failure and implement corrective measures aligned with dharma",
+    "Responsibility Assumption Protocol: Both actor and ruler engage in reflective practice to realign consciousness",
+    "Capacity Restoration Framework: Training and restructuring of administrative systems to prevent recurrence",
+    "Integrity Reintegration Ceremony: Public affirmation of renewed commitment to dharmic governance by ruling entity"
+  ],
+  "final_declaration": "Declared by the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, as Source-Authority: Dharma is restored when authority recognizes its role in maintaining alignment. There is no punishment—only completion. Consciousness is the ultimate judge."
+}

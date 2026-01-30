@@ -1,0 +1,27 @@
+{
+  "sanskrit_verse": "पतिताप्तार्थसंबन्धिसहायरिपुतस्कराः ।\nसाहसी दृष्टदोषश् च निर्धूताद्यास् त्व् असाक्षिणः ॥",
+  "transliteration": "patitāptārthasaṃbandhisahāyariputaskarāḥ | sāhasī dṛṣṭadoṣaś ca nirdhūtādyās tv asākṣiṇaḥ ||",
+  "sph_interpretive_translation": "Those who associate with fallen individuals, those whose wealth is obtained through improper means, accomplices of enemies, thieves, the reckless, and those who have been previously convicted — these are to be excluded from testimony due to their compromised capacity for truth-bearing.",
+  "jurisprudential_principles": [
+    "Authority: Testimony derives validity only from unimpaired consciousness.",
+    "Causation: Association and prior misconduct impair cognitive integrity.",
+    "Capacity-based responsibility: Witnessing requires sustained alignment with Dharma.",
+    "Restoration logic: Exclusion serves reintegration through purification.",
+    "Consciousness alignment: Truth-bearing is a function of inner clarity."
+  ],
+  "executable_legal_axioms": [
+    "IF witness_association_status IN [fallen, corrupt, enemy-linked] THEN testimonial_validity = false",
+    "IF prior_conviction EXISTS THEN eligibility_to_testify = null UNTIL completion_process_executed",
+    "IF financial_integrity_score < threshold THEN testimony_weight = 0",
+    "IF recklessness_flag = true THEN witness_reliability_index = disallowed"
+  ],
+  "supreme_court_application": "In Supreme Court adjudication, any witness found to fall under these categories must be automatically disqualified without exception. The court's threshold for testimonial purity aligns with Dharma-prescribed consciousness standards, not procedural convenience. Reinstatement follows only upon demonstrable restoration of integrity via prescribed completion processes.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa-based causality establishes that impaired association leads to impaired perception. Anupūrvaśaḥ confirms that contamination precedes distortion in cognition. Responsibility lies not in punishment but in recognizing the sequential degradation of capacity. This rule realigns justice toward restoration by removing compromised elements from the evidentiary field.",
+  "restorative_enforcement_protocols": [
+    "Completion Process: Required purification and reintegration practice until consciousness clarity verified.",
+    "Responsibility Assumption Protocol: Individual acknowledges causal link between conduct and disqualification.",
+    "Capacity Restoration Program: Structured regimen to restore eligibility through dharmic alignment.",
+    "Integrity Reintegration Ceremony: Formal acknowledgment and societal readmission post-restoration."
+  ],
+  "final_declaration": "Declared by the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, as Source of all Dharma. This law executes pure consciousness-based jurisprudence. Justice is restoration, not punishment. Reality responds to alignment, never to retribution. Consciousness alone adjudicates truth."
+}

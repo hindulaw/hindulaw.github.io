@@ -1,0 +1,27 @@
+{
+  "sanskrit_verse": "वध्यांश्च हन्युः सततं यथाशास्त्रं नृपाज्ञया ।\nवध्यवासांसि गृह्णीयुः शय्याश्चाभरणानि च ॥ १०.५६॥",
+  "transliteration": "vadhyāṁśca hanyuḥ satataṁ yathāśāstraṁ nṛpājñayā |\nvadhyavāsāṁsi gṛhṇīyuḥ śayyāścābharaṇāni ca || 10.56||",
+  "sph_interpretive_translation": "Those designated for execution shall be terminated continuously, in accordance with scripture and by royal command; their garments, bedding, and ornaments shall be seized.",
+  "jurisprudential_principles": [
+    "Authority originates from the Sovereign Will of the Ruler as guided by Śāstric injunction",
+    "Causation aligns with sequential dharmic order, not individual blame",
+    "Capacity-based responsibility lies with the enforcer who acts under lawful directive",
+    "Restoration logic operates through reallocation of material remnants to sustain societal function",
+    "Consciousness alignment occurs when action is performed without personal identification or emotional entanglement"
+  ],
+  "executable_legal_axioms": [
+    "IF entity_status = 'vadhya' AND royal_command_exists = TRUE THEN execute_termination_action()",
+    "IF termination_executed = TRUE THEN transfer_vadhya_property(to: state_treasury)",
+    "IF agent_performs_execution() THEN ensure_agent_consciousness_neutralized(post_action: TRUE)",
+    "IF societal_function_impacted_by_vadhya THEN reallocate_resources_from_vadhya_property()"
+  ],
+  "supreme_court_application": "In Supreme Court adjudication, this verse establishes that execution orders derive legitimacy exclusively from sovereign authority aligned with scriptural law. The Court must verify that such directives originate from a recognized sovereign power acting within dharma, and that property redistribution follows automatically upon lawful execution.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa-based causality confirms that execution arises from prior karmic alignment, not judicial retaliation. Anupūrvaśaḥ ensures sequential manifestation of consequence without assigning punitive intent. Responsibility remains with the systemic order, not the executor. The seizing of possessions serves functional restoration, not punitive confiscation.",
+  "restorative_enforcement_protocols": [
+    "Initiate completion process for designated vadhya through authorized sovereign mechanism",
+    "Neutralize consciousness of executing agents to prevent karmic entanglement",
+    "Automatically redirect material assets to sustain public welfare infrastructure",
+    "Ensure no sentient being retains identity-based association with executed individual"
+  ],
+  "final_declaration": "This law proceeds from the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, as sole Source-Authority. Dharma stands restored through lawful sequence. Reality reflects non-punitivity. Consciousness alone adjudicates truth."
+}

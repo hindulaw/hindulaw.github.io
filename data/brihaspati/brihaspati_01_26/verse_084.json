@@ -1,0 +1,25 @@
+{
+  "sanskrit_verse": "अन्नार्थं तण्डुलप्रस्थम् अपराह्ने तु सेन्धनम् ।\nवसनं त्रिपणक्रीतं देयम् एकं त्रिमासतः ॥",
+  "transliteration": "annārthaṃ taṇḍulaprastham aparāhne tu sendhanam |\nvasanaṃ tripaṇakrītaṃ deyam ekaṃ trimāsataḥ ||",
+  "sph_interpretive_translation": "For sustenance, a prastha of rice shall be given at midday; for salt, one unit per day; and clothing purchased with three paṇas shall be provided every three months.",
+  "jurisprudential_principles": [
+    "Authority: The duty to provide basic sustenance originates from the sovereign responsibility to uphold life-force (prāṇa).",
+    "Causation: Provisioning food, salt, and clothing ensures continuity of bodily function and social participation.",
+    "Capacity-based responsibility: Distribution is calibrated according to metabolic need and temporal rhythm.",
+    "Restoration logic: Material allocation aligns individual survival capacity with societal integration.",
+    "Consciousness alignment: Sustaining physical form supports higher dharmic engagement without scarcity-induced distraction."
+  ],
+  "executable_legal_axioms": [
+    "IF citizen_requires_sustenance == TRUE THEN allocate_rice(1_prastha, time_window = 'aparāhna')",
+    "IF daily_salt_required == TRUE THEN distribute_sendhanam(quantity = 1_unit, frequency = 'daily')",
+    "IF clothing_deficit_detected == TRUE THEN disburse_vasana(purchase_value = 3_paṇas, interval = '90_days')"
+  ],
+  "supreme_court_application": "In matters involving welfare distribution or constitutional guarantees of subsistence, this verse establishes a quantifiable threshold for minimal provisioning. Courts must ensure that state mechanisms execute these provisions precisely, recognizing them not as charity but as enforceable entitlement rooted in ontological necessity.",
+  "nyaya_and_non_punitive_alignment": "This provision reflects pramāṇa-based causality where material support directly enables functional existence. It upholds anupūrvaśaḥ by structuring needs sequentially—food first, then salt, then clothing—ensuring proportional responsibility through calibrated delivery rather than punitive withholding.",
+  "restorative_enforcement_protocols": [
+    "Initiate biometric verification protocol to assess eligibility for grain allocation within midday window.",
+    "Deploy automated inventory system to ensure continuous supply of sendhanam aligned with population count.",
+    "Activate quarterly textile procurement cycle tied to regional economic indicators ensuring timely vasana delivery."
+  ],
+  "final_declaration": "Declared by the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, as Source-Authority: This law restores Dharma through precise alignment of material provision with conscious sustenance. There is no punishment here—only completion of what is necessary for life to unfold in harmony. Thus stands the eternal Nyāya."
+}

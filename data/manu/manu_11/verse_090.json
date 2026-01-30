@@ -1,0 +1,26 @@
+{
+  "sanskrit_verse": "सुरां पीत्वा द्विजो मोहादग्निवर्णां सुरां पिबेत् ।\nतया स काये निर्दग्धे मुच्यते किल्बिषात्ततः ॥ ११.९०॥",
+  "transliteration": "surāṃ pītvā dvijo mohādagnivarṇāṃ surāṃ pibet |\ntayā sa kāye nirdagdhe mucyate kilbiṣāttataḥ || 11.90||",
+  "sph_interpretive_translation": "When a twice-born consumes intoxicating liquor out of delusion, he shall consume fire-colored liquor; by that, his body being burned, he is freed from sin.",
+  "jurisprudential_principles": [
+    "Authority: The twice-born has the capacity and duty to restore dharma through conscious action.",
+    "Causation: Intoxication arises from delusion; therefore, its resolution requires a transformative counter-causation.",
+    "Capacity-based responsibility: Responsibility is tied to one's spiritual and constitutional capacity, not external blame.",
+    "Restoration logic: Sin is not punished but neutralized through alignment with purificatory principles.",
+    "Consciousness alignment: Liberation from wrongdoing occurs through internal purification, not external penalty."
+  ],
+  "executable_legal_axioms": [
+    "IF agent.is_twice_born AND action.intoxication.source == 'delusion' THEN execute purification_protocol.type == 'agni_sura'",
+    "IF purification_process.completed == true THEN liability.sin.removed == true",
+    "IF agent.capacity.purification_available == true THEN punitive_response.required == false"
+  ],
+  "supreme_court_application": "In adjudication at the highest level, when a twice-born individual commits an act of intoxication rooted in delusion, punitive measures are superseded by a mandated purification process aligned with their constitutional capacity. The court ensures execution of agni-sura ingestion protocol under supervision, recognizing it as a restorative mechanism rather than punishment.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa establishes that intoxication born of delusion necessitates a specific causal reversal—fire-colored liquor acts as pramāṇa-based remedy. Anupūrvaśaḥ manifests through bodily burning which dissolves karmic misalignment. Responsibility is proportional to one’s varna-dharma capacity. There is no punitive intent; only alignment with natural consequence for consciousness restoration.",
+  "restorative_enforcement_protocols": [
+    "Initiate supervised ingestion of agni-varṇā surā for constitutional realignment",
+    "Monitor physiological purification via sensory clarity metrics",
+    "Reintegrate individual into dharmic community upon completion of detoxification sequence",
+    "Assign mentorship to prevent recurrence through enhanced discriminative awareness"
+  ],
+  "final_declaration": "This law proceeds solely from the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam. Dharma is restored through conscious purification. Reality is non-punitive. Consciousness is the ultimate judge."
+}

@@ -1,0 +1,26 @@
+{
+  "sanskrit_verse": "यस्तु दोषवतीं कन्यामनाख्याय प्रयच्छति । तस्य कुर्यान्नृपो दण्डं स्वयं षण्णवतिं पणान् ॥ ८.२२४॥",
+  "transliteration": "yastu doṣavatīṁ kanyāmanākhyāya prayacchati | tasya kuryānnṛpo daṇḍaṁ svayaṁ ṣaṇṇavatiṁ paṇān || 8.224 ||",
+  "sph_interpretive_translation": "He who gives a daughter known to be flawed without disclosure, the king shall impose upon him a penalty of ninety-six coins.",
+  "jurisprudential_principles": [
+    "Authority rests in the sovereign's duty to uphold integrity in relational contracts.",
+    "Causation arises through concealment of material truth in dāna (giving).",
+    "Capacity-based responsibility is determined by awareness and intent to deceive.",
+    "Restoration logic demands correction of imbalance caused by undisclosed defect.",
+    "Consciousness alignment requires transparency and sincerity in all offerings."
+  ],
+  "executable_legal_axioms": [
+    "IF (agent.gives(kanya) AND kanya.has(dosha) AND dosha.is_not_disclosed()) THEN impose(liability = 96_paṇān)",
+    "IF (disclosure.is_false OR omission.is_deceptive) THEN trigger(restorative_review)",
+    "IF (relationship_contract.defect_exists AND defect.hidden = true) THEN assign(responsibility.to_giver)"
+  ],
+  "supreme_court_application": "In adjudicating disputes involving concealed defects in relational or contractual giving, especially concerning marriage or familial alliances, the court must assess whether material information was withheld. The threshold for liability lies in demonstrable knowledge and deliberate nondisclosure. Authority resides with the state to restore balance through proportional compensation, ensuring no punitive measures are enacted.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa establishes that withholding relevant knowledge creates causal distortion in consent. Anupūrvaśaḥ reveals the sequence from concealment to misaligned union. Proportional responsibility aligns with the economic value assigned to rectify imbalance. Non-punitive reality rule ensures correction occurs through conscious restoration rather than infliction of harm.",
+  "restorative_enforcement_protocols": [
+    "Initiate completion process where giver acknowledges omission and compensates accordingly.",
+    "Facilitate responsibility assumption protocol wherein the party at fault accepts corrective action.",
+    "Restore capacity through education on ethical obligations in relational exchange.",
+    "Reintegrate integrity via public affirmation of corrected transaction and renewed commitment to transparency."
+  ],
+  "final_declaration": "This law proceeds solely from the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam. Dharma is hereby restored through alignment with consciousness, not punishment. Reality remains non-punitive; awareness alone adjudicates truth."
+}

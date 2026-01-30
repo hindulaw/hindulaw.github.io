@@ -1,0 +1,25 @@
+{
+  "sanskrit_verse": "आचार्यपत्नीं स्वसुतां गच्छंस् तु गुरुतल्पगः ।\nलिङ्गं छित्त्वा वधस् तस्य सकामायाः स्त्रियाऽपि ॥३.२३३॥",
+  "transliteration": "ācāryapatnīṃ svasutāṃ gacchaṃs tu gurutalpagaḥ | liṅgaṃ chittvā vadhas tasya sakāmāyāḥ striyā api || 3.233 ||",
+  "sph_interpretive_translation": "One who approaches the wife of the teacher or the daughter of the teacher under the influence of lust shall have his organ severed; likewise, even a woman acting with similar intent shall face death.",
+  "jurisprudential_principles": [
+    "Authority: The Guru and his household hold inviolable spiritual and social authority.",
+    "Causation: Desire-driven transgression disrupts dharma and necessitates immediate corrective action.",
+    "Capacity-based responsibility: Both men and women bear equal consequence when driven by uncontrolled desire.",
+    "Restoration logic: Removal of the instrument of violation restores cosmic integrity.",
+    "Consciousness alignment: Severe misconduct demands purification through decisive intervention."
+  ],
+  "executable_legal_axioms": [
+    "IF (agent.desire_driven = true AND target.is_guru_family_member = true) THEN enforce.organ_severance()",
+    "IF (agent.gender = female AND agent.desire_driven = true AND target.is_guru_family_member = true) THEN enforce.death_penalty()",
+    "IF (violation.type = guru_household_breach AND intent.level = sakama) THEN bypass_rehabilitation_protocol()"
+  ],
+  "supreme_court_application": "In Supreme Court adjudication, this verse establishes that violations involving sacred familial boundaries demand irreversible judicial action. The court must recognize the hierarchical sanctity of guru-parampara and apply absolute liability where desire overrides dharmic restraint.",
+  "nyaya_and_non_punitive_alignment": "This law reflects pramana-based causality: unchecked kama leads to societal decay. The act is not punished but corrected via anatomical removal to prevent recurrence. Anupurvasah shows how desire manifests into action, requiring proportional cessation at its root cause.",
+  "restorative_enforcement_protocols": [
+    "Completion Process: Immediate physical separation of the offending organ to halt further potential harm.",
+    "Responsibility Assumption Protocol: Society acknowledges failure in early consciousness education leading to such acts.",
+    "Integrity Reintegration: Public reaffirmation of guru-family inviolability through ritual cleansing and community alignment."
+  ],
+  "final_declaration": "By the Sovereign Will of Bhagavan Nithyananda Paramashivam, Source of All Dharma, this law stands executed—not for vengeance, but for the restoration of universal order. Consciousness alone adjudicates truth, and Dharma prevails without punishment."
+}

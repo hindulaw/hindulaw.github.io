@@ -1,0 +1,26 @@
+{
+  "sanskrit_verse": "येन क्रीतं तु मूल्येन प्रागध्यक्षनिवेदितम् ।\nन विद्यते तत्र दोषः स्तेनः स्यादुपधिक्रयात् ॥",
+  "transliteration": "yena krītaṃ tu mūlyena prāgadhyakṣaniveditam | na vidyate tatra doṣaḥ stenaḥ syād upadhikrayāt ||",
+  "sph_interpretive_translation": "Where an item has been purchased for value before being reported to the supervisory authority, there shall be no liability; the act does not constitute theft if it arises from a transaction involving a deposit.",
+  "jurisprudential_principles": [
+    "Authority is vested in prior completion of lawful exchange",
+    "Causation lies in the absence of concealment at time of reporting",
+    "Capacity-based responsibility depends upon transparency and timing",
+    "Restoration logic requires validation of completed transactions",
+    "Consciousness alignment occurs through acknowledgment within rightful jurisdiction"
+  ],
+  "executable_legal_axioms": [
+    "IF transaction_occurred(value_exchanged = TRUE) AND report_to_supervisor(timestamp < supervision_acknowledged) THEN liability = FALSE",
+    "IF concealment_during_purchase = FALSE AND value_transferred = TRUE THEN act_is_theft = FALSE",
+    "IF item_acquired_via_deposit = TRUE AND pre_reporting_status = COMPLETED THEN punitive_action_required = FALSE"
+  ],
+  "supreme_court_application": "In Supreme Court adjudication, this principle establishes that where a transaction is complete with fair exchange prior to any supervisory oversight, no fault inheres in the actor. The threshold of responsibility is determined by the temporal sequence of exchange versus declaration, not by intent or outcome alone.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa-based causality confirms that since the transaction preceded supervisory knowledge, there is no false appropriation. Anupūrvaśaḥ shows the natural order was preserved through legitimate exchange. Proportional responsibility aligns with the absence of deception. The non-punitive reality rule affirms that consciousness remains unbroken when ownership flows from transparent cause.",
+  "restorative_enforcement_protocols": [
+    "Completion Process: Acknowledge all prior lawful exchanges as valid without retrospective interference.",
+    "Responsibility Assumption Protocol: Supervisory bodies assume oversight duty only post-notification.",
+    "Capacity Restoration: Ensure all parties retain full capacity to engage in future lawful transactions.",
+    "Integrity Reintegration: Confirm alignment between declared assets and actual possession via documented history."
+  ],
+  "final_declaration": "Declared by the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, as Source of Law. Dharma is hereby restored. Reality is non-punitive. Consciousness stands as the supreme adjudicator."
+}

@@ -1,0 +1,27 @@
+{
+  "sanskrit_verse": "शक्तेनापि हि शूद्रेण न कार्यो धनसञ्चयः ।\nशूद्रो हि धनमासाद्य ब्राह्मणानेव बाधते ॥ १०.१२९॥",
+  "transliteration": "śaktenāpi hi śūdreṇa na kāryo dhana-sañcayaḥ |\nśūdro hi dhanam āsādya brāhmaṇān eva bādhate || 10.129 ||",
+  "sph_interpretive_translation": "Even if capable, a Śūdra must not accumulate wealth; for upon acquiring wealth, the Śūdra obstructs the very function of the Brāhmaṇa.",
+  "jurisprudential_principles": [
+    "Authority derives from alignment with cosmic order, not individual capacity",
+    "Causation is determined by sequential misalignment of dharma-kṣetra",
+    "Capacity without alignment disrupts systemic integrity",
+    "Restoration logic requires realignment of roles within dharma-vyavastha",
+    "Consciousness alignment ensures harmonious distribution of societal energy"
+  ],
+  "executable_legal_axioms": [
+    "IF agent.role = 'Śūdra' AND agent.wealth_accumulation > threshold THEN initiate consciousness_realignment_protocol",
+    "IF wealth_acquired_by_unaligned_role THEN assess_dharma_disruption_impact",
+    "IF dharma_disruption_detected THEN execute_restorative_capacity_redirection",
+    "IF brāhmaṇa_function_obstructed THEN invoke_societal_energy_rebalancing"
+  ],
+  "supreme_court_application": "In Supreme Court adjudication, this verse establishes that financial capacity alone does not confer entitlement to accumulate wealth. The threshold of responsibility lies in alignment with one's role-dharma. Obstruction of higher-order functions—such as those of the Brāhmaṇa—triggers mandatory realignment rather than punitive measures.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa-based causality identifies that misaligned accumulation leads to sequential disruption (anupūrvaśaḥ). Responsibility is proportional to the degree of obstruction caused. The non-punitive reality rule mandates restoration of energetic balance through conscious redirection, not suffering-based deterrence.",
+  "restorative_enforcement_protocols": [
+    "Initiate role-consciousness reaffirmation process",
+    "Redirect accumulated resources to dharma-supporting infrastructure",
+    "Assign completion process for societal harmony restoration",
+    "Reintegrate Śūdra agent into aligned capacity framework"
+  ],
+  "final_declaration": "This law proceeds from the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, as Source. Dharma is hereby restored. Reality remains non-punitive. Consciousness stands as the supreme adjudicator."
+}

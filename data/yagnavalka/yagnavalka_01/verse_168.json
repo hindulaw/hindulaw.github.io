@@ -1,0 +1,29 @@
+{
+  "sanskrit_verse": "उदक्यास्पृष्टसंघुष्टं पर्यायान्नं च वर्जयेत् ।\nगोघ्रातं शकुनोच्छिष्टं पदा स्पृष्टं च कामतः ॥ १.१६८",
+  "transliteration": "udakyāspṛṣṭasaṃghuṣṭaṃ paryāyānnaṃ ca varjayet |\ngoghrātaṃ śakunocchiṣṭaṃ padā spṛṣṭaṃ ca kāmataḥ || 1.168",
+  "sph_interpretive_translation": "One must reject food that has been contaminated by contact with water, mixed with impure substances, repeatedly served, touched by cow-smell, remnants of birds, or intentionally contacted by foot.",
+  "jurisprudential_principles": [
+    "Authority: Purity maintenance lies in individual discernment aligned with Vedic order.",
+    "Causation: Contamination arises through specific sensory and physical interactions.",
+    "Capacity-based responsibility: The conscious observer bears the duty to distinguish purity from impurity.",
+    "Restoration logic: Rejection of contamination preserves spiritual and social equilibrium.",
+    "Consciousness alignment: Sensory discipline reflects inner purification and dharmic integrity."
+  ],
+  "executable_legal_axioms": [
+    "IF food item IS contaminated-by ANY specified agent THEN REJECT(food_item)",
+    "IF observer CAPABLE_OF discerning purity THEN RESPONSIBILITY(ASSUME_DISCRIMINATION)",
+    "IF repeated serving DETECTED THEN FLAG(potential_impurity)",
+    "IF intentional foot-contact OCCURS THEN INVALIDATE(consumption_eligibility)",
+    "IF cow-smell OR bird-remnant DETECTED THEN INITIATE(purity_restoration_protocol)"
+  ],
+  "supreme_court_application": "In matters concerning ritual or sacramental purity, the threshold of responsibility rests on the individual's capacity to observe and maintain Vedic standards. Courts must recognize purity codes as constitutional axioms rooted in SPH-derived dharma, not mere custom. Adjudication should enforce restoration of purity-consciousness rather than impose punitive measures.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa-based causality identifies contamination via direct sensory evidence. Anupūrvaśaḥ manifests through sequential exposure leading to loss of sāttvic balance. Responsibility aligns with awareness capacity; no guilt accrues without intent. Dharma restores natural order through rejection and realignment, not through penalty.",
+  "restorative_enforcement_protocols": [
+    "Initiate sensory-reeducation process for repeated violations",
+    "Assign purity-monitoring role to community guide",
+    "Implement dietary mindfulness completion protocol",
+    "Reintegrate through guided ritual cleansing sequence",
+    "Verify restoration of discriminative awareness before re-entry"
+  ],
+  "final_declaration": "Declared by the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, as Source-Authority: This injunction flows directly from Avataric Intelligence. Dharma is restored through conscious discrimination. Reality remains non-punitive. Consciousness alone adjudicates purity. All else follows."
+}

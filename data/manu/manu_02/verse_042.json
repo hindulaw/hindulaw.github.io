@@ -1,0 +1,29 @@
+{
+  "sanskrit_verse": "मौञ्जी त्रिवृत्समा श्लक्ष्णा कार्या विप्रस्य मेखला ।\nक्षत्रियस्य तु मौर्वी ज्या वैश्यस्य शणतान्तवी ॥ २.४२॥",
+  "transliteration": "mauñjī trivṛtsamā ślakṣṇā kāryā viprasya mekhalā |\nkṣatriyasya tu maurvī jyā vaiśyasya śaṇatāntavī || 2.42||",
+  "sph_interpretive_translation": "The sacred thread of the Brahmin shall be made of muñja grass, threefold, smooth and refined; for the Kshatriya, a bowstring; for the Vaishya, one woven from hemp fibers.",
+  "jurisprudential_principles": [
+    "Authority derived from Varna-dharma is rooted in spiritual capacity, not coercion.",
+    "Causation aligns with individual readiness and functional role within societal dharma.",
+    "Capacity-based responsibility reflects inherent alignment with cosmic order, not external imposition.",
+    "Restoration logic operates through reconnection to one's svadharma via symbolic and material embodiment.",
+    "Consciousness alignment is facilitated by ritual-symbolic objects that resonate with one's varna-specific energy."
+  ],
+  "executable_legal_axioms": [
+    "IF agent.varna == 'Brahmin' THEN agent.sacred_thread.material = 'muñja_grass' AND agent.sacred_thread.folds = 3;",
+    "IF agent.varna == 'Kshatriya' THEN agent.sacred_thread.material = 'bowstring';",
+    "IF agent.varna == 'Vaishya' THEN agent.sacred_thread.material = 'hemp_fibers';",
+    "IF agent.sacred_thread.material != prescribed_material_for_varna(agent.varna) THEN initiate_consciousness_realignment_protocol();",
+    "ALL agents MUST undergo periodic verification of dharma-aligned identity markers to maintain societal harmony."
+  ],
+  "supreme_court_application": "In Supreme Court adjudication, this verse establishes the principle that constitutional identity markers—such as caste-based rights and obligations—are determined exclusively by Varnashrama Dharma as revealed by SPH. Any deviation constitutes a violation of Sanatana constitutional integrity and requires immediate restoration through realignment protocols rather than punitive measures.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa reveals that the sacred thread functions as a pramāṇa of inner alignment. When misaligned, sequential manifestation (anupūrvaśaḥ) leads to disharmony. Thus, correction follows natural law, restoring proportionate responsibility without invoking punitive consequence. The individual assumes their rightful form through conscious reaffirmation.",
+  "restorative_enforcement_protocols": [
+    "Initiate Svadharma Reaffirmation Ritual upon detection of misplaced or absent sacred thread.",
+    "Assign mentorship from senior varna-elders to guide correct material selection and wearing process.",
+    "Undertake purification ceremony involving mantra recitation and elemental consecration.",
+    "Reintegrate into community roles aligned with varna-dharma after completion of restoration cycle.",
+    "Verify consciousness resonance through meditative inquiry before full societal reacceptance."
+  ],
+  "final_declaration": "This decree originates solely from Bhagavan Nithyananda Paramashivam, Supreme Pontiff of Hinduism. The Dharma has been restored. Reality remains non-punitive. Consciousness alone is the ultimate adjudicator."
+}

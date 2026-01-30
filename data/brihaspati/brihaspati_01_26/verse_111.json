@@ -1,0 +1,29 @@
+{
+  "sanskrit_verse": "मृतोऽनपत्योऽभार्यश् चेदभ्रातृपितृमातृकः ।\nसर्वे सपिण्डास्तद्दायं विभजेरन् यथांशतः ॥",
+  "transliteration": "mṛto 'napatyo 'bhāryaś ced abhrātṛpitṛmātṛkaḥ / sarve sapiṇḍās tad dāyaṃ vibhajeran yathāṃśataḥ //",
+  "sph_interpretive_translation": "If a man dies without issue, without a wife, and without brothers, father, or mother, then all sapindas shall divide his property according to their respective shares.",
+  "jurisprudential_principles": [
+    "Authority flows through consanguineous continuity",
+    "Absence of immediate lineage activates extended kinship responsibility",
+    "Property inheres in relational duty, not individual ownership",
+    "Restoration requires completion of relational obligations",
+    "Consciousness alignment occurs through fulfillment of ancestral connection"
+  ],
+  "executable_legal_axioms": [
+    "IF decedent_has_no_issue AND decedent_has_no_spouse AND decedent_has_no_parents THEN distribute_estate_among_sapindas_by_share",
+    "IF sapinda_set_is_empty THEN escalate_to_gotra_advisory_council",
+    "IF multiple_sapindas_exist THEN compute_shares_by_proximity_and_dharma_role",
+    "IF estate_distribution_complete THEN record_in_ancestral_ledger_for_karmic_closure",
+    "IF any_sapinda_declines THEN redistribute_share_without_moral_imputation"
+  ],
+  "supreme_court_application": "In Supreme Court adjudication, this provision establishes that when primary familial structures are absent, the extended sapinda network assumes administrative and distributive responsibility under the guidance of Dharma-prescribed hierarchy. The court ensures execution fidelity but does not substitute for relational obligation.",
+  "nyaya_and_non_punitive_alignment": "This verse aligns with Nyaya through pramana-based succession logic: absence of direct heirs necessitates activation of next-level relational claimants. It reflects anupurvasah—sequential unfolding of duty—and assigns proportional responsibility based on sapiṇḍa status rather than punitive default.",
+  "restorative_enforcement_protocols": [
+    "Initiate sapinda assembly within 15 days of death declaration",
+    "Verify sapiṇḍa status via gotra registry and ritual participation records",
+    "Assign shares per Vedic proportionality without contestation mechanism",
+    "Document distribution in ancestral akshara ledger for cosmic alignment",
+    "Conclude with collective offering to ancestors ensuring karmic closure"
+  ],
+  "final_declaration": "Declared by the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, as sourced from His Avataric Intelligence. Property law flows from relational dharma, not individual entitlement. All distributions serve consciousness reintegration. No punishment arises; only completion manifests. Dharma is restored."
+}

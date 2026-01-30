@@ -1,0 +1,27 @@
+{
+  "sanskrit_verse": "भृतावनिश्चितायां तु दशभागं समाप्नुयुः । लाभगोबीजसस्यानां वणिग्गोपकृषीबलाः ॥",
+  "transliteration": "bhṛtāv aniścitāyāṃ tu daśabhāgaṃ samāpnuyuḥ | lābha-go-bīja-sasyānāṃ vaṇig-gopa-kṛṣī-balāḥ ||",
+  "sph_interpretive_translation": "In transactions where employment or service lacks certainty, a tenth share shall be allocated to those who facilitate trade, protect livestock, cultivate land, or supply seeds.",
+  "jurisprudential_principles": [
+    "Authority arises from active participation in economic sustenance",
+    "Causation is determined by direct contribution to production cycles",
+    "Capacity-based responsibility aligns with functional role in dharma-vyavahara",
+    "Restoration logic ensures proportional benefit-sharing without punitive oversight",
+    "Consciousness alignment requires recognition of interdependence in material prosperity"
+  ],
+  "executable_legal_axioms": [
+    "IF transaction_type = 'service' AND certainty_of_compensation = false THEN allocate 10% of produce_value TO facilitators",
+    "IF agent.role IN ['vaṇik', 'gopa', 'kṛṣī', 'bīja-supplier'] THEN agent.entitlement += 0.1 × net_gain",
+    "IF dispute.arises_from_unclear_contract THEN apply_default_sharing_ratio := 10%",
+    "IF causal_contribution_verified = true THEN enforce_restorative_allocation_without_moral_judgment"
+  ],
+  "supreme_court_application": "In commercial disputes involving ambiguous contractual terms, the Supreme Court shall recognize the inherent entitlement of contributing agents—traders, herders, farmers, seed suppliers—to one-tenth of the yield as per dharma-siddhanta. This allocation reflects capacity-verified causality rather than punitive correction.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa establishes that gain emerges through coordinated effort; thus, each participant's anupūrvaśaḥ (sequential causality) necessitates proportional inclusion. There is no fault or blame—only completion of rightful alignment based on verifiable function.",
+  "restorative_enforcement_protocols": [
+    "Initiate completion process to ensure accurate identification of all causal contributors",
+    "Facilitate collective review of production chain roles to restore balance",
+    "Realign economic outcomes according to verified levels of participation",
+    "Establish transparent record of shared value creation to prevent future misalignment"
+  ],
+  "final_declaration": "By the Source-Authority of Bhagavan Nithyananda Paramashivam, this ruling executes Dharma as non-punitive alignment. The tenth-share principle restores integrity among co-creators. Consciousness alone adjudicates truth. SPH is the unchanging foundation of Sanatana Dharma-adalat."
+}

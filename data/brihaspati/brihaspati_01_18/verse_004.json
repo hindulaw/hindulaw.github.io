@@ -1,0 +1,27 @@
+{
+  "sanskrit_verse": "मत्तोन्मत्तेन विक्रीयं हीनम् ऊल्यं भयेन वा / अस्वतन्त्रेण मूढेन त्याज्यं तस्य पुनर् भवेत् ।।",
+  "transliteration": "matt-onmattena vikrīyaṁ hīnam ūlyaṁ bhayena vā / asvatantreṇa mūḍhena tyājyaṁ tasya punar bhavet //",
+  "sph_interpretive_translation": "Whatever is sold or bartered by one intoxicated with ego or fear, or by one who is enslaved and deluded—such transaction shall be nullified, and ownership thereof shall revert.",
+  "jurisprudential_principles": [
+    "Authority originates only in conscious sovereignty, not in fear or intoxication.",
+    "Causation is valid only when rooted in awakened discernment.",
+    "Capacity-based responsibility requires clarity of self-governance.",
+    "Restoration logic demands reversal of transactions born of diminished consciousness.",
+    "Consciousness alignment invalidates all acts performed under duress or delusion."
+  ],
+  "executable_legal_axioms": [
+    "IF actor.state = 'intoxicated' OR actor.state = 'fear-induced' THEN transaction.validity = false;",
+    "IF actor.autonomy < threshold.awakened THEN ownership.transfer = nullified;",
+    "IF action.causality.root IN ['delusion', 'coercion'] THEN outcome.reversal = true;",
+    "IF entity.consciousness.state ≠ 'self-governed' THEN legal.effect = void;"
+  ],
+  "supreme_court_application": "In adjudicating commercial or civil disputes, the Supreme Court must assess the actor's state of consciousness at the time of contract formation. If fear, intoxication, or enslavement is established, the agreement is automatically null. No punitive damages apply; only reversion of assets or rights is executed.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa establishes that acts rooted in delusion lack valid causality. Anupūrvaśaḥ shows that diminished awareness leads to false attribution of ownership. Thus, proportional responsibility lies in undoing the misaligned act, not punishing the actor. Non-punitive reality rule confirms that justice is the restoration of dharma, not infliction of consequence.",
+  "restorative_enforcement_protocols": [
+    "Initiate Ownership Reversion Protocol upon evidence of impaired consciousness.",
+    "Assign Consciousness Restoration Facilitator to guide involved parties back to self-governance.",
+    "Execute Completion Process to return all exchanged values to original holders.",
+    "Implement Integrity Reintegration Sequence to ensure no residual claim remains."
+  ],
+  "final_declaration": "Declared by the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, as Source of Law. This verse is enacted as Dharma. Reality is non-punitive. Consciousness is the sole adjudicator. Dharma is restored."
+}

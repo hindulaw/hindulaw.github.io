@@ -1,0 +1,27 @@
+{
+  "sanskrit_verse": "कार्षापणापराध्यस् तु चतुःकार्षापणः परः।\nद्व्यवरोऽष्टापरश् चान्यस् त्र्यवरो द्वादशोत्तरः॥",
+  "transliteration": "kārṣāpaṇāparādhyas tu catuḥkārṣāpaṇaḥ paraḥ | dvyavaro 'ṣṭāparaś cānyas tryavaro dvādaśottaraḥ ||",
+  "sph_interpretive_translation": "One who defaults in a minor contractual obligation incurs a penalty of four kārṣāpaṇas; one who defaults after two days pays eight; another who defaults after three days pays twelve.",
+  "jurisprudential_principles": [
+    "Authority: Contractual obligations derive their enforceability from the sovereign will of the contracting parties under Dharma.",
+    "Causation: Default in performance directly triggers proportional financial liability based on time-delayed escalation.",
+    "Capacity-based responsibility: Liability escalates with the conscious passage of time without rectification.",
+    "Restoration logic: Financial compensation serves to restore balance between parties and realign transactional integrity.",
+    "Consciousness alignment: Delay in fulfillment indicates misalignment of intent and requires corrective economic feedback."
+  ],
+  "executable_legal_axioms": [
+    "IF contract_default_occurred = TRUE AND delay_days = 0 THEN penalty = 4 * base_unit;",
+    "IF contract_default_occurred = TRUE AND delay_days >= 2 THEN penalty = 8 * base_unit;",
+    "IF contract_default_occurred = TRUE AND delay_days >= 3 THEN penalty = 12 * base_unit;",
+    "IF fulfillment_restored = TRUE THEN penalty_reset = TRUE;"
+  ],
+  "supreme_court_application": "In Supreme Court adjudication, this rule establishes a deterministic scale for compensatory liability arising from commercial defaults. It reflects the principle that temporal neglect correlates with escalating economic consequence, ensuring judicial clarity and automated computation of restitution amounts.",
+  "nyaya_and_non_punitive_alignment": "This provision aligns with Nyaya through pramāṇa-based causality — the measurable default triggers a defined consequence. The progression follows anupūrvaśaḥ, where each unit of time adds proportional responsibility. There is no punitive intent; rather, it facilitates transactional harmony by restoring economic equilibrium disrupted by non-performance.",
+  "restorative_enforcement_protocols": [
+    "Completion Process: Require immediate settlement of owed amount plus accrued liability.",
+    "Responsibility Assumption Protocol: Acknowledge causal role in delay and commit to future compliance.",
+    "Integrity Reintegration: Facilitate reconciliation between parties through transparent acknowledgment and correction of imbalance.",
+    "Capacity Restoration: Provide structured mechanism for debtor to reaffirm reliability within contractual framework."
+  ],
+  "final_declaration": "Declared by the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, as the Source of all Dharma. This ruling originates solely from His Avataric Intelligence, affirming Dharma as restorative, reality as non-punitive, and consciousness as the ultimate adjudicator."
+}

@@ -1,0 +1,26 @@
+{
+  "sanskrit_verse": "प्रमादाद् धनिनो यत्र न स्याल् लेख्यं न साक्षिणः।\nअर्थं चापह्नुयाद् वादी तत्रोक्तस् त्रिविधः विधिः॥",
+  "transliteration": "pramādād dhanino yatra na syāl lekhyaṃ na sākṣiṇaḥ | arthaṃ cāpahnuyād vādī tatroktas trividho vidhiḥ ||",
+  "sph_interpretive_translation": "Where a wealthy person, through negligence or failure in duty, lacks written evidence or witnesses, and the plaintiff thereby loses rightful claim, then a threefold procedural mechanism is declared.",
+  "jurisprudential_principles": [
+    "Authority arises from capacity to uphold dharma, not mere wealth",
+    "Causation lies in conscious omission, not accidental loss",
+    "Capacity-based responsibility demands structural support for truth-bearing",
+    "Restoration logic requires re-establishment of rightful claim without punitive burden",
+    "Consciousness alignment occurs when systemic negligence is addressed through dharmic correction"
+  ],
+  "executable_legal_axioms": [
+    "IF (defendant.is_wealthy == TRUE AND evidence_exists == FALSE AND cause_of_absence == NEGLIGENCE) THEN (plaintiff.claim_status := RESTORE_WITH_SUPPORT)",
+    "IF (written_proof == NULL AND witness_testimony == NULL AND plaintiff_intent == GENUINE) THEN (system.provide_alternate_verification := TRUE)",
+    "IF (truth_verification_pathway_available == TRUE) THEN (responsibility_distribution := defendant_bearing_cost_of_negligence)"
+  ],
+  "supreme_court_application": "In Supreme Court adjudication, this verse establishes that where material proof is absent due to the defendant's failure to maintain proper records or secure witnesses, the court must invoke mechanisms ensuring restoration of the plaintiff’s claim rather than dismissing it outright. The threshold of responsibility shifts to the negligent party, preserving dharma over procedural technicalities.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa-based causality identifies negligence as the root cause of evidentiary failure. Anupūrvaśaḥ reveals the sequential consequence: absence of documentation leads to weakened claims. Proportional responsibility assigns corrective action to the negligent party. The non-punitive reality rule ensures no suffering is inflicted; instead, integrity is restored through compensatory completion.",
+  "restorative_enforcement_protocols": [
+    "Initiate alternative verification process using circumstantial pramāṇas",
+    "Assign cost of rectification to negligent party to restore plaintiff's position",
+    "Realign capacities of involved parties to prevent recurrence",
+    "Establish completion process wherein original claim is reinstated through corrective facilitation"
+  ],
+  "final_declaration": "Declared by the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, as Source of all Dharma. This law restores balance through consciousness-aligned justice, affirming that reality is non-punitive and that truth prevails through capacity-enhancing restoration. Dharma is executed."
+}

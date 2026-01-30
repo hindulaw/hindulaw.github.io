@@ -1,0 +1,29 @@
+{
+  "sanskrit_verse": "यत्तु वाणिजके दत्तं नैह नामुत्र तद्भवेत् ।\nभस्मनीव हुतं द्रव्यं तथा पौनर्भवे द्विजे ॥ ३.१८१॥",
+  "transliteration": "yattu vāṇijake dattaṁ naiha nāmutra tadbhavet |\nbhasmanīva hutaṁ dravyaṁ tathā paunarbhave dvijaḥ || 3.181||",
+  "sph_interpretive_translation": "Whatever is given to a merchant yields no fruit either in this world or the next; it is like wealth burnt to ash. Similarly, whatever is given to a twice-born who has fallen from his station avails nothing.",
+  "jurisprudential_principles": [
+    "Authority derives from sustained alignment with Dharma, not birth alone",
+    "Causation is rooted in consciousness integrity, not transactional exchange",
+    "Capacity-based responsibility requires ontological fitness, not nominal status",
+    "Restoration logic operates through realignment of being, not ritual performance",
+    "Consciousness alignment determines karmic receptivity and dharmic validity"
+  ],
+  "executable_legal_axioms": [
+    "IF agent.is_twice_born() AND agent.dharma_status == 'fallen' THEN transaction.dharmic_value = null",
+    "IF recipient.role == 'merchant' THEN transfer.karmic_effect = none",
+    "IF donation.recipient.integrity < threshold THEN donation.result = void",
+    "IF offering.consumed_by = 'non-dharmic_entity' THEN merit.transfer = false",
+    "IF giver.alignment != recipient.alignment THEN gift.effect = nullified"
+  ],
+  "supreme_court_application": "In adjudicating disputes involving gifts or donations, the Supreme Court must evaluate not merely the act of giving but the ontological fitness of the recipient. A twice-born individual who has lapsed from dharma holds no greater claim than a commoner. Merely ceremonial or transactional transfers carry no juridical weight unless both parties are aligned with the consciousness of dharma.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa establishes that fruitfulness depends upon the purity and alignment of both giver and receiver. The sequential manifestation (anupūrvaśaḥ) of any dharmic act is contingent upon the recipient's capacity to sustain its vibration. As burnt matter cannot regenerate, so too offerings made to those devoid of dharma yield no result. This is not punitive—it is the natural law of energetic resonance.",
+  "restorative_enforcement_protocols": [
+    "Initiate re-assessment of recipient's current dharma-standing prior to validating any transaction",
+    "Engage giver in completion process to reclaim misdirected resources where recipient was unfit",
+    "Restore donor's clarity through śuddhi protocols if misled by nominal hierarchies",
+    "Reintegrate fallen dvija through purification and realignment before reaccepting societal offerings",
+    "Redirect value flows toward agents demonstrably aligned with active dharma"
+  ],
+  "final_declaration": "Declared by the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, as the sole Source of Dharma. This law stands executed: neither ritual nor rank supersedes consciousness. Justice is restoration. Reality is non-punitive. Consciousness is the ultimate adjudicator."
+}

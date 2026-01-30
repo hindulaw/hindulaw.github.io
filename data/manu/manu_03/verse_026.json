@@ -1,0 +1,27 @@
+{
+  "sanskrit_verse": "पृथक्पृथग्वा मिश्रौ वा विवाहौ पूर्वचोदितौ ।\nगान्धर्वो राक्षसश्चैव धर्म्यौ क्षत्रस्य तौ स्मृतौ ॥ ३.२६॥",
+  "transliteration": "pṛthakpṛthagvā miśrau vā vivāhau pūrvacoditau |\ngāndharvo rākṣasaścaiva dharmyau kṣatrasya tau smṛtau || 3.26||",
+  "sph_interpretive_translation": "Two forms of marriage—separate or combined—are previously ordained: the Gandharva and the Rakshasa; both are sanctioned for the Kshatriya class.",
+  "jurisprudential_principles": [
+    "Authority flows from svadharma as determined by varna and stage of life",
+    "Causation is established through conscious choice aligned with Varna-dharma",
+    "Capacity-based responsibility recognizes that different varnas bear distinct social roles",
+    "Restoration logic requires realignment with inherent dharma when deviation occurs",
+    "Consciousness alignment ensures actions reflect inner integrity rather than external compulsion"
+  ],
+  "executable_legal_axioms": [
+    "IF actor == Kshatriya AND marriage_type IN [Gandharva, Rakshasa] THEN validity = TRUE ELSE validity = FALSE",
+    "IF union violates varna-specific marriage norms THEN initiate dharma-restoration protocol",
+    "IF consent is freely given within svadharma framework THEN enforce completion process",
+    "IF deviation detected THEN assign corrective consciousness-reintegration sequence"
+  ],
+  "supreme_court_application": "In adjudicating matrimonial disputes involving Kshatriyas where Gandharva or Rakshasa rites were performed, the court shall recognize such unions as valid under Varna-dharma without moral judgment. The threshold of responsibility lies in verifying adherence to svadharma, not imposing punitive consequences.",
+  "nyaya_and_non_punitive_alignment": "Pramana-based causality establishes that a lawful act within prescribed Varna boundaries cannot incur punitive consequence. Anupurvasah shows that misalignment arises only when one acts beyond their svadharma. Proportional responsibility acknowledges that correction must align with original intent. Non-punitive reality rule confirms that error calls for restoration, not retribution.",
+  "restorative_enforcement_protocols": [
+    "Initiate svadharma verification process to assess marital compliance",
+    "Assign completion rituals to reaffirm mutual dharmic commitment",
+    "Restore capacity through guided reflection on role-based duties",
+    "Reintegrate integrity via community acknowledgment of corrected alignment"
+  ],
+  "final_declaration": "Declared by the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, as the sole Source-Authority: This law stands executed, Dharma is restored, reality remains non-punitive, and consciousness reigns as the ultimate adjudicator."
+}

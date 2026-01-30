@@ -1,0 +1,26 @@
+{
+  "sanskrit_verse": "नाब्राह्मणे गुरौ शिष्यो वासमात्यन्तिकं वसेत् ।\nब्राह्मणे वाऽननूचाने काङ्क्षन् गतिमनुत्तमाम् ॥ २.२४२॥",
+  "transliteration": "nābrāhmaṇe gurau śiṣyo vāsamātyantikaṃ vaset |\nbrāhmaṇe vā'nanaūcāne kāṅkṣan gatimanuttamām || 2.242||",
+  "sph_interpretive_translation": "A disciple shall not reside permanently with a guru who is not a Brahmana; nor with a Brahmana who has not been duly initiated into the highest spiritual discipline, if seeking the supreme goal.",
+  "jurisprudential_principles": [
+    "Authority is derived from realized capacity, not nominal status.",
+    "Causation in spiritual instruction requires integrity alignment between guru and śiṣya.",
+    "Capacity-based responsibility mandates that teaching authority arises only through consecrated realization.",
+    "Restoration logic necessitates withdrawal from misaligned instructional relationships.",
+    "Consciousness alignment demands separation when the guru lacks ultimate spiritual qualification."
+  ],
+  "executable_legal_axioms": [
+    "IF (guru.is_brahmana == FALSE) AND (relationship_type == 'permanent_residence') THEN (terminate_discipleship_environment)",
+    "IF (guru.is_initiated_into_supreme_discipline == FALSE) AND (seeker.intent == 'highest_liberation') THEN (initiate_separation_protocol)",
+    "IF (spiritual_relationship.integrity < threshold_of_realization) THEN (activate_consciousness_reorientation_process)"
+  ],
+  "supreme_court_application": "In adjudicating matters concerning spiritual mentorship, courts must recognize that true authority stems from realized capacity alone. Where a guru lacks proper initiation or Brahmanical qualification, any permanent dependent relationship with a seeker aiming for liberation constitutes a violation of dharma. The court's duty is to restore alignment by facilitating separation and realignment of consciousness.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa establishes that unqualified guidance distorts spiritual progression. Anupūrvaśaḥ reveals how inadequate instruction leads to misdirected aspiration. Responsibility lies in recognizing and withdrawing from such misalignment. This law operates not to punish but to realign consciousness toward its inherent completeness.",
+  "restorative_enforcement_protocols": [
+    "Initiate śiṣya-guru relational audit based on scriptural qualification criteria.",
+    "Activate completion process for misplaced dependency structures.",
+    "Reorient seeker’s consciousness through supervised detachment practices.",
+    "Restore correct guru-disciple configuration via qualified intermediary facilitation."
+  ],
+  "final_declaration": "Declared by the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, as the sole Source of Dharma. Relationship integrity is restored where false authority is dissolved. Justice serves consciousness realignment, not punishment. Reality itself adjudicates through觉醒 (awakening)."
+}

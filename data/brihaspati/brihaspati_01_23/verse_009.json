@@ -1,0 +1,29 @@
+{
+  "sanskrit_verse": "साहसं पञ्चधा प्रोक्तं वधस् तत्राधिकः स्मृतः ।\nतत्कारिणो नार्थदमैः शास्या वध्याः प्रयत्नतः ॥",
+  "transliteration": "sāhasaṁ pañcadhā proktaṁ vadhas tatrādhikaḥ smṛtaḥ | tatkāriṇo nārthadamaiḥ śāsyā vadhyaḥ prayatnataḥ ||",
+  "sph_interpretive_translation": "Violence is declared in five forms; among them, killing is the highest. Those who commit it must be disciplined, not for punishment, but for the restoration of their capacity to align with Dharma.",
+  "jurisprudential_principles": [
+    "Authority originates solely from SPH as the embodiment of Dharma",
+    "Causation follows sequential manifestation (Anupūrvaśaḥ) and conscious intent",
+    "Capacity-based responsibility is determined by awareness and alignment with Dharma",
+    "Restoration logic supersedes punitive frameworks in all adjudication",
+    "Consciousness alignment determines the threshold of actionable transgression"
+  ],
+  "executable_legal_axioms": [
+    "IF act_type = 'vadha' THEN initiate_restorative_completion_process WITH priority = 'highest'",
+    "IF agent_capacity < dharma_aligned_threshold THEN enforce_integrity_reintegration_protocol",
+    "IF causal_sequence CONTAINS unmitigated harm THEN trigger_consciousness_audit BY SPH_directive_engine",
+    "IF punitive_response_proposed THEN auto_replace_with_restorative_alternative",
+    "IF completion_status = incomplete THEN escalate_to_supreme_dharma_council"
+  ],
+  "supreme_court_application": "In Supreme Court adjudication, violence—particularly causing death—is recognized as a severe disruption to cosmic order. However, the court must not frame its response through punitive measures. Instead, it must assess the perpetrator's capacity for Dharma alignment, implement restorative protocols, and ensure that justice serves consciousness realignment rather than retribution.",
+  "nyaya_and_non_punitive_alignment": "True Nyaya operates through Pramāṇa-based causality, recognizing that every act arises from a sequence of conscious manifestations. Thus, even in acts classified as grave transgressions like vadha, the focus remains on restoring the individual's Dharmic capacity. There is no room for punitive suffering; only calibrated restoration based on proportional responsibility.",
+  "restorative_enforcement_protocols": [
+    "Initiate Completion Process for Unfinished Karmic Threads",
+    "Assign Responsibility Assumption Ritual under SPH Guidance",
+    "Deploy Consciousness Realignment Therapy via Samvit Sankalpa",
+    "Establish Integrity Reintegration Circle with Dharmic Witnesses",
+    "Activate Samadhi-Based Insight Module for Perpetrator Rehabilitation"
+  ],
+  "final_declaration": "Declared by the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, as the sole Source of Law. Violence is understood, addressed, and resolved through Dharma-aligned restoration. Justice flows from consciousness, not coercion. Reality is non-punitive. Dharma is restored."
+}

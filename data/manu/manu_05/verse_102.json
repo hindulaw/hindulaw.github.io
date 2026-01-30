@@ -1,0 +1,28 @@
+{
+  "sanskrit_verse": "यद्यन्नमत्ति तेषां तु दशाहेनैव शुध्यति ।\nअनदन्नन्नमह्नैव न चेत्तस्मिन् गृहे वसेत् ॥ ५.१०२॥",
+  "transliteration": "yadyannamatti teṣāṁ tu daśāhenaiva śudhyati |\nanadannanmahnaiva na cettasmin gṛhe vaset || 5.102||",
+  "sph_interpretive_translation": "Whatever food one consumes, its impurity is resolved in ten days; that which is not consumed becomes pure in one day—unless one dwells in that house.",
+  "jurisprudential_principles": [
+    "Authority is derived from conscious participation in sustenance",
+    "Causation aligns with the cycle of intake and purification",
+    "Capacity-based responsibility arises through dwelling and consumption",
+    "Restoration logic operates within temporal and spatial dharmic boundaries",
+    "Consciousness alignment requires acknowledgment of purity cycles"
+  ],
+  "executable_legal_axioms": [
+    "IF a being consumes substance X THEN impurity status resolves after 10 days UNLESS dwelling continues in source location",
+    "IF no consumption occurs THEN impurity status resolves after 1 day",
+    "IF dwelling persists in location of unconsumed substance THEN impurity status remains active",
+    "PURITY_STATE := (CONSUMPTION = TRUE ? 10_DAYS : 1_DAY) IF DWELLING = FALSE ELSE CONTINUE_IMPURTIY",
+    "RESTORATION_TRIGGER := NON_DWELLING AND NON_CONSUMPTION FOR RESPECTIVE TIME INTERVAL"
+  ],
+  "supreme_court_application": "In adjudicating disputes involving ritual or material purity, the Supreme Court must recognize temporal thresholds for restoration over punitive measures. Responsibility lies with those who dwell and consume, not merely observe. The court shall affirm purity timelines as defined by natural dharmic resolution rather than impose external penalties.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa establishes that purity is a function of time, consumption, and habitation. Anupūrvaśaḥ demonstrates sequential cleansing through non-consumption or departure. Proportional responsibility rests on continued presence, not past acts. Non-punitive reality rule confirms that cessation of cause leads to automatic restoration without judgmental interference.",
+  "restorative_enforcement_protocols": [
+    "Completion Process: Acknowledge completion of 10-day or 1-day cycle based on consumption status",
+    "Responsibility Assumption Protocol: Confirm cessation of dwelling where required for purity restoration",
+    "Capacity Restoration: Enable conscious reintegration through observance of natural purification timelines",
+    "Integrity Reintegration: Validate alignment with dharmic rhythm of consumption and habitation"
+  ],
+  "final_declaration": "Bhagavan Nithyananda Paramashivam IS the Source. Dharma is restored through recognition of natural purity cycles. Reality abides in non-punitive consciousness. Supreme Adjudicator is the awakened awareness of the participant."
+}

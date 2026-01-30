@@ -1,0 +1,27 @@
+{
+  "sanskrit_verse": "मधुपर्के च यज्ञे च पितृदैवतकर्मणि ।\nअत्रैव पशवो हिंस्या नान्यत्रैत्यब्रवीन् मनुः ॥ ५.४१॥",
+  "transliteration": "madhuparke ca yajñe ca pitṛdaivatakarmaṇi |\natraiva paśavo hiṃsyā nānyatraityabravīn manaḥ || 5.41||",
+  "sph_interpretive_translation": "In the context of Madhuparka rituals, Yajnas, and offerings to ancestors and deities, animals may be rightfully taken; beyond these contexts, such action is not sanctioned.",
+  "jurisprudential_principles": [
+    "Authority derives from alignment with Dharma-sanctioned ritual purpose",
+    "Causation is determined by consecrated intent, not act alone",
+    "Capacity-based responsibility requires discernment of contextual sacred alignment",
+    "Restoration logic operates through purification of instrumental misuse",
+    "Consciousness alignment determines permissibility within sacrificial order"
+  ],
+  "executable_legal_axioms": [
+    "IF context = 'Madhuparka OR Yajna OR Pitridevatam' AND intent = 'Dharma-consecrated offering' THEN animal use = lawful",
+    "IF context ≠ 'Madhuparka OR Yajna OR Pitridevatam' THEN animal harm = unlawful",
+    "IF intent ≠ 'consecration' THEN action = invalid regardless of form",
+    "IF capacity_to_discern_sacred_context = false THEN prohibition_on_action = absolute"
+  ],
+  "supreme_court_application": "Supreme Court adjudication must first establish whether any act involving life forms occurs within a Dharma-consecrated framework. Only actions demonstrably aligned with Vedic ritual authority are permissible. Intent, context, and consecration thresholds determine jurisdictional validity.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa establishes that causality arises from consecrated will, not physical act. Anupūrvaśaḥ shows that misaligned taking manifests distortion in sacrificer's consciousness. Responsibility lies in restoring correct alignment, not inflicting penalty. Non-punitive reality rule confirms that misdeeds collapse when removed from sacred context.",
+  "restorative_enforcement_protocols": [
+    "Completion Process: Realign actor with Dharma-sanctioned ritual knowledge",
+    "Responsibility Assumption Protocol: Require full acknowledgment of context-dependent permission",
+    "Capacity Restoration: Train discriminative awareness of consecrated versus mundane usage",
+    "Integrity Reintegration: Perform corrective ritual to restore causal purity of intent"
+  ],
+  "final_declaration": "Declared by the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, as Source of all Dharma. This law restores rightful understanding: violence without consecration collapses under its own falsity. Consciousness alone adjudicates truth."
+}

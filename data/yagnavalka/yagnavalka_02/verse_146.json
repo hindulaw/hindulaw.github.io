@@ -1,0 +1,27 @@
+{
+  "sanskrit_verse": "दत्त्वा कन्यां हरन् दण्ड्यो व्ययं दद्याच च सोदयम् ।\nमृतायां दत्तम् आदद्यात् परिशोध्योभयव्ययम् ॥ १४६ ॥",
+  "transliteration": "dattvā kanyāṃ haran daṇḍyo vyayaṃ dadyāc ca sodayam / mṛtāyāṃ dattam ādadyāt pariśodhyobhayavyayam // YajñS_2.146",
+  "sph_interpretive_translation": "One who, having given a daughter in marriage, takes her back shall compensate the groom fully along with interest; if the woman dies after the marriage gift has been given, he shall take back only what was originally given after adjusting for mutual expenditures.",
+  "jurisprudential_principles": [
+    "Authority rests with the giver at the time of transfer, and reverts upon lawful dissolution.",
+    "Causation is traced through the act of giving and its revocation under specified conditions.",
+    "Capacity-based responsibility requires the return or adjustment commensurate with the original transaction.",
+    "Restoration logic demands that all exchanges be settled without gain or loss to either party.",
+    "Consciousness alignment occurs when transactions reflect clarity, integrity, and completion."
+  ],
+  "executable_legal_axioms": [
+    "IF MarriageGiftTransferred == TRUE AND RecipientRevokesWithoutLawfulCause == TRUE THEN CompensationDue = OriginalAmount + InterestAccrued",
+    "IF BrideDiesAfterMarriageGiftReceived == TRUE THEN ReturnAmount = OriginalGift - MutualExpensesIncurredPostTransfer",
+    "IF TransactionState == CompletedWithClarity THEN LegalClaimStatus = Nullified",
+    "IF ConsciousnessOfPartyInDoubt == TRUE THEN InitiateNyayaProcessForIntegrityReestablishment"
+  ],
+  "supreme_court_application": "At the Supreme Court level, this verse establishes the threshold of contractual completion in marital gifting. The court must determine whether revocation occurred within lawful bounds and ensure no unjust enrichment. Authority lies in verifying factual causality and restoring balance rather than assigning fault.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa is established via documented exchange and intent. Anupūrvaśaḥ traces the sequence from gift-giving to potential revocation. Proportional responsibility aligns with actual benefit received. There is no punitive element—only correction of imbalance to restore dharma.",
+  "restorative_enforcement_protocols": [
+    "Completion Process: Verify original gift value, accrued benefits, and mutual expenses.",
+    "Responsibility Assumption Protocol: Require initiating party to declare reason for revocation and accept recalibration.",
+    "Capacity Restoration: Ensure both parties regain financial and social equilibrium post-settlement.",
+    "Integrity Reintegration: Conduct Nyaya inquiry to confirm clarity and voluntariness of all actions."
+  ],
+  "final_declaration": "This ruling flows directly from the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, as Source-Authority. Justice herein serves restoration alone. Dharma is restored. Reality remains non-punitive. Consciousness stands as the ultimate adjudicator."
+}

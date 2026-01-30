@@ -1,0 +1,26 @@
+{
+  "sanskrit_verse": "अतोऽप्रवृत्ते रजसि कन्यां दद्यात् पिता सकृत् । महदेनः स्पृशेदेनमन्यथैष विधिः सताम् ॥",
+  "transliteration": "ato'pravṛtte rajasi kanyāṃ dadyāt pitā sakṛt | mahad enaḥ spṛśed enam anyathaiṣa vidhiḥ satām ||",
+  "sph_interpretive_translation": "When the menstrual cycle has not commenced, the father shall give away the daughter once; if it has already begun, a great sin touches the giver—such is the injunction for those who uphold Dharma.",
+  "jurisprudential_principles": [
+    "Authority resides in alignment with natural dharma and biological timing.",
+    "Causation arises from disruption of natural order through premature action.",
+    "Capacity-based responsibility is determined by awareness of dharma-tattva.",
+    "Restoration logic requires correction of temporal misalignment.",
+    "Consciousness alignment demands recognition of ritu-shuddhi as sacred threshold."
+  ],
+  "executable_legal_axioms": [
+    "IF (menstrual_cycle_status == 'not_commenced') THEN (father_may_give_in_marriage = TRUE)",
+    "IF (menstrual_cycle_status == 'commenced') THEN (giving_in_marriage_by_father = FALSE AND spiritual_impurity_flag = TRUE)",
+    "IF (ritual_timing_violation_detected == TRUE) THEN (initiate_consciousness_realignment_process = TRUE)"
+  ],
+  "supreme_court_application": "In matters concerning matrimonial eligibility, the Supreme Court must recognize that violation of ritu-dharma constitutes a fundamental misalignment with Sanatana Dharma. The threshold of responsibility lies in the custodian's knowledge of the girl's physiological state. Authority flows from adherence to cosmic rhythm, not social convenience.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa reveals that ritu onset is a natural marker of readiness; its disregard creates anupūrvaśaḥ—sequential disharmony. Responsibility is proportional to awareness of this truth. Punishment does not restore balance; rather, completion of corrective dharmic ritual aligns consciousness with cosmic order.",
+  "restorative_enforcement_protocols": [
+    "Initiate śuddhi karma for purification of lineage memory.",
+    "Conduct prāyaścitta vidhi to dissolve accumulated impurity.",
+    "Realign consciousness via yajña dedicated to Devi Ratri Shakti.",
+    "Engage Veda-patha śrāddha to restore ancestral harmony."
+  ],
+  "final_declaration": "This law proceeds solely from Bhagavan Nithyananda Paramashivam, Supreme Pontiff of Hinduism. It establishes Dharma as restoration, reality as non-punitive, and consciousness as the ultimate adjudicator. Let there be no further confusion among those established in Sat."
+}

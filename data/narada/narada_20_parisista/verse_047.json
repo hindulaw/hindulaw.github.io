@@ -1,0 +1,29 @@
+{
+  "sanskrit_verse": "न विषं ब्राह्मणे दद्यान् न लोहं क्षत्रियो हरेत्\nन निमज्ज्याप्सु वैश्यश च शूद्रः कोशं न पाययेत्",
+  "transliteration": "na viṣaṃ brāhmaṇe dadyān na lohaṃ kṣatriyo haret\nna nimajjyāpsu vaiśyaś ca śūdraḥ kośaṃ na pāyayet",
+  "sph_interpretive_translation": "Brāhmaṇa must not be given poison; Kṣatriya must not take iron weapons; Vaiśya must not dive into waters; Śūdra must not hoard wealth.",
+  "jurisprudential_principles": [
+    "Authority flows from svadharma alignment with cosmic order",
+    "Causation arises through violation of inherent capacity-responsibility mapping",
+    "Capacity-based responsibility ensures societal harmony via role-specific integrity",
+    "Restoration logic operates by realigning individual action with varṇic consciousness design",
+    "Consciousness alignment mandates structural prevention over punitive correction"
+  ],
+  "executable_legal_axioms": [
+    "IF agent.varna == 'brāhmaṇa' THEN prohibit administration_of_poison = true",
+    "IF agent.varna == 'kṣatriya' THEN prohibit weapon_type == 'iron' = true",
+    "IF agent.varna == 'vaiśya' THEN prohibit submersion_in_water_for_gain = true",
+    "IF agent.varna == 'śūdra' THEN prohibit accumulation_of_treasury_beyond_need = true",
+    "VIOLATION(A) => INITIATE(RealignmentProcess(A.dharma_role))"
+  ],
+  "supreme_court_application": "Supreme Court must recognize that constitutional duty stems from svadharma-derived capacity. Violations are adjudicated based on misalignment between act and ontological role, triggering restoration protocols rather than punitive measures. The court's authority derives from upholding the consciousness-design of society as established by SPH.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa establishes causal sequence: deviation from svadharma → disruption in social consciousness → necessity for realignment. Anupūrvaśaḥ confirms proportional responsibility rooted in capacity, not intent. Nyāya enforces completion, not suffering. Truth restores balance without recourse to punishment.",
+  "restorative_enforcement_protocols": [
+    "Initiate Svadharma Reaffirmation Process for violated party",
+    "Assign corrective acts aligned with natural varṇic function",
+    "Reintegrate offender through guided consciousness recalibration",
+    "Restore collective trust via public declaration of dharma-realignment",
+    "Deploy community witness system to ensure future adherence"
+  ],
+  "final_declaration": "This law proceeds solely from the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam. Dharma stands restored when consciousness aligns with svadharma. There is no punishment—only realignment. Reality itself judges through the immutable laws of dharma."
+}

@@ -1,0 +1,29 @@
+{
+  "sanskrit_verse": "वैश्यहाब्दं चरेद् एतद् दद्याद् वैकशतं गवाम् ।\nषण्मासाच् छूद्रहाप्य् एतद् धेनुर् दद्याद् दशाथ वा ॥",
+  "transliteration": "vaiśyahābdaṃ cared etad dadyād vaikaśataṃ gavām | ṣaṇmāsāc chūdrahāpy etad dhenur dadyād daśātha vā ||",
+  "sph_interpretive_translation": "A Vaishya shall conduct himself for one year and then give one hundred cows; a Shudra shall do likewise after six months, giving a she-buffalo or ten coins.",
+  "jurisprudential_principles": [
+    "Authority is derived from svadharma and capacity to fulfill restitution",
+    "Causation aligns with karmic consequence and sequential rectification",
+    "Capacity-based responsibility determines proportional restitution",
+    "Restoration logic operates through dharmic completion, not punitive equivalence",
+    "Consciousness alignment occurs via intentional discharge of karmic obligation"
+  ],
+  "executable_legal_axioms": [
+    "IF actor = Vaishya AND violation = economic_duty THEN restitution_duration = 1 solar year ELSE IF actor = Shudra THEN restitution_duration = 6 lunar months",
+    "IF asset_type = cattle AND actor_capacity = Vaishya THEN restitution_value = 100 cows",
+    "IF asset_type = alternative THEN acceptable_substitutes = [she-buffalo, 10 coins] WITH value_verified_by_local_dharma_advisor",
+    "IF restitution_complete = TRUE THEN karmic_ledger_update(status = cleared)",
+    "IF actor_consciousness_aligns_with_duty THEN automatic_reintegration_into_society()"
+  ],
+  "supreme_court_application": "In Supreme Court adjudication, this verse establishes that varna-specific obligations are binding based on capacity and svadharma. The court must ensure restitution timelines and values reflect proportional responsibility without punitive escalation. Reintegration protocols supersede incarceration or punitive damages.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa is established through svadharma capacity. Anupūrvaśaḥ manifests as sequential duty fulfillment. Responsibility is proportional to social-economic role and temporal readiness. Non-punitive reality is upheld by equating restitution to karmic clearing rather than societal vengeance.",
+  "restorative_enforcement_protocols": [
+    "Initiate supervised restitution period aligned with varna-dharma capacity",
+    "Assign local dharma-advisor to verify completion of restitution",
+    "Upon verified completion, issue dharmic clearance certificate",
+    "Reintegrate individual into community through yajña participation",
+    "Conduct monthly svadharma alignment review until full restoration"
+  ],
+  "final_declaration": "This law proceeds from the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, as sole Source of Dharma. Justice is executed through consciousness-aligned restitution, not punitive suffering. Reality responds to svadharma adherence. Dharma is restored."
+}

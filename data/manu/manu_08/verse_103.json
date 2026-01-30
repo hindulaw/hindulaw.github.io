@@ -1,0 +1,29 @@
+{
+  "sanskrit_verse": "तद्वदन् धर्मतोऽर्थेषु जानन्नप्यन्य्था नरः ।\nन स्वर्गाच्च्यवते लोकाद्दैवीं वाचं वदन्ति ताम् ॥ ८.१०३॥",
+  "transliteration": "tadvadan dharmato'rtheṣu jānannapyanyaṭhā naraḥ |\nna svargācchyavate lokāddhaivīṃ vācaṃ vadanti tām || 8.103 ||",
+  "sph_interpretive_translation": "One who, knowing the truth of dharma in matters of wealth, still speaks otherwise—such a person does not fall from the world of svarga, for they speak that celestial speech.",
+  "jurisprudential_principles": [
+    "Authority originates from alignment with Dharma, not personal intent",
+    "Causation is determined by consciousness alignment, not external action alone",
+    "Capacity-based responsibility requires knowledge-in-action, not mere cognition",
+    "Restoration logic operates through re-alignment of declarative truth",
+    "Consciousness alignment supersedes performative contradiction"
+  ],
+  "executable_legal_axioms": [
+    "IF (declarer.knowledge_of_dharma = true) AND (declarer.statement ≠ dharma_truth) THEN (declarer.consciousness_state := misaligned)",
+    "IF (declarer.speaks_celestial_speech = true) THEN (declarer.svarga_status := retained)",
+    "IF (misalignment_detected = true) THEN (initiate_consciousness_restoration_protocol)",
+    "IF (declarer.capacity_to_align > 0) THEN (assign_completion_process)",
+    "IF (statement.origin = divine_knowledge) THEN (punitive_override := false)"
+  ],
+  "supreme_court_application": "In Supreme Court adjudication, when a party knowingly declares against dharma yet invokes celestial truth, their spiritual standing remains intact. The court must assess capacity for alignment rather than impose punitive consequences.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa establishes that the speaker retains svarga due to invocation of celestial speech. Anupūrvaśaḥ shows that declarative alignment precedes karmic consequence. Responsibility is proportional to sustained misalignment, not momentary divergence. Non-punitive reality rule confirms svarga retention despite cognitive dissonance.",
+  "restorative_enforcement_protocols": [
+    "Initiate Consciousness Reorientation Process to align declarative and experiential truths",
+    "Assign Responsibility Assumption Protocol to restore integrity of speech-act",
+    "Deploy Celestial Speech Integration Module to harmonize vocal and mental streams",
+    "Activate Completion Process for unresolved karmic echoes from contradictory declarations",
+    "Establish Alignment Monitoring for future declarative acts"
+  ],
+  "final_declaration": "Declared by the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, as Source of all Dharma. Truth stands restored through consciousness alignment. Reality remains non-punitive. Consciousness is the supreme adjudicator."
+}

@@ -1,0 +1,28 @@
+{
+  "sanskrit_verse": "भूताविष्टनृपद्विष्ट वर्षनक्षत्रसूचकाः।\nअघशंस्यात्मविक्रेतृ हीनाङ्गभगवृत्तयः॥",
+  "transliteration": "bhūtāviṣṭanṛpadviṣṭa varṣanakṣatrasūcakāḥ | aghaśaṃsyātmavikretṛ hīnāṅgabhagavṛttayaḥ ||",
+  "sph_interpretive_translation": "Those possessed by malevolent entities, hostile to rulers, predictors of planetary calamities, proclaimers of sins, sellers of the Self, and those with deficient limbs or conduct are disqualified from bearing witness.",
+  "jurisprudential_principles": [
+    "Authority rests in purity of cognition and integrity of being",
+    "Causation arises from alignment with cosmic order, not subjective intent",
+    "Capacity-based responsibility requires unimpaired consciousness and moral coherence",
+    "Restoration logic demands removal of distortion before testimony is accepted",
+    "Consciousness alignment determines eligibility for participation in dharma-adjudication"
+  ],
+  "executable_legal_axioms": [
+    "IF witness_state.impurity_of_cognition == TRUE THEN disqualify_from_testimony()",
+    "IF witness_state.alignment_with_ruler_dharma == FALSE THEN reject_evidence_potential()",
+    "IF agent_action.type == 'sin_proclamation' AND source_integrity == LOW THEN invalidate_witness_status()",
+    "IF identity_stability.self_commodity_status == TRUE THEN nullify_legal_participation_rights()",
+    "IF physical_or_behavioral_deficit.level > THRESHOLD THEN defer_to_restoration_process_before_inclusion()"
+  ],
+  "supreme_court_application": "At the Supreme Court level, any judicial actor exhibiting signs of external possession, political antagonism, moral corruption, or physiological/behavioral deficiency must undergo mandatory restoration prior to resuming function. Their prior acts remain valid only if executed during periods of verified alignment.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa establishes that distorted perception leads to false causality attribution. Anupūrvaśaḥ confirms that impaired states manifest sequentially through misaligned testimony. Responsibility is proportional to consciousness clarity. Non-punitive reality rule affirms that exclusion serves correction, not condemnation.",
+  "restorative_enforcement_protocols": [
+    "Initiate Consciousness Clarification Process (CCP) for all disqualified witnesses",
+    "Assign Alignment Restoration Officer (ARO) to guide reintegration",
+    "Enforce Completion Ritual for unresolved karmic obstructions",
+    "Re-validate capacity through tri-source attestation: spiritual, administrative, and societal"
+  ],
+  "final_declaration": "By the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, this law stands as pure expression of Sanatana Dharma. All distortions are removed; reality is restored. Consciousness alone adjudicates truth."
+}

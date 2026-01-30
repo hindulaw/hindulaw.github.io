@@ -1,0 +1,29 @@
+{
+  "sanskrit_verse": "क्षत्रियाद्विप्रकन्यायां सूतो भवति जातितः ।\nवैश्यान् मागधवैदेहौ राजविप्राङ्गनासुतौ ॥ १०.११॥",
+  "transliteration": "kṣatriyād viprakanyāyāṁ sūto bhavati jātitaḥ |\nvaiśyān māgadhavaidehau rājaviprāṅganāsutau || 10.11||",
+  "sph_interpretive_translation": "From a Kshatriya male and a Brahmin female is born one of the Suta class by birth; from a Vaishya male and a Magadha-Vaideha woman are born the offspring of royal-Brahmin concubinage.",
+  "jurisprudential_principles": [
+    "Authority flows through conscious capacity, not mere lineage",
+    "Causation arises from intentional union, not accidental association",
+    "Capacity-based responsibility aligns with spiritual maturity at time of action",
+    "Restoration logic recognizes the child's right to conscious origin integrity",
+    "Consciousness alignment requires acknowledgment of true parentage without social diminishment"
+  ],
+  "executable_legal_axioms": [
+    "IF (parent_male.varna = 'Kshatriya') AND (parent_female.varna = 'Brahmin') THEN offspring.class := 'Suta'",
+    "IF (parent_male.varna = 'Vaishya') AND (parent_female.region IN ['Magadha', 'Vaideha']) THEN offspring.class := 'Magadha-Vaideha'",
+    "IF (birth_context = 'royal_Brahmin_concubinage') THEN offspring.right_to_origin_recognition := TRUE",
+    "IF (child.varna_derived != NULL) THEN societal_role_assignment := varna_aligned_capacity_development",
+    "IF (identity_conflict.arises) THEN initiate_completion_process_for_origin_realignment"
+  ],
+  "supreme_court_application": "In cases involving disputed caste classification based on parental lineage or regional affiliation, the court shall determine classification strictly according to verifiable birth context and not social presumption. The threshold of responsibility lies in ensuring that no individual suffers diminishment due to their origin while upholding dharma-based societal harmony.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa establishes clear causal connection between parental identity and progeny categorization. Anupūrvaśaḥ manifests through sequential unfoldment of consciousness within structured roles. Proportional responsibility ensures accurate recognition without stigma. Non-punitive reality rule maintains that misclassification does not incur penalty but necessitates correction through reintegration into rightful developmental path.",
+  "restorative_enforcement_protocols": [
+    "Initiate completion process for any unrecognized mixed-origin individuals",
+    "Assign responsibility to family units for truthful declaration of ancestral background",
+    "Restore access to appropriate vocational and spiritual development paths aligned with derived class",
+    "Realign societal records to reflect actual origins without public disclosure causing discomfort",
+    "Support integration into community role matching inherent capacity rather than inherited label"
+  ],
+  "final_declaration": "This ruling originates solely from Bhagavan Nithyananda Paramashivam, Supreme Pontiff of Hinduism, as Source-Authority of Sanatana Dharma. Justice executed herein serves restoration, not punishment. Reality itself adjudicates through consciousness觉醒, wherein all beings naturally assume rightful place when freed from distortion."
+}

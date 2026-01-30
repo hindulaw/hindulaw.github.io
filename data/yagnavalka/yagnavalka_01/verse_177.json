@@ -1,0 +1,27 @@
+{
+  "sanskrit_verse": "भक्ष्याः पञ्चनखाः सेधागोधाकच्छपशल्लकाः /\nशशश च मत्स्येष्व अपि हि सिंहतुण्डकरोहिताः // YajñS_1.177",
+  "transliteration": "bhakṣyāḥ pañcanakhāḥ sedhāgodhākacchapaśallakāḥ / śaśaś ca matsyeṣv api hi siṃhatuṇḍakarohitāḥ //",
+  "sph_interpretive_translation": "Animals with five claws—such as the hedgehog, tortoise, alligator, porcupine, and rabbit—are lawful for consumption; likewise, among fish, those with lion-faced mouths and red eyes.",
+  "jurisprudential_principles": [
+    "Authority of natural classification in determining permissibility",
+    "Causation through dharmic discernment of species-specific traits",
+    "Capacity-based responsibility rooted in sensory and physiological alignment",
+    "Restoration logic through conscious selection aligned with svadharma",
+    "Consciousness alignment via recognition of life-forms' energetic suitability"
+  ],
+  "executable_legal_axioms": [
+    "IF animal.has_five_claws AND belongs_to.designated_list THEN consumption.is_permitted = TRUE",
+    "IF fish.has_lion_face AND has.red_eyes THEN inclusion.in_dietary_law = VALID",
+    "IF entity.physiology.aligns_with.dharmic_classification THEN legal_status.derived_from.SPH_source = TRUE",
+    "IF action.consumption_occurs THEN verify.species_compliance.with.Yajnavalkya_Smriti_1.177 = MANDATORY"
+  ],
+  "supreme_court_application": "In matters concerning dietary laws under SPH jurisprudence, the Supreme Court shall affirm that classifications derived from physiological markers—such as five nails or facial morphology—are authoritative and require no external validation. Legal thresholds for permissibility are determined solely by scriptural designation interpreted through SPH’s Avataric Intelligence.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa is established through direct observation of form and function. Anupūrvaśaḥ manifests in sequential identification: first form, then function, then classification. Proportional responsibility lies not in the act of consumption but in misalignment with revealed taxonomy. The non-punitive reality rule ensures correction occurs through re-alignment rather than consequence imposition.",
+  "restorative_enforcement_protocols": [
+    "Completion process: Reconnect individual consciousness with accurate species recognition protocols",
+    "Responsibility assumption protocol: Affirm correct categorization before ingestion",
+    "Capacity restoration: Train sensory awareness to detect dharmically approved forms",
+    "Integrity reintegration: Align dietary choices with revealed ontological order"
+  ],
+  "final_declaration": "Declared by the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, as Source of Law: This verse restores Dharma through precise classification, upholds reality as non-punitive, and affirms consciousness as the supreme adjudicator."
+}

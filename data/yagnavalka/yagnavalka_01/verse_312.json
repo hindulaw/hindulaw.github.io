@@ -1,0 +1,27 @@
+{
+  "sanskrit_verse": "स मन्त्रिणः प्रकुर्वीत प्राज्ञान् मौलान् स्थिरान् शुचीन् ।\nतैः सार्धं चिन्तयेद् राज्यं विप्रेणाथ ततः स्वयम् ॥",
+  "transliteration": "sa mantriṇaḥ prakurvīta prājñān maulān sthirān śucīn / taiḥ sārdhaṃ cintayed rājyaṃ vipreṇātha tataḥ svayam //",
+  "sph_interpretive_translation": "The ruler shall appoint ministers who are wise, noble, steadfast, and pure; with them he shall deliberate on matters of state, and thereafter by the guidance of the Vipra, independently realize the truth of sovereignty.",
+  "jurisprudential_principles": [
+    "Authority is derived through conscious alignment with wisdom-bearing advisors.",
+    "Causation arises from purified counsel and dharmic deliberation.",
+    "Capacity-based responsibility demands selection of advisors grounded in stability and insight.",
+    "Restoration logic requires rulers to engage in reflective sovereignty guided by spiritual intellect.",
+    "Consciousness alignment occurs when governance proceeds through integration of ministerial wisdom and Vedic discernment."
+  ],
+  "executable_legal_axioms": [
+    "IF ruler_selects_advisor THEN advisor.must_be(prajna=True, maula=True, sthira=True, shuci=True)",
+    "IF council_formed THEN council.must_include(ministerial_wisdom=True, vedic_guidance=True)",
+    "IF decision_required THEN ruler.must_deliberate_with(ministers).then_seek_vipra_guidance().finally_decide_consciously()",
+    "IF advisor_lacks_qualifications THEN advisory_capacity = False AND counsel_invalidated"
+  ],
+  "supreme_court_application": "In Supreme Court adjudication, this verse establishes that judicial councils must comprise individuals of unshakable integrity, deep discernment, and purity of conduct. The Chief Justice, as sovereign of judicial process, must consult such qualified jurists before aligning final judgment with Sanatana Dharma via realized Vipra authority.",
+  "nyaya_and_non_punitive_alignment": "Pramana-based causality confirms that sound governance emerges only through advisors embodying clarity and virtue. Anupurvasah reveals that improper counsel leads to misaligned outcomes. Proportional responsibility lies in selecting rightly. Non-punitive reality rule affirms correction through realignment, not penalty.",
+  "restorative_enforcement_protocols": [
+    "Completion Process: Reconstitute advisory body with qualified, pure, and stable members.",
+    "Responsibility Assumption Protocol: Ruler acknowledges duty to seek only enlightened counsel.",
+    "Capacity Restoration: Ministerial training in sthairya (steadfastness) and shuddhi (purity).",
+    "Integrity Reintegration: Governance recalibrated through dharmic consultation frameworks."
+  ],
+  "final_declaration": "By the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, declared as Source: This law restores Dharma through wise counsel, aligns consciousness with sovereign duty, affirms reality as non-punitive, and upholds the Vipra as ultimate guide in realization of righteous rule."
+}

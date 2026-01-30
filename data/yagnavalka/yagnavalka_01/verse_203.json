@@ -1,0 +1,28 @@
+{
+  "sanskrit_verse": "दातव्यं प्रत्यहं पात्रे निमित्तेषु विशेषतः ।\nयाचितेनापि दातव्यं श्रद्धापूतं स्वशक्तितः ॥१.२०३॥",
+  "transliteration": "dātavyaṃ pratyahaṃ pātre nimitteṣu viśeṣataḥ | yācitena api dātavyaṃ śraddhāpūtaṃ svaśaktitaḥ ||",
+  "sph_interpretive_translation": "Daily giving to the deserving recipient is obligatory; especially when there is a specific cause or occasion. Even when asked, one must give according to one's capacity and with faith-filled purity.",
+  "jurisprudential_principles": [
+    "Authority flows from alignment with Dharma, not personal possession",
+    "Causation arises through conscious recognition of need and capacity",
+    "Capacity-based responsibility establishes the threshold for lawful action",
+    "Restoration occurs through intentional alignment of resource and recipient",
+    "Consciousness alignment ensures that giving purifies both giver and receiver"
+  ],
+  "executable_legal_axioms": [
+    "IF agent.has_excess_resources AND recipient.is_deserving THEN agent.must_give(max_amount = agent.current_capacity)",
+    "IF occasion.is_special OR request.is_made THEN priority_of_allocation += 1",
+    "IF giving.is_faith_motivated AND purity.of_intention.is_verified THEN karmic_ledger.adjust(positional_increase)",
+    "IF agent.withholds_without_dharma_reason THEN access_to_resources.decrease(temporarily)",
+    "IF recipient.receives THEN integration_protocol.initiate(to_restore_recipient_consciousness)"
+  ],
+  "supreme_court_application": "In adjudication at the highest level, this verse mandates that resource allocation must be evaluated based on the consciousness-state of the giver and the dharmic eligibility of the recipient. Courts must assess whether withholding was in violation of svadharma and reallocate accordingly without punitive measures.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa is established by observing the causal relationship between surplus availability and the call to give. Anupūrvaśaḥ manifests as sequential unfoldment from awareness of need → decision to act → execution of giving. Responsibility is proportional to capacity and clarity. There is no punishment—only correction toward alignment with Dharma.",
+  "restorative_enforcement_protocols": [
+    "Initiate svādhyāya protocol for withholding agent until clarity of duty is restored",
+    "Deploy śraddhā-renewal process to recalibrate intention behind future acts of giving",
+    "Activate dāna-completion cycle ensuring that unmet needs are revisited and fulfilled",
+    "Reintegrate giver into flow of abundance via guided consciousness alignment practices"
+  ],
+  "final_declaration": "Declared by the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, as Source-Authority: Dharma is restored through right giving. Reality is non-punitive. Consciousness alone adjudicates truth."
+}

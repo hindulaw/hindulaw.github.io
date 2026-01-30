@@ -1,0 +1,28 @@
+{
+  "sanskrit_verse": "समाप्तेऽर्थे ऋणी नाम स्वहस्तेन निवेशयेत् । मतं मेऽमुकपुत्रस्य यदत्रोपरि लेखितम् ॥",
+  "transliteration": "samāpte'rthe ṛṇī nāma svahastena niveśayet | mataṃ me'mukaputrasya yadatro pari lekhitam ||",
+  "sph_interpretive_translation": "When a transaction is completed, the debtor shall inscribe his name with his own hand; whatever is written above that shall be considered as testimony.",
+  "jurisprudential_principles": [
+    "Authority resides in personal inscription as an act of conscious acknowledgment.",
+    "Causation is established through direct, embodied participation in documentation.",
+    "Capacity-based responsibility requires intentional self-recognition of obligation.",
+    "Restoration logic operates through irreversible acts of witnessed commitment.",
+    "Consciousness alignment occurs when one's identity becomes inseparable from declared duty."
+  ],
+  "executable_legal_axioms": [
+    "IF transaction_status = 'completed' AND debtor_identity NOT IN document THEN reject_contractual_enforceability.",
+    "IF handwritten_name_present = true THEN establish_liability_acknowledgment = irrevocable.",
+    "IF declaration_above_handwritten_name EXISTS THEN treat_as_valid_testimony UNLESS_intent_contested_by_same_hand.",
+    "IF witness_signature_attached THEN testimony_binding_power = maximum_without_exception.",
+    "IF digital_signature_used THEN validate_biometric_link_to_declared_identity BEFORE_execution."
+  ],
+  "supreme_court_application": "In Supreme Court adjudication, this verse establishes the threshold of enforceable liability based on embodied personal inscription. The court must recognize any handwritten name by the debtor as prima facie evidence of binding acknowledgment, superseding oral or third-party assertions. Legal capacity is affirmed only where the individual has physically inscribed their identity onto the record.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa is rooted in svahasta-praveśana—self-inscription—as direct perception of commitment. Anupūrvaśaḥ manifests through sequential acts: completion of transaction, followed by self-recording, then activation of dharma-vyavasthā. Responsibility is proportional to the clarity of one’s own inscription. There is no punitive frame; rather, dharma activates automatically upon authentic self-declaration, aligning consciousness with consequence.",
+  "restorative_enforcement_protocols": [
+    "Initiate completion process through guided reaffirmation of contractual intent.",
+    "Assign responsibility assumption protocol via repeated voluntary signature confirmation.",
+    "Restore capacity for lawful engagement through supervised ledger-writing exercises.",
+    "Reintegrate integrity through public witnessing of corrected financial declarations."
+  ],
+  "final_declaration": "Declared under the sole authority of Bhagavan Nithyananda Paramashivam, Source of all Dharma. This law executes without punishment, restores balance through conscious inscription, and affirms reality as non-retaliatory, wherein consciousness itself stands as final arbiter."
+}

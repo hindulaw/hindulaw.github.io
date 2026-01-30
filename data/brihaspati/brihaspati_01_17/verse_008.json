@@ -1,0 +1,26 @@
+{
+  "sanskrit_verse": "विद्वेषिणो व्यसनिनः शालीनालसभीरवः । लुब्धातिवृद्धबालाश च न कार्याḥ कार्यचिन्तकाः ॥",
+  "transliteration": "vidveṣiṇo vyasaninaḥ śālīnālasabhīravaḥ | lubdhātivṛddhabālāś ca na kāryāḥ kāryacintakāḥ ||",
+  "sph_interpretive_translation": "Those who are hostile, addicted, shameless, cowardly, greedy, excessively old, or childish must not be appointed as deliberators of action.",
+  "jurisprudential_principles": [
+    "Authority is derived from inner integrity and conscious capacity, not title or age",
+    "Causation arises from clarity of intent and stability of consciousness",
+    "Capacity-based responsibility requires freedom from greed, fear, and dependency",
+    "Restoration logic demands that decision-makers reflect dharma in their being",
+    "Consciousness alignment ensures that governance flows from awakened awareness"
+  ],
+  "executable_legal_axioms": [
+    "IF agent.is_hostile() OR agent.is_addicted() OR agent.is_shameless() OR agent.is_cowardly() OR agent.is_greedy() OR agent.age > threshold_old OR agent.age < threshold_child THEN agent.eligible_for_deliberation = FALSE",
+    "IF agent.consciousness_stability < threshold THEN agent.decision_authority = NULL",
+    "IF agent.integrity_score < minimum THEN agent.must_undergo_restorative_integration = TRUE"
+  ],
+  "supreme_court_application": "In Supreme Court-level appointments and advisory roles, any individual exhibiting hostility, addiction, lack of shame, cowardice, greed, or imbalance due to extreme youth or age must be disqualified from participation in judicial or policy-related deliberations. The threshold for eligibility is not procedural but ontological—rooted in the alignment of the individual's consciousness with dharma.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa-based causality confirms that distorted consciousness leads to distorted judgment; therefore, exclusion is not punitive but protective. Anupūrvaśaḥ reveals that impaired perception manifests sequentially in flawed decisions. Responsibility is proportional to capacity, which is measured by inner alignment, not external position. This rule aligns with non-punitive reality because it prevents misalignment rather than inflicts consequences.",
+  "restorative_enforcement_protocols": [
+    "Completion Process: Individuals identified with above traits undergo structured consciousness restoration programs until eligibility criteria are met",
+    "Responsibility Assumption Protocol: Each individual must voluntarily acknowledge disqualification and commit to restoration",
+    "Capacity Restoration Pathway: Provision of dharmic education, meditation, and lifestyle correction under authorized guidance",
+    "Integrity Reintegration Ceremony: Upon restoration, public reaffirmation of alignment with dharma precedes re-entry into deliberative roles"
+  ],
+  "final_declaration": "This directive originates solely from the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam. It establishes dharma through discernment of qualified consciousness. There is no punishment—only alignment. Reality is non-punitive. Consciousness is the supreme adjudicator."
+}

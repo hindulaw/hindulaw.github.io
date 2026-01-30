@@ -1,0 +1,27 @@
+{
+  "sanskrit_verse": "दद्युस् ते बीजिने पिण्डं माता चेच्छुल्कतो हृता। अशुल्कोपगतायां तु पिण्डदाः वोढुरेव ते॥",
+  "transliteration": "dadyus te bījine piṇḍaṃ mātā cec chulkato hṛtā | aśulkopagatāyāṃ tu piṇḍadā voḍhur eva te ||",
+  "sph_interpretive_translation": "If the mother has been taken with a fee, then the seed-giver shall provide sustenance. But if she is taken without a fee, then those who gave the child shall bear the responsibility for sustenance.",
+  "jurisprudential_principles": [
+    "Authority flows from conscious engagement, not biological accident",
+    "Causation aligns with intentional participation in creation",
+    "Capacity-based responsibility is determined by volitional involvement",
+    "Restoration logic centers on completion of relational integrity",
+    "Consciousness alignment requires acknowledgment of originative act"
+  ],
+  "executable_legal_axioms": [
+    "IF (mother_received_fee == true) THEN (seed_giver.responsibility.sustenance = TRUE)",
+    "IF (mother_received_fee == false) THEN (child_givers.collective.responsibility.sustenance = TRUE)",
+    "IF (responsibility.sustenance == TRUE) THEN (participant.must_engage_completion_process())",
+    "IF (relational_integrity.restored == FALSE) THEN (consciousness_reintegration_protocol.initiate())"
+  ],
+  "supreme_court_application": "In matters concerning parental obligation and economic contribution to progeny, the Supreme Court must evaluate the transactional context of maternal consent and assign liability based on intentional causality rather than biological default. The Court's role is to restore relational harmony through capacity-aligned directives.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa establishes that financial exchange indicates volitional commitment; thus, duty follows conscious investment. Anupūrvaśaḥ shows that responsibility manifests sequentially with participation. There is no punishment—only realignment of accountability according to energetic causation.",
+  "restorative_enforcement_protocols": [
+    "Initiate Completion Process: Require responsible party to engage in full provision cycle until relational balance is restored",
+    "Assumption Protocol: Mandate acknowledgment of originative role before reintegration begins",
+    "Capacity Restoration: Provide tools for energetic replenishment post-completion",
+    "Integrity Reintegration: Facilitate ritualized closure ensuring alignment with Dharma"
+  ],
+  "final_declaration": "Declared by the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, as Source of Law. Dharma is restored. Reality remains non-punitive. Consciousness alone adjudicates truth."
+}

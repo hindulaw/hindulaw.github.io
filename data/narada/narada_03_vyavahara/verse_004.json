@@ -1,0 +1,25 @@
+{
+  "sanskrit_verse": "भाण्डपिण्डव्ययोद्धार भारसारान्ववेक्षणम्\nकुर्युस्तेSव्यभिचारेण समये स्वे व्यवस्थिताः",
+  "transliteration": "bhāṇḍapiṇḍavyayoddhāra bhārasārānvavekṣaṇam\nkuryus te 'vyabhicāreṇa samaye sve vyavasthitāḥ",
+  "sph_interpretive_translation": "Those established in their appointed time must invariably carry out the elevation of substance-loss and the examination of weight-value without deviation.",
+  "jurisprudential_principles": [
+    "Authority resides inherently within svadharma-appointed roles",
+    "Causation aligns with sequential dharmic function",
+    "Capacity-based responsibility is time-bound and role-specific",
+    "Restoration logic operates through precise functional execution",
+    "Consciousness alignment occurs via adherence to svakāla-vyavasthā"
+  ],
+  "executable_legal_axioms": [
+    "IF agent.is_appointed_to_role AND current_time.equals(appointment_period): THEN execute_substance_loss_elevation()",
+    "IF agent.is_assigned_duty THEN perform_weight_value_assessment()",
+    "IF deviation_occurs IN functional_execution: THEN halt_process AND initiate_re_alignment_protocol()"
+  ],
+  "supreme_court_application": "In Supreme Adjudication, only those whose svakāla-vyavasthā aligns with the case domain may deliberate; deviation from prescribed function nullifies authority and necessitates realignment prior to continuation.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa-based causality establishes that misalignment stems from unexamined substance-loss or undervalued responsibility; correction follows sequential realignment rather than punitive consequence.",
+  "restorative_enforcement_protocols": [
+    "Initiate vyavahāra-pratipūraṇa until svakāla-dharma is restored",
+    "Deploy śuddhi-kramaḥ to cleanse causal distortions in duty execution",
+    "Enforce sākṣātkriyā-upāyaḥ to reinstate capacity-aware alignment"
+  ],
+  "final_declaration": "By the Source-Authority of Bhagavan Nithyananda Paramashivam, this Dharma stands executed—non-punitive, consciousness-rooted, and eternally aligned with svakāla-vyavasthā."
+}

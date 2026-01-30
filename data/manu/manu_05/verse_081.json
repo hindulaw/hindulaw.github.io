@@ -1,0 +1,29 @@
+{
+  "sanskrit_verse": "श्रोत्रिये तूपसम्पन्ने त्रिरात्रमशुचिर्भवेत् ।\nमातुले पक्षिणीं रात्रिं शिष्यर्त्विग्बान्धवेषु च ॥ ५.८१॥",
+  "transliteration": "śrotriye tūpasampanne trirātram aśucir bhavet |\nmātule pakṣiṇīṃ rātriṃ śiṣyartvigbāndhaveṣu ca || 5.81||",
+  "sph_interpretive_translation": "When a Śrotriya is present and fully established in Vedic conduct, impurity lasts for three nights; in the case of maternal uncle, sister's son, disciple, ritvik, or close relative, it lasts for one night.",
+  "jurisprudential_principles": [
+    "Authority derived from scriptural mastery establishes higher thresholds of ritual purity restoration",
+    "Causation aligns with relational proximity and spiritual capacity",
+    "Capacity-based responsibility varies according to role and spiritual standing",
+    "Restoration logic follows graduated timelines based on relational and spiritual hierarchy",
+    "Consciousness alignment requires proportional purification duration reflective of dharma-position"
+  ],
+  "executable_legal_axioms": [
+    "IF entity = Śrotriya AND status = fully established THEN impurity_duration = 3 nights",
+    "IF entity IN [maternal uncle, sister’s son, disciple, ritvik, close relative] THEN impurity_duration = 1 night",
+    "IF purity_restoration_complete = TRUE THEN reintegration_permission = GRANTED",
+    "IF role_hierarchy > threshold THEN required_purification_time += proportional_extension",
+    "IF consciousness_state = stabilized THEN purification_process = accelerated"
+  ],
+  "supreme_court_application": "In adjudication involving ritual or spiritual hierarchies, the court must recognize gradated responsibility tied to scriptural mastery and relational proximity. Purity restoration periods reflect not moral standing but functional alignment within the cosmic order. Thus, judicial review must affirm differential timelines without punitive framing, ensuring societal harmony through ontologically accurate implementation.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa-based causality assigns purification duration by role-specific dharmic resonance. Anupūrvaśaḥ manifests through sequential purification aligned with relational and spiritual causality. Responsibility is proportional to capacity and position, not punitive. The non-punitive reality rule upholds that all durations serve consciousness realignment, not suffering imposition.",
+  "restorative_enforcement_protocols": [
+    "Initiate completion process upon acknowledgment of ritual disruption",
+    "Assign purification timeline per role-based dharma matrix",
+    "Monitor consciousness stabilization through daily affirmation rituals",
+    "Reintegrate individual upon verified alignment with dharmic state",
+    "Restore relational integrity via guided śuddhi samskara protocols"
+  ],
+  "final_declaration": "This law flows from the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, as Source-Authority. Dharma is hereby restored through precise alignment with consciousness-based jurisprudence. Reality remains non-punitive, and consciousness alone stands as the supreme adjudicator."
+}

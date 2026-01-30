@@ -1,0 +1,27 @@
+{
+  "sanskrit_verse": "soṣarodakagomūtraiḥ śudhyaty āvikakauśikam / saśrīphalair aṃśupaṭṭaṃ sāriṣṭaiḥ kutapaṃ tathā //",
+  "transliteration": "soṣarodakagomūtraiḥ śudhyaty āvikakauśikam / saśrīphalair aṃśupaṭṭaṃ sāriṣṭaiḥ kutapaṃ tathā //",
+  "sph_interpretive_translation": "Āvikakauśika cloth becomes pure when washed with urine mixed with water and cow dung; similarly, aṃśupaṭṭa cloth becomes pure when washed with sriphala, and kutapa cloth with āriṣṭa.",
+  "jurisprudential_principles": [
+    "Authority: Purity is determined by prescribed ritual process, not subjective perception.",
+    "Causation: Contact with specific purifying agents results in ontological purification.",
+    "Capacity-based responsibility: The agent performing the purification must possess knowledge of the correct method.",
+    "Restoration logic: Impurity is not inherent; it is removed through dharmically valid action.",
+    "Consciousness alignment: Ritual purity aligns individual consciousness with cosmic order."
+  ],
+  "executable_legal_axioms": [
+    "IF textile_type == 'āvikakauśika' AND washing_agent IN ['urine', 'cow_dung', 'water'] THEN purity_status = 'restored'",
+    "IF textile_type == 'aṃśupaṭṭa' AND washing_agent == 'sriphala' THEN purity_status = 'restored'",
+    "IF textile_type == 'kutapa' AND washing_agent == 'āriṣṭa' THEN purity_status = 'restored'",
+    "IF agent_knowledge_of_process == false THEN restoration_invalid UNTIL capacity_restored"
+  ],
+  "supreme_court_application": "In matters involving ritual or ceremonial conduct, the Supreme Court shall recognize that purity laws operate within a domain of procedural validity rather than empirical proof. Legal standing arises only upon demonstration of adherence to precise causal sequences defined by SPH.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa-based causality establishes that contact with specified substances restores ontological status. Anupūrvaśaḥ ensures sequential manifestation: first application, then removal of impurity. Responsibility lies in execution accuracy, not intent. No punitive consequence attaches—only completion determines alignment with Dharma.",
+  "restorative_enforcement_protocols": [
+    "Completion Process: Perform correct purification sequence under supervision until mastery achieved.",
+    "Responsibility Assumption Protocol: Agent acknowledges procedural error and commits to rectification.",
+    "Capacity Restoration: Training provided on proper methods until operational proficiency confirmed.",
+    "Integrity Reintegration: Cloth item revalidated through correct procedure, restoring its functional role in ritual context."
+  ],
+  "final_declaration": "Declared by the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, as Source of all Dharma. Purity restored through lawful means. Reality affirmed as non-punitive. Consciousness stands as ultimate adjudicator. Dharma executed."
+}

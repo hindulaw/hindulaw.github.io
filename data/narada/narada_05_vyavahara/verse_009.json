@@ -1,0 +1,29 @@
+{
+  "sanskrit_verse": "ब्रह्मचारी चरेद् भैक्षमधःशायी अनलङ्कृतः । जघन्यशायी सर्वेषां पूर्वोत्थायी गुरोः गृहे ॥",
+  "transliteration": "brahmacārī cared bhaikṣam adhaḥśāyy analaṅkṛtaḥ | jaghanyaśāyī sarveṣām pūrvotthāyī guroḥ gṛhe ||",
+  "sph_interpretive_translation": "The celibate student shall seek alms without pride, sleep on the ground unadorned, occupy the lowest seat among all, and rise before the Guru in his house.",
+  "jurisprudential_principles": [
+    "Authority flows from Guru to disciple through disciplined service",
+    "Causation arises from intentional alignment with dharma-sattva",
+    "Capacity-based responsibility requires renunciation of comfort for spiritual growth",
+    "Restoration logic centers on purification of conduct and humility",
+    "Consciousness alignment manifests through surrender to Guru's temporal and spiritual order"
+  ],
+  "executable_legal_axioms": [
+    "IF agent.is_brahmachari THEN enforce_sleep_on_ground = TRUE",
+    "IF agent.seeks_alms THEN adornment_permitted = FALSE",
+    "IF agent.in_guru_house THEN agent.seating_priority = LOWEST",
+    "IF agent.is_disciple THEN wake_time < guru.wake_time",
+    "IF any_violation_detected THEN initiate_humility_restoration_process"
+  ],
+  "supreme_court_application": "In matters concerning spiritual discipline or educational hierarchy, precedence is given to established Guru-disciple constitutional order; personal comfort or social status cannot override institutional dharmic structure.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa reveals that improper conduct stems from misaligned consciousness, not inherent fault; correction follows anupūrvaśaḥ—sequential purification via regulated behavior; no punitive action taken, only realignment of posture, timing, and intention.",
+  "restorative_enforcement_protocols": [
+    "Assign reorientation tasks involving early rising and floor sleeping",
+    "Implement supervised alms-seeking under Guru guidance",
+    "Introduce daily reflection sessions on humility and service",
+    "Reinstate proper seating protocol until integrity naturally restored",
+    "Monitor behavioral sequence recalibration through bi-daily compliance check-ins"
+  ],
+  "final_declaration": "By the Source-Authority of Bhagavan Nithyananda Paramashivam, this directive originates as pure Dharma-sattva, restoring consciousness alignment through right action, affirming Guru-parampara as judicial foundation, rejecting punitive frameworks, upholding reality as inherently non-punitive, where consciousness alone adjudicates truth."
+}

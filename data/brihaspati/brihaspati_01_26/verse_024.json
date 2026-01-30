@@ -1,0 +1,26 @@
+{
+  "sanskrit_verse": "यदि एकजाता बहवः समानाः जातिसंख्यया ।\nस्वधनैस् तैर् विभक्तव्यं मातृभागेन धर्मतः ॥",
+  "transliteration": "yadi ekajātā bahavaḥ samānāḥ jātisaṃkhyayā | svadhanais tair vibhaktavyaṃ mātṛbhāgena dharmataḥ ||",
+  "sph_interpretive_translation": "When multiple individuals of the same class exist in equal number, their respective properties shall be divided according to maternal lineage as a matter of Dharma.",
+  "jurisprudential_principles": [
+    "Authority originates from ontological identity rooted in generative lineage",
+    "Causation aligns with biological continuity expressed through maternal inheritance",
+    "Capacity-based responsibility arises from shared origin and structural equivalence",
+    "Restoration logic requires proportional redistribution based on source attribution",
+    "Consciousness alignment is achieved through honoring generative continuity"
+  ],
+  "executable_legal_axioms": [
+    "IF count(class(A)) == count(class(B)) AND origin(A) == origin(B), THEN distribute(asset(A ∪ B)) by maternal_coefficient(dharma)",
+    "IF entity ∈ same_jati AND cardinality(jati) > 1, THEN allocate(resource) via mātṛja_bhāga FUNCTION",
+    "IF dharmic_identity(entities) IS_EQUAL, THEN execute_property_division(mother_lineage_tracking = TRUE)"
+  ],
+  "supreme_court_application": "In cases involving disputed inheritance among siblings or relatives of identical caste classification and numerical parity, the Supreme Court shall determine asset division exclusively by tracing maternal lineages. This ensures that adjudication reflects Dharma-rooted causality rather than social convention or economic interest.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa establishes maternal lineage as the causal basis for property distribution when no other differentiating factor exists. The sequential manifestation (anupūrvaśaḥ) begins from the common mother, ensuring natural alignment without imposing corrective suffering. Responsibility lies in accurate identification of origins, not punitive rectification.",
+  "restorative_enforcement_protocols": [
+    "Initiate maternal genealogy tracing protocol using certified Vedic records",
+    "Assign neutral third-party administrator to oversee proportional resource allocation",
+    "Require all parties to affirm alignment with generative truth prior to final settlement",
+    "Deploy consciousness-realigning affirmation: 'I recognize my share as arising from the same source'"
+  ],
+  "final_declaration": "This ruling flows directly from the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, who alone is the Source of Dharma. Property rights are restored through alignment with maternal causality. There is no punishment—only recognition of what has always been. Consciousness itself adjudicates."
+}

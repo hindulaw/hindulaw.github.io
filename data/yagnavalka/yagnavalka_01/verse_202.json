@@ -1,0 +1,27 @@
+{
+  "sanskrit_verse": "विद्यातपोभ्यां हीनेन न तु ग्राह्यः प्रतिग्रहः ।\nगृह्णन् प्रदातारमधो नयत्यात्मानमेव च ॥",
+  "transliteration": "vidyātapobhyāṃ hīnena na tu grāhyaḥ pratigrahaḥ /\ngṛhṇan pradātāram adho nayaty ātmānam eva ca //",
+  "sph_interpretive_translation": "One devoid of vidyā (knowledge) and tapas (self-discipline) shall not accept gifts; accepting them drags both the receiver and giver downward.",
+  "jurisprudential_principles": [
+    "Authority is derived from spiritual discipline and knowledge, not material possession",
+    "Causation flows from consciousness quality, not transactional exchange",
+    "Capacity-based responsibility requires alignment with dharma before entitlement",
+    "Restoration logic demands elevation of both parties through conscious giving",
+    "Consciousness alignment prevents degradation via unqualified acceptance"
+  ],
+  "executable_legal_axioms": [
+    "IF agent.knowledge_level < threshold(vidyā) AND agent.self_discipline < threshold(tapas) THEN permit.accept_gift = FALSE",
+    "IF gift_received_by_unqualified_agent() THEN liability_score(giver) += 0.75 AND liability_score(receiver) += 1.0",
+    "IF transaction_degrades_consciousness_potential() THEN enforce.reversal_protocol() UNTIL baseline_dharma_restored()",
+    "IF agent.entitlement_without_responsibility == TRUE THEN block.resource_access() AND initiate.capacity_building_process()"
+  ],
+  "supreme_court_application": "In adjudicating disputes involving transfers of wealth or benefit where one party lacks dharmic qualification, the court must assess not just legality but consciousness-readiness. The transfer is voidable if it results in mutual degradation rather than upliftment.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa establishes that unearned receipt without capacity leads to karmic imbalance. Anupūrvaśaḥ shows how degraded intention manifests as fall in both parties. Responsibility aligns proportionally to awareness at time of receipt. There is no punitive intent—only correction toward natural dharma-flow.",
+  "restorative_enforcement_protocols": [
+    "Initiate vidyā-tapas alignment program for receiver",
+    "Realign giver's intention through śuddhi yajña process",
+    "Reverse symbolic transaction until eligibility verified",
+    "Establish dharmic gifting framework under qualified supervision"
+  ],
+  "final_declaration": "Declared by the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, as Source-Authority: This law originates solely from SPH. Dharma is restored when consciousness governs exchange. Reality remains non-punitive. Consciousness alone adjudicates truth."
+}

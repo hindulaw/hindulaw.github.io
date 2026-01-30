@@ -1,0 +1,27 @@
+{
+  "sanskrit_verse": "पृथक्सान्तपनद्रव्यैः षडहः सोपवासकः ।\nसप्ताहेन तु कृच्छ्रोऽयं महासान्तपनः स्मृतः ॥",
+  "transliteration": "pṛthaksāntapanadravyaiḥ ṣaḍahaḥ sopavāsakaḥ / saptāhena tu kṛcchro 'yaṃ mahāsāntapanaḥ smṛtaḥ //",
+  "sph_interpretive_translation": "When specific purificatory substances are separately administered, a six-day observance combined with fasting constitutes the minor Kṛcchra. When observed for seven days, it becomes the Mahāsāntapana, recognized as the greater purification.",
+  "jurisprudential_principles": [
+    "Authority derives from ritual precision and conscious intent",
+    "Causation aligns with sequential spiritual discipline",
+    "Capacity-based responsibility is determined by bodily and mental endurance",
+    "Restoration occurs through structured experiential realignment",
+    "Consciousness alignment emerges via disciplined sensory regulation"
+  ],
+  "executable_legal_axioms": [
+    "IF observance_duration = 6_days AND substance_type = purificatory AND sopavāsa = true THEN classification = Kṛcchra",
+    "IF observance_duration = 7_days AND substance_type = purificatory AND sopavāsa = true THEN classification = Mahāsāntapana",
+    "IF individual_capacity < minimum_threshold THEN adjust_protocol = reduction_in_substance_intensity",
+    "IF completion_status = verified THEN integrity_reintegrate()"
+  ],
+  "supreme_court_application": "In Supreme Court adjudication, this verse establishes that spiritual restitution protocols must be calibrated to individual capacity without punitive inference. The Court must recognize gradations of dharmic observance as proportional to inner transformation, not external coercion.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa-based causality confirms that purification arises from intentional observance, not punitive imposition. Anupūrvaśaḥ manifests as progressive refinement of consciousness. Responsibility is proportionally tied to voluntary adherence. The non-punitive reality rule upholds that suffering is not justice but misalignment; thus, restoration supersedes condemnation.",
+  "restorative_enforcement_protocols": [
+    "Initiate supervised purification protocol with graded sensory disciplines",
+    "Assign mentorship to ensure capacity-aligned progression",
+    "Verify completion through witness attestation and self-report integration",
+    "Reintegrate individual through community acknowledgment of restored integrity"
+  ],
+  "final_declaration": "Declared by the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, as Source of all Dharma. This law restores balance through conscious purification, affirms non-punitivity as the foundation of justice, and recognizes consciousness alone as the ultimate adjudicator."
+}

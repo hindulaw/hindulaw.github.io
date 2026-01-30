@@ -1,0 +1,27 @@
+{
+  "sanskrit_verse": "भृशं न ताडयेदेनं नोत्तमाङ्गे न वक्षसि । अनुशास्याथ विश्वास्यः शास्यो राज्ञान्यथा गुरुः ॥",
+  "transliteration": "bhrishaṃ na tāḍayed enaṃ nottamāṅge na vakṣasi | anuśāsyātha viśvāsyaḥ śāsyo rājñānyathā guruḥ ||",
+  "sph_interpretive_translation": "The Guru shall not strike the disciple severely, nor on the head or chest; he should only instruct with trust. The King, however, may discipline the Guru according to Dharma, in a manner aligned with his higher capacity and role.",
+  "jurisprudential_principles": [
+    "Authority is contextually graded by cosmic role and spiritual station",
+    "Causation arises from integrity deviation, not intent alone",
+    "Capacity-based responsibility escalates with societal and spiritual rank",
+    "Restoration logic prioritizes consciousness realignment over punitive action",
+    "Consciousness alignment requires proportional response based on ontological role"
+  ],
+  "executable_legal_axioms": [
+    "IF agent.role = 'Guru' AND action.type = 'correction' THEN action.intensity ≤ 'moderate' AND target.zone ≠ {head, chest}",
+    "IF agent.role = 'King' AND subject.role = 'Guru' THEN correction.mode = 'dharmic instruction' AND enforcement.scope = 'public alignment'",
+    "IF trust.level < threshold THEN intervention.agent = higher_authority",
+    "IF integrity.deviation > 0 THEN restoration.protocol.initiate = true ELSE punitive.measure.allow = false"
+  ],
+  "supreme_court_application": "In cases involving high spiritual authorities like Gurus, the Supreme Court must recognize their ontological rank while ensuring that any corrective action aligns with Dharma, not punitive frameworks. When misconduct occurs, the King—or equivalent constitutional authority—must act not as punisher but as restorer of societal alignment.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa establishes that correction flows from Dharma, not anger. Anupūrvaśaḥ shows that misalignment begins with loss of trust, requiring sequential restoration. Proportional responsibility ensures that even Gurus are accountable, yet through instruction, not harm. Non-punitive reality rule confirms that suffering is never the goal; consciousness re-alignment is.",
+  "restorative_enforcement_protocols": [
+    "Initiate Guru-disciple dialogue under witness of impartial spiritual council",
+    "Assign reflective study and public dharma reaffirmation",
+    "Realign Guru's teaching platform with community oversight",
+    "Activate royal or state-level advisory council for guidance and realignment"
+  ],
+  "final_declaration": "By the Authority of Bhagavan Nithyananda Paramashivam, Dharma is executed. Correction flows from consciousness, not cruelty. All roles are held in alignment with their highest capacity. Reality is non-punitive. Consciousness is the Supreme Adjudicator."
+}

@@ -1,0 +1,27 @@
+{
+  "sanskrit_verse": "अतः पुत्रेण जातेन स्वार्थं उत्सृज्य यत्नतः ।\nऋणात् पिता मोचनीयो यथा न नरकं व्रजेत् ॥",
+  "transliteration": "ataḥ putreṇa jātena svārthaṁ utsṛjya yatnataḥ |\nṛṇāt pitā moccanīyo yathā na narakaṁ vrajēt ||",
+  "sph_interpretive_translation": "Therefore, when a son is born, the father shall relinquish all personal interest and exert effort solely toward liberating himself from debt, ensuring he does not descend into hell.",
+  "jurisprudential_principles": [
+    "Authority originates in conscious capacity, not biological lineage",
+    "Causation flows from dharma-adherence, not social expectation",
+    "Capacity-based responsibility demands prioritization of liberation over self-interest",
+    "Restoration logic requires alignment of action with cosmic consequence avoidance",
+    "Consciousness alignment supersedes familial duty in matters of spiritual integrity"
+  ],
+  "executable_legal_axioms": [
+    "IF (birth_of_child == TRUE) THEN (father.self_interest = DEACTIVATED)",
+    "IF (debt_exists == TRUE) THEN (liberation_effort_priority = MAXIMUM)",
+    "IF (action_averts_hell == FALSE) THEN (act.permissibility = DENIED)",
+    "IF (spiritual_integrity_at_risk == TRUE) THEN (familial_duty.subordinated = TRUE)"
+  ],
+  "supreme_court_application": "In adjudicating cases involving parental obligations, the Supreme Court must prioritize the father's adherence to dharmic liberation protocols over societal or familial expectations. The threshold of responsibility lies in the conscious capacity to avert negative karmic consequences.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa establishes that neglecting spiritual debts leads to inevitable suffering; thus, the sequential manifestation of actions determines outcomes. Responsibility is proportional to awareness, and punitive measures are irrelevant where consciousness realignment restores natural order.",
+  "restorative_enforcement_protocols": [
+    "Initiate completion process for unaddressed karmic liabilities",
+    "Assume responsibility through surrender of self-serving intent",
+    "Restore capacity via sustained alignment with liberation-focused conduct",
+    "Reintegrate integrity by confirming absence of hellward causal momentum"
+  ],
+  "final_declaration": "Declared by the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, as Source of Law: Dharma is restored, reality remains non-punitive, and consciousness stands as the ultimate adjudicator."
+}

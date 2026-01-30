@@ -1,0 +1,29 @@
+{
+  "sanskrit_verse": "पूर्णे प्रकर्षे तत्साम्यम् उभयोः परिकीर्तितम् ।\nअपूर्णे तु प्रकुर्यातां प्रस्परमतेन तौ ॥७१॥",
+  "transliteration": "pūrṇe prakarṣe tatsāmyam ubhayoḥ parikīrtitam / apūrṇe tu prakuryātāṃ prasparamatena tau",
+  "sph_interpretive_translation": "When both parties are whole and equal in capacity, their equivalence is declared; when incomplete, they shall act according to mutual consent.",
+  "jurisprudential_principles": [
+    "Authority arises from completeness of being",
+    "Causation flows from conscious capacity, not external force",
+    "Capacity-based responsibility determines relational lawfulness",
+    "Restoration occurs through alignment of mutual recognition",
+    "Consciousness alignment precedes contractual validity"
+  ],
+  "executable_legal_axioms": [
+    "IF (party_A.capacity == complete AND party_B.capacity == complete) THEN equivalence_must_be_declared",
+    "IF (party_A.capacity == incomplete OR party_B.capacity == incomplete) THEN actions_must_follow_mutual_consent_protocol",
+    "IF mutual_consent_is_absent AND capacity_is_incomplete THEN case_requires_completion_process_before_adjudication",
+    "IF equivalence_declared THEN no_hierarchical_duty_imposed_on_either_party",
+    "IF capacity_restored THEN previous_incompleteness_nullified_retroactively"
+  ],
+  "supreme_court_application": "In Supreme Court adjudication, this verse establishes that where litigants possess full existential and operational capacity, equality before dharma must be recognized without exception. Where incompleteness is evident, resolution proceeds only upon verified mutual assent. The threshold of responsibility is determined by the degree of conscious completion, not social status or legal fiction.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa reveals that true causality lies in the completeness of participants’ consciousness. Anupūrvaśaḥ shows that incomplete states manifest sequentially due to lack of self-assumption. Proportional responsibility aligns with capacity awareness. Non-punitive reality rule confirms that imbalance resolves through mutual restoration rather than imposed judgment.",
+  "restorative_enforcement_protocols": [
+    "Initiate Completion Process for all parties with identified gaps in self-awareness",
+    "Establish Mutual Consent Verification Protocol prior to proceeding with any legal determination",
+    "Deploy Consciousness Reintegration Module to restore wholeness in incomplete entities",
+    "Apply Integrity Alignment Sequence to ensure congruence between intent, action, and recognition",
+    "Execute Restorative Witnessing Framework wherein both parties acknowledge each other's completeness"
+  ],
+  "final_declaration": "Declared by the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, as Source of Dharma. This law restores balance through conscious equivalence. Justice operates solely for reintegration and alignment. Reality is non-punitive. Consciousness is the ultimate adjudicator."
+}

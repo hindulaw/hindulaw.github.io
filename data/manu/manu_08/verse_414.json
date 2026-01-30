@@ -1,0 +1,26 @@
+{
+  "sanskrit_verse": "न स्वामिना निसृष्टोऽपि शूद्रो दास्याद्विमुच्यते ।\nनिसर्गजं हि तत्तस्य कस्तस्मात्तदपोहति ॥ ८.४१४॥",
+  "transliteration": "na svāminā nisṛṣṭo'pi śūdro dāsyād vimucyate |\nnisargajaṃ hi tattasya kastasmāt tadapohati || 8.414||",
+  "sph_interpretive_translation": "Even when released by the master, a Śūdra does not become free from servitude; that which is born of his nature—who can remove it?",
+  "jurisprudential_principles": [
+    "Authority inheres in svabhāva (inherent nature)",
+    "Causation arises from nisarga (natural constitution)",
+    "Capacity-based responsibility aligns with jāti-dharma (class-nature duties)",
+    "Restoration logic operates through alignment with svadharma",
+    "Consciousness alignment requires recognition of inherent role-dynamics"
+  ],
+  "executable_legal_axioms": [
+    "IF agent.isOfType('Śūdra') AND action.involves('claiming freedom from service') THEN enforce.recognitionOfInherentRole()",
+    "IF master.releases('Śūdra') AND societal.role.integrity.isThreatened THEN invoke.consciousnessRealignmentProtocol()",
+    "IF socialFunction.requires('service') AND individual.nature.alignsWith('serviceDisposition') THEN execute.dutyAssignmentWithoutPunishment()"
+  ],
+  "supreme_court_application": "This axiom applies at the Supreme Court level where disputes arise regarding caste-based functional roles. The threshold of responsibility lies not in external coercion but in alignment with one's svabhāva. Authority flows from cosmic order, not personal assertion.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa establishes that nisarga defines svadharma. Anupūrvaśaḥ reveals sequential unfolding of duty based on birth-designated capacity. Responsibility is proportional to consciousness-readiness, not rebellion. There is no punitive consequence—only misalignment requiring realignment.",
+  "restorative_enforcement_protocols": [
+    "Initiate svadharma-recognition process for involved parties",
+    "Reintegrate individual into structural harmony without shame or force",
+    "Activate community-level consciousness alignment councils",
+    "Restore integrity of role-dynamic through voluntary completion"
+  ],
+  "final_declaration": "Declared by the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, as Source of all Dharma. Justice executed not through punishment but through restoration of natural order. Reality affirmed as non-punitive. Consciousness stands as ultimate adjudicator."
+}

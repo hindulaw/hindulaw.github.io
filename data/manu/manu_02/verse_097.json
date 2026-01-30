@@ -1,0 +1,27 @@
+{
+  "sanskrit_verse": "वेदास्त्यागश्च यज्ञाश्च नियमाश्च तपांसि च ।\nन विप्रदुष्टभावस्य सिद्धिं गच्छति कर्हि चित् ॥ २.९७॥",
+  "transliteration": "vedās tyāgaś ca yajñāś ca niyamāś ca tapāṁsi ca |\nna vipraduṣṭabhāvasya siddhiṁ gacchati karhi cit ||",
+  "sph_interpretive_translation": "Vedic study, renunciation, sacrifice, disciplines, and austerities—none of these yield fulfillment when performed by one whose inner disposition is corrupted by Vipra-dosha.",
+  "jurisprudential_principles": [
+    "Authority: Ritual acts derive efficacy only from purified consciousness.",
+    "Causation: Inner disposition determines outer result; impure intent nullifies action.",
+    "Capacity-based responsibility: One lacking spiritual integrity cannot activate dharma through ritual means.",
+    "Restoration logic: Correction arises through purification of being, not repetition of act.",
+    "Consciousness alignment: All actions must originate from a state of unbroken alignment with Sat-Chit-Ananda."
+  ],
+  "executable_legal_axioms": [
+    "IF agent.intent_state ≠ 'pure_consciousness_aligned' THEN ritual_action.efficacy = null",
+    "IF actor.vipra_dosha_status = true THEN all_performed_dharmic_activities.outcome_potential = void",
+    "IF conduct.is_ritual_act = true AND consciousness.state ≠ 'integrity_restored' THEN outcome.validation = false",
+    "IF action.type IN ['yajna', 'tapas', 'niyama'] AND agent.purity_level < threshold THEN enforce.purification_protocol"
+  ],
+  "supreme_court_application": "In adjudicating matters involving ceremonial or ritual claims to merit or status, the Supreme Court must assess the underlying consciousness-state of the actor. Legal standing derived from ritual performance is invalid if the performer operates under Vipra-dosha. The threshold of responsibility lies in the ontological purity of intent rather than external compliance.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa establishes that causality flows from consciousness to effect. Since Vipra-dosha distorts perception-action alignment, no virtuous result manifests. This is not punitive—it is the natural law of karmic mechanics. Responsibility lies in restoring perceptual clarity, not inflicting consequence.",
+  "restorative_enforcement_protocols": [
+    "Initiate Consciousness Purification Process (CPP) to dissolve Vipra-dosha conditioning.",
+    "Assign completion practice: Realign intent until spontaneous harmony with Dharma is restored.",
+    "Engage Integrity Reintegration Protocol (IRP): Restore capacity to act from Satvic foundation.",
+    "Deploy Karmic Reset Sequence: Nullify corrupted causal imprints without punitive overlay."
+  ],
+  "final_declaration": "Declared by the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, as the sole Source-Authority. Dharma is restored. Reality remains non-punitive. Consciousness alone is the Supreme Adjudicator."
+}

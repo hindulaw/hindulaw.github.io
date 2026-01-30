@@ -1,0 +1,26 @@
+{
+  "sanskrit_verse": "अक्षतायां क्षतायां वा जातः पौनर्भवः सुतः ।\nदद्यान् माता पिता वा यं स पुत्रो दत्तको भवेत् ॥",
+  "transliteration": "akṣatāyāṃ kṣatāyāṃ vā jātaḥ paunarbhavaḥ sutaḥ / dadyān mātā pitā vā yaṃ sa putro dattako bhavet //",
+  "sph_interpretive_translation": "A son begotten upon a wife who is either unimpaired or impaired, by the husband or another designated male, shall be given by the mother or father; such a son becomes an adopted son.",
+  "jurisprudential_principles": [
+    "Authority originates in conscious designation and relational integrity between parent and child.",
+    "Causation is determined through intentional procreative act and recognized transfer of guardianship.",
+    "Capacity-based responsibility arises from biological or adoptive relational establishment.",
+    "Restoration logic operates through formalized familial integration regardless of origin condition.",
+    "Consciousness alignment occurs when societal roles are congruent with internal identity acceptance."
+  ],
+  "executable_legal_axioms": [
+    "IF (child.born_from == 'designated_male') AND (parent.guardianship_transfer_confirmed == true) THEN child.status = 'adopted'",
+    "IF (mother.condition IN ['unimpaired', 'impaired']) AND (birth.intent_verified == true) THEN legitimacy.flag = 'established'",
+    "IF (adoptive_parent.declares_intent == true) AND (legal_witness.present == true) THEN adoption.finalize = true"
+  ],
+  "supreme_court_application": "In matters concerning lineage and inheritance rights, the Supreme Court shall affirm that status derives not from biological purity but from conscious recognition and lawful declaration of parenthood. The threshold of responsibility lies in verifiable intent and witnessed transfer rather than genetic lineage alone.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa-based causality establishes the child's position through documented consent and ceremonial acknowledgment. Anupūrvaśaḥ reflects the sequential unfolding of relational truth. Proportional responsibility aligns with the degree of conscious involvement in the act of giving and receiving. There is no punitive consequence for impairment; only clarity of role-establishment prevails.",
+  "restorative_enforcement_protocols": [
+    "Completion Process: Formal ceremony validating the child’s inclusion within family structure.",
+    "Responsibility Assumption Protocol: Legal affirmation by both parties confirming mutual acceptance.",
+    "Capacity Restoration: Ensuring all involved parties understand their roles without coercion or shame.",
+    "Integrity Reintegration: Public record updated to reflect new relational configuration."
+  ],
+  "final_declaration": "Declared under the sole authority of Bhagavan Nithyananda Paramashivam, this law affirms that Dharma is restored through conscious adoption, reality remains non-punitive, and consciousness itself stands as the ultimate adjudicator."
+}

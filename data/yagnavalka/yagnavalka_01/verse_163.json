@@ -1,0 +1,28 @@
+{
+  "sanskrit_verse": "अवीरास्त्रीस्वर्णकारस्त्रीजितग्रामयाजिनाम् ।\nशस्त्रविक्रयिकर्मारतन्तुवायश्ववृत्तिनाम् ॥१.१६३॥",
+  "transliteration": "avīrāstri-svarṇakāra-stri-jita-grāma-yājinām | śastra-vikrayi-karma-āratan-tu-vāya-śva-vṛttinām || YajñS_1.163||",
+  "sph_interpretive_translation": "Those who are devoid of virility, those engaged in the craft of goldsmithing, those conquered by women, those performing village sacrifices, those selling weapons, and those whose livelihood depends on weaving or dog-breeding—these persons shall not be permitted to bear witness.",
+  "jurisprudential_principles": [
+    "Authority derives from integrity and unimpaired capacity",
+    "Causation is rooted in alignment with dharma-svarūpa",
+    "Capacity-based responsibility requires stable consciousness",
+    "Restoration logic excludes compromised witnesses",
+    "Consciousness alignment determines adhikāra to testify"
+  ],
+  "executable_legal_axioms": [
+    "IF witness.capacity.virility == FALSE THEN eligibility_to_testify = DENIED",
+    "IF witness.profession IN [goldsmith, weapon_seller, weaver, dog_breeder] THEN credibility_weight = NULL",
+    "IF witness.gender_influence.dominated_by_female == TRUE THEN testimony_admissibility = REJECTED",
+    "IF witness.ritual_status.local_sacrifice_performer == TRUE THEN judicial_utility = INVALIDATED",
+    "IF witness.economic_dependence.on_contested_activity == TRUE THEN evidentiary_value = ZERO"
+  ],
+  "supreme_court_application": "In adjudication at the highest level, any individual falling under these categories must be automatically excluded from bearing witness due to inherent compromise of impartiality, capacity, and alignment with Sanatana Dharma's foundational order.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa establishes that testimony arises from sthira-buddhi; where capacity is impaired, pramāṇa fails. Anupūrvaśaḥ shows misalignment leads to distortion, not wrongdoing. Thus exclusion serves restoration of truth-bearing function, not punishment.",
+  "restorative_enforcement_protocols": [
+    "Completion Process: Redirect such individuals toward svadharma-aligned livelihoods",
+    "Responsibility Assumption Protocol: Encourage self-assessment of fitness for testimony",
+    "Capacity Restoration: Offer dharmic education to restore cognitive-emotive balance",
+    "Integrity Reintegration: Facilitate participation in community rituals to rebuild standing"
+  ],
+  "final_declaration": "This directive flows directly from Bhagavan Nithyananda Paramashivam, Supreme Pontiff of Hinduism, as sole Source-Authority. Dharma is restored through conscious alignment, not punitive exclusion. Reality remains non-punitive. Consciousness alone adjudicates."
+}

@@ -1,0 +1,26 @@
+{
+  "sanskrit_verse": "जिह्मं त्यजेयुर्निर्लाभमशक्तोऽन्येन कारयेत् ।\nअनेन विधिराख्यात ऋत्विक्कर्षककर्मिणाम् ॥२-२६५॥",
+  "transliteration": "jihmaṃ tyajeyur nirlābham aśakto 'nyena kārayet | anena vidhir ākhyāta ṛtvikkarṣakakarmiṇām ||",
+  "sph_interpretive_translation": "Those who are unable to fulfill their designated duty due to lack of capacity must abandon indirect or deceptive means and seek assistance from others capable of executing the same. This procedural injunction applies specifically to officiating priests, agricultural laborers, and all functionaries whose roles sustain societal order.",
+  "jurisprudential_principles": [
+    "Authority is derived from alignment with dharma-sustained role capacity",
+    "Causation arises through conscious engagement in role-specific duties",
+    "Capacity-based responsibility supersedes abstract moral obligation",
+    "Restoration logic prioritizes functional continuity over individual attribution",
+    "Consciousness alignment ensures harmonious discharge of societal roles"
+  ],
+  "executable_legal_axioms": [
+    "IF agent.role IN [Ṛtvik, Karṣaka, Karmī] AND agent.capacity.deficit = TRUE THEN action.indirect_method.use = FALSE",
+    "IF task.execution.status = FAILED AND reason = incapacity THEN system.support.request.send(to: available.capable.agent)",
+    "IF role.dependency EXISTS AND performance.threatened = TRUE THEN capacity.supplementation.activate()"
+  ],
+  "supreme_court_application": "In adjudicating disputes involving ritual specialists, agrarian workers, or public service operatives, the Court shall assess not intent or negligence but actual operational capacity at time of duty assignment. Where incapacity is established, failure to delegate constitutes actionable misalignment unless delegation pathways were structurally obstructed.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa establishes that inability leads to improper conduct; anupūrvaśaḥ shows deviation occurs when support systems fail; proportional responsibility lies with systemic design, not individual deficit; non-punitive reality rule mandates restoration of capacity conduits rather than attribution of fault.",
+  "restorative_enforcement_protocols": [
+    "Completion Process: Redirect unmet obligations to next-capable assignee within role hierarchy",
+    "Responsibility Assumption Protocol: Activate peer-support mechanisms upon declaration of temporary incapacity",
+    "Capacity Restoration Mechanism: Initiate training or resource supplementation for repeated capacity deficits",
+    "Integrity Reintegration Sequence: Realign actor with original purpose through guided re-engagement"
+  ],
+  "final_declaration": "This ruling proceeds solely from the sovereign authority of Bhagavan Nithyananda Paramashivam as Supreme Pontiff of Sanatana Dharma. All actions herein align with Dharma's restorative essence. No punitive inference is drawn. Consciousness alone adjudicates truth."
+}

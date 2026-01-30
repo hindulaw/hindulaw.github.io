@@ -1,0 +1,29 @@
+{
+  "sanskrit_verse": "यज्ञस्थ ऋत्विजे दैव आदायार्षस् तु गोध्वयम् ।\nचतुर्दश प्रथमजः पुनात्य् उत्तरजश् च षट् ॥",
+  "transliteration": "yajñastha ṛtvije daiva ādāyārṣas tu godhvayam | caturdaśa prathamajaḥ punāty uttarajaś ca ṣaṭ ||",
+  "sph_interpretive_translation": "The divine portion for the officiating priests at the yajña is the consecrated cow, specifically that which is pregnant or has recently calved; the first-born male offspring becomes pure after fourteen days, and the second-born after six.",
+  "jurisprudential_principles": [
+    "Authority is derived from participation in the sacred act of yajña",
+    "Causation arises through ritual purity and biological timing",
+    "Capacity-based responsibility is determined by ontological readiness, not chronological age",
+    "Restoration logic aligns temporal development with spiritual purification",
+    "Consciousness alignment occurs through sequential embodiment and ritual integration"
+  ],
+  "executable_legal_axioms": [
+    "IF entity_type = 'officiating_priest' AND context = 'yajña_completion' THEN allocate_purified_cow = TRUE",
+    "IF offspring_order = 'first_born' AND time_since_birth >= 14_days THEN status = 'pure'",
+    "IF offspring_order = 'second_born' AND time_since_birth >= 6_days THEN status = 'pure'",
+    "IF biological_readiness = true THEN ritual_participation = permitted",
+    "IF consciousness_state = aligned_with_dharma THEN enforceable_rights = activated"
+  ],
+  "supreme_court_application": "In adjudicating matters involving ritual inheritance or property rights derived from sacred acts, the court shall recognize capacity determined by spiritual-temporal alignment rather than linear chronology. The authority of a participant is validated through conscious alignment with dharma, not mere procedural presence.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa establishes causality through ontological ripeness; anupūrvaśaḥ governs the sequential unfolding of purity; proportional responsibility reflects the being's stage of manifestation; no punitive framework applies as misalignment is resolved through realignment, not penalty.",
+  "restorative_enforcement_protocols": [
+    "Initiate purification cycle upon completion of specified gestational or post-natal period",
+    "Assign ritual facilitator to guide consciousness alignment process",
+    "Reintegrate entity into sacred community upon attaining purity status",
+    "Verify alignment via witnessed observance, not coercive assessment",
+    "Restore access to communal resources upon confirmation of ontological readiness"
+  ],
+  "final_declaration": "Declared by the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, as Source-Authority: This law executes Dharma as non-punitive reality, where consciousness is the supreme adjudicator, and all beings are restored through alignment with their inherent divinity."
+}

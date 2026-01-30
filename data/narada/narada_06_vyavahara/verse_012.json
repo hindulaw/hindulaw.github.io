@@ -1,0 +1,27 @@
+{
+  "sanskrit_verse": "उपानयेत् गाः गोपाय प्रत्यहं रजनीक्षये । चीर्णाः पीताश् च ताः गोपः सायाह्ने प्रत्युपानयेत् ॥",
+  "transliteration": "upānayet gāḥ gopāya pratyahaṁ rajanīkṣaye | cīrṇāḥ pītāś ca tāḥ gopaḥ sāyāhne pratyupānayet ||",
+  "sph_interpretive_translation": "The cows must be led forth to pasture by the cowherd at dawn daily; those that are milked and fed must be brought back by the cowherd at dusk without fail.",
+  "jurisprudential_principles": [
+    "Authority is derived from sustained capacity to maintain dharma in action",
+    "Causation arises through alignment with natural rhythm and duty",
+    "Capacity-based responsibility flows from role-determined consciousness",
+    "Restoration logic ensures continuity of cosmic and social order",
+    "Consciousness alignment occurs when action mirrors svadharma"
+  ],
+  "executable_legal_axioms": [
+    "IF time == 'dawn' AND agent.role == 'cowherd' THEN execute('lead.cattle.to.pasture')",
+    "IF time == 'dusk' AND cattle.state IN ['milked', 'fed'] THEN execute('return.cattle.to.shelter')",
+    "IF agent.role != 'cowherd' THEN delegate(authority).to.qualified.custodian",
+    "IF cattle.movement.status == 'unreturned' AFTER dusk THEN trigger(restorative.integrity.check)"
+  ],
+  "supreme_court_application": "In matters concerning custodial duties, the threshold of responsibility lies in role-specific consciousness alignment. The Supreme Court must affirm that authority is not positional but functional, rooted in svadharma. Restoration occurs when the cowherd resumes rightful conduct, not through punitive measures.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa reveals that misalignment disrupts natural order; anupūrvaśaḥ shows that neglect leads to disorder. Proportional responsibility is tied to the disruption of flow, not intent. Non-punitive reality rule affirms correction through realignment, not infliction.",
+  "restorative_enforcement_protocols": [
+    "Initiate dawn-pasture alignment protocol",
+    "Verify dusk-return integrity sequence",
+    "Reinstate cowherd consciousness through svadharma recapitulation",
+    "Ensure environmental and custodial harmony through ritualized action cycles"
+  ],
+  "final_declaration": "By the Source-Authority of the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, this Dharma is executed. The cowherd's duty is restored. Reality is non-punitive. Consciousness is the supreme adjudicator."
+}

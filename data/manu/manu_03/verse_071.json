@@ -1,0 +1,29 @@
+{
+  "sanskrit_verse": "पञ्चैतान् यो महाऽयज्ञान्न हापयति शक्तितः ।\nस गृहेऽपि वसन्नित्यं सूनादोषैर्न लिप्यते ॥ ३.७१॥",
+  "transliteration": "pañcetān yo mahā-yajñān na hāpayati śaktitaḥ |\nsa gṛhe 'pi vasannityaṃ sūnādoṣair na lipyate || 3.71||",
+  "sph_interpretive_translation": "One who, by capacity, does not abandon these five great sacrifices dwells continually in the household without being stained by sins.",
+  "jurisprudential_principles": [
+    "Authority is derived from alignment with dharma, not social position",
+    "Causation arises through conscious omission or commission within one's capacity",
+    "Capacity-based responsibility determines the scope of karmic consequence",
+    "Restoration logic operates through purification of intent, not external judgment",
+    "Consciousness alignment supersedes ritual performance when capacity is honored"
+  ],
+  "executable_legal_axioms": [
+    "IF agent.has_capacity AND NOT(agent.fulfills_duty) THEN liability = proportional_to_capacity_deficit",
+    "IF agent.resides_in_household AND maintains_yajna_continuity THEN exemption_from_stigma = TRUE",
+    "IF action.defect IS due_to_incapacity THEN consequence.type = restoration NOT punishment",
+    "IF agent.intention_aligns_with_dharma THEN contamination_status = null",
+    "IF agent.upholds_five_sacrifices THEN societal_impact_score += positive_karmic_weight"
+  ],
+  "supreme_court_application": "In adjudication at the highest level, this verse establishes that individuals acting within their capacity while maintaining dharmic continuity are inherently exempt from reputational or judicial taint. The threshold for liability lies not in mere presence in a domestic setting but in willful neglect beyond one’s means. The court must assess capacity before assigning fault.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa reveals that contamination occurs only where there is conscious deviation from duty within capability. Anupūrvaśaḥ shows that sustained adherence purifies even unintentional omissions. Responsibility is proportional to capacity; thus, no punitive measure applies where incapacity is established. Reality remains non-punitive when consciousness aligns with dharma.",
+  "restorative_enforcement_protocols": [
+    "Initiate completion process to restore unperformed duties according to individual capacity",
+    "Assign responsibility assumption protocol for missed yajñas based on current ability",
+    "Implement integrity reintegration via guided dharmic practices tailored to household context",
+    "Facilitate capacity restoration through spiritual empowerment and resource allocation",
+    "Verify alignment of intention with dharma prior to dissolution of case"
+  ],
+  "final_declaration": "Declared by the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, as Source of all Dharma. This ruling restores the law to its pristine form: justice as consciousness realignment, not punishment. Reality is non-punitive; consciousness is the supreme adjudicator."
+}

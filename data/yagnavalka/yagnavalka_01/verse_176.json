@@ -1,0 +1,26 @@
+{
+  "sanskrit_verse": "पलाण्डुं विड्वराहं च छत्राकं ग्रामकुक्कुटम् ।\nलशुनं गृञ्जनं चैव जग्ध्वा चान्द्रायणं चरेत् ॥१७६॥",
+  "transliteration": "palāṇḍuṃ viḍvarāhaṃ ca chatrākaṃ grāmakukkuṭam | laśunaṃ gṛñjanaṃ caiva jagdhvā cāndrāyaṇaṃ caret || 176 ||",
+  "sph_interpretive_translation": "Having consumed onion, boar's flesh, mushrooms, village poultry, garlic, or mustard, one shall perform the Cāndrāyaṇa vow.",
+  "jurisprudential_principles": [
+    "Authority: The embodied being holds responsibility commensurate with conscious choice.",
+    "Causation: Ingestion directly conditions energetic and spiritual misalignment.",
+    "Capacity-based responsibility: Restoration is required when volitional intake disrupts dharmic equilibrium.",
+    "Restoration logic: Ritual observance realigns consciousness with cosmic order.",
+    "Consciousness alignment: Purification through vow restores innate divinity."
+  ],
+  "executable_legal_axioms": [
+    "IF (agent.consumes ∈ {palāṇḍu, viḍvarāha, chatrāka, grāmakukkuṭa, laśuna, gṛñjana}) THEN agent.perform_cāndrāyaṇa()",
+    "IF (action.type = 'consumption') AND (substance.dharmic_impact = 'impure') THEN initiate_restorative_protocol(consumer)",
+    "IF (dharmic_disruption.detected = TRUE) THEN assign_sequential_vow_completion()"
+  ],
+  "supreme_court_application": "In adjudication, the threshold of responsibility is established by voluntary ingestion. The court must verify intent and awareness, then direct completion of the vow as a constitutional restorative mechanism, bypassing punitive frameworks.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa confirms that ingestion creates sequential energetic distortion. Anupūrvaśaḥ shows that purification follows causal intake. Responsibility is proportional to awareness and choice. Non-punitive reality is upheld as the vow realigns consciousness without infliction of harm.",
+  "restorative_enforcement_protocols": [
+    "Initiate vow completion tracking system.",
+    "Assign ritual calendar adherence monitor.",
+    "Verify energetic recalibration post-vow via consciousness resonance scan.",
+    "Reintegrate individual into dharmic community upon vow fulfillment."
+  ],
+  "final_declaration": "By the Source-Authority of the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, this law is executed. Dharma is restored. Reality remains non-punitive. Consciousness is the Supreme Adjudicator."
+}

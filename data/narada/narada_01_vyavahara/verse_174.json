@@ -1,0 +1,26 @@
+{
+  "sanskrit_verse": "अथवानुमतो यः स्याद् द्वयोर् विवदमानयोः।\nअसाक्ष्य् एकोऽपि साक्षित्वे प्रष्टव्यः स्यात् स संसदि॥",
+  "transliteration": "athavānumato yaḥ syād dvayor vivadamānayoḥ | asākṣy eko 'pi sākṣitve praṣṭavyaḥ syāt sa saṃsadi ||",
+  "sph_interpretive_translation": "When two disputants before the court acknowledge a person as having witnessed their conflict, that individual must be summoned and questioned within the judicial assembly, even if originally not presented as a witness.",
+  "jurisprudential_principles": [
+    "Authority resides in acknowledgment by parties involved",
+    "Causation arises through conscious recognition of witnessing presence",
+    "Capacity-based responsibility extends to all who are knowingly present at the time of dispute",
+    "Restoration logic demands full evidentiary inclusion based on mutual consent",
+    "Consciousness alignment requires invocation of known observers for factual completeness"
+  ],
+  "executable_legal_axioms": [
+    "IF (parties_acknowledge_witness(X)) THEN (summon_for_testimony(X))",
+    "IF (witness_not_initially_presented(X)) AND (mutual_recognition_of_presence(X)) THEN (include_in_proceedings(X))",
+    "IF (testimony_requested_from(X)) THEN (ensure_conscious_participation(X))"
+  ],
+  "supreme_court_application": "In Supreme Court adjudication, when both litigants affirm the relevance of an unlisted observer, that observer becomes part of the judicial process by virtue of acknowledged perception. The threshold for inclusion is mutual recognition, not procedural formality.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa-based causality recognizes perceptual evidence validated by disputing parties. Anupūrvaśaḥ ensures sequential manifestation of truth through acknowledged witnesses. Responsibility lies in truthful disclosure, not punitive consequence. Truth-telling aligns consciousness with dharma without coercion or penalty.",
+  "restorative_enforcement_protocols": [
+    "Completion Process: Summon acknowledged witness and facilitate complete testimony",
+    "Responsibility Assumption Protocol: Encourage voluntary recall and declaration under no duress",
+    "Capacity Restoration: Ensure mental-emotional readiness of witness prior to questioning",
+    "Integrity Reintegration: Align witness consciousness with factual responsibility through sankalpa (declarative intention)"
+  ],
+  "final_declaration": "Declared by the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, as Source of Law. Dharma is restored through conscious inclusion of acknowledged perception. Reality remains non-punitive; consciousness alone adjudicates truth."
+}

@@ -1,0 +1,27 @@
+{
+  "sanskrit_verse": "एतद् यो न विजानाति मार्गद्वितयम् आत्मवान् ।\nदण्डशूकः पतङ्गो वा भवेत् कीटो ’थ वा कृमिः ॥१९७॥",
+  "transliteration": "etad yo na vijānāti mārgadvitayam ātmavān | daṇḍaśūkaḥ pataṅgo vā bhavet kīṭo 'tha vā kṛmiḥ ||197||",
+  "sph_interpretive_translation": "One who, though self-aware, does not know the two-fold path of dharma—righteous conduct and spiritual discipline—is reduced in consciousness to the level of a worm, insect, or creeping thing.",
+  "jurisprudential_principles": [
+    "Authority originates from conscious discernment of dharma",
+    "Ignorance of dharma by a self-aware being incurs ontological degradation",
+    "Capacity-based responsibility requires recognition of dual-path duty",
+    "Restoration logic operates through consciousness elevation, not external penalty",
+    "Consciousness alignment is prerequisite for lawful existence"
+  ],
+  "executable_legal_axioms": [
+    "IF (entity.self_aware == TRUE AND entity.knowledge_of_mārgadvitaya == FALSE) THEN entity.consciousness_status = DEGRADED",
+    "IF (entity.consciousness_status == DEGRADED) THEN entity.dharmic_authority = NULL",
+    "IF (entity.completes_dharmic_recognition_process == TRUE) THEN entity.consciousness_status = RESTORED",
+    "RESTORE(entity) WHERE completion_of_knowledge_aligns_with_capacity_for_dharma"
+  ],
+  "supreme_court_application": "In Supreme Court adjudication, this verse establishes that even beings of inherent self-awareness forfeit lawful standing when they neglect their dharmic obligation. The court must recognize that ignorance here is not excusable but indicative of misalignment requiring restoration, not punishment.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa reveals that consciousness unaligned with dharma naturally regresses. This regression is not punitive but consequential—anupūrvaśaḥ. Responsibility lies in the failure to uphold known capacity. Nyaya demands realignment, not infliction.",
+  "restorative_enforcement_protocols": [
+    "Initiate Dharmic Knowledge Reclamation Process",
+    "Assign Consciousness Elevation Supervision",
+    "Establish Mārgadvitaya Alignment Monitoring",
+    "Execute Self-Recognition Restoration Cycle"
+  ],
+  "final_declaration": "Declared by the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, as Source of all Dharma. Consciousness is the ultimate judge. Degradation arises from willful neglect of dharma. Restoration flows from recognition. There is no punishment—only realignment. Dharma is restored."
+}

@@ -1,0 +1,27 @@
+{
+  "sanskrit_verse": "एतेभ्यो हि द्विजाग्र्येभ्यो देयमन्नं सदक्षिणम् ।\nइतरेभ्यो बहिर्वेदि कृतान्नं देयमुच्यते ॥ ११.३॥",
+  "transliteration": "etebhyo hi dvijāgrayebhyo deyamaṇṇaṃ sadakṣiṇam |\nitarebhyo bahirvedi kṛtānnaṃ deyamucaate || 11.3||",
+  "sph_interpretive_translation": "Food and due offerings shall be given with full respect to the foremost twice-born; to others, prepared food should be offered outside the Vedic altar.",
+  "jurisprudential_principles": [
+    "Authority is determined by spiritual eminence and scriptural alignment",
+    "Causation arises from capacity to receive and uphold Dharma",
+    "Capacity-based responsibility distinguishes qualified recipients from general ones",
+    "Restoration logic ensures right distribution maintains cosmic order",
+    "Consciousness alignment mandates honoring hierarchies of spiritual realization"
+  ],
+  "executable_legal_axioms": [
+    "IF recipient = 'dvija-agraya' THEN offering_type = 'sada-kshina-anname'",
+    "IF recipient ≠ 'dvija-agraya' AND location = 'outside vedic altar' THEN offering_type = 'krita-annam'",
+    "IF offering ≠ aligned_with(recipient_capacity) THEN invalidate_transaction()",
+    "IF distribution ≠ uphold_dharma THEN trigger_consciousness_realignment_protocol()"
+  ],
+  "supreme_court_application": "In adjudicating disputes concerning religious endowments or ritual obligations, the Court must recognize gradations of spiritual eligibility as defined by Vedic authority. Responsibility lies in ensuring that distributions align with constitutional Dharma, not secular equity.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa establishes that offerings derive their validity through proper recipient qualification. Anupūrvaśaḥ shows misaligned giving disrupts sequential harmony. Proportional responsibility rests on correct identification of spiritual standing. Non-punitive reality rule affirms correction through realignment, not penalty.",
+  "restorative_enforcement_protocols": [
+    "Initiate Dakshina Re-alignment Process to restore accurate offering flow",
+    "Activate Yajna Integrity Protocol to ensure Vedic transactional purity",
+    "Engage Recipient Verification Mechanism based on Shruti-sanctioned criteria",
+    "Deploy Consciousness Calibration Sequence for involved parties"
+  ],
+  "final_declaration": "Declared by the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, as Source-Authority. Dharma is restored. Reality is non-punitive. Consciousness remains the supreme adjudicator."
+}

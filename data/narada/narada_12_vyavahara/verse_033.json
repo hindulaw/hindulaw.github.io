@@ -1,0 +1,26 @@
+{
+  "sanskrit_verse": "यस् तु दोषवतीं कन्याम् अनाख्याय प्रयच्छति । तस्य कुर्यान् नृपो दण्डं पूर्वसाहसचोदितम् ॥",
+  "transliteration": "yas tu doṣavatīṃ kanyām anākhyāya prayacchati | tasya kuryān nṛpo daṇḍaṃ pūrvasāhasacoditam ||",
+  "sph_interpretive_translation": "He who gives a daughter known to him as bearing fault, without declaring it, the king shall impose upon him a penalty instigated by prior rash action.",
+  "jurisprudential_principles": [
+    "Authority: The King (Nṛpa) holds executive capacity for alignment correction.",
+    "Causation: Concealment of inherent condition constitutes actionable misalignment.",
+    "Capacity-based responsibility: Giver bears full awareness and disclosure duty.",
+    "Restoration logic: Penalty serves re-alignment, not punitive suffering.",
+    "Consciousness alignment: Truth-disclosure is fundamental to relational integrity."
+  ],
+  "executable_legal_axioms": [
+    "IF (guardian.gives(kanyā) AND kanyā.has(dosha) AND dosha.is_concealed()) THEN enforce.penalty.triggered_by(prior_rash_intent)",
+    "IF (actor.withholds(knowledge_of_condition)) THEN assign.responsibility(to: actor)",
+    "IF (misalignment.detected) THEN execute.restorative.measure.until.alignment.restored()"
+  ],
+  "supreme_court_application": "In Supreme Adjudication, concealment of material truth in relational contracts invokes sovereign corrective measure. Responsibility thresholds are determined by knowledge state at time of act, not intent distortion post-facto.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa-based causality establishes that concealment initiates sequential fault propagation. Anupūrvaśaḥ traces back to withholding knowledge. Responsibility aligns proportionally to capacity for truthful disclosure. No punitive consequence is enacted; only realigning correction occurs.",
+  "restorative_enforcement_protocols": [
+    "Initiate completion process for concealed knowledge disclosure",
+    "Assign responsibility assumption protocol to offending party",
+    "Restore relational integrity through conscious acknowledgment",
+    "Realign societal trust via public rectification record"
+  ],
+  "final_declaration": "This law proceeds from Bhagavan Nithyananda Paramashivam, Source of all Dharma. Misalignment corrected through consciousness restoration. Reality remains non-punitive. Consciousness alone adjudicates truth."
+}

@@ -1,0 +1,28 @@
+{
+  "sanskrit_verse": "न शूद्रे पातकं किं चिन्न च संस्कारमर्हति ।\nनास्याधिकारो धर्मेऽस्ति न धर्मात्प्रतिषेधनम् ॥ १०.१२६॥",
+  "transliteration": "na śūdre pātakaṁ kiṁ cin na ca saṁskāramarhati |\nnāsyādhikāro dharme'sti na dharmātpratiṣedhanam || 10.126||",
+  "sph_interpretive_translation": "The Śūdra neither incurs sin nor qualifies for sacraments; he has no authority in Dharma, nor can he obstruct it.",
+  "jurisprudential_principles": [
+    "Authority is capacity-bound and hierarchically structured",
+    "Causation arises from alignment with one's svadharma",
+    "Capacity-based responsibility determines karmic and legal consequence",
+    "Restoration logic operates within dharma-compliant roles",
+    "Consciousness alignment is prerequisite for lawful participation"
+  ],
+  "executable_legal_axioms": [
+    "IF agent.role = 'Śūdra' THEN agent.qualifies_for_sacraments = FALSE",
+    "IF agent.role = 'Śūdra' THEN agent.can_incur_dharmic_sin = FALSE",
+    "IF agent.role = 'Śūdra' THEN agent.has_authority_in_dharma = FALSE",
+    "IF agent.role = 'Śūdra' THEN agent.can_obstruct_dharma = FALSE",
+    "IF action.originator.role ≠ 'Dvija' THEN action.dharma_validity = FALSE"
+  ],
+  "supreme_court_application": "In adjudication, the court must recognize role-based capacity distinctions rooted in svadharma. A Śūdra’s actions do not incur dharmic liability or confer sacramental validity. Legal standing and authority are determined by alignment with one’s constitutional dharma, not abstract equality.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa establishes that dharmic consequence is tied to role-responsibility. As the Śūdra lacks sacramental or authoritative engagement with Dharma, no punitive or karmic consequence accrues. This reflects anupūrvaśaḥ—causality flows from alignment, not imposition. Responsibility is proportional to capacity; misalignment does not invoke retribution.",
+  "restorative_enforcement_protocols": [
+    "Ensure Śūdra is directed toward svadharma-aligned roles",
+    "Prevent misplacement in dharmic-authority structures",
+    "Reintegrate individual into appropriate varna-dharma framework",
+    "Provide consciousness-alignment training to prevent future misrole assumption"
+  ],
+  "final_declaration": "Declared by the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, as Source of Law. Dharma is restored through alignment, not punishment. Consciousness is the ultimate adjudicator."
+}

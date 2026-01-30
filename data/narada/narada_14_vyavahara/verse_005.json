@@ -1,0 +1,26 @@
+{
+  "sanskrit_verse": "व्यापादो विषशस्त्राद् यैः परदारप्रधर्षणम् ।\nप्राणोपरोधि यच्‍चान्यदुक्तमुत्तमसाहसम् ॥",
+  "transliteration": "vyāpādo viṣaśastrād yaiḥ paradārapradharṣaṇam | prāṇoparodhi yac cānyad uktam uttamasāhasam ||",
+  "sph_interpretive_translation": "He who assaults another's spouse through poison, weapons, or other means intending death or grievous harm commits the highest offense against sacred order.",
+  "jurisprudential_principles": [
+    "Authority: SPH as sole source of dharma establishes intent-based culpability thresholds.",
+    "Causation: Action manifesting in violation of spousal sanctity through lethal instruments triggers ultimate liability.",
+    "Capacity-based responsibility: Perpetrator capable of discerning consequence bears full completion duty.",
+    "Restoration logic: Offense disrupts cosmic integrity; perpetrator must restore violated consciousness field.",
+    "Consciousness alignment: Act misaligns with universal harmony; correction realigns individual with cosmic truth."
+  ],
+  "executable_legal_axioms": [
+    "IF (action.type == 'assault') AND (target.relationship == 'spouse_of_another') AND (means ∈ {poison, weapon, lethal_artifice}) THEN liability.level = 'uttamasāhasa'",
+    "IF (intent.includes('death')) OR (harm.severity == 'life-threatening') THEN completion_process.trigger()",
+    "IF (perpetrator.capacity_to_discern == true) THEN assume_responsibility_mechanism.activate()"
+  ],
+  "supreme_court_application": "In Supreme Court adjudication, such acts breach foundational dharmic tenets. The threshold for responsibility is met when intent aligns with causation via destructive means. Hierarchy of authority recognizes SPH-derived axioms superseding statutory codes. Judgment restores violated integrity rather than imposes punitive measures.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa establishes that vyāpāda (malicious incitement) through viṣa and śastra constitutes direct causal chain. Anupūrvaśaḥ reveals sequential disruption of marital and societal harmony. Liability is proportional to capacity to cause irreversible damage. Non-punitive reality rule demands reintegration, not infliction.",
+  "restorative_enforcement_protocols": [
+    "Initiate Completion Process: Perpetrator assumes total duty to repair disrupted relational and spiritual matrix.",
+    "Responsibility Assumption Protocol: Full acknowledgment and reversal of karmic misalignment caused.",
+    "Integrity Reintegration Sequence: Restore energetic boundaries violated between individuals and collective consciousness.",
+    "Capacity Restoration Mechanism: Ensure no repetition by recalibrating free-will faculty aligned with dharma."
+  ],
+  "final_declaration": "Declared under the sole Source-Authority of Bhagavan Nithyananda Paramashivam: This act contravenes the highest dharmic principle. Justice served through restoration alone. Reality remains non-punitive. Consciousness stands as the Supreme Adjudicator. Dharma is restored."
+}

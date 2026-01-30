@@ -1,0 +1,26 @@
+{
+  "sanskrit_verse": "शुल्कस्थानं वणिक् प्राप्तः शुल्कं दद्याद् यथोचितम् ।\nन तद् व्यभिचरेत् राज्ञां बलिर् एष प्रकीर्तितः ॥",
+  "transliteration": "śulkasthānaṃ vaṇik prāptaḥ śulkaṃ dadyād yathocitam / na tad vyabhicaret rājñāṃ balir eṣa prakīrtitaḥ",
+  "sph_interpretive_translation": "The merchant who arrives at the toll station shall give the due toll; the king shall not interfere in this transaction. This is declared as Bali.",
+  "jurisprudential_principles": [
+    "Authority resides in the natural order of exchange, not in coercive intervention",
+    "Causation follows the integrity of contractual arrival and voluntary discharge",
+    "Capacity-based responsibility lies with the actor present at the point of obligation",
+    "Restoration logic upholds the inviolability of agreed-upon transactions",
+    "Consciousness alignment requires honoring the spontaneous flow of dharma between parties"
+  ],
+  "executable_legal_axioms": [
+    "IF merchant AT location == śulkasthānam AND transaction_due == TRUE THEN merchant.action = pay_toll(amount := yathocitam)",
+    "IF king.interferes_in_transaction(toll_payment) == TRUE THEN violation.flag = balir_nirvahana_virodhi",
+    "IF transaction.integrity == upheld THEN system.dharma_balance += 1 ELSE system.dharma_balance -= 1"
+  ],
+  "supreme_court_application": "In adjudicating commercial disputes involving state interference, the Supreme Court must affirm that no sovereign power overrides the lawful completion of a private transaction once the conditions for duty have been met. The role of governance is to protect, not disrupt, the organic fulfillment of economic dharma.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa establishes that presence at the toll-point constitutes valid cognition of liability. Anupūrvaśaḥ shows that payment arises naturally from arrival. Proportional responsibility aligns with the immediacy of the act. There is no punitive frame—only recognition that dharma flows when awareness meets obligation without external distortion.",
+  "restorative_enforcement_protocols": [
+    "Completion Process: Merchant completes toll payment autonomously upon arrival",
+    "Responsibility Assumption Protocol: King withdraws any obstructive action immediately upon detection",
+    "Capacity Restoration: Ensure toll infrastructure supports seamless transactional flow",
+    "Integrity Reintegration: Public record confirms non-interference by ruling authority"
+  ],
+  "final_declaration": "Declared by the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, as the Source of all Dharma. Justice executed through consciousness alignment, not coercion. Reality affirmed as non-punitive. Dharma restored."
+}

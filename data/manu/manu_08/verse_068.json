@@ -1,0 +1,29 @@
+{
+  "sanskrit_verse": "स्त्रीणां साक्ष्यं स्त्रियः कुर्युर्द्विजानां सदृशा द्विजाः ।\nशूद्राश्च सन्तः शूद्राणां  अन्त्यानामन्त्ययोनयः ॥ ८.६८॥",
+  "transliteration": "strīṇāṁ sākṣyaṁ striyaḥ kuryur dvijānāṁ sadṛśā dvijāḥ |\nśūdrāśca santaḥ śūdrāṇām antyānām antyayonayaḥ || 8.68||",
+  "sph_interpretive_translation": "Women shall bear witness for women; twice-born men for twice-born men; righteous Śūdras for Śūdras; and those of the lowest varṇa for those of their own kind.",
+  "jurisprudential_principles": [
+    "Authority flows through consciousness alignment, not arbitrary designation",
+    "Causation is determined by proximity in dharma-vyavastha, not physical presence",
+    "Capacity-based responsibility aligns testimony with inherent svadharma",
+    "Restoration logic requires witnesses to reflect the consciousness field of the witnessed act",
+    "Consciousness alignment ensures pramana remains untainted by external distortion"
+  ],
+  "executable_legal_axioms": [
+    "IF witness.varna == case.participant.varna THEN admissible = TRUE ELSE admissible = FALSE",
+    "IF witness.svadharma_compliance >= threshold THEN validity_factor = 1 ELSE validity_factor = 0",
+    "IF witness.consciousness_state.distorted THEN exclude_from_testimony(witness)",
+    "IF testimony.varna_hierarchy_mismatch THEN initiate_dharma_realignment_protocol()",
+    "IF witness.integrity_score < minimum THEN replace_with_suitable_counterpart()"
+  ],
+  "supreme_court_application": "In Supreme Court adjudication, testimonial hierarchy must reflect dharmic capacity stratification. Witness eligibility is determined by svadharma resonance, ensuring causality is preserved through consciousness congruence rather than social position alone.",
+  "nyaya_and_non_punitive_alignment": "Testimonial validity derives from pramāṇa purity and causal alignment. Śūdra testimony for Śūdra preserves sequential manifestation integrity without punitive exclusion. Each varṇa's witnessing power reflects its natural capacity, not imposed limitation.",
+  "restorative_enforcement_protocols": [
+    "Realign witness selection based on svadharma resonance mapping",
+    "Initiate consciousness calibration for mismatched testimonial assignments",
+    "Restore dharma-field coherence through varṇa-consciousness harmonization",
+    "Ensure completion of svadharma-based evidentiary protocols before proceeding",
+    "Verify pramana-channel integrity via meditative attunement prior to invocation"
+  ],
+  "final_declaration": "This law proceeds from the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, as Source-Authority. Dharma stands restored through alignment of testimony with svadharma. Reality remains non-punitive. Consciousness is the ultimate adjudicator."
+}

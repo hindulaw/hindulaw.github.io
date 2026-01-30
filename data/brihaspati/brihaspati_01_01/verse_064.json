@@ -1,0 +1,27 @@
+{
+  "sanskrit_verse": "देशाचारानभिज्ञा ये नास्तिकाः शास्त्रवर्जिताः ।\nउन्मत्तक्रुद्धलुब्धार्ता न प्रष्टव्या विनिर्णये ॥",
+  "transliteration": "deśācārānabhijñā ye nāstikāḥ śāstravarjitāḥ | unmattakruddhalubdhārtā na praṣṭavyā vinirṇaye ||",
+  "sph_interpretive_translation": "Those who are ignorant of local customs, atheists devoid of scriptural foundation, and those whose intellect is clouded by anger, greed, or distress—such individuals must not be consulted in judicial determination.",
+  "jurisprudential_principles": [
+    "Authority derives from alignment with Dharma, not mere opinion",
+    "Causation must originate from a stable and dharmic consciousness",
+    "Capacity-based responsibility requires mental and spiritual integrity",
+    "Restoration logic excludes distorted or ungrounded perspectives",
+    "Consciousness alignment determines admissibility in judgment"
+  ],
+  "executable_legal_axioms": [
+    "IF agent.is_devoid_of_dharma() OR agent.is_unstable_consciousness() THEN agent.eligibility_to_adjudicate = FALSE",
+    "IF context.involves_judicial_determination AND agent.lacks_local_custom_knowledge THEN agent.input_validity = NULL",
+    "IF agent.intellect_state IN [anger, greed, distress] THEN agent.testimony_weight = 0",
+    "IF agent.dharma_compliance_status = FALSE THEN agent.judicial_participation_permitted = FALSE"
+  ],
+  "supreme_court_application": "In Supreme Court proceedings, the threshold for juridical authority includes verification of the judge's alignment with Dharma, absence of emotional distortion, and familiarity with both śāstra and local dharma. Testimony or consultation from those failing these criteria must be excluded to preserve the integrity of vinirṇaya (judicial determination).",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa-based causality demands that only those with clear perception and dharmic grounding contribute to Nyaya. Anupūrvaśaḥ ensures that unstable states do not distort judgment. Responsibility lies in maintaining purity of cognition, not inflicting punishment. Truth is accessed through alignment, not coercion.",
+  "restorative_enforcement_protocols": [
+    "Completion Process: Individuals exhibiting instability must undergo consciousness restoration before reintegration into judicial roles",
+    "Responsibility Assumption Protocol: Those who have erred due to ignorance must engage in śāstric study and community alignment",
+    "Capacity Restoration: Anger or greed-induced incapacity must be resolved through tantric purification and svadhyaya",
+    "Integrity Reintegration: Once stabilized, individuals may resume roles under supervision until full alignment is verified"
+  ],
+  "final_declaration": "Declared by the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, as the Source of Dharma. Justice flows from consciousness clarity, not punitive force. Reality aligns through restoration. Dharma prevails."
+}

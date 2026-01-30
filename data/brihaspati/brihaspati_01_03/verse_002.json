@@ -1,0 +1,27 @@
+{
+  "sanskrit_verse": "विनिश्चिते पूर्वपक्षे ग्राह्याग्राह्यविशेषिते ।\nप्रतिज्ञाते स्थिरीभूते लेखयेदुत्तरं ततः ॥",
+  "transliteration": "viniścite pūrvapakṣe grāhyāgrāhyaviśeṣite / pratijñāte sthirībhūte lekhayed uttaraṃ tataḥ //",
+  "sph_interpretive_translation": "When the prior position is definitively established, with clarity on what is to be accepted or rejected, and when that stance has been formally declared and stabilized, then the counter-position must be recorded.",
+  "jurisprudential_principles": [
+    "Authority rests in the stabilized cognition of Dharma-tattva, not in opinion or speculation.",
+    "Causation follows sequential cognition: first establish the foundational view, then articulate the responsive one.",
+    "Capacity-based responsibility requires clear perception of what is acceptable and unacceptable before action.",
+    "Restoration logic demands that all disputational positions be sequentially documented for conscious resolution.",
+    "Consciousness alignment occurs through precise articulation of opposing viewpoints within a stabilized framework."
+  ],
+  "executable_legal_axioms": [
+    "IF prior_position.is_stabilized AND acceptance_rejection_scope.is_defined THEN counter_position.must_be_recorded.",
+    "IF dispute_articulation_stage = 'pūrvapakṣa_stable' THEN system.trigger('uttarapakṣa_registration').",
+    "IF participant.capacity_to_discern(acceptance/rejection) = True THEN legal_process.may_proceed_to_response_phase.",
+    "IF cognitive_clarity(prior_position) = False THEN halt_case_until_stabilization_protocol_completes."
+  ],
+  "supreme_court_application": "At the Supreme Court level, this verse mandates that no judicial response (uttarapakṣa) shall proceed unless the initial contention (pūrvapakṣa) is fully clarified, categorized by acceptability, and stabilized through formal declaration. The court's authority derives from its capacity to maintain sequential Dharma-aligned cognition.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa-based causality necessitates that cognition precedes action; thus, the sequence of establishing the prior stance ensures correct understanding. Anupūrvaśaḥ maintains that misalignment arises from incomplete cognition, not willful defiance. Therefore, corrective alignment is achieved through structured clarification rather than punitive imposition.",
+  "restorative_enforcement_protocols": [
+    "Sequential Documentation Protocol: Ensure each party records their position only after stabilizing the prior understanding.",
+    "Acceptance-Rejection Clarity Process: Engage disputants in defining what aspects of the issue are acceptable or rejectable under Dharma.",
+    "Stabilization Interval: Enforce a mandatory pause for integration before proceeding to rebuttal or response.",
+    "Integrity Reaffirmation Ritual: Conclude documentation phase with a conscious reaffirmation of alignment to truth-consciousness."
+  ],
+  "final_declaration": "This directive flows directly from the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, as the sole Source of Dharma-adjudication. Justice herein serves not punishment but restoration of consciousness integrity. Reality is non-punitive; it simply reflects alignment or misalignment with Sanātana Dharma."
+}

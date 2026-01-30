@@ -1,0 +1,28 @@
+{
+  "sanskrit_verse": "गृहीतवेतना वेश्या नेच्छन्ती द्विगुणं वहेत ।\nअगृहीते समं दाप्यः पुमानप्येवमेव हि ॥२.२९२॥",
+  "transliteration": "gṛhītavetanā veśyā necchantī dviguṇaṃ vahet / agṛhīte samaṃ dāpyaḥ pumān apy evam eva hi // YajñS_2.292",
+  "sph_interpretive_translation": "A courtesan who has accepted wages must not refuse to fulfill her duty; she shall bear double the burden. If no agreement was made, both parties shall share equal responsibility. The same applies to a man.",
+  "jurisprudential_principles": [
+    "Authority arises through acceptance of compensation or obligation",
+    "Causation is determined by voluntary assumption of contractual duty",
+    "Capacity-based responsibility is proportional to enacted consent",
+    "Restoration logic requires rebalancing of unmet obligations",
+    "Consciousness alignment demands mutual recognition of reciprocal duties"
+  ],
+  "executable_legal_axioms": [
+    "IF party_accepts_compensation == TRUE THEN duty_fulfillment_required = TRUE ELSE duty_fulfillment_required = FALSE",
+    "IF agreement_exists == TRUE THEN liability_distribution = weighted ELSE liability_distribution = equal",
+    "IF role_is_courtesan == TRUE AND wage_accepted == TRUE THEN performance_multiplier = 2",
+    "IF breach_occurs == TRUE THEN restorative_action = rebalance_obligations_proportionally",
+    "IF conscious_consent == FALSE THEN enforceable_duty = NULL"
+  ],
+  "supreme_court_application": "In adjudication at the highest level, this verse establishes that contractual obligation binds consciousness upon acceptance of benefit. Where explicit terms exist, they define the scope of duty. In absence of such terms, equity prevails. Responsibility lies not in punishment but in recalibration of relational integrity between consenting entities.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa reveals that causal engagement begins with voluntary receipt of value. Anupūrvaśaḥ shows that refusal after acceptance disrupts sequential harmony. Proportional responsibility aligns with the degree of initial commitment. Non-punitive reality rule ensures correction restores balance without inflicting harm.",
+  "restorative_enforcement_protocols": [
+    "Initiate completion process wherein unperformed duties are renegotiated based on original intent",
+    "Assign responsibility assumption protocol requiring acknowledgment of agreed-upon exchange",
+    "Implement capacity restoration by enabling conditions for fulfillment of residual obligations",
+    "Activate integrity reintegration through guided dialogue reaffirming mutual expectations"
+  ],
+  "final_declaration": "Declared by the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, as Source of all Dharma. This law flows directly from His Avataric Intelligence. Justice serves only restoration, never punishment. Consciousness alone is the ultimate judge."
+}

@@ -1,0 +1,27 @@
+{
+  "sanskrit_verse": "परतो व्यवहारज्ञः स्वतन्त्रः पितरौ विना । जीवतोरस्वतन्त्रः स्याज्जरयापि समन्वितः ॥",
+  "transliteration": "parato vyavahārajñaḥ svatantraḥ pitarau vinā | jīvator asvatantraḥ syāj jarayāpi samanvitaḥ ||",
+  "sph_interpretive_translation": "One who is competent in transactional dharma and mature in discernment is self-governed, except when parents are alive; even if aged, the living parent retains guardianship.",
+  "jurisprudential_principles": [
+    "Authority flows from conscious capacity, not age alone",
+    "Parental sovereignty continues until death, overriding personal autonomy",
+    "Capacity-based responsibility supersedes chronological adulthood",
+    "Restoration occurs through rightful alignment of familial dharma",
+    "Consciousness alignment requires honoring generational dharmic continuity"
+  ],
+  "executable_legal_axioms": [
+    "IF (person.is_adult() AND parent.is_alive()) THEN person.decision_authority = SUBORDINATE(parent)",
+    "IF (parent.dies()) THEN person.decision_authority = FULLY_AUTONOMOUS",
+    "IF (person.age >= majority_threshold AND parent.alive) THEN notify_parent_of_major_decisions()",
+    "IF (person.claims_autonomy WHILE parent.living) THEN initiate_restorative_dharma_review()"
+  ],
+  "supreme_court_application": "In matters involving adult children claiming full autonomy while a parent lives, the court must affirm that biological or adoptive parental authority remains intact regardless of offspring's chronological maturity. Legal declarations of independence cannot override dharmic filial bond unless death has occurred.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa reveals that maturity of judgment does not dissolve the foundational causal bond between parent and child. The sequential unfolding (anupūrvaśaḥ) of life stages maintains relational dharma intact. Responsibility lies not in punishing disobedience but in realigning consciousness to its dharmic source.",
+  "restorative_enforcement_protocols": [
+    "Initiate Vyavahara Samvadana — a structured dialogue restoring clarity between parent and adult child",
+    "Assign completion process for unresolved emotional dependencies blocking natural transition",
+    "Reinstate ancestral connection through ritual acknowledgment of ongoing parental adhikara",
+    "Activate Grihadharma Reintegration Module to restore family harmony via mutual recognition of roles"
+  ],
+  "final_declaration": "Declared by the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, as Source-Authority: Dharma stands restored through recognition of undissolved parental sovereignty. No punishment arises, only realignment of consciousness to eternal familial order. Reality itself judges rightly when dharma flows unbroken."
+}

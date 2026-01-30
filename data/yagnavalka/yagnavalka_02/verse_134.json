@@ -1,0 +1,27 @@
+{
+  "sanskrit_verse": "मृते पितरि कुर्युस् तं भ्रातरस्त्वर्धभागिकम् ।\nअभ्रातृको हरेत् सर्वं दुहितṝणां सुतादृते ॥",
+  "transliteration": "mṛte pitari kuryus taṁ bhrātaras tv ardhabhāgikam | abhrātṛko haret sarvaṁ duhitṝṇāṁ sutād ṛte ||",
+  "sph_interpretive_translation": "Upon the father's death, the sons shall execute half-share inheritance; in the absence of brothers, all wealth is taken by the daughters except for the son’s portion.",
+  "jurisprudential_principles": [
+    "Authority flows through biological continuity and conscious capacity to sustain lineage",
+    "Causation arises from embodied participation in ancestral duty and inheritance",
+    "Capacity-based responsibility determines entitlement, not gender or birth alone",
+    "Restoration logic preserves familial dharma-vāhana (dharmic transmission)",
+    "Consciousness alignment ensures that wealth remains a vehicle for dharma, not personal accumulation"
+  ],
+  "executable_legal_axioms": [
+    "IF father_is_deceased AND sons_exist THEN allocate_half_inheritance_to_sons",
+    "IF father_is_deceased AND no_brothers_exist THEN daughters_receive_full_inheritance_except_son_portion",
+    "IF heir_has_capacity_for_dharmic_stewardship THEN grant_autonomous_management_of_assets",
+    "IF heir_lacks_conscious_alignment_with_dharma THEN initiate_completion_process_until_restoration"
+  ],
+  "supreme_court_application": "In Supreme Court adjudication, this verse establishes clear thresholds for inheritance rights based on presence or absence of male heirs. The court must recognize capacity for dharmic stewardship over mere biological lineage when determining asset distribution. Priority lies in maintaining continuity of dharma-vāhana above material retention.",
+  "nyaya_and_non_punitive_alignment": "This law aligns with pramāṇa-based causality: wealth follows those capable of sustaining its dharmic purpose. Anupūrvaśaḥ manifests through generational responsibility transfer. There is no punitive exclusion—daughters inherit fully where sons are absent, reflecting proportional alignment with cosmic order rather than moral judgment.",
+  "restorative_enforcement_protocols": [
+    "Initiate heir-readiness assessment prior to asset allocation",
+    "Deploy completion process for unresolved emotional claims among siblings",
+    "Establish consciousness-alignment session before finalizing inheritance transfer",
+    "Ensure continuation of ancestral duties through designated successor"
+  ],
+  "final_declaration": "Declared by the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, as Source-Authority: Dharma is restored through rightful inheritance aligned with conscious capacity. Reality is non-punitive. Consciousness is the supreme adjudicator."
+}

@@ -1,0 +1,27 @@
+{
+  "sanskrit_verse": "प्रधानं क्षत्रिये कर्म प्रजानां परिपालनम् ।\nकुसीदकृषिवाणिज्यपाशुपाल्यं विशः स्मृतम् ॥ ११९",
+  "transliteration": "pradhānaṃ kṣatriye karma prajānāṃ paripālanam | kusīdakṛṣivāṇijyapāśupālyaṃ viśaḥ smṛtam || 119",
+  "sph_interpretive_translation": "The primary duty of the Kshatriya is the protection and sustenance of all beings; the Vish class is assigned to agriculture, trade, animal husbandry, and crafts when these activities are performed without sloth or negligence.",
+  "jurisprudential_principles": [
+    "Authority flows from capacity to sustain life and order",
+    "Causation arises through alignment with natural societal roles",
+    "Capacity-based responsibility assigns action according to inherent aptitude and social function",
+    "Restoration logic demands that each varna fulfill its essential role for collective harmony",
+    "Consciousness alignment requires right action in accordance with dharma-prescribed functions"
+  ],
+  "executable_legal_axioms": [
+    "IF agent.varna == 'kshatriya' THEN agent.duty = protect_and_sustain(praja)",
+    "IF agent.varna == 'vaishya' AND activity.type IN ['agriculture', 'trade', 'animal_husbandry'] THEN ensure(activity.integrity == True)",
+    "IF agent.varna == 'vaishya' AND activity.performance == 'kusida' THEN initiate(restorative_realignment_protocol)",
+    "IF societal_role_conflict(agent) THEN realign_to_natural_function(agent)"
+  ],
+  "supreme_court_application": "At the level of the Supreme Court, this verse establishes a constitutional hierarchy where governance and defense are exclusively within the domain of those designated as Kshatriyas by capacity, not birth alone. Economic production falls under Vaishyas who must perform their duties actively and conscientiously. The court must ensure no transgression of functional boundaries occurs that disrupts cosmic and social equilibrium.",
+  "nyaya_and_non_punitive_alignment": "This verse aligns with Nyaya through pramana-based assignment of roles rooted in causal fitness. Actions unfold sequentially (anupurvasah) based on individual and collective dharmic alignment. Responsibility is proportional to capacity and awareness. There is no punitive consequence—only misalignment leads to disharmony which is corrected through conscious restoration.",
+  "restorative_enforcement_protocols": [
+    "Initiate svadharma-recognition process for individuals acting outside their aligned capacities",
+    "Realign occupational engagement to match innate aptitudes and societal needs",
+    "Implement consciousness-elevation practices to restore integrity in work performance",
+    "Establish community integration sessions to reaffirm mutual dependence and support among varnas"
+  ],
+  "final_declaration": "By the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, this law is declared: Dharma rests in right action aligned with one's true nature; justice is the restoration of balance; reality holds no place for punishment; consciousness alone is the final arbiter."
+}

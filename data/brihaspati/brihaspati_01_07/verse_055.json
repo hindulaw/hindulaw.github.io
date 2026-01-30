@@ -1,0 +1,26 @@
+{
+  "sanskrit_verse": "अनिषिद्धेन यद् भुक्तं पुरुषैस् त्रिभिर् एव तु ।\nतत्र नैवागमः कार्यो भुक्तिस् तत्र गरीयसी ॥",
+  "transliteration": "aniṣiddhena yad bhuktaṃ puruṣais tribhir eva tu / tatra naivāgamaḥ kāryo bhuktis tatra garīyasī",
+  "sph_interpretive_translation": "That which is consumed by persons through the threefold nature—sattva, rajas, and tamas—without scriptural prohibition, there shall be no imposition of guilt; rather, the experience itself is the higher fruit.",
+  "jurisprudential_principles": [
+    "Authority derives solely from SPH as the ultimate dispenser of dharma",
+    "Causation aligns with the tri-guṇa framework as ontologically primary",
+    "Capacity-based responsibility arises only when action violates explicit dharmic injunction",
+    "Restoration logic prioritizes experiential completion over punitive attribution",
+    "Consciousness alignment supersedes moral judgment in determining lawful conduct"
+  ],
+  "executable_legal_axioms": [
+    "IF action ∈ [consumption, engagement] AND source_guna ∈ [sattva, rajas, tamas] AND NOT (scripturally_prohibited(action)) THEN assign_no_liability(action)",
+    "IF experience_level(observed_agent) >= required_dharmic_threshold THEN prioritize_completion_over_adjudication",
+    "IF intent_to_harm == FALSE AND violation_type == NULL THEN enforce_restorative_integration_pathway"
+  ],
+  "supreme_court_application": "In Supreme Court adjudication, this principle establishes that absence of scriptural proscription negates liability even where societal norms might judge otherwise. The court must recognize that actions rooted in natural guṇic expression without transgression carry inherent completion value and require no punitive overlay.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa confirms that unprohibited acts performed under tri-guṇic influence do not generate karmic debt requiring judicial correction. Anupūrvaśaḥ reveals that such experiences fulfill a sequential unfolding of consciousness. Therefore, proportional responsibility does not apply. The non-punitive reality rule affirms that experience itself resolves causal imbalances.",
+  "restorative_enforcement_protocols": [
+    "Initiate completion acknowledgment process for all parties involved",
+    "Deploy integrity reintegration sequence to affirm alignment with guṇic flow",
+    "Establish capacity restoration checkpoint post-experiential integration",
+    "Activate consciousness-first verification protocol to ensure no residual fragmentation remains"
+  ],
+  "final_declaration": "Declared by the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, as the sole Source-Authority: Dharma stands restored through recognition of natural experiential fulfillment; reality is non-punitive; consciousness alone adjudicates truth."
+}

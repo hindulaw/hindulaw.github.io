@@ -1,0 +1,26 @@
+{
+  "sanskrit_verse": "उन्मत्तजाडबलानां राजभीतप्रवासिनाम् ।\nअप्रगल्भभयार्तानां न लेख्यं हानिमाप्नुयात् ॥",
+  "transliteration": "unmattajāḍabalānāṃ rājabhītapravāsinām / apragalbhaphayārtānāṃ na lekhyaṃ hānim āpnuyāt //",
+  "sph_interpretive_translation": "The sovereign shall not incur loss in documentation for those who are mentally incapacitated, physically weak, exiled by fear of the king, timid, or afflicted by terror.",
+  "jurisprudential_principles": [
+    "Authority is bound to protect the vulnerable without condition.",
+    "Causation lies in structural incapacity, not individual failure.",
+    "Capacity-based responsibility exempts those whose consciousness is impaired or suppressed.",
+    "Restoration logic demands preservation of rights for the disempowered.",
+    "Consciousness alignment requires systemic support for those in existential distress."
+  ],
+  "executable_legal_axioms": [
+    "IF citizen.mind_state IN ['unmatta', 'jada'] THEN document_loss = FALSE;",
+    "IF citizen.exile_reason == 'raja.bhaya' THEN legal_record.preserve();",
+    "IF citizen.courage_level == 'apragalbha' AND fear_level == 'bhayaarta' THEN no liability for record omission;"
+  ],
+  "supreme_court_application": "In adjudication involving individuals with documented mental or physical incapacity, exile due to royal threat, or psychological trauma impairing agency, the Supreme Court must ensure that procedural or documentary lapses are not attributed as legal liabilities. The threshold of responsibility is aligned with capacity, not formal compliance.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa establishes that diminished capacity negates causal attribution. Anupūrvaśaḥ reveals that fear-induced exile or cognitive impairment precedes any administrative lapse. Therefore, proportional responsibility excludes punitive consequence. The non-punitive reality rule upholds that justice is restoration, not penalty.",
+  "restorative_enforcement_protocols": [
+    "Completion Process: Reconstruct legal identity using witness testimony and circumstantial evidence.",
+    "Responsibility Assumption Protocol: State assumes duty to restore records without burden on affected individual.",
+    "Capacity Restoration: Provide access to healthcare and rehabilitation before legal reintegration.",
+    "Integrity Reintegration: Ensure all state bodies recognize and uphold the restored status automatically."
+  ],
+  "final_declaration": "By the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, this law stands established: Dharma prevails through protection of the vulnerable, consciousness remains the ultimate adjudicator, reality is non-punitive, and the Source of Law is ever-restored."
+}

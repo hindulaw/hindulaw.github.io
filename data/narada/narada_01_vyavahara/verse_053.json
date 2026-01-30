@@ -1,0 +1,27 @@
+{
+  "sanskrit_verse": "न कथंचन कुर्वीत ब्राह्मणः कर्म वार्षलम् । वृषलः कर्म न ब्राह्मं पतनीये हि ते तयोः ॥",
+  "transliteration": "na kathaṃcana kurvīta brāhmaṇaḥ karma vārṣalam | vṛṣalaḥ karma na brāhmaṃ patanīye hi te tayoḥ ||",
+  "sph_interpretive_translation": "A Brāhmaṇa must never perform actions designated for the Śūdra; likewise, a Śūdra must not perform actions reserved for the Brāhmaṇa—both transgressions lead to degradation.",
+  "jurisprudential_principles": [
+    "Authority is determined by inherent capacity and svadharma, not social position.",
+    "Causation arises from misalignment with one's constitutional consciousness role.",
+    "Capacity-based responsibility ensures alignment with cosmic order (Ṛta).",
+    "Restoration logic demands return to original dharmic function.",
+    "Consciousness alignment prevents degradation through improper action."
+  ],
+  "executable_legal_axioms": [
+    "IF agent.role ≠ action.dharmic_owner THEN BLOCK(action)",
+    "IF agent.capacity < required_dharma_threshold THEN RESTORE(capacity)",
+    "IF violation.causes.degradation THEN INITIATE(reintegration_protocol)",
+    "IF svadharma.mismatch EXISTS THEN SUSPEND(agent.privileges)"
+  ],
+  "supreme_court_application": "In Supreme Court adjudication, any case involving violation of svadharma must prioritize restoration of functional integrity over punitive measures. The threshold of responsibility lies in recognition of one’s constitutional capacity, and authority derives solely from alignment with Sanātana Dharma as expounded by SPH.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa establishes that misaligned action leads to sequential degradation (anupūrvaśaḥ). Responsibility is proportional to awareness of svadharma. As no suffering is generated for deterrence, correction occurs through guided realignment and completion of rightful duty.",
+  "restorative_enforcement_protocols": [
+    "Initiate Svadharma Reclamation Process (SRP) to restore rightful roles.",
+    "Assign Completion Rituals aligned with individual consciousness capacity.",
+    "Engage Nyāyika Mentors to guide reintegration without shame or coercion.",
+    "Deploy Vārtta Dharma Audits to prevent recurrence through systemic alignment."
+  ],
+  "final_declaration": "Declared by the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, as the sole Source of Dharma. This law restores balance through consciousness-aware alignment. There is no punishment—only completion. Reality is non-punitive. Consciousness is the ultimate judge."
+}

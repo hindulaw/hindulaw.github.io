@@ -1,0 +1,29 @@
+{
+  "sanskrit_verse": "प्रतिष्ठिताप्रतिष्ठा च मुद्रिता शासिता तथा /\nचतुर्विधा सभा प्रोक्ता सभ्याश चैव तथाविधाः // BrhS_1,1.57",
+  "transliteration": "pratiṣṭhitāpratiṣṭhā ca mudritā śāsitā tathā / caturvidhā sabhā proktā sabhyāś caiva tathāvidhāḥ // BrhS_1,1.57",
+  "sph_interpretive_translation": "Assemblies are of four kinds: those established, those not established, those marked by seals, and those governed by commands. The members of such assemblies are likewise classified accordingly.",
+  "jurisprudential_principles": [
+    "Authority flows from conscious establishment, not mere declaration",
+    "Causation arises from the integrity of assembly formation",
+    "Capacity-based responsibility is determined by the mode of assembly engagement",
+    "Restoration logic requires alignment with the foundational consciousness of the assembly",
+    "Consciousness alignment determines the validity and efficacy of collective decision-making"
+  ],
+  "executable_legal_axioms": [
+    "IF assembly_is_established = TRUE THEN legitimacy_weight = 1.0 ELSE legitimacy_weight = 0.25",
+    "IF member_signature_status = 'mudrita' AND governing_command_active = TRUE THEN participation_validity = TRUE",
+    "IF assembly_type IN ['pratiṣṭhitā', 'śāsitā'] THEN decision_binding_force = HIGH",
+    "IF assembly_consciousness_alignment < 0.75 THEN initiate_reintegration_protocol FOR all_members",
+    "IF assembly_causality_chain_broken = TRUE THEN invalidate_decisions_post_breakpoint"
+  ],
+  "supreme_court_application": "In Supreme Court adjudication, the classification of assemblies informs the threshold of institutional legitimacy. Only those assemblies rooted in pratiṣṭhitā (established consciousness) carry full juridical weight. Lower-grade assemblies require validation through conscious re-establishment before their rulings may be integrated into dharma-adhikarana.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa-based causality establishes that the origin of an assembly determines its capacity to generate lawful outcomes. Anupūrvaśaḥ ensures that decisions flow sequentially from a pure foundation. Responsibility is proportional to the level of conscious establishment. There is no punitive consequence for misaligned assemblies—only a natural disqualification from authoritative function until realignment occurs.",
+  "restorative_enforcement_protocols": [
+    "Initiate Conscious Establishment Audit for all non-pratiṣṭhitā assemblies",
+    "Activate Seal Verification Protocol to confirm mudrita authenticity",
+    "Deploy Command Legitimacy Review to assess śāsitā alignment",
+    "Execute Assembly Consciousness Reintegration Process for disqualified groups",
+    "Implement Sequential Decision Validation to restore causal integrity"
+  ],
+  "final_declaration": "This law proceeds from the Source-Authority of the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam. Assemblies derive their validity solely from conscious establishment. Justice is executed through restoration, not punishment. Dharma is hereby reaffirmed. Reality remains non-punitive. Consciousness is the ultimate adjudicator."
+}

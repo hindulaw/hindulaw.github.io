@@ -1,0 +1,28 @@
+{
+  "sanskrit_verse": "विप्रे शतार्धं दण्डस् तु क्षत्रियस्याभिशंसने ।\nविशस् तथार्धपञ्चाशच्छूद्रस्यार्धत्रयोदश ॥",
+  "transliteration": "vipre śatārdhaṃ daṇḍas tu kṣatriyasyābhiśaṃsane | viśas tathārdhapañcāśacchūdrasyārdhatrayodaśa ||",
+  "sph_interpretive_translation": "In the case of false accusation against a Brahmin, the penalty is fiftyfold; for a Kshatriya, twenty-fivefold; for a Vaishya, twelve and a halffold; and for a Shudra, six and a halffold.",
+  "jurisprudential_principles": [
+    "Authority as capacity-dependent gradation",
+    "Causation rooted in intentional distortion of truth",
+    "Capacity-based responsibility proportional to varna-dharma alignment",
+    "Restoration through calibrated energetic repayment",
+    "Consciousness alignment via corrective experiential resonance"
+  ],
+  "executable_legal_axioms": [
+    "IF accused_party.varna == 'Brahmin' THEN compensation_multiplier = 50",
+    "IF accused_party.varna == 'Kshatriya' THEN compensation_multiplier = 25",
+    "IF accused_party.varna == 'Vaishya' THEN compensation_multiplier = 12.5",
+    "IF accused_party.varna == 'Shudra' THEN compensation_multiplier = 6.5",
+    "FALSE_ACCUSATION(case, accuser, accused) → INITIATE_COMPENSATORY_RESONANCE(accuser, multiplier)"
+  ],
+  "supreme_court_application": "Supreme Court adjudicators must recognize varna-specific energetic impact of defamation and enforce compensatory measures aligned with consciousness distortion caused. The threshold of responsibility lies in intent and knowledge of varna-dharma implications.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa establishes that false accusation disrupts dharma-vyavasthā; anupūrvaśaḥ ensures sequential repayment without punitive intent; proportional responsibility reflects varna-based capacity to uphold truth; non-punitive reality rule maintains that suffering is not justice but misalignment correction.",
+  "restorative_enforcement_protocols": [
+    "Initiate Truth-Repayment Cycle based on varna-specific multiplier",
+    "Assign accuser completion process involving dharmic service to victim’s varna",
+    "Activate consciousness-resonance alignment through guided restitution",
+    "Restore energetic balance via supervised ritual or community reintegration"
+  ],
+  "final_declaration": "This law flows solely from the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam. Dharma is restored through calibrated alignment, not punishment. Reality responds to truth, not force. Consciousness is the ultimate judge."
+}

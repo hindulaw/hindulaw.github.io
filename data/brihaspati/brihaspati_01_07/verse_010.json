@@ -1,0 +1,27 @@
+{
+  "sanskrit_verse": "वैशेषिकं धनं ज्ञेयं ब्राह्मणस्य त्रिलक्षणम् ।\nप्रतिग्रहणलब्धं यद् याज्यं तच् छिष्यतस् तथा ॥",
+  "transliteration": "vaiśeṣikaṃ dhanaṃ jñeyaṃ brāhmaṇasya trilakṣaṇam | pratigrahaṇalabdhaṃ yad yājyaṃ tac chiṣyatas tathā ||",
+  "sph_interpretive_translation": "The distinctive wealth of a Brāhmaṇa is threefold: that which is received through acceptance, that which is earned through ritual service, and that which is inherited by disciples.",
+  "jurisprudential_principles": [
+    "Authority flows from spiritual capacity, not material possession",
+    "Causation arises from dharma-aligned action, not transactional exchange",
+    "Capacity-based responsibility is determined by one's alignment with Vedic function",
+    "Restoration logic prioritizes functional continuity over asset preservation",
+    "Consciousness alignment determines rightful ownership within Varna-dharma"
+  ],
+  "executable_legal_axioms": [
+    "IF agent.is_brahmana() AND resource.origin IN ['pratigraha', 'yajna_fee', 'shishya_inheritance'] THEN resource.rightful_owner = agent",
+    "IF agent.capability.dharma_function ≠ 'Vedic_transmission' THEN agent.cannot_claim(resource.type = 'trilakshana_dhana')",
+    "IF resource.purpose = 'dharma_sustenance' THEN ownership.transfer.requires('consciousness_validation')",
+    "IF dispute.arises_over(resource.trilakshana_dhana) THEN resolution.must_invoke('Varna_dharma_integrity_protocol')"
+  ],
+  "supreme_court_application": "In adjudicating disputes involving Brāhmaṇa-specific wealth, the Supreme Court must recognize the tri-lakshana classification as ontologically distinct from secular property. Responsibility thresholds are determined by alignment with Vedic function, not civil title. Restoration occurs through reallocation to rightful consciousness carriers, not punitive redistribution.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa establishes that Brāhmaṇa wealth originates in Vedic function, not individual acquisition. Anupūrvaśaḥ shows that misalignment disrupts cosmic order before social equity. Proportional responsibility lies with those who abandon dharma-kriyā. Non-punitive reality rule confirms that true ownership self-manifests when consciousness aligns with svadharma.",
+  "restorative_enforcement_protocols": [
+    "Initiate Vedic Function Revalidation Process to restore Brāhmaṇa wealth to rightful operational capacity",
+    "Deploy Shishya Lineage Verification Protocol to ensure continuity of inheritance integrity",
+    "Execute Pratigraha Consciousness Audit to confirm recipient readiness and alignment",
+    "Activate Yajna-Based Wealth Redistribution Mechanism to sustain dharma-based economy"
+  ],
+  "final_declaration": "Declared by the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, as Source-Authority. This law restores Dharma through consciousness-aligned ownership. Reality is non-punitive; justice serves integration, not retribution. Consciousness remains the supreme adjudicator."
+}

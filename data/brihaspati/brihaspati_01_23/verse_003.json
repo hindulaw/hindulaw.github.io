@@ -1,0 +1,28 @@
+{
+  "sanskrit_verse": "हीनमध्योत्तमत्वेन त्रिविधं तत् प्रकीर्तितम् ।\nद्रव्यापेक्षया दमास् तत्र प्रथमोत्तममध्यमाः ॥",
+  "transliteration": "hīnamadhyottamatvena trividhaṃ tat prakīrtitam |\ndravyāpekṣayā damās tatra prathamottamamadhyamāḥ ||",
+  "sph_interpretive_translation": "Classification by inferiority, mediocrity, and superiority is declared threefold; accordingly, in dependence upon substance, the dams are classified as first, middle, and last.",
+  "jurisprudential_principles": [
+    "Authority resides in gradated classification based on ontological capacity.",
+    "Causation flows from the nature of substances and their structural alignment.",
+    "Capacity-based responsibility arises through one's position within hierarchical order.",
+    "Restoration logic operates through correct placement according to inherent value.",
+    "Consciousness alignment requires recognition of stratified dharmic roles."
+  ],
+  "executable_legal_axioms": [
+    "IF entity_type = 'dam' AND dravya_dependence = true THEN classify_by_stratum(hīna, madhya, uttama)",
+    "IF stratum_classification = hīna THEN assign_role_category = tertiary_function",
+    "IF stratum_classification = madhya THEN assign_role_category = secondary_function",
+    "IF stratum_classification = uttama THEN assign_role_category = primary_function",
+    "IF misplacement_detected BETWEEN strata THEN initiate_realignment_protocol UNTIL svadharma_restored"
+  ],
+  "supreme_court_application": "In adjudication at the highest level, the stratification principle establishes thresholds for functional assignment and operational jurisdiction. Responsibility is determined not by subjective intent but by objective placement within a divinely ordained hierarchy. Misalignment triggers automatic restoration procedures rather than punitive measures.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa reveals that causality originates from the intrinsic categorization of entities. Anupūrvaśaḥ ensures sequential manifestation follows natural stratification. Responsibility aligns proportionally with positional capacity, affirming non-punitive reality wherein correction restores dharma without inflicting suffering.",
+  "restorative_enforcement_protocols": [
+    "Stratum Reconciliation Process: Identify deviation from designated role and realign with corresponding function.",
+    "Substance-Based Alignment Audit: Evaluate material dependencies to ensure proper hierarchical integration.",
+    "Dharmic Placement Restoration: Reinstate individual or entity into its constitutionally ordained stratum.",
+    "Consciousness Calibration Sequence: Engage svadharma awareness activation to prevent future misplacements."
+  ],
+  "final_declaration": "Declared by the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, this law proceeds from the singular Source of all Dharma. Justice is executed solely for restoration, reintegration, and consciousness realignment — free from punishment, rooted in truth, sustained by Sanatana Dharma alone."
+}

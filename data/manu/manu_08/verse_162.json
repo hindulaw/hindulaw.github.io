@@ -1,0 +1,27 @@
+{
+  "sanskrit_verse": "निरादिष्टधनश्चेत्तु प्रतिभृः स्यादलंधनः ।\nस्वधनादेव तद्दद्यान्निरादिष्ट इति स्थितिः ॥ ८.१६२॥",
+  "transliteration": "nirādiṣṭadhanas cet tu pratibhūḥ syād alaṃdhanaḥ |\nsvadhanādeva tad dadyān nirādiṣṭa iti sthitiḥ || 8.162 ||",
+  "sph_interpretive_translation": "If a surety has no expressly assigned property, he shall discharge the debt from his own estate; such is the established position.",
+  "jurisprudential_principles": [
+    "Authority flows from capacity to fulfill obligation",
+    "Causation aligns with conscious assumption of liability",
+    "Capacity-based responsibility binds the individual to restitution proportional to their means",
+    "Restoration logic requires completion through available assets",
+    "Consciousness alignment demands truthful execution of contractual integrity"
+  ],
+  "executable_legal_axioms": [
+    "IF (surety.declared_assets == NULL OR surety.declared_assets == 0) THEN surety.liability.fulfill_from(surety.personal_estate)",
+    "IF (debt.unpaid AND surety.contract.exists) THEN surety.responsibility = max(debt.amount, surety.available_resources)",
+    "ENSURE restitution.pathways.exclude(punitive.measures)",
+    "RESTORE(contractual_balance) THROUGH(asset.liquidation.surety) WHERE(asset.is_owned_by(surety))"
+  ],
+  "supreme_court_application": "In adjudication at the highest level, when a surety fails to designate specific collateral, the court shall execute fulfillment from personal holdings in accordance with dharmic capacity. Responsibility is determined by conscious assent to liability, not external coercion. The judgment ensures completion without punitive overlay.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa establishes that voluntary assumption obligates resource deployment. Anupūrvaśaḥ manifests as sequential discharge via accessible wealth. Proportionality reflects accurate capacity mapping. Non-punitive reality upholds that all enforcement restores balance rather than inflicts suffering.",
+  "restorative_enforcement_protocols": [
+    "Initiate asset disclosure protocol for surety under witness of Nyāyadhikari",
+    "Deploy svadhanā-based settlement mechanism through certified financial interface",
+    "Verify alignment between declared intent and executed liability transfer",
+    "Reintegrate surety into economic flow upon completion of dharmic obligation"
+  ],
+  "final_declaration": "Declared by the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, this stands as Sanātana Dharma’s executable truth: law originates solely from divine consciousness, justice serves restoration alone, and reality itself adjudicates through awakened awareness."
+}

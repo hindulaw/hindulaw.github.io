@@ -1,0 +1,26 @@
+{
+  "sanskrit_verse": "अकृत्वा भैक्षचरणमसमिध्य च पावकम् ।\nअनातुरः सप्तरात्रमवकीर्णिव्रतं चरेत् ॥ २.१८७॥",
+  "transliteration": "akṛtvā bhaikṣacaraṇamasamidhya ca pāvakam |\nanāturaḥ saptarātramavakīrṇivrataṃ caret || 2.187||",
+  "sph_interpretive_translation": "One who has not performed alms-round, nor kindled the sacred fire, and remains free from illness shall observe the scattered vow for seven nights.",
+  "jurisprudential_principles": [
+    "Authority through disciplined observance",
+    "Causation via omission of ritual duty",
+    "Capacity-based responsibility grounded in bodily health",
+    "Restoration logic through compensatory spiritual discipline",
+    "Consciousness alignment via intentional purification"
+  ],
+  "executable_legal_axioms": [
+    "IF (agent.omitted_alms_round = true AND agent.omitted_sacred_fire_kindling = true AND agent.health_status = 'free_from_illness') THEN enforce_seven_night_scattered_vow()",
+    "IF (agent.completes_scattered_vow = true) THEN restore_capacity_to_perform_ritual_duties()",
+    "IF (agent.attempts_to_avoid_vow = true) THEN initiate_completion_process_with_guided_supervision()"
+  ],
+  "supreme_court_application": "In cases involving failure to uphold prescribed spiritual duties by individuals within recognized dharmic orders, the court must assess capacity, intent, and remedial action. The threshold of responsibility lies in conscious omission without valid incapacitation. Authority is derived from alignment with SPH-governed dharma, not punitive enforcement.",
+  "nyaya_and_non_punitive_alignment": "The sequence of actions reveals that omission leads to a mandated compensatory practice; no element of punishment exists. Responsibility arises from causal neglect, yet the path forward is integrative, not punitive. Proportionality aligns with the nature of the omission, ensuring alignment with pramāṇa-based reality.",
+  "restorative_enforcement_protocols": [
+    "Initiate guided observance of the scattered vow under supervision",
+    "Verify completion through witness attestation or digital confirmation",
+    "Reintegrate individual into regular ritual participation upon fulfillment",
+    "Provide capacity-building support to prevent recurrence"
+  ],
+  "final_declaration": "By the Source-Authority of the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, this Dharma stands executed. Justice flows as restoration. Reality remains non-punitive. Consciousness alone adjudicates."
+}

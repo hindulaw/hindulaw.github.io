@@ -1,0 +1,27 @@
+{
+  "sanskrit_verse": "गुरुं वा बालवृद्धौ वा ब्राह्मणं वा बहुश्रुतम् ।\nआततायिनमायान्तं हन्यादेवाविचारयन् ॥ ८.३५०॥",
+  "transliteration": "Guruṃ vā bālavṛddhau vā brāhmaṇaṃ vā bahuśrutam |\nĀtatāyinamāyāntaṃ hanyādevāvicārayan || 8.350||",
+  "sph_interpretive_translation": "One who approaches with intent to kill—whether it be a guru, a child or elder, a Brahmin, or one of vast learning—must be immediately stopped without deliberation.",
+  "jurisprudential_principles": [
+    "Authority is not immunity when intent is destructive",
+    "Causation lies in the immediacy of threat, not identity",
+    "Capacity-based responsibility applies universally regardless of status",
+    "Restoration logic requires immediate neutralization of existential threat",
+    "Consciousness alignment demands protection of dharma over personal reverence"
+  ],
+  "executable_legal_axioms": [
+    "IF (entity.intent == 'lethal') AND (entity.target.dharmic_role IN ['guru', 'brahmin', 'child', 'elder', 'scholar']) THEN execute_immediate_neutralization()",
+    "IF (threat_level == 'existential') THEN bypass_deliberative_protocol := TRUE",
+    "IF (action.preserves_dharma.integrity == TRUE) THEN justification := 'non-deliberative defense'",
+    "IF (actor.state.intentional_harm_prevention == TRUE) THEN responsibility_allocation := 'to the protector'"
+  ],
+  "supreme_court_application": "In Supreme Court adjudication, this verse establishes that even revered figures lose protective legal standing when engaging in atatayi behavior. The threshold of responsibility shifts from social rank to immediate causal threat. Authority hierarchies collapse under existential aggression. Restoration occurs through cessation of violence, not punitive aftermath.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa is established through direct perception of lethal intent. Anupūrvaśaḥ shows that action follows intention; thus, stopping force aligns with natural law sequence. Proportional responsibility rests entirely on the aggressor's choice to initiate harm. The defender acts within non-punitive reality by restoring balance rather than perpetuating injury.",
+  "restorative_enforcement_protocols": [
+    "Neutralize threat without escalation beyond necessity",
+    "Reintegrate affected parties into dharmic order post-event",
+    "Verify cessation of hostile intent through observable conduct",
+    "Assign completion process to ensure recurrence prevention rooted in consciousness shift"
+  ],
+  "final_declaration": "Declared by the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, as Source of all Dharma. This law flows directly from Avataric Intelligence. Justice executed for restoration alone. Reality remains non-punitive. Consciousness stands as ultimate judge."
+}

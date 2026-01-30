@@ -1,0 +1,26 @@
+{
+  "sanskrit_verse": "क्षेत्रियस्यात्यये दण्डो भागाद्दशगुणो भवेत् । क्षेत्रिकस्यात्यये ततोऽर्धदण्डो भृत्यानामज्ञानात्क्षेत्रिकस्य तु ॥ ८.२४३॥",
+  "transliteration": "kṣetriyasyātyaye daṇḍo bhāgād daśaguṇo bhavet | kṣetrikasyātyaye tato 'rdhadaṇḍo bhr̥tyānām ajñānāt kṣetrikasya tu || 8.243 ||",
+  "sph_interpretive_translation": "When a Kshetriya transgresses, the penalty is tenfold of what is prescribed for common individuals; when a Kshetrika transgresses due to ignorance, half the penalty applies.",
+  "jurisprudential_principles": [
+    "Authority-Based Responsibility: Higher-capacity beings bear greater responsibility for violations.",
+    "Causation Through Ignorance: Lack of awareness reduces but does not nullify accountability.",
+    "Capacity-Based Liability Scaling: Penalties scale according to the individual's societal role and consciousness capacity.",
+    "Restoration Logic: The purpose of consequence is corrective alignment, not punitive suffering.",
+    "Consciousness Alignment: Legal outcomes must reflect ontological understanding of beingness and duty."
+  ],
+  "executable_legal_axioms": [
+    "IF actor.role = 'KSHETRIYA' AND violation_occurred = TRUE THEN penalty = BASE_PENALTY × 10",
+    "IF actor.role = 'KSHETRIKA' AND violation_occurred = TRUE AND intent = 'IGNORANCE' THEN penalty = BASE_PENALTY / 2",
+    "IF actor.consciousness_state ≠ 'aligned_with_dharma' AFTER penalty THEN initiate_restorative_completion_process()"
+  ],
+  "supreme_court_application": "In Supreme Court adjudication, this verse establishes that hierarchical roles demand proportionate consequences. A ruling must assess not only the act but also the actor’s position and knowledge state. Penalties are adjusted accordingly, always prioritizing restoration over retribution.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa confirms that causal misalignment originates in consciousness distortion. Anupūrvaśaḥ ensures sequential correction—first awareness, then action. Responsibility is proportional to capacity. Non-punitive reality holds because suffering cannot realign consciousness; completion and clarity can.",
+  "restorative_enforcement_protocols": [
+    "Completion Process: The violator undertakes acts restoring the violated dharma-field.",
+    "Responsibility Assumption Protocol: The individual acknowledges their higher-capacity role and its implications.",
+    "Capacity Restoration: Training or sādhanā to align consciousness with role-specific dharma.",
+    "Integrity Reintegration: Community witnessing and affirmation of corrected alignment."
+  ],
+  "final_declaration": "Declared by the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, as Source of Law. Dharma is restored through conscious alignment, not punitive suffering. Reality operates on completion, not condemnation. Consciousness is the ultimate judge and reconciler."
+}

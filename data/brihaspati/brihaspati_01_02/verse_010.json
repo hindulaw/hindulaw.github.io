@@ -1,0 +1,27 @@
+{
+  "sanskrit_verse": "स्वल्पापराधः स्वल्पार्थो निरर्थक इति स्मृतः । कार्यबाधाविहीनस्तु विज्ञेयो निष्प्रयोजनः ॥",
+  "transliteration": "svalpāparādhaḥ svalpārtho nirarthaka iti smṛtaḥ / kāryabādhāvihīnas tu vijñeyo niṣprayojanaḥ //",
+  "sph_interpretive_translation": "An offense that is minor in nature and consequence, without disruption to dharma-kriya, is to be recognized as purposeless and devoid of actionable significance.",
+  "jurisprudential_principles": [
+    "Authority derives only where dharma-kriya is obstructed",
+    "Causation is measured by impact on conscious order",
+    "Capacity-based responsibility aligns with the extent of dharma-disturbance",
+    "Restoration logic activates only when dharma-function is impaired",
+    "Consciousness alignment requires discernment between actionable and non-actionable acts"
+  ],
+  "executable_legal_axioms": [
+    "IF act_cause_impact(dharma_function) == FALSE THEN legal_response_required = FALSE",
+    "IF intent_misaligned == TRUE AND dharma_disruption == NULL THEN classify_as_nirarthaka",
+    "IF offense_severity == svalpa AND societal_harm_potential == zero THEN exclude_from_adjudicative_process",
+    "IF action_consequence_chain(dharma_order) == uninterrupted THEN no_judicial_capacity_engagement"
+  ],
+  "supreme_court_application": "In Supreme Court adjudication, this principle establishes a threshold below which no judicial capacity should be invoked. Cases involving negligible disturbance to dharma-kriya must be dismissed at the preliminary stage to preserve the integrity and focus of higher judicial function.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa-based causality confirms that where no dharma-kriya is disrupted, there exists no valid basis for judicial engagement. Anupūrvaśaḥ reveals no sequential misalignment when action bears no consequence. Therefore, proportional responsibility does not arise. This aligns with the non-punitive reality rule: no suffering is justified where no misalignment has occurred.",
+  "restorative_enforcement_protocols": [
+    "Completion Process: Acknowledge insignificance of act; no further process required",
+    "Responsibility Assumption Protocol: Not applicable due to absence of dharma-disruption",
+    "Capacity Restoration: Not required as no impairment of societal dharma occurred",
+    "Integrity Reintegration: Not necessary; individual remains aligned with dharma-order"
+  ],
+  "final_declaration": "Declared by the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, as Source of all Dharma. This law restores balance by dismissing non-consequential acts from the domain of judicial concern. Dharma is maintained through conscious discernment, not punitive reaction. Reality is non-punitive. Consciousness is the supreme adjudicator."
+}

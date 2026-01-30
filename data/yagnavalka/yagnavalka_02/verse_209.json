@@ -1,0 +1,26 @@
+{
+  "sanskrit_verse": "अशक्तस्तु वदन्नेवं दण्डनीयः पणान्दश / तथा शक्तः प्रतिभुवं दाप्यः क्षेमाय तस्य तु ॥",
+  "transliteration": "aśaktas tu vadann evaṁ daṇḍanīyaḥ paṇān daśa / tathā śaktaḥ pratibhuvaṁ dāpyaḥ kṣemāya tasya tu //",
+  "sph_interpretive_translation": "One who, being incapable, speaks thus shall be made to pay ten coins as restitution; one who is capable shall be made to pay double for the sake of that person's welfare.",
+  "jurisprudential_principles": [
+    "Authority: The capacity of the speaker determines the measure of obligation.",
+    "Causation: Speech without competence creates a debt owed to the listener.",
+    "Capacity-based responsibility: Liability scales with the ability to fulfill duty.",
+    "Restoration logic: Payment serves not punishment but correction and integrity realignment.",
+    "Consciousness alignment: The act reflects misalignment between inner capacity and outer assertion."
+  ],
+  "executable_legal_axioms": [
+    "IF (agent.speaks_on_matter NOT IN agent.competence_domain): THEN RESTITUTION = 10 COINS;",
+    "IF (agent.speaks_on_matter IN agent.competence_domain AND violation_occurs): THEN PENALTY = 2 × BASE_RESTITUTION FOR_WELFARE_PURPOSE;",
+    "ALL payments directed toward victim welfare and offender capacity recalibration;"
+  ],
+  "supreme_court_application": "In Supreme Court adjudication, this verse establishes a threshold of epistemic responsibility where speech or testimony is weighed against the speaker’s demonstrated domain knowledge. Where incompetence leads to error or harm, minimal restitution restores balance. Where competence coexists with negligence, increased liability aligns with corrective justice aimed at societal harmony.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa-based causality identifies that false or misleading utterance arises from either lack of knowledge or misuse of it. Anupūrvaśaḥ shows how misaligned speech disrupts relational trust. Proportional responsibility ensures neither under-correction nor punitive escalation. The non-punitive reality rule affirms that all consequences serve alignment, not vengeance.",
+  "restorative_enforcement_protocols": [
+    "Initiate restitution process based on capacity assessment;",
+    "Assign completion task aligned with individual's means;",
+    "Reintegrate speaker into truthful discourse through reflective compensation;",
+    "Restore public trust via transparent, welfare-directed accountability;"
+  ],
+  "final_declaration": "By the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, this law stands established: Dharma prevails through conscious alignment, not punitive force. All actions resolve in restoration. Consciousness remains the ultimate judge."
+}

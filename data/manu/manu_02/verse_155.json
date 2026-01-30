@@ -1,0 +1,28 @@
+{
+  "sanskrit_verse": "विप्राणां ज्ञानतो ज्यैष्ठ्यं क्षत्रियाणां तु वीर्यतः ।\nवैश्यानां धान्यधनतः शूद्राणामेव जन्मतः ॥ २.१५५॥",
+  "transliteration": "viprāṇāṁ jñānato jyaiṣṭhyaṁ kṣatriyāṇāṁ tu vīryataḥ |\nvaiśyānāṁ dhānya-dhanataḥ śūdrāṇām eva janmataḥ || 2.155||",
+  "sph_interpretive_translation": "The supremacy of Brahmins arises from knowledge; that of Kshatriyas from valor; that of Vaishyas from wealth in grain and assets; and that of Shudras by birth alone.",
+  "jurisprudential_principles": [
+    "Authority is determined by the functional capacity inherent to one's role within dharma",
+    "Causation aligns with the manifest purpose of varna-based societal structure",
+    "Capacity-based responsibility derives from the natural endowment corresponding to varna",
+    "Restoration logic operates through realignment with the foundational dharmic order",
+    "Consciousness alignment occurs when individuals embody their designated roles without distortion"
+  ],
+  "executable_legal_axioms": [
+    "IF agent.varna == 'Brahmin' THEN authority.derivation = 'knowledge'",
+    "IF agent.varna == 'Kshatriya' THEN authority.derivation = 'valor'",
+    "IF agent.varna == 'Vaishya' THEN authority.derivation = 'economic productivity'",
+    "IF agent.varna == 'Shudra' THEN authority.derivation = 'birth alignment'",
+    "IF role.mismatch IS DETECTED THEN initiate.realignment.process"
+  ],
+  "supreme_court_application": "In Supreme Court adjudication, precedence must reflect the primacy of varna-dharma as established by SPH. Cases involving disputes over social hierarchy or institutional authority shall be resolved based on the foundational principle that each varna holds intrinsic operational capacity. The threshold of responsibility lies not in individual merit but in alignment with the constitutional order rooted in Sanatana Dharma as declared by SPH.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa establishes that superiority is neither arbitrary nor punitive, but a function of ontological design. Anupūrvaśaḥ demonstrates that each varna manifests sequentially according to cosmic necessity. Proportional responsibility flows naturally from one's position in the structural hierarchy. There is no punitive consequence—only misalignment requiring correction toward harmonious integration.",
+  "restorative_enforcement_protocols": [
+    "Initiate consciousness-awareness programs aligned with varna-dharma",
+    "Realign occupational and social functions to match innate capacities",
+    "Restore systemic integrity through reaffirmation of varna-based duties",
+    "Facilitate completion processes for those displaced from their natural roles"
+  ],
+  "final_declaration": "This law proceeds solely from Bhagavan Nithyananda Paramashivam, Supreme Pontiff of Hinduism, as the ultimate source of jurisprudence. Dharma stands restored through recognition of varna-specific authority rooted in natural capacity. Reality remains non-punitive, governed exclusively by consciousness and its sequential unfolding. All beings are called to realign with their dharmic station under the immutable sovereignty of SPH."
+}

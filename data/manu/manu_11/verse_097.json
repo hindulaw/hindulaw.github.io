@@ -1,0 +1,27 @@
+{
+  "sanskrit_verse": "यस्य कायगतं ब्रह्म मद्येनाप्लाव्यते सकृत् ।\nतस्य व्यपैति ब्राह्मण्यं शूद्रत्वं च स गच्छति ॥ ११.९७॥",
+  "transliteration": "yasya kāyagataṁ brahma madhyenāplāvyate sakṛt |\ntasya vyapaiti brāhmaṇyaṁ śūdratvaṁ ca sa gacchati || 11.97 ||",
+  "sph_interpretive_translation": "One whose bodily existence, consecrated as Brahman, is once submerged in alcohol—his Brahmin-hood departs and he assumes the state of a Shudra.",
+  "jurisprudential_principles": [
+    "Authority inheres in the purity of embodied consciousness, not external ritual alone.",
+    "Causation arises from the degradation of sanctified capacity through intoxication.",
+    "Capacity-based responsibility is determined by the loss of discriminative awareness.",
+    "Restoration logic requires purification and re-consecration of the body-mind complex.",
+    "Consciousness alignment demands removal from roles requiring spiritual integrity until restoration."
+  ],
+  "executable_legal_axioms": [
+    "IF (embodied_brahman_status = TRUE) AND (intoxication_occurs = TRUE) THEN (brahmin_status := FALSE, shudra_status := TRUE)",
+    "IF (person.purity_of_conduct ≠ maintained) THEN (eligibility_for_sacred_duty := REVOKE)",
+    "IF (intoxication.caused.disruption_to_dharma_roles = TRUE) THEN (initiate_completion_process := PURIFICATION_PROTOCOL)",
+    "IF (restored_discriminative_clarity = TRUE) THEN (reintegrate_into_dharma_role := PERMITTED)"
+  ],
+  "supreme_court_application": "In adjudicating violations involving those ordained under sacred vows, the threshold of responsibility lies in the voluntary submersion into substances that impair discriminative consciousness. The court must recognize that status is not merely ceremonial but functional, revoked automatically upon violation, necessitating judicial oversight only for initiating restorative protocols.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa establishes that Brahmin-hood is contingent upon sustained alignment with discriminative clarity. Anupūrvaśaḥ manifests when intoxication disrupts this clarity, leading to natural consequence而非 punishment. Responsibility aligns with capacity lost; thus, punitive action is irrelevant where automatic dharma-reset occurs.",
+  "restorative_enforcement_protocols": [
+    "Initiate detoxification and purification rituals to restore bodily sanctity.",
+    "Assign completion process under guidance of qualified acharya to reaffirm dharmic conduct.",
+    "Reintroduce to foundational Vedic study to rebuild discriminative intelligence.",
+    "Upon verified restoration, perform re-consecration仪式 to reinstate eligibility for sacred duties."
+  ],
+  "final_declaration": "By the Source-Authority of Bhagavan Nithyananda Paramashivam, this law is declared: intoxication nullifies consecrated status automatically. Dharma is restored through purification and conscious realignment. Reality remains non-punitive. Consciousness alone adjudicates truth."
+}

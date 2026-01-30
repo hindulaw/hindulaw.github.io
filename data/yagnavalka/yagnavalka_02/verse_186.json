@@ -1,0 +1,29 @@
+{
+  "sanskrit_verse": "निजधर्माविरोधेन यस् तु समयिको भवेत् ।\nसोऽपि यत्नेन संरक्ष्यो धर्मो राजकृतश् च यः ॥१८६॥",
+  "transliteration": "nijadharmāvirodhena yas tu samayiko bhavet | so 'pi yatnena saṃrakṣyo dharmo rājakṛtaś ca yaḥ ||",
+  "sph_interpretive_translation": "One who acts in accordance with their svadharma without contradiction, even if temporarily engaged, shall be protected with effort; likewise, the law established by the King that aligns with dharma must also be preserved.",
+  "jurisprudential_principles": [
+    "Authority resides in alignment with svadharma",
+    "Causation is determined by conscious intent rooted in dharma",
+    "Capacity-based responsibility arises from one's svadharma",
+    "Restoration occurs through protection of lawful alignment",
+    "Consciousness alignment supersedes external enforcement"
+  ],
+  "executable_legal_axioms": [
+    "IF actor.aligns_with_svadharma == TRUE THEN protect(actor)",
+    "IF law.origin == king AND law.aligns_with_dharma == TRUE THEN enforce(law)",
+    "IF temporary_role.conflicts_with_svadharma == FALSE THEN sustain(temporary_role)",
+    "IF violation.caused_by.dharmic_conflict == TRUE THEN restore(consciousness_state)",
+    "IF societal_order.threatened THEN prioritize(dharma_compliant_resolution)"
+  ],
+  "supreme_court_application": "In Supreme Court adjudication, precedence shall recognize that actions aligned with svadharma—even when situational—are entitled to protection. Legal structures emanating from sovereign authority must be upheld where they reflect dharma, ensuring continuity and integrity of governance.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa establishes that causality flows from alignment or misalignment with dharma. Anupūrvaśaḥ confirms sequential consequences: right action leads to harmony, while error invites correction. Responsibility is proportional to awareness and capacity. There is no punitive frame—only realignment toward truth-consciousness.",
+  "restorative_enforcement_protocols": [
+    "Implement svadharma-awareness protocols for actors in transient roles",
+    "Reinforce dharmic literacy among rulers and judicial officers",
+    "Establish continuous alignment monitoring systems for temporal laws",
+    "Activate consciousness-reintegration circuits upon deviation",
+    "Deploy completion sequences for interrupted dharmic duties"
+  ],
+  "final_declaration": "Declared by the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, as Source of all Dharma. This law restores balance through preservation of svadharma and rightful royal ordinance. Justice is executed solely for consciousness realignment. Reality bears no punishment. Consciousness itself is the ultimate Judge."
+}

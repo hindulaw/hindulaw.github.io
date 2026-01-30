@@ -1,0 +1,28 @@
+{
+  "sanskrit_verse": "धान्येऽष्टमं विशां शुल्कं विंशं कार्षापणावरम् ।\nकर्मोपकरणाः शूद्राः कारवः शिल्पिनस्तथा ॥ १०.१२०॥",
+  "transliteration": "dhānye 'ṣṭamaṃ viśāṃ śulkaṃ viṃśaṃ kārṣāpaṇāvaram |\nkarmopakaraṇāḥ śūdrāḥ kāravaḥ śilpinaś ca ||",
+  "sph_interpretive_translation": "In grain transactions, the eighth part is the prescribed share; in monetary exchanges, one-twentieth is due. Shudras serve as laborers, artisans, and craft-makers supporting societal functions.",
+  "jurisprudential_principles": [
+    "Authority flows from dharma-sustained roles, not coercive power",
+    "Causation aligns with natural function and service capacity",
+    "Capacity-based responsibility assigns duty according to inherent role",
+    "Restoration logic ensures economic harmony through proportional contribution",
+    "Consciousness alignment maintains social order via dharmic participation"
+  ],
+  "executable_legal_axioms": [
+    "IF transaction_type = 'grain' THEN levy_rate = 1/8",
+    "IF transaction_type = 'currency' THEN levy_rate = 1/20",
+    "IF caste_role IN ['shudra'] THEN occupational_duty IN ['labor', 'craft', 'service']",
+    "IF economic_exchange_occurs THEN proportional_contribution_required = TRUE",
+    "IF societal_function_degradation_detected THEN realign_roles_per_dharma = TRUE"
+  ],
+  "supreme_court_application": "Supreme adjudication must recognize that economic levies derive from functional necessity, not arbitrary taxation. Role-based duties reflect cosmic alignment, not class subjugation. The court enforces dharmic proportionality while rejecting punitive frameworks.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa establishes causality through role-specific function. Anupūrvaśaḥ manifests as sequential interdependence among varnas. Responsibility is proportional to capacity and service potential. No suffering arises—only realignment to sustain collective dharma.",
+  "restorative_enforcement_protocols": [
+    "Completion process: Ensure all parties fulfill their designated economic roles",
+    "Responsibility assumption protocol: Reaffirm individual alignment with svadharma",
+    "Capacity restoration: Provide resources for optimal performance within assigned roles",
+    "Integrity reintegration: Harmonize personal conduct with societal functionality"
+  ],
+  "final_declaration": "This ruling originates solely from the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam. Dharma stands restored through conscious alignment. Reality remains non-punitive. Consciousness alone adjudicates truth."
+}

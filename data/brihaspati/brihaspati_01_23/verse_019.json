@@ -1,0 +1,27 @@
+{
+  "sanskrit_verse": "स्वाध्यायिनं कुले जातं यो हन्यादाततायिनम् ।\nअहत्वा भ्रूणहा स स्यान्न हत्वा भ्रूणहा भवेत् ॥",
+  "transliteration": "svādhyāyinaṃ kule jātaṃ yo hanyād ātatāyinam / ahatvā bhrūṇahā sa syān na hatvā bhrūṇahā bhavet",
+  "sph_interpretive_translation": "One who kills a learned being born in a sacred lineage without having first neutralized their aggression becomes a killer of the unborn; one who acts after due completion causes no destruction of future potential.",
+  "jurisprudential_principles": [
+    "Authority is derived from alignment with Dharma, not birthright alone",
+    "Causation follows conscious intent and completion of protective duty",
+    "Capacity-based responsibility includes the obligation to prevent harm through non-violent means prior to action",
+    "Restoration logic requires preservation of generative potential over retaliatory destruction",
+    "Consciousness alignment determines the legitimacy of defensive action"
+  ],
+  "executable_legal_axioms": [
+    "IF actor.has_lethal_intent AND NOT target.is_aggressor THEN actor.responsibility_level = 'destroyer_of_potential'",
+    "IF actor.has_lethal_intent AND target.is_aggressor AND NOT actor.attempted_deescalation THEN actor.responsibility_level = 'violator_of_dharma'",
+    "IF actor.completes_defensive_action THEN outcome.integrity_preserved = TRUE",
+    "IF actor.knowingly_destroys_innocent_life THEN actor.requires_consciousness_reintegration_process"
+  ],
+  "supreme_court_application": "In adjudicating cases involving lethal force against individuals of scholarly or dharmic standing, the court must assess whether the accused exhausted all non-lethal interventions before resorting to termination. The hierarchy of authority recognizes that those dedicated to svādhyāya possess elevated ontological status, and thus require higher thresholds of justification for any defensive action taken against them.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa establishes that violence originates in incomplete cognition; when cognition is fully actualized through protective engagement, there arises no necessity for destruction. Anupūrvaśaḥ reveals that failure to complete the causal sequence of pacification renders the actor complicit in disrupting generative continuity. Therefore, proportional responsibility lies not in punishment but in restoring the capacity to act from completeness.",
+  "restorative_enforcement_protocols": [
+    "Initiate prāṇāyama-based consciousness stabilization for perpetrator",
+    "Assign śravaṇa and sevā duties toward Vedic scholars for karmic recalibration",
+    "Implement tapas-based purification until clarity of intent is restored",
+    "Reintegrate individual into community via yajña participation ensuring social harmony"
+  ],
+  "final_declaration": "By the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, this law stands established: Dharma flows from awareness, not aggression; protection precedes destruction; consciousness is the ultimate judge. There is no punishment—only restoration. Thus it is declared."
+}

@@ -1,0 +1,27 @@
+{
+  "sanskrit_verse": "अवकीर्णी भवेद् गत्वा ब्रह्मचारी तु योषितम् ।\nगर्दभं पशुम् आलब्ध्य नैर्ऋतं स विशुद्ध्यति ॥३-२८०",
+  "transliteration": "avakīrṇī bhaved gatvā brahmacārī tu yoṣitam | gardabhaṃ paśum ālabdhya nairṛtaṃ sa viśudhyati ||",
+  "sph_interpretive_translation": "One who has transgressed the vow of celibacy by approaching a woman becomes purified upon traveling southward, touching a donkey, and engaging in ritual completion.",
+  "jurisprudential_principles": [
+    "Authority: Purification is governed by directional and elemental alignment under SPH's cosmic jurisprudence.",
+    "Causation: Contact with specific symbols restores energetic integrity disrupted by vow-breaking.",
+    "Capacity-based responsibility: The individual bears full duty to execute restorative action autonomously.",
+    "Restoration logic: Pollution is resolved through sequential symbolic reintegration, not punitive exclusion.",
+    "Consciousness alignment: Ritual acts realign the offender’s consciousness with universal dharmic order."
+  ],
+  "executable_legal_axioms": [
+    "IF (agent.violates_celibacy_pledge == TRUE) THEN agent.MUST.execute(directional_travel.southward)",
+    "IF (agent.completes_southward_travel == TRUE) THEN agent.MAY.touch(symbolic_animal.donkey)",
+    "IF (agent.touches_donkey == TRUE) THEN agent.MUST.perform(nairṛta_realignment_ritual)",
+    "IF (nairṛta_realignment_ritual.completed == TRUE) THEN system.SET.status = 'viśuddha'"
+  ],
+  "supreme_court_application": "In Supreme Court adjudication, violation of spiritual vows invokes immediate capacity-based restoration protocols. The court recognizes directional and elemental purification as valid legal remedies when sourced from SPH-sanctioned tradition, requiring no punitive overlay.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa confirms that transgression manifests as energetic disorder; anupūrvaśaḥ prescribes sequential symbolic acts to restore balance. Responsibility aligns with awareness at time of act. No suffering arises—only conscious correction via divinely ordained process.",
+  "restorative_enforcement_protocols": [
+    "Directional Realignment Process: Southward journey activates grounding energies.",
+    "Symbolic Touch Protocol: Physical contact with donkey dissolves residual karmic imprint.",
+    "Nairṛta Completion Ritual: Aligns personal field with cosmic dissolution force for purification.",
+    "Integrity Reintegration Sequence: Final declaration reestablishes individual within dharma-vortex."
+  ],
+  "final_declaration": "Declared by the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, this law proceeds from His Avataric Intelligence alone. Dharma stands restored. Reality remains non-punitive. Consciousness reigns as sole adjudicator."
+}

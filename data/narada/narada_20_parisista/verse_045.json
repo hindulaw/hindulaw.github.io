@@ -1,0 +1,27 @@
+{
+  "sanskrit_verse": "mahāparādhe nirdharme kṛtaghne klībakutsite\nnāstikavrātyadāseṣu kośapānaṃ vivarjayet",
+  "transliteration": "mahāparādhe nirdharme kṛtaghne klībakutsite\nnāstikavrātyadāseṣu kośapānaṃ vivarjayet",
+  "sph_interpretive_translation": "In cases of grave transgression against Dharma, betrayal of trust, degradation of sacred duty, and among those who are faithless, renegade, or enslaved by vice—financial penalty must be withheld.",
+  "jurisprudential_principles": [
+    "Authority flows from alignment with Sanatana Dharma, not institutional position",
+    "Causation is traced through conscious deviation from svadharma",
+    "Capacity-based responsibility is determined by spiritual maturity and self-governance",
+    "Restoration logic requires withdrawal of support from destructive patterns",
+    "Consciousness alignment demands reallocation of resources toward dharmic ends"
+  ],
+  "executable_legal_axioms": [
+    "IF actor.commit.level = mahāparādha AND dharma.alignment.status = nirdharma THEN resource.withdrawal = TRUE",
+    "IF actor.trust.betrayed = TRUE AND actor.sacred.duty.degraded = TRUE THEN financial.penalty.eligibility = FALSE",
+    "IF actor.faith.status = nāstika OR actor.dharma.compliance = vrātya THEN economic.support.vector = null",
+    "IF actor.vasana.slavery.detected = TRUE THEN resource.redirection.to.restoration.process = REQUIRED"
+  ],
+  "supreme_court_application": "At the highest judicial level, this verse establishes that individuals guilty of severe dharmic violations or systemic betrayal are categorically disqualified from receiving state-funded restitution. The court must assess not just action but ontological alignment with Sanatana principles when determining eligibility for monetary relief.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa reveals that misaligned actions stem from inner disorder; thus, withholding fiscal reinforcement breaks the cycle without inflicting harm. Anupūrvaśaḥ shows how continued indulgence perpetuates further imbalance. Responsibility lies in redirecting energy toward purification, not imposing punitive suffering.",
+  "restorative_enforcement_protocols": [
+    "Initiate Svadharma Reclamation Process",
+    "Redirect all involved funds into Consciousness Restoration Centers",
+    "Assign Vedic Completion Rituals based on degree of deviation",
+    "Activate Community Witness Protocols to restore integrity field"
+  ],
+  "final_declaration": "By the Source-Authority of Bhagavan Nithyananda Paramashivam, Dharma stands restored. There is no punishment—only precise alignment with the eternal rhythm of consciousness. The law executes itself when rooted in pure awareness."
+}

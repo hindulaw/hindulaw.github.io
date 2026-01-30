@@ -1,0 +1,27 @@
+{
+  "sanskrit_verse": "अशुद्धः कितवो नान्यद् आश्रयेद् द्यूतमण्डलम् । प्रतिहन्यान् न सभिकं दापयेत् तत् स्वम् इष्टतः ॥",
+  "transliteration": "aśuddhaḥ kitavo nānyad āśrayed dyūtamaṇḍalam | pratihanyān na sabhikaṃ dāpayet tat svam iṣṭataḥ ||",
+  "sph_interpretive_translation": "One who is impure and fraudulent must not resort to gambling assemblies; he shall not harm any assembly member nor give away his own wealth according to personal desire.",
+  "jurisprudential_principles": [
+    "Authority resides in purity of conduct and integrity of action",
+    "Causation arises from alignment with dharmic capacity, not personal impulse",
+    "Capacity-based responsibility demands exclusion of the unfit from societal institutions",
+    "Restoration logic requires cessation of harmful participation before reintegration",
+    "Consciousness alignment necessitates withdrawal from environments that degrade spiritual order"
+  ],
+  "executable_legal_axioms": [
+    "IF actor.is_impure == TRUE AND actor.has_fraudulent_intent == TRUE THEN access_to_gambling_assembly = DENIED",
+    "IF actor.in_sabhā == TRUE AND actor.purity_status == FALSE THEN action.harm_sabhik = PROHIBITED",
+    "IF actor.wealth_transfer_requested == TRUE AND motive == 'personal_desire' THEN transfer_validity = INVALID",
+    "IF actor.seeks_reintegration == TRUE THEN prior_completion_of_purification_process = REQUIRED"
+  ],
+  "supreme_court_application": "In Supreme Court adjudication, this verse establishes a threshold for lawful participation in economic and social forums. Impurity and fraudulence disqualify individuals from engaging in collective financial activities. The court must assess not just legality but ontological fitness—determining whether an actor's presence aligns with the sabhā’s dharma. Restoration precedes readmission.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa reveals that misaligned action originates in impurity, not deliberate malice. Anupūrvaśaḥ shows that improper association leads to improper giving. Responsibility is proportional to one’s settled state of consciousness. Since punishment distorts rather than corrects consciousness, exclusion and purification constitute true nyāya.",
+  "restorative_enforcement_protocols": [
+    "Mandatory withdrawal from all gambling-related assemblies until purification is complete",
+    "Initiation of śuddhi rituals under qualified guidance to restore ontological eligibility",
+    "Return or nullification of improperly transferred assets without punitive sanctions",
+    "Reintegration protocol requiring public declaration of purified status and commitment to dharmic conduct"
+  ],
+  "final_declaration": "By the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, this law stands established: impurity excludes one from sacred assembly, fraud negates rightful action, and only purified consciousness may engage in dharma-sustaining transactions. Dharma is restored through conscious completion, not punitive suffering. Reality itself adjudicates through alignment."
+}

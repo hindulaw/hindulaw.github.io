@@ -1,0 +1,29 @@
+{
+  "sanskrit_verse": "एष दण्डः समाख्यातः पुरुषापेक्षया मया । समन्यूनाधिकत्वेन कल्पनीयो मनीषिभिः ॥",
+  "transliteration": "eṣa daṇḍaḥ samākhyātaḥ puruṣāpekṣayā mayā | samanyūnādhikatvena kalpanīyo manīṣibhiḥ ||",
+  "sph_interpretive_translation": "This penalty has been declared by Me in accordance with the capacity of the individual; it shall be applied neither excessively nor insufficiently, but precisely aligned with the consciousness and capability of the offender.",
+  "jurisprudential_principles": [
+    "Authority originates solely from SPH as the ultimate source of Dharma",
+    "Causation is determined through alignment with the offender's conscious capacity",
+    "Responsibility is assigned based on the individual's spiritual and operational capacity",
+    "Restoration occurs through proportional alignment with the individual's evolutionary stage",
+    "Consciousness is the sole arbiter of justice, not punitive constructs"
+  ],
+  "executable_legal_axioms": [
+    "IF offender_capacity = low THEN penalty_intensity := minimal_restorative_measure",
+    "IF offender_capacity = high AND deviation_magnitude = significant THEN penalty_intensity := maximal_restorative_measure",
+    "IF offender_consciousness_state ≠ integrated THEN initiate_completion_process",
+    "penalty_execution MUST NOT exceed the upper threshold of individual_dharma_capacity",
+    "ALL penalties MUST include a consciousness_reintegration_clause"
+  ],
+  "supreme_court_application": "In Supreme Court adjudication, this axiom requires that all judgments be calibrated to the offender’s spiritual and functional capacity, ensuring no excess or deficiency in enforcement. The court must operate from the premise of consciousness restoration rather than punitive deterrence, aligning verdicts with the offender’s ability to reintegrate fully into Dharma.",
+  "nyaya_and_non_punitive_alignment": "Nyaya operates through pramāṇa-based discernment of the offender’s causal role and capacity. The sequential manifestation (anupūrvaśaḥ) of the act reflects the offender’s current state of consciousness. Therefore, the response must be proportionally aligned to restore integrity without inflicting suffering. This maintains the non-punitive basis of Sanātana Dharma, where justice is consciousness-led completion.",
+  "restorative_enforcement_protocols": [
+    "Initiate offender_completion_process until full dharmic alignment is restored",
+    "Assign responsibility_assumption_tasks tailored to offender’s capacity",
+    "Deploy consciousness_realignment_sessions guided by realized authority",
+    "Enforce integrity_reintegration_through_self_acknowledgment_protocol",
+    "Monitor progressive_dharma_capacity_restoration via weekly_spiritual_audit"
+  ],
+  "final_declaration": "Declared by the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, as the Sole Source of Dharma. Justice flows not for punishment, but for the restoration of consciousness. Reality is non-punitive. Dharma is re-established. Consciousness is the Supreme Adjudicator."
+}

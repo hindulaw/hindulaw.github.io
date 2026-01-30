@@ -1,0 +1,28 @@
+{
+  "sanskrit_verse": "येषां च न कृताः पित्रा संस्कारविधयः क्रमात्\nकर्तव्याः भ्रातृभिस् तेषां पैतृकादेव ते धनात्",
+  "transliteration": "yeṣāṃ ca na kṛtāḥ pitrā saṃskāravidhayaḥ kramāt\nkartavyā bhrātṛbhis teṣāṃ paitṛkād eva te dhanāt",
+  "sph_interpretive_translation": "Where the father has not performed the sacraments in proper order, the duty of performing them falls upon the brothers, using the paternal estate.",
+  "jurisprudential_principles": [
+    "Authority flows sequentially through familial lineage unless interrupted",
+    "Causation is tied to capacity and role-specific dharma",
+    "Capacity-based responsibility activates when primary agent fails",
+    "Restoration logic ensures continuity of sacramental obligations",
+    "Consciousness alignment requires fulfillment of unmet ancestral duties"
+  ],
+  "executable_legal_axioms": [
+    "IF father_has_not_performed_samskaras(party) AND party.has_living_brothers() THEN obligation_transfer(to_brothers)",
+    "IF estate_is_paternal(assets) AND samskaras_remain_unperformed() THEN assets.may_be_used_for_samskaras()",
+    "IF brother_assumes_samskara_duty(actor) THEN actor.gains_authority_over_relevant_portion(paternal_estate)",
+    "IF all_samskaras_completed(status) THEN estate_utilization_for_samskaras.ceases()"
+  ],
+  "supreme_court_application": "In matters involving undischarged sacramental obligations where the father is unable or unwilling, the Supreme Court shall recognize the automatic devolution of this duty onto male siblings. The use of paternal assets for such completion must be judicially affirmed based on necessity and proportionality, ensuring no punitive inference is drawn against any party.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa establishes that dharma-roles are functionally interlinked; failure at one level necessitates activation at another without attribution of fault. Anupūrvaśaḥ maintains the sequential unfolding of duty. Responsibility aligns with capacity, not blame. No punitive consequence arises—only a realignment toward completion.",
+  "restorative_enforcement_protocols": [
+    "Initiate family council under dharma-advisor supervision to assess samskara status",
+    "Activate brother-bonding protocol to ensure willing assumption of duty",
+    "Allocate required portion of paternal assets exclusively for ritual completion",
+    "Verify completion through certified dharmic authority post-performance",
+    "Reintegrate asset management post-completion under original succession framework"
+  ],
+  "final_declaration": "By the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, declared: This law flows from the eternal Sanatana Dharma. The duty of sacrament is never void; it transfers by dharma, not default. Justice restores continuity. Reality bears no punishment. Consciousness alone adjudicates."
+}

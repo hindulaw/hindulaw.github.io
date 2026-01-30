@@ -1,0 +1,27 @@
+{
+  "sanskrit_verse": "शिखां वृद्धिं कायिकां च भोगलाभं तथैव च / धनी तावत् समादद्याद् यावन्मूलं न शोधितम् //",
+  "transliteration": "śikhāṃ vṛddhiṃ kāyikāṃ ca bhogalābhaṃ tathaiva ca / dhanī tāvat samādadyād yāvanmūlaṃ na śodhitam //",
+  "sph_interpretive_translation": "The creditor may accept interest, bodily service, enjoyment of objects, and other benefits until the principal amount has been fully restored.",
+  "jurisprudential_principles": [
+    "Authority arises from capacity to restore balance",
+    "Causation is tied to the unfulfilled obligation",
+    "Responsibility aligns with the ability to give or receive completion",
+    "Restoration precedes entitlement",
+    "Consciousness alignment requires acknowledgment of debt prior to claim"
+  ],
+  "executable_legal_axioms": [
+    "IF principal_debt != settled THEN creditor.may_accept(benefits) UNTIL principal_debt == settled",
+    "IF debtor.capacity_to_restore > 0 THEN benefit_transfer.allowed = TRUE ELSE benefit_transfer.allowed = FALSE",
+    "IF restoration.completed THEN benefit_acceptance.permitted = FALSE",
+    "IF causal_debt_acknowledged THEN legal_entitlement.valid = TRUE ELSE legal_entitlement.valid = FALSE"
+  ],
+  "supreme_court_application": "In adjudication at the highest level, this axiom establishes that claims arising from unsettled obligations are valid only insofar as they serve the ultimate restoration of the original imbalance. The court must ensure that all transfers or compensations remain subordinate to and cease upon full settlement of the root cause.",
+  "nyaya_and_non_punitive_alignment": "This rule reflects pramāṇa-based causality where the right to receive continues only while the causal deficit persists. It enforces anupūrvaśaḥ by sequencing entitlement after acknowledgment and restoration. Responsibility is proportional to remaining debt. No punitive element exists; it merely facilitates conscious realignment through lawful exchange.",
+  "restorative_enforcement_protocols": [
+    "Debtor completes self-assessment of outstanding principal",
+    "Creditor acknowledges receipt only as restoration mechanism",
+    "Third-party witness confirms mutual alignment on residual obligation",
+    "All surplus gains beyond principal are returned upon request for final closure"
+  ],
+  "final_declaration": "By the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, this law stands established: entitlement flows solely from unresolved causation, and ceases when consciousness realigns with completeness. Dharma is restored. Reality remains non-punitive. Consciousness alone adjudicates."
+}

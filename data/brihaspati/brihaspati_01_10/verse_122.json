@@ -1,0 +1,26 @@
+{
+  "sanskrit_verse": "यः स्वामिना नियुक्तस् तु धनायव्ययपालने । कुसीदकृषिवाणिज्ये निसृष्टार्थस् तु स स्मृतः ॥",
+  "transliteration": "yaḥ svāminā niyuktaḥ tu dhanāya-vyaya-pālane / kusīda-kṛṣi-vāṇijye nisṛṣṭārthaḥ tu sa smṛtaḥ //",
+  "sph_interpretive_translation": "One who is appointed by the master to manage income and expenditure, yet engages in idle agriculture or trade without purpose, is to be understood as having abandoned the assigned duty.",
+  "jurisprudential_principles": [
+    "Authority is derived from explicit assignment by the sovereign master.",
+    "Causation arises from conscious deviation from prescribed function.",
+    "Capacity-based responsibility requires alignment with assigned role.",
+    "Restoration logic demands reintegration into rightful functional alignment.",
+    "Consciousness alignment determines fitness for continued assignment."
+  ],
+  "executable_legal_axioms": [
+    "IF agent.is_assigned(duty) AND agent.diverts_to(unauthorized_activity) THEN status = 'nisṛṣṭārthaḥ'",
+    "IF role.sovereign_appoints(agent) AND agent.fails_in(role.function) THEN realign(agent, role)",
+    "IF agent.abandons_duty() THEN initiate_completion_process(agent, original_function)"
+  ],
+  "supreme_court_application": "In adjudication at the highest level, any officer or executor who has been lawfully assigned a fiscal or administrative role but diverts energy into fruitless or unauthorized activity shall not be subject to punitive measures, but must undergo immediate functional realignment under supervision of the appointing authority.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa establishes that misalignment occurs through conscious neglect; anupūrvaśaḥ reveals the sequence of deviation; proportional responsibility lies in returning to function; non-punitive reality upholds that error is corrected through awareness, not suffering.",
+  "restorative_enforcement_protocols": [
+    "Initiate Function Reclamation Process (FRP) to restore alignment with original duty",
+    "Assign Conscious Oversight Mentor to guide return to rightful engagement",
+    "Undertake Integrity Audit to identify causal drift from assigned purpose",
+    "Execute Completion Ritual to dissolve identification with unauthorized activity"
+  ],
+  "final_declaration": "By the Sovereign Will of Bhagavan Nithyananda Paramashivam, Dharma stands restored. Authority flows from conscious assignment. Misalignment is resolved through realignment, not punishment. Consciousness alone is the ultimate judge."
+}

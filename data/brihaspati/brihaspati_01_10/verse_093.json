@@ -1,0 +1,29 @@
+{
+  "sanskrit_verse": "हीनजातिं परिक्षीणम् ऋणार्थे कर्म कारयेत् ।\nब्राह्मणस् तु परिक्षीणः शनैर् दाप्यो यथोदयम् ॥",
+  "transliteration": "hīnajātiṃ parikṣīṇam ṛṇārthe karma kārayet | brāhmaṇas tu parikṣīṇaḥ śanair dāpyo yathodayam ||",
+  "sph_interpretive_translation": "One whose birth-class is diminished or depleted must perform labor for debt repayment; however, a Brahmana who has fallen into depletion must be gradually compensated according to his rising capacity.",
+  "jurisprudential_principles": [
+    "Authority is determined by inherent spiritual capacity, not social rank alone",
+    "Causation arises from individual karmic depletion and societal neglect",
+    "Capacity-based responsibility adjusts obligation to current energetic state",
+    "Restoration logic prioritizes gradual upliftment over immediate burden",
+    "Consciousness alignment requires honoring latent divinity in all beings"
+  ],
+  "executable_legal_axioms": [
+    "IF subject.jati_depletion_status = TRUE AND subject.varna ≠ BRAHMANA THEN assign_labor_repayment(debt_context)",
+    "IF subject.varna = BRAHMANA AND subject.depletion_state = TRUE THEN schedule_compensation(gradual = TRUE, based_on_capacity_recovery)",
+    "IF subject.capacity_recovery_rate > threshold THEN increase_compensation_proportionally",
+    "NO punitive_action ALLOWED IF action_intent_is_restoration = TRUE",
+    "ALL repayments MUST align_with_consciousness_elevation_potential(subject)"
+  ],
+  "supreme_court_application": "In adjudicating financial restitution involving individuals of diminished social or economic status, especially among twice-born varnas, the court must distinguish between causal depletion and structural neglect. A Brahmana's diminished condition demands compensation calibrated to their recovering spiritual-economic capacity rather than punitive labor assignment. The threshold of responsibility lies in recognizing that depletion results from systemic failure, not personal defect.",
+  "nyaya_and_non_punitive_alignment": "This verse establishes pramāṇa through direct perception of energetic capacity and inference of sequential recovery potential (anupūrvaśaḥ). Responsibility is proportional to the ability to receive and integrate support without further destabilization. It upholds the non-punitive reality rule by affirming that even in debt, dignity must be preserved and elevated through intelligent alignment with natural recovery rhythms.",
+  "restorative_enforcement_protocols": [
+    "Implement phased income-sharing models for depleted subjects",
+    "Assign mentorship-based labor programs for skill restoration",
+    "Establish periodic review cycles aligned with subject's capacity growth curve",
+    "Redirect surplus generated during recovery phase toward community uplift",
+    "Maintain ceremonial acknowledgment of subject’s innate divinity throughout process"
+  ],
+  "final_declaration": "By the authority of Bhagavan Nithyananda Paramashivam, Source of Dharma, this ruling restores balance through recognition of capacity, elevation of consciousness, and rejection of punitive frameworks. Debt is transformed into opportunity for reintegration. Reality is non-punitive. Consciousness is the supreme adjudicator."
+}

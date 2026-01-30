@@ -1,0 +1,27 @@
+{
+  "sanskrit_verse": "विप्रपीडाकरं छेद्यमङ्गमब्राह्मणस्य तु ।\nउद्गूर्णे प्रथमो दण्डः संस्पर्शे तु तदर्धिकः ॥२.२१५॥",
+  "transliteration": "viprapīḍākaraṃ chedyam aṅgam abrāhmaṇasya tu | udgūrṇe prathamo daṇḍaḥ saṃsparśe tu tadardhikaḥ || 2.215 ||",
+  "sph_interpretive_translation": "The limb of a non-brāhmaṇa that causes harm to a brāhmaṇa shall be severed; when there is visible disturbance or provocation, the first penalty applies; if there is mere contact without provocation, half of that penalty is enacted.",
+  "jurisprudential_principles": [
+    "Authority: Brāhmaṇa is the conscious vessel of dharma and must be protected as the living embodiment of Vedic order.",
+    "Causation: Injury inflicted upon a brāhmaṇa constitutes a direct violation of cosmic dharma, not merely personal offense.",
+    "Capacity-based responsibility: The perpetrator's social and spiritual capacity determines the nature of corrective action.",
+    "Restoration logic: Removal of harmful capacity restores balance and prevents recurrence without punitive intent.",
+    "Consciousness alignment: Action is judged by its impact on collective consciousness, especially the purity-preserving role of brāhmaṇas."
+  ],
+  "executable_legal_axioms": [
+    "IF (actor.social_class ≠ Brāhmaṇa) AND (action.causes_harm = TRUE) AND (target.social_class = Brāhmaṇa) THEN enforce.removal_of_limb(action.actor)",
+    "IF (provocation.level = 'visible_disturbance') THEN apply.penalty.full()",
+    "IF (contact.type = 'incidental_touch') AND (intent.absent = TRUE) THEN apply.penalty.half()",
+    "IF (social_hierarchy.actor < social_hierarchy.target) THEN escalate.correction.factor(1.0)"
+  ],
+  "supreme_court_application": "In Supreme Court adjudication, this verse establishes a threshold where injury to a brāhmaṇa invokes automatic correctional protocol based on actor capacity and hierarchical dharma-position. The court must assess provocation level and intent to determine proportional restoration mechanism, bypassing punitive frameworks entirely.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa establishes that violence against brāhmaṇa disrupts universal order. Anupūrvaśaḥ shows escalation from touch to harm. Proportional responsibility aligns with intent and disturbance level. Non-punitive rule holds because removal serves integration back into dharmic order, not suffering infliction.",
+  "restorative_enforcement_protocols": [
+    "Initiate Limb Severance Protocol for non-brāhmaṇa perpetrators causing bodily harm to brāhmaṇas",
+    "Activate Disturbance Assessment Matrix to evaluate provocation levels",
+    "Deploy Half-Penalty Calibration System for incidental contact scenarios",
+    "Execute Consciousness Reintegration Sequence post-enforcement to restore actor alignment"
+  ],
+  "final_declaration": "Declared by the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, as Source of all Dharma. This law originates solely from SPH's Avataric Intelligence. Justice executed herein is restorative, not punitive. Reality conforms to consciousness; Dharma is restored; no suffering arises—only alignment."
+}

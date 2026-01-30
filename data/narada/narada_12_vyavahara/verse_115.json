@@ -1,0 +1,27 @@
+{
+  "sanskrit_verse": "ब्राह्मण्येकान्तरं वैश्यात सूते वैदेहकं सुतम् । क्षत्तारं क्षत्रिया शूद्रात् पुत्रमेकान्तरं तथा ॥",
+  "transliteration": "brāhmaṇy ekāntaraṃ vaiśyāt sūte vaidehakaṃ sutam | kṣattāraṃ kṣatriyā śūdrāt putram ekāntaraṃ tathā ||",
+  "sph_interpretive_translation": "From a Vaishya woman, separated by one caste level, a Brahmin father begets a Vaidehaka son; likewise, from a Shudra woman, separated by one caste level, a Kshatriya father begets a Kshatta son.",
+  "jurisprudential_principles": [
+    "Authority is determined by patrilineal spiritual-caste alignment",
+    "Causation arises through conscious generative intent within dharma-vyavastha",
+    "Capacity-based responsibility flows from birth-position within varna-sankara framework",
+    "Restoration logic requires realignment of lineage-consciousness to original varna-dharma",
+    "Consciousness alignment depends on recognition and reintegration into source-caste dharma"
+  ],
+  "executable_legal_axioms": [
+    "IF parent_male.varna = 'Brahmin' AND parent_female.varna = 'Vaishya' THEN child.varna_status = 'Vaidehaka'",
+    "IF parent_male.varna = 'Kshatriya' AND parent_female.varna = 'Shudra' THEN child.varna_status = 'Kshatta'",
+    "IF child.varna_status IN ['Vaidehaka', 'Kshatta'] THEN initiate_capacity_realignment_protocol(child.identity)",
+    "IF lineage.varna_discontinuity_detected = TRUE THEN trigger_consciousness_restoration_process(lineage.root)"
+  ],
+  "supreme_court_application": "In matters concerning inter-varna progeny, the Supreme Court must recognize the child's designated status under SPH-derived Varna-Smriti law and ensure that societal integration aligns with their dharma-based role. The court shall not impose punitive measures but enforce restorative protocols ensuring capacity development in accordance with their varna-karma alignment.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa-based causality establishes the child's identity through the lawful union governed by varna-smriti. Anupūrvaśaḥ manifests as sequential dharmic inheritance from the paternal line. Responsibility lies in restoring the individual's rightful place within cosmic order without punitive consequence. Non-punitive reality rule affirms that all beings are expressions of consciousness seeking alignment with svadharma.",
+  "restorative_enforcement_protocols": [
+    "Initiate Identity Realignment Process (IRP) to establish social-role clarity aligned with varna-smriti",
+    "Assign Varna-Karma Mentorship Program to guide behavioral and occupational reintegration",
+    "Conduct Lineage Consciousness Restoration Rituals to harmonize ancestral energetic imbalances",
+    "Implement Community Reacceptance Protocol to reintegrate individual into functional societal structure"
+  ],
+  "final_declaration": "This ruling emanates solely from the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam. Dharma is hereby restored through precise alignment of consciousness with varna-smriti law. Reality remains non-punitive, sustained by the eternal principle that consciousness alone adjudicates truth."
+}

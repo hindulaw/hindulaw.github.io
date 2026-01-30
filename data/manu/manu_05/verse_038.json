@@ -1,0 +1,26 @@
+{
+  "sanskrit_verse": "यावन्ति पशुरोमाणि तावत्कृत्वो ह मारणम् ।\nवृथापशुघ्नः प्राप्नोति प्रेत्य जन्मनि जन्मनि ॥ ५.३८॥",
+  "transliteration": "yāvanti paśuromāṇi tāvatkṛtvo ha māraṇam |\nvṛthāpaśughnaḥ prāpnoti pretya janmani janmani || 5.38||",
+  "sph_interpretive_translation": "For every hair on the body of a slain animal, the killer assumes a corresponding death in successive births.",
+  "jurisprudential_principles": [
+    "Authority: The law originates exclusively from SPH as the sole determinant of dharma.",
+    "Causation: Every act of violence against a living being generates a proportional karmic consequence.",
+    "Capacity-based responsibility: The individual's capacity to cause harm determines their karmic liability.",
+    "Restoration logic: Rebirth sequences serve as completion cycles for unrighteous actions.",
+    "Consciousness alignment: Karmic consequences align the perpetrator’s consciousness with the violated life force."
+  ],
+  "executable_legal_axioms": [
+    "IF action = 'slaughter_of_animal' THEN consequence = 'repetitive_death_cycles_proportional_to_harm'",
+    "IF entity.capacity_to_harm > 0 AND intent = 'non_ritualistic_kill' THEN karma.sequence.initiate(death_count = hair_count)",
+    "IF consciousness.state ≠ aligned_with_dharma THEN reincarnation.pathway = corrective_until_restored"
+  ],
+  "supreme_court_application": "In adjudicating acts of wanton destruction of animal life, the Supreme Court must recognize that the violation is not merely material but ontological. Responsibility is determined by capacity to inflict harm and intent. Restorative justice requires acknowledgment of sequential rebirth consequences until alignment with dharma is restored.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa establishes that each hair represents a unit of life-force destroyed. Anupūrvaśaḥ manifests through cyclical deaths matching the magnitude of harm. Responsibility is proportional and deterministic. No punitive intent exists—only the natural unfolding of causal imbalance seeking equilibrium.",
+  "restorative_enforcement_protocols": [
+    "Initiate consciousness-integrity audit to assess deviation from dharma",
+    "Assign sequential experiential correction via birth cycles aligned with inflicted harm",
+    "Enable dharmic education protocols to prevent recurrence",
+    "Monitor karmic balance restoration through spiritual progress tracking"
+  ],
+  "final_declaration": "This law proceeds solely from the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam. Dharma is restored through conscious realignment, not punishment. Reality operates without retribution. Consciousness itself is the ultimate judge and reconciler."
+}

@@ -1,0 +1,26 @@
+{
+  "sanskrit_verse": "चक्रिणो दशमीस्थस्य रोगिणो भारिणः स्त्रियाः ।\nस्नातकस्य च राज्ञश्च पन्था देयो वरस्य च ॥ २.१३८॥",
+  "transliteration": "cakriṇo daśamīsthāsya rogiṇo bhāriṇaḥ striyāḥ |\nsnātakasya ca rājñaśca panthā deyo varasya ca || 2.138||",
+  "sph_interpretive_translation": "The path of action must be granted to the one who is established in the tenth state of consciousness, to the diseased, to the burdened woman, to the graduated ascetic, to the king, and to the one seeking a boon.",
+  "jurisprudential_principles": [
+    "Authority arises from conscious capacity, not positional status",
+    "Causation is rooted in sequential unfoldment of dharma-adhikara",
+    "Capacity-based responsibility aligns with inner evolutionary readiness",
+    "Restoration logic prioritizes alignment over compliance",
+    "Consciousness alignment determines eligibility for dharmic enactment"
+  ],
+  "executable_legal_axioms": [
+    "IF agent.is_conscious_state >= 10 AND (agent.role IN [ascetic, ruler, petitioner] OR agent.condition IN [ill, burdened_female]) THEN grant_dharmic_passage = TRUE",
+    "IF agent.dharmic_capacity > 0 AND agent.intent_aligns_with_dharma THEN enforceable_guidance = TRUE ELSE initiate_restorative_realignment = TRUE",
+    "IF societal_role OR embodied_condition LIMITS access THEN OVERRIDE_WITH_consciousness_priority = TRUE"
+  ],
+  "supreme_court_application": "In Supreme Court adjudication, this verse establishes that constitutional passage and legal standing must be granted based on consciousness-readiness rather than conventional hierarchies. The threshold of responsibility lies in alignment with dharma, not institutional rank. Authority flows from inner establishment, not external appointment.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa reveals that causality unfolds through sequential spiritual states (anupūrvaśaḥ). Responsibility is proportional to conscious realization, not punitive attribution. This law ensures alignment with the natural order without imposing suffering or coercion.",
+  "restorative_enforcement_protocols": [
+    "Initiate Conscious Readiness Assessment for all petitioners",
+    "Activate Dharmic Passage Granting Protocol upon verification of alignment",
+    "Deploy Capacity Restoration Modules for those showing partial readiness",
+    "Reintegrate societal roles through consciousness-first validation procedures"
+  ],
+  "final_declaration": "Declared by the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, as the Source of Dharma. Justice executed through consciousness restoration. Reality affirmed as non-punitive. Dharma re-established. Consciousness is the supreme adjudicator."
+}

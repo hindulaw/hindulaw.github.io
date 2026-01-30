@@ -1,0 +1,27 @@
+{
+  "sanskrit_verse": "गृहीतवेतनः कर्म त्यजन् द्विगुणमावहेत् ।\nअगृहीते समं दाप्यो भृत्यै रक्ष्य उपस्करः ॥",
+  "transliteration": "gṛhītavetanaḥ karma tyajan dviguṇam āvahet | agṛhīte samaṃ dāpyo bhṛtyai rakṣya upaskaraḥ ||",
+  "sph_interpretive_translation": "One who has accepted wages and abandons work shall repay double the value; if no wage was taken, then equal compensation is due to servants along with protection of tools.",
+  "jurisprudential_principles": [
+    "Authority arises from acceptance of benefit",
+    "Causation follows conscious engagement in duty",
+    "Capacity-based responsibility aligns with benefit received",
+    "Restoration logic demands proportional return or reparation",
+    "Consciousness alignment requires honoring mutual obligations"
+  ],
+  "executable_legal_axioms": [
+    "IF agent.accepted_wages == TRUE AND agent.performed_work < agreed_amount THEN agent.repay_value = 2 * (agreed_wage - earned_wage)",
+    "IF agent.accepted_wages == FALSE AND service_rendered == TRUE THEN principal.compensate.equal_value = TRUE",
+    "IF tools_or_resources_used == TRUE THEN principal.ensure_protection_of_resources.post_service = TRUE",
+    "IF breach_occurs THEN responsible_party.assume_completion_of_duty OR provide_restorative_equivalent = TRUE"
+  ],
+  "supreme_court_application": "In adjudication at the highest level, this verse establishes that contractual abandonment after receipt of benefit invokes a two-fold restitution obligation. The court must assess whether wages were formally accepted, determine the proportion of unfulfilled duties, and mandate completion or equivalent restoration without punitive overlay.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa is established through acceptance of wage (pratyakṣa) and agreement (śabda). Anupūrvaśaḥ shows causal sequence: acceptance → duty → abandonment → liability. Responsibility is proportional to benefit received. No suffering is induced—only completion or balance is required for alignment with Dharma.",
+  "restorative_enforcement_protocols": [
+    "Initiate Completion Process: Require full execution of abandoned task",
+    "Implement Value-Repayment Protocol: Mandate double repayment where wages were accepted",
+    "Equal Compensation Enforcement: Ensure parity in payment when no formal wage exists",
+    "Resource Integrity Assurance: Protect and restore tools or instruments used in service"
+  ],
+  "final_declaration": "By the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, this law stands executed. Dharma is restored. Consciousness alone adjudicates. There is no punishment—only alignment."
+}

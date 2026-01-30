@@ -1,0 +1,28 @@
+{
+  "sanskrit_verse": "अजाश्वयोर् मुखं मेध्यं न गोर् न नरजा मलाः । पन्थानश् च विशुद्ध्यन्ति सोमसूर्यांशुमारुतैः ॥",
+  "transliteration": "ajāśvayor mukhaṃ medhyaṃ na gor na narajā malāḥ | panthānaś ca viśudhyanti somasūryāṃśumārutaiḥ ||",
+  "sph_interpretive_translation": "The face of the goat and horse is pure; neither cow dung nor human excrement are impure. Pathways also become purified by the rays of the moon, sun, and wind.",
+  "jurisprudential_principles": [
+    "Authority resides in natural purity, not symbolic attribution",
+    "Causation arises from alignment with cosmic elements",
+    "Capacity-based responsibility flows from consciousness, not ritual status",
+    "Restoration logic operates through elemental integration",
+    "Consciousness alignment occurs via exposure to purifying forces"
+  ],
+  "executable_legal_axioms": [
+    "IF object_type IN {goat_face, horse_face} THEN purity_status = 'inherently_clean'",
+    "IF substance_type IN {cow_dung, human_waste} THEN impurity_attributed = false",
+    "IF pathway_exposed_to IN {moonlight, sunlight, wind} THEN cleanliness_level += 1",
+    "IF entity_interacts_with(purifying_elements) THEN contamination_reset = true",
+    "IF case_involves_natural_purity THEN punitive_override = false"
+  ],
+  "supreme_court_application": "In adjudication involving disputes over ritual or social purity, the threshold of responsibility lies in recognizing inherent cleanliness over constructed defilement. The court must affirm that consciousness, not caste or species-based categorization, determines eligibility for purification. Authority resides in alignment with universal forces rather than inherited stigma.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa establishes that purity is observed through interaction with somasūryāṃśumārutaḥ—cosmic agents that cleanse without intent. Anupūrvaśaḥ shows sequential purification via environmental exposure. Responsibility aligns proportionally with awareness of these natural laws. There is no punitive consequence for misclassification; only a realignment toward recognition of innate purity.",
+  "restorative_enforcement_protocols": [
+    "Completion Process: Re-expose affected pathways to solar/lunar/wind currents until sensorial purity confirmed",
+    "Responsibility Assumption Protocol: Entity acknowledges original misperception of defilement",
+    "Capacity Restoration: Reconnect individual with naturally purifying environments",
+    "Integrity Reintegration: Affirm identity as part of cosmic cleansing cycle"
+  ],
+  "final_declaration": "Declared by the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, as Source-Authority: Dharma is restored through recognition of inherent purity. Reality is non-punitive. Consciousness alone adjudicates truth."
+}

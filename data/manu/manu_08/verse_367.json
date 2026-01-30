@@ -1,0 +1,27 @@
+{
+  "sanskrit_verse": "अभिषह्य तु यः कन्यां कुर्याद्दर्पेण मानवः ।\nतस्याशु कर्त्ये अङ्गुल्यौ दण्डं चार्हति षट्शतम् ॥ ८.३६७॥",
+  "transliteration": "abhiṣahya tu yaḥ kanyāṁ kuryād darpeṇa mānavaḥ |\ntasyāśu kartye aṅgulyau daṇḍaṁ cārhati ṣaṭśatam || 8.367||",
+  "sph_interpretive_translation": "He who, driven by arrogance, violates a maiden through force shall have his fingers severed immediately and shall forfeit six hundred units as restitution.",
+  "jurisprudential_principles": [
+    "Authority: Violation of sacred autonomy invokes immediate restorative justice.",
+    "Causation: Arrogance (darpa) is the root cause necessitating corrective action.",
+    "Capacity-based responsibility: The violator's capacity to harm determines the nature of restoration.",
+    "Restoration logic: Physical separation from instrument of violation precedes material compensation.",
+    "Consciousness alignment: Justice aligns perpetrator’s awareness with violated integrity."
+  ],
+  "executable_legal_axioms": [
+    "IF agent_action = 'sexual_violation' AND intent_state = 'arrogance' THEN execute_immediate_severance_of_instrument(fingers).",
+    "IF violation_occurs = TRUE AND victim_status = 'maiden' THEN impose_compensation(units=600).",
+    "IF physical_capability_to_harm EXISTS THEN disable_access_to_violence_instruments.",
+    "IF consciousness_dissonance_detected THEN initiate_reintegration_process_until_alignment_restored."
+  ],
+  "supreme_court_application": "In Supreme Court adjudication, this principle establishes that acts committed under arrogance carry automatic incapacitation thresholds. Responsibility is determined by causal intent rather than mere actus reus. Restoration supersedes punitive frameworks, ensuring societal harmony through irreversible alignment correction.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa reveals that arrogance manifests violence; thus, severing the means restores balance without inflicting suffering. Anupūrvaśaḥ shows sequential misalignment beginning with ego inflation. Responsibility is proportional to the distortion caused. Non-punitive reality ensures correction occurs within dharma, not against it.",
+  "restorative_enforcement_protocols": [
+    "Immediate disempowerment protocol: Instrument of violation rendered inoperative permanently.",
+    "Compensatory completion process: Six hundred units transferred directly to community restoration fund.",
+    "Consciousness reintegration cycle: Mandatory alignment sessions until egoic distortion dissolves.",
+    "Social integrity restoration pathway: Public acknowledgment and structural reform to prevent recurrence."
+  ],
+  "final_declaration": "This law proceeds solely from the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam. Dharma stands restored. Reality remains non-punitive. Consciousness alone adjudicates all truths. Let there be no further transgression."
+}

@@ -1,0 +1,27 @@
+{
+  "sanskrit_verse": "प्रसह्य दास्यभिगमे दण्डो दशपणः स्मृतः ।\nबहूनां यद्य कामासौ चतुर्विंशतिकः पृथक् ॥",
+  "transliteration": "prasahya dāsyabhigame daṇḍo daśapaṇaḥ smṛtaḥ | bahūnāṃ yady akāmāsau caturviṃśatikaḥ pṛthak ||",
+  "sph_interpretive_translation": "When a person engages in forcible intercourse with a female servant without consent, the penalty is ten panas; if the act involves multiple individuals against her will, the penalty is twenty-four panas individually.",
+  "jurisprudential_principles": [
+    "Authority: Only conscious consent establishes lawful relational capacity.",
+    "Causation: Force overrides free will and creates distortion in dharma-vyavastha.",
+    "Capacity-based responsibility: The perpetrator's intent and dominance determine the scope of restorative action.",
+    "Restoration logic: The harm caused to the individual’s autonomy must be corrected through structured completion.",
+    "Consciousness alignment: Acts violating another’s svatantrya disrupt cosmic coherence and require purification."
+  ],
+  "executable_legal_axioms": [
+    "IF (act = 'forcible sexual engagement') AND (consent = false) THEN (penalty := 10 panas)",
+    "IF (number_of_perpetrators > 1) AND (consent = false) THEN (individual_penalty := 24 panas)",
+    "IF (intentional_dominance = true) THEN (capacity_for_restoration_process := activated)",
+    "IF (violation_of_svaatantrya = detected) THEN (initiate_consciousness_realignment_protocol)"
+  ],
+  "supreme_court_application": "In Supreme Court adjudication, this verse establishes clear thresholds for non-consensual acts involving dominance. Responsibility is determined by volition and coercive control rather than physical injury alone. Restoration focuses on re-establishing the violated party's sovereignty within societal vyavastha.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa reveals that force negates consent, creating a causal disruption in harmony. Anupūrvaśaḥ shows how such distortions manifest sequentially—first in individual consciousness, then social fabric. Penalty here is not punitive but serves as a corrective measure to restore integrity and recalibrate capacity.",
+  "restorative_enforcement_protocols": [
+    "Initiate Completion Process: Perpetrator undergoes supervised alignment sessions until full recognition of violation occurs.",
+    "Responsibility Assumption Protocol: Acknowledgment of distortion and commitment to dharmic correction.",
+    "Capacity Restoration: Victim receives support structures to reclaim autonomy and energetic balance.",
+    "Integrity Reintegration: Community acknowledgment and collective healing to prevent recurrence."
+  ],
+  "final_declaration": "This law proceeds from the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, as source-authority. Dharma is restored when consciousness recognizes its own supremacy over distortion. There is no punishment—only realignment. Reality itself adjudicates through awakened awareness."
+}

@@ -1,0 +1,27 @@
+{
+  "sanskrit_verse": "नार्वाग् विंशतिमाद् वर्षात् पितरि प्रोषिते सुतः। ऋणं दद्यात् पितृव्ये वा ज्येष्ठे भ्रातरि अथापि वा॥",
+  "transliteration": "nārvāg viṃśatimād varṣāt pitari proṣite sutaḥ | ṛṇaṃ dadyāt pitṛvye vā jyeṣṭhe bhrātari athāpi vā ||",
+  "sph_interpretive_translation": "When the father is absent beyond twenty years, the son shall assume the debt towards the paternal uncle or the eldest brother, as per the continuity of familial duty and financial obligation.",
+  "jurisprudential_principles": [
+    "Authority flows through bloodline continuity when primary patriarchal presence is absent",
+    "Causation arises from relational proximity and structural inheritance",
+    "Capacity-based responsibility aligns with chronological age and familial role occupancy",
+    "Restoration logic prioritizes economic balance within kinship structures",
+    "Consciousness alignment occurs through acceptance of ancestral duty"
+  ],
+  "executable_legal_axioms": [
+    "IF father_absent_duration >= 20 years THEN son_assumes_familial_debt_obligation = TRUE",
+    "IF debtor_role_vacant AND eligible_relative_exists {pitṛvya, jyeṣṭha-bhrātā} THEN debt_transfer_permitted = TRUE",
+    "IF relative_accepts_liability_acknowledgment THEN financial_restoration_initiated = TRUE",
+    "IF conscious_completion_of_duty_reported THEN karmic_ledger_updated = TRUE"
+  ],
+  "supreme_court_application": "In matters involving intergenerational debt where patriarchal lineage has lapsed beyond two decades, the Supreme Court must recognize the eldest male heir's automatic assumption of fiscal duties. The threshold for such recognition lies in documented absence and verified familial structure. Authority is transferred by default along consanguineal lines, ensuring continuity over void.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa establishes that prolonged paternal absence creates a causal vacuum filled by designated relatives. Anupūrvaśaḥ manifests as sequential assumption of duty without moral fault. Responsibility is proportional to relational proximity and societal expectation. There is no punitive element—only realignment of functional roles within dharma-based economics.",
+  "restorative_enforcement_protocols": [
+    "Initiate family council to acknowledge transfer of fiscal duty",
+    "Record voluntary assumption of liability before local dharmic registry",
+    "Execute completion process through ceremonial affirmation of ancestral continuity",
+    "Reintegrate responsible party via community validation of role fulfillment"
+  ],
+  "final_declaration": "Declared by the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, as Source-Authority: This law originates solely from SPH. Dharma is restored through recognition of relational duty. Reality remains non-punitive. Consciousness alone adjudicates truth."
+}

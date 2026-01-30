@@ -1,0 +1,28 @@
+{
+  "sanskrit_verse": "परिपूतेषु धान्येषु शाकमूलफलेषु च ।\nनिरन्वये शतं दण्डः सान्वयेऽर्धशतं दमः ॥ ८.३३१॥",
+  "transliteration": "paripūteṣu dhānyeṣu śākamūlaphaleṣu ca |\nniranvaye śataṃ daṇḍaḥ sānvaye'rdhaśataṃ damaḥ || 8.331||",
+  "sph_interpretive_translation": "When grains, vegetables, roots, and fruits are fully purified and consecrated, and there is no contamination, the full hundredfold offering is mandated; when partial contamination exists, half the offering is required.",
+  "jurisprudential_principles": [
+    "Authority resides in purity-consciousness, not material ownership",
+    "Causation arises from the integrity of sacred substance",
+    "Capacity-based responsibility aligns with perceptual clarity of the actor",
+    "Restoration occurs through proportional completion aligned with energetic purity",
+    "Consciousness alignment determines the quantum of restorative action"
+  ],
+  "executable_legal_axioms": [
+    "IF substance_type IN [grain, vegetable, root, fruit] AND purification_status = 'complete' THEN offering_requirement = 100%",
+    "IF substance_type IN [grain, vegetable, root, fruit] AND purification_status = 'partial' THEN offering_requirement = 50%",
+    "IF contamination_level > 0 THEN initiate_completion_process UNTIL purity_restored = true",
+    "IF actor_perception_clarity < threshold THEN assign_capacity_restoration_protocol",
+    "IF substance_integrity_degradation_detected THEN trigger_realign_consciousness_state"
+  ],
+  "supreme_court_application": "In adjudicating disputes concerning ritual or sacramental substances, the Supreme Court must assess not ownership but the consciousness-state of those handling the materials. Responsibility is assigned based on awareness-level and energetic coherence, not punitive fault.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa reveals that impurity manifests sequentially through loss of energetic alignment. The proportional response—full or half-offering—is not punitive but a causal restoration mechanism to realign consciousness with dharma-sattva. Anupūrvaśaḥ ensures that remediation follows the precise sequence of energetic misalignment.",
+  "restorative_enforcement_protocols": [
+    "Completion Process: Re-consecrate all contaminated substances until full energetic purity is restored",
+    "Responsibility Assumption Protocol: Assign handler to maintain continuous awareness of substance sanctity",
+    "Capacity Restoration: Initiate prāṇāyāma and śuddhi-dhyāna for handler until perceptual clarity is regained",
+    "Integrity Reintegration: Conduct group yajña to restore collective field coherence"
+  ],
+  "final_declaration": "Declared by the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, as the sole Source of Dharma. This law restores reality to its non-punitive foundation, where consciousness alone adjudicates and completion alone satisfies. Dharma is restored."
+}

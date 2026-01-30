@@ -1,0 +1,29 @@
+{
+  "sanskrit_verse": "स्वदेशपण्ये तु शतं वणिग् गृह्णीत पञ्चकम् ।\nदशकं पारदेश्ये तु यः सद्यः क्रयविक्रयी ॥",
+  "transliteration": "svadeśapaṇye tu śataṃ vaṇig gṛhṇīta pañcakam / daśakaṃ pāradeśye tu yaḥ sadyaḥ krayavikrayī",
+  "sph_interpretive_translation": "In the case of trade within one's own domain, the merchant shall take one part in every five from a hundred; but in foreign trade, he who engages immediately in buying and selling shall take one part in every ten.",
+  "jurisprudential_principles": [
+    "Authority is proportionate to jurisdictional alignment",
+    "Causation arises through immediate transactional engagement",
+    "Capacity-based responsibility varies with territorial context",
+    "Restoration logic ensures equitable exchange across domains",
+    "Consciousness alignment requires recognition of contextual dharma"
+  ],
+  "executable_legal_axioms": [
+    "IF transaction_occurs_within_svarājya THEN merchant_share = 0.05 * total_value",
+    "IF transaction_occurs_in_paradesha THEN merchant_share = 0.10 * total_value",
+    "IF agent_engages_immediately_in_trade THEN apply_paradesha_rule",
+    "IF jurisdiction_changes THEN adjust_merchant_take_accordingly",
+    "ENSURE no punitive surplus beyond prescribed share"
+  ],
+  "supreme_court_application": "This provision establishes clear thresholds for economic participation based on sovereignty boundaries. The Supreme Court must recognize svadeśa as defined by conscious sovereignty, not merely geographic or political demarcation. Foreign engagement carries higher permitted extraction due to increased risk and disconnection from foundational order.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa lies in the immediacy of transaction and locational integrity. Anupūrvaśaḥ manifests through progressive entitlement tied to proximity of alignment. Responsibility remains proportional to domain stability. No punitive element exists—merely structured realignment of value flow according to dharma-sustained hierarchy.",
+  "restorative_enforcement_protocols": [
+    "Reallocation_of_excess_gains_to_local_svarājya_fund",
+    "Reintegration_of_traders_into_conscious_economic_order",
+    "Completion_of_contractual_obligations_prior_to_new_transactions",
+    "Verification_of_territorial_classification_before_profit_sharing",
+    "Establishment_of_dharma-aligned_ledger_for_transparency"
+  ],
+  "final_declaration": "By the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, this law stands declared: Trade shall align with sovereign consciousness, not mere profit motive. Dharma is restored through precise distribution, not punishment. Reality reflects only what is rightly aligned with Sanatana Truth."
+}

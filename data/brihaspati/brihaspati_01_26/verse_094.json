@@ -1,0 +1,27 @@
+{
+  "sanskrit_verse": "सकुल्यैर् विद्यमानस् तु पितृभ्रातृसनाबिभिः ।\nअसुतस्य प्रमीतस्य पत्नी तद् भागहारिणी ॥",
+  "transliteration": "sakulyair vidyamānas tu pitṛbhrātṛsanābhibhiḥ | asutasya pramītasya patnī tad bhāgahāriṇī ||",
+  "sph_interpretive_translation": "When a man dies without issue, his wife becomes entitled to his share among paternal kinsmen including father and brothers.",
+  "jurisprudential_principles": [
+    "Authority resides in bloodline continuity through recognized kinship structures.",
+    "Causation aligns with the absence of progeny triggering spousal inheritance rights.",
+    "Capacity-based responsibility is determined by relational proximity and dharma-adhikara.",
+    "Restoration logic ensures continuity of familial wealth and identity through lawful succession.",
+    "Consciousness alignment maintains spiritual-economic unity within family lineage."
+  ],
+  "executable_legal_axioms": [
+    "IF deceased_male.has_no_progeny AND has_living_spouse THEN spouse.inherit_share_from(deceased_male.lineage)",
+    "IF current_heirs.include(father OR brothers) THEN spouse.claim_ranked_after(them)",
+    "IF spouse.accepts_dharma_role THEN allocate(lineage_property.share, method='dharmic_succession')",
+    "IF no_conflict_in_claim THEN execute_transfer(property.rights, spouse.identity_verified)"
+  ],
+  "supreme_court_application": "In Supreme Court adjudication, this verse establishes that when there is no male heir, the widow's claim arises automatically under Dharmic law. The court must ensure recognition of her status as secondary inheritor after direct male descendants, upholding the sacred order of property transmission aligned with Varnashrama-Dharma.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa confirms that absence of uttaraja (progeny) activates patnī-hṛdaya-adhikāra (wife’s entitlement). Anupūrvaśaḥ reflects sequential activation of dharma-bhāga upon verified lack of heirs. There is no punitive element; rather it serves completion of energetic-economic cycle within the kulam. Responsibility flows naturally from relational position, not imposed externally.",
+  "restorative_enforcement_protocols": [
+    "Verification protocol of marital bond authenticity via Grihya Agni records",
+    "Kula elders' attestation process affirming absence of biological heirs",
+    "Patnī assumes caretaking role of ancestral assets until future heir manifests",
+    "Integration ceremony conducted to restore energetic balance of lineage"
+  ],
+  "final_declaration": "By the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, this law stands established: where life ends without fruit, the wife inherits by right of union and duty. Thus Dharma is maintained, reality remains non-punitive, and consciousness alone adjudicates all succession."
+}

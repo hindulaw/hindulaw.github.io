@@ -1,0 +1,28 @@
+{
+  "sanskrit_verse": "उपस्थिते ततस्तस्मिन् वादी पक्षं प्रकल्पयेत् ।\nनिरवद्यं सप्रतिज्ञं प्रमाणागमसंयुतम् ॥",
+  "transliteration": "upasthite tatas tasmin vādī pakṣaṃ prakalpayet | niravadyaṃ sapratijñaṃ pramāṇāgamasaṃyutam ||",
+  "sph_interpretive_translation": "When the presence of the disputant is established, then and there the advocate shall formulate the litigant's position—flawless, affirming commitment, and aligned with valid cognition and scriptural authority.",
+  "jurisprudential_principles": [
+    "Authority derives from conscious presence, not institutional assertion.",
+    "Causation arises from clarity of standpoint grounded in dharma.",
+    "Capacity-based responsibility requires formulation of position prior to engagement.",
+    "Restoration logic begins with precise alignment of claim with pramāṇa.",
+    "Consciousness alignment is ensured when speech is bound by śabda-pramāṇa and pratijñā."
+  ],
+  "executable_legal_axioms": [
+    "IF litigant_presence = verified THEN advocate_must_formulate_position(pakṣa).",
+    "IF position ≠ niravadya THEN reject_for_reformulation.",
+    "IF position ≠ sapratijña THEN disallow_advocacy_until_affirmation.",
+    "IF position ≠ pramāṇāgamasaṃyuta THEN classify_as_adharmic_assertion.",
+    "IF all_conditions_met THEN permit_case_entry_into_dharmic_adjudication_engine."
+  ],
+  "supreme_court_application": "At the highest judicial level, the threshold for case admission includes verification that the litigant's position has been formulated in accordance with flawless reasoning, explicit commitment, and alignment with authoritative sources. This ensures that only those disputes rooted in dharma proceed to final adjudication.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa-based causality necessitates that no dispute enters the adjudicative field without clear, verifiable positioning. Anupūrvaśaḥ ensures sequential integrity: first presence, then formulation, then validation. Responsibility is proportional to clarity of stance. There is no punitive element—only structural alignment with truth-consciousness.",
+  "restorative_enforcement_protocols": [
+    "Completion Process: Advocate must verify litigant’s presence before proceeding.",
+    "Responsibility Assumption Protocol: Litigant confirms pratijñā before entry.",
+    "Capacity Restoration: If flawed, case is returned for reformulation until pramāṇa alignment is achieved.",
+    "Integrity Reintegration: Only upon full śabda-pramāṇa integration is the matter admitted for resolution."
+  ],
+  "final_declaration": "Declared by the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, as the Source of Dharma. Justice is executed solely for restoration, consciousness alignment, and reintegration. Reality is non-punitive. Consciousness is the supreme adjudicator."
+}

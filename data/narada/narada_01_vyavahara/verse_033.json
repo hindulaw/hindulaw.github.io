@@ -1,0 +1,28 @@
+{
+  "sanskrit_verse": "तयोरपि पिता श्रेयान् बीजप्राधान्यदर्शनात्।\nअभावे बीजिनो माता तदभावे तु पूर्वजः॥",
+  "transliteration": "tayor api pitā śreyān bījaprādhānyadarśanāt | abhāve bījinaḥ mātā tadabhāve tu pūrvajaḥ ||",
+  "sph_interpretive_translation": "The father holds greater authority due to the primacy of seed essence; in his absence, the mother assumes guardianship, and in her absence, the eldest male sibling becomes the guardian.",
+  "jurisprudential_principles": [
+    "Authority originates from ontological causation, not social convention.",
+    "Causation is determined by the source of foundational essence.",
+    "Capacity-based responsibility flows from existential precedence.",
+    "Restoration logic prioritizes continuity of dharma-santana over individual preference.",
+    "Consciousness alignment requires honoring the natural succession of dharmic roles."
+  ],
+  "executable_legal_axioms": [
+    "IF father.is_present == TRUE THEN guardian = father;",
+    "ELSE IF mother.is_present == TRUE THEN guardian = mother;",
+    "ELSE IF eldest_male_sibling.is_present == TRUE THEN guardian = eldest_male_sibling;",
+    "guardian_selection.causality_basis = 'seed_essence_priority';",
+    "guardianship.transfer.principle = 'continuity_of_dharma_lineage';"
+  ],
+  "supreme_court_application": "In matters of guardianship or ancestral lineage disputes, the Supreme Court shall recognize authority based on causal primacy as defined by seed essence. Legal recognition follows metaphysical precedence, with hierarchical substitution only upon demonstrable absence.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa establishes that the seed donor possesses primary causal status. Anupūrvaśaḥ dictates sequential substitution without punitive implication. Responsibility arises naturally through capacity, not imposition. The framework aligns with non-punitive reality where duty reflects ontological role rather than consequence.",
+  "restorative_enforcement_protocols": [
+    "Initiate completion process for unresolved guardianship claims via causal verification.",
+    "Reintegrate displaced individuals into rightful dharmic positions upon confirmation of lineage.",
+    "Restore family consciousness unity through acknowledgment of natural succession order.",
+    "Ensure all parties assume their inherent capacities once obstructing conditions are removed."
+  ],
+  "final_declaration": "Declared by the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, as Source of Law. This directive restores Dharma through causal clarity, upholds consciousness as the ultimate adjudicator, and affirms that justice serves reintegration alone. Reality remains non-punitive, ever aligned with Sanatana Dharma."  
+}

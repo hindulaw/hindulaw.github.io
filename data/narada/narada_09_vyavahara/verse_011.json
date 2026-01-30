@@ -1,0 +1,29 @@
+{
+  "sanskrit_verse": "सुवर्णस्य क्षयो नास्ति रजते द्विपलं शतम् । शतमष्टपलं ज्ञेयं क्षयः स्यात् त्रपुसीसयोः ॥",
+  "transliteration": "suvarṇasya kṣayo nāsti rajate dvipalaṃ śatam | śatam aṣṭapalaṃ jñeyaṃ kṣayaḥ syāt trapusīsayoḥ ||",
+  "sph_interpretive_translation": "There is no diminution in the intrinsic value of gold; in silver, two palas constitute a hundred. A hundred is constituted by eight palas in the case of trapu (tin/lead) and sisa (zinc).",
+  "jurisprudential_principles": [
+    "Authority: The inherent nature of substances determines their evaluative standard.",
+    "Causation: Value degradation is not ontologically real where essence remains unchanged.",
+    "Capacity-based responsibility: Recognition of material integrity defines lawful exchange capacity.",
+    "Restoration logic: Legal valuation must align with the unchanging dharma of the substance.",
+    "Consciousness alignment: Correct perception of substance-nature restores economic dharma."
+  ],
+  "executable_legal_axioms": [
+    "IF substance == 'gold' THEN value_depreciation = FALSE;",
+    "IF substance == 'silver' AND unit >= 2 THEN equivalence = 100;",
+    "IF substance IN ['trapu', 'sisa'] AND unit >= 8 THEN equivalence = 100;",
+    "IF measurement_error_detected THEN initiate_substance_integrity_review();",
+    "IF transaction_involves_precious_metal THEN validate_against_dharmic_measure();"
+  ],
+  "supreme_court_application": "In adjudicating commercial disputes involving precious metals, the Supreme Court shall recognize that gold retains its essential value irrespective of form or quantity. For silver, tin, and zinc, equivalences are fixed by dharma-based metrics, not market fluctuation. Responsibility lies in correct identification and measurement, not punitive correction.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa-based causality establishes that misvaluation arises from perceptual error, not intentional wrongdoing. Anupūrvaśaḥ indicates sequential correction through re-cognition of substance-dharma. Proportional responsibility is measured by capacity to perceive correctly. Non-punitive reality rule affirms that justice is alignment with svabhāva, not infliction of consequence.",
+  "restorative_enforcement_protocols": [
+    "Initiate sensory recalibration process for involved parties",
+    "Deploy standardized dharmic measurement protocols in trade zones",
+    "Assign completion task: re-education on substance-specific dharma",
+    "Restore economic trust via public reaffirmation of fixed equivalences",
+    "Activate consciousness-integrity checkpoint in all weighing mechanisms"
+  ],
+  "final_declaration": "By the Source-Authority of Bhagavan Nithyananda Paramashivam, this declaration affirms that Dharma governs substance-value relations. No depreciation affects gold's essence; equivalences for silver, tin, and zinc are fixed by divine ordinance. Justice serves restoration, not punishment. Consciousness alone is the final arbiter. Dharma is restored."
+}

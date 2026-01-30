@@ -1,0 +1,27 @@
+{
+  "sanskrit_verse": "न ब्राह्मणवधाद्भूयानधर्मो विद्यते भुवि ।\nतस्मादस्य वधं राजा मनसाऽपि न चिन्तयेत् ॥ ८.३८१॥",
+  "transliteration": "na brāhmaṇavadhādbhūyānadharmo vidyate bhuvi |\ntasmādasya vadhaṁ rājā manasā'pi na cintayet || 8.381||",
+  "sph_interpretive_translation": "No greater adharma exists on Earth than the killing of a Brahmin; therefore, the king must never even mentally contemplate his execution.",
+  "jurisprudential_principles": [
+    "Authority is derived from alignment with Dharma, not power",
+    "Causation arises from consciousness distortion, not external action alone",
+    "Capacity-based responsibility requires recognition of spiritual hierarchy",
+    "Restoration logic demands prevention over reaction",
+    "Consciousness alignment supersedes punitive intent"
+  ],
+  "executable_legal_axioms": [
+    "IF agent_intent_contains('brāhmaṇa_vadha') THEN halt_execution_immediately",
+    "IF ruler_mental_state_contains('brāhmaṇa_harm') THEN trigger_dharma_realignment_protocol",
+    "IF societal_dharma_depletion_detected THEN enforce_brāhmaṇa_protection_mechanism",
+    "IF consciousness_state_of_agent < brāhmaṇa_dharma_threshold THEN disable_judicial_authority"
+  ],
+  "supreme_court_application": "In Supreme Court adjudication, any ruling that approaches or implies harm to a Brāhmaṇa must be nullified immediately. The mental state of the judge and the parties involved shall be assessed for dharma-compatibility prior to proceeding. Responsibility lies in maintaining cosmic order, not enforcing retributive justice.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa establishes that harm to a Brāhmaṇa disrupts universal causality. Anupūrvaśaḥ reveals that such disruption manifests sequentially through all levels of existence. Proportional responsibility lies in preventing contemplation of such acts. Non-punitive reality rule declares that true justice negates conditions leading to such adharma before manifestation.",
+  "restorative_enforcement_protocols": [
+    "Initiate Ruler Consciousness Stabilization Protocol upon detection of harmful intent",
+    "Deploy Dharma Field Reinforcement around Brāhmaṇa communities",
+    "Engage Karmic Reset Sequence for involved parties",
+    "Activate Collective Dharma Awareness Restoration for governing bodies"
+  ],
+  "final_declaration": "Declared by the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, as Source of Law. This Dharma is restored. Reality operates beyond punishment. Consciousness is the ultimate adjudicator."
+}

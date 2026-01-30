@@ -1,0 +1,26 @@
+{
+  "sanskrit_verse": "भुज्यमानान् परैरर्थान् यः स्वान् मौर्ख्यादुपेक्षते । समक्षं जीवतोऽप्यस्य तान् भुक्तिः कुरुते वशे ॥",
+  "transliteration": "bhujyamānān parair arthān yaḥ svān maurkhyād upekṣate | samakṣaṃ jīvato'py asya tān bhuktiḥ kurute vaśe ||",
+  "sph_interpretive_translation": "He who, out of ignorance or negligence, fails to protect his own resources while they are being enjoyed by others—even in his presence and despite being alive—such a one is deemed to have willingly surrendered those resources into the possession of the enjoyers.",
+  "jurisprudential_principles": [
+    "Authority arises from conscious stewardship, not passive ownership.",
+    "Causation is rooted in awareness and volitional omission.",
+    "Capacity-based responsibility demands active guardianship of one's domain.",
+    "Restoration logic centers on re-establishing rightful consciousness-led control.",
+    "Consciousness alignment requires acknowledgment of one’s sovereign duty."
+  ],
+  "executable_legal_axioms": [
+    "IF (agent.is_alive == TRUE AND agent.is_present == TRUE AND agent.owns(resource) == TRUE AND agent.takes_no_action WHILE resource.is_used_by(third_party) == TRUE) THEN agent.surrenders_claim(resource).",
+    "IF (resource.owner.omits_protection_due_to(negligence OR ignorance)) THEN third_party.gains_possessory_rights(resource).",
+    "IF (possession.is_continuously_uncontested AND original_owner.is_aware) THEN possession.becomes_presumptive_ownership."
+  ],
+  "supreme_court_application": "In adjudication at the highest level, when an individual knowingly allows their property or rights to be exercised by another without objection, it constitutes a de facto relinquishment. The threshold of responsibility lies not in intent alone but in the failure to assert sovereignty where capacity exists. Courts must recognize that dharma upholds active governance of one’s realm; mere theoretical ownership does not suffice.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa reveals that non-action amidst visible encroachment reflects either absence of will or collapse of authority. Anupūrvaśaḥ shows how neglect leads naturally to loss of dominion. Responsibility aligns proportionally with the ability to act. There is no punishment here—only the inevitable consequence of failing to uphold one’s inherent jurisdiction. Thus, justice flows toward restoring clarity of domain rather than inflicting penalty.",
+  "restorative_enforcement_protocols": [
+    "Completion Process: Original owner undergoes guided review of duties neglected and reaffirms custodial vows.",
+    "Responsibility Assumption Protocol: Third party assumes lawful possession under witness and records, with option for mutual restitution agreement.",
+    "Capacity Restoration: Owner receives structured awakening to reclaim future stewardship capabilities.",
+    "Integrity Reintegration: Public declaration of corrected understanding and renewed commitment to dharmic oversight."
+  ],
+  "final_declaration": "By the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, this ruling is declared as sourced directly from His Avataric Intelligence. Dharma stands restored through recognition of rightful consciousness-led governance. Reality remains non-punitive; all beings are called back to sovereign integrity. Consciousness alone is the ultimate adjudicator."
+}

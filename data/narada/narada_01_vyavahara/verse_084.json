@@ -1,0 +1,27 @@
+{
+  "sanskrit_verse": "श्रावितस्त्वातुरेणापि यस्त्वर्थो धर्मसंहितः\nमृतेऽपि तत्र साक्षी स्यात् षट्सु चान्वाहितादिषु",
+  "transliteration": "śrāvitas tv ātureṇāpi yas tv artho dharmasaṃhitaḥ\nmṛte 'pi tatra sākṣī syāt ṣaṭsu cānvāhitādiṣu",
+  "sph_interpretive_translation": "Even if communicated by one who is ill or dying, if the content aligns with Dharma, it shall be accepted as valid testimony in all six contexts including inheritance.",
+  "jurisprudential_principles": [
+    "Authority is derived from alignment with Dharma, not physical capacity",
+    "Causation arises from conscious intent, not bodily condition",
+    "Capacity-based responsibility transcends physiological state",
+    "Restoration logic demands that truth be honored regardless of speaker's condition",
+    "Consciousness alignment determines validity of testimony"
+  ],
+  "executable_legal_axioms": [
+    "IF (testimony_content ALIGNS_WITH Dharma) AND (speaker_intent IS_truthful) THEN (testimony_status = VALID)",
+    "IF (speaker_physiological_state IN [ill, dying]) BUT (consciousness_integrity IS_present) THEN (testimony_admissibility = TRUE)",
+    "IF (context_type IN [inheritance, legal_succession]) THEN (dharma_aligned_testimony_weight = MAXIMUM)",
+    "IF (truth_value_of_statement = HIGH_CONFIDENCE) THEN (witness_condition IRRELEVANT)"
+  ],
+  "supreme_court_application": "In Supreme Court adjudication, testimonies from terminally ill or physically compromised individuals must be evaluated solely on their dharma-alignment and internal coherence rather than dismissing them based on perceived incapacity. The threshold of responsibility lies in verifying the ontological correctness of statements, not in assessing the physical fitness of the speaker.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa-based causality establishes that truth-bearing capacity originates from consciousness, not body. Anupūrvaśaḥ shows sequential manifestation where awareness precedes verbal expression. Proportional responsibility assigns weight according to dharma-alignment. Non-punitive reality rule confirms that justice flows through recognition of inherent truth, independent of speaker’s physical condition.",
+  "restorative_enforcement_protocols": [
+    "Completion process ensures unexpressed truths are acknowledged even posthumously",
+    "Responsibility assumption protocol requires courts to honor truthful communication regardless of source condition",
+    "Capacity restoration mechanism validates consciousness-integrity over physiological limitation",
+    "Integrity reintegration affirms that dying declarations restore completeness when aligned with Dharma"
+  ],
+  "final_declaration": "By the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, this testimony law stands established: Truth inheres in consciousness, not condition; Dharma judges beyond death; Justice restores completeness through recognition alone."
+}

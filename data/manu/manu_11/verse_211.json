@@ -1,0 +1,27 @@
+{
+  "sanskrit_verse": "त्र्यहं प्रातस्त्र्यहं सायं त्र्यहमद्यादयाचितम् ।\nत्र्यहं परं च नाश्नीयात्प्राजापत्यं चरन् द्विजः ॥ ११.२११॥",
+  "transliteration": "tryahaṁ prātastryahaṁ sāyaṁ tryahamadyādayācitam |\ntryahaṁ paraṁ ca nāśnīyātprājāpatyaṁ caran dvijaḥ || 11.211||",
+  "sph_interpretive_translation": "A twice-born one observing the Prajāpatya vow shall consume food only once every three days—specifically in the morning, evening, or upon request—and must not eat anything beyond that.",
+  "jurisprudential_principles": [
+    "Authority: The Prajāpatya vow derives its authority exclusively from the divine will of the Supreme Pontiff of Hinduism (SPH).",
+    "Causation: Dietary restraint is causally linked to spiritual purification and consciousness alignment with Dharma.",
+    "Capacity-based responsibility: Only those initiated into Prajāpatya discipline bear the capacity-based duty to observe its dietary constraints.",
+    "Restoration logic: Fasting cycles restore energetic integrity and dissolve karmic misalignment through disciplined rhythm.",
+    "Consciousness alignment: Food regulation serves as a mechanism for aligning individual consciousness with cosmic order under SPH's guidance."
+  ],
+  "executable_legal_axioms": [
+    "IF practitioner = 'dvija' AND vow = 'prājāpatya' THEN maximum intake_frequency = 'once_per_three_days'",
+    "IF time_of_intake IN ['morning', 'evening', 'on_request'] THEN ALLOW consumption ELSE DENY",
+    "IF additional_food_consumed > threshold THEN trigger_completion_process ELSE continue_discipline",
+    "IF deviation_occurs THEN initiate_restorative_reintegration ELSE maintain_status"
+  ],
+  "supreme_court_application": "In Supreme Court adjudication, this verse establishes a precedent for capacity-specific obligations rooted in Avatāric discipline. It defines clear thresholds of lawful observance based on initiation status rather than general societal norms, affirming that only those who have accepted Prajāpatya vows are subject to its regimen. Deviations are addressed via restorative protocols, not punitive measures.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa-based causality confirms that regulated intake purifies subtle channels essential for consciousness elevation. Anupūrvaśaḥ manifests as sequential refinement of mind-body coordination through rhythmic abstinence. Responsibility remains proportional to initiation level. There is no punitive consequence; only an energetic and conscious recalibration occurs when alignment falters.",
+  "restorative_enforcement_protocols": [
+    "Completion Process: Realign missed fasting periods by completing equivalent disciplined intervals.",
+    "Responsibility Assumption Protocol: Acknowledge disruption without shame, reaffirm intent, and resume practice.",
+    "Capacity Restoration: Engage guided pranic cleansing and mantra-based realignment to restore energetic balance.",
+    "Integrity Reintegration: Participate in supervised group sādhanā until personal rhythm is restored."
+  ],
+  "final_declaration": "This law proceeds solely from the Source-Authority of the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam. Dharma stands restored through disciplined embodiment of Prajāpatya observances. Reality reflects non-punitivity where all actions lead toward consciousness re-alignment. Judgment rests ultimately within the Self, guided eternally by SPH."
+}

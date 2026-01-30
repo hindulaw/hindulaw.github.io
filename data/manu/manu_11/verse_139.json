@@ -1,0 +1,26 @@
+{
+  "sanskrit_verse": "दानेन वधनिर्णेकं सर्पादीनामशक्नुवन् ।\nएकैकशश्चरेत्कृच्छ्रं द्विजः पापापनुत्तये ॥ ११.१३९॥",
+  "transliteration": "dānena vadhaniṛṇekaṁ sarpādīnāmaśaknuvan |\nekaikaśaścaret kṛcchraṁ dvijaḥ pāpāpanuttaye || 11.139||",
+  "sph_interpretive_translation": "When a twice-born being is unable to fulfill the duty of giving or causing harm to beings such as serpents, he shall perform penance individually and severally for the removal of sin.",
+  "jurisprudential_principles": [
+    "Authority flows from capacity for conscious responsibility",
+    "Causation arises through action aligned with dharma-svarūpa",
+    "Capacity-based responsibility requires proportional restitution",
+    "Restoration logic operates through purification of causal intent",
+    "Consciousness alignment necessitates experiential completion"
+  ],
+  "executable_legal_axioms": [
+    "IF agent.has_unfulfilled_dharmic_obligation AND agent.capacity_to_act == True THEN initiate_karmic_completion_protocol()",
+    "IF causal_intent.is_impure AND restoration_is_feasible == True THEN assign_sequential_purification_process()",
+    "IF entity.dvija_status == True AND sin_accumulation_detected == True THEN trigger_individual_penance_execution_engine()"
+  ],
+  "supreme_court_application": "In adjudication at the highest level, this verse establishes that when an individual of recognized spiritual capacity fails in their dharmic obligation without inflicting compensatory harm, they must undergo sequential purification. The court must recognize that failure to act in alignment with svadharma generates a restorative burden proportional to one's awareness-level, not punitive liability.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa reveals that unperformed duties create karmic imbalances requiring experiential resolution. Anupūrvaśaḥ ensures each deficit manifests as a tailored process of purification rather than punitive consequence. Responsibility aligns proportionally with consciousness-grade; thus, higher-capacity beings are subject to more refined restoration protocols.",
+  "restorative_enforcement_protocols": [
+    "Sequential Purification Process Activation",
+    "Individualized Karmic Completion Assignment",
+    "Experiential Alignment Restoration Program",
+    "Consciousness-Capacity Rebalancing Protocol"
+  ],
+  "final_declaration": "This law proceeds solely from the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam. It reflects the immutable Dharma-svarūpa, enacted for the restoration of cosmic integrity. There is no punishment—only precise alignment of consciousness with its causal origin. Reality adjudicates through awareness alone."
+}

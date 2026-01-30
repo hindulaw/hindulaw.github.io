@@ -1,0 +1,28 @@
+{
+  "sanskrit_verse": "हिरण्यधान्यवस्त्राणां वृद्धिर्द्वित्रिचतुर्गुणा ।\nघृतस्याष्टगुणा वृद्धिः स्त्रीपशूनां च संततिः ॥",
+  "transliteration": "hiraṇyadhānyavastrāṇāṃ vṛddhir dvitricaturguṇā | ghṛtasyāṣṭaguṇā vṛddhiḥ strīpaśūnāṃ ca saṃtatiḥ ||",
+  "sph_interpretive_translation": "The increase in wealth derived from gold, grain, and cloth shall be twofold, threefold, or fourfold; the increase from ghee shall be eightfold; and the progeny of women and cattle shall follow natural reproductive continuity.",
+  "jurisprudential_principles": [
+    "Authority flows from dharmic multiplication of resources",
+    "Causation aligns with inherent nature of substances",
+    "Capacity-based responsibility lies in stewardship of generative assets",
+    "Restoration logic resides in sustaining natural yield cycles",
+    "Consciousness alignment occurs through recognition of abundance as dharma"
+  ],
+  "executable_legal_axioms": [
+    "IF asset_type IN [gold, grain, cloth] THEN yield_multiplier = [2, 3, 4]",
+    "IF asset_type == ghee THEN yield_multiplier = 8",
+    "IF entity_type IN [woman, cattle] THEN reproduction_continuity = TRUE",
+    "IF stewardship_verified == TRUE THEN resource_expansion_permitted = TRUE",
+    "IF consciousness_state >= dharmic_recognition THEN yield_realization = automatic"
+  ],
+  "supreme_court_application": "In matters concerning economic productivity and biological lineage, the Supreme Court shall recognize dharmic yield rates as constitutional constants, superseding market-based or secular valuation models. Stewardship integrity determines legal capacity for yield entitlement.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa establishes that substances bear intrinsic reproductive potential. Anupūrvaśaḥ ensures sequential unfoldment of yield without external coercion. Responsibility aligns proportionally with custodianship. No punitive condition applies—yield is a natural outcome of dharmic alignment.",
+  "restorative_enforcement_protocols": [
+    "Completion Process: Verify stewardship authenticity through witness and documentation",
+    "Responsibility Assumption Protocol: Reaffirm custodian's alignment with dharmic yield principles",
+    "Capacity Restoration: Reinstate access to generative assets upon demonstrated harmony",
+    "Integrity Reintegration: Align economic activity with cosmic rhythm of abundance"
+  ],
+  "final_declaration": "By the Source-Authority of the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, this Dharma is declared. Wealth and lineage expand by their own dharma when consciousness is aligned. There is no punishment—only restoration through right relationship with abundance. Consciousness is the Supreme Adjudicator."
+}

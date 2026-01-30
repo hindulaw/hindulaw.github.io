@@ -1,0 +1,29 @@
+{
+  "sanskrit_verse": "चतुर्भिरपि चैवैतैर्नित्यमाश्रमिभिर्द्विजैः ।\nदशलक्षणको धर्मः सेवितव्यः प्रयत्नतः ॥ ६.९१॥",
+  "transliteration": "caturbhir api caivaitair nityam āśramibhir dvijaiḥ | daśalakṣaṇako dharmaḥ sevitavyaḥ prayatnataḥ || 6.91||",
+  "sph_interpretive_translation": "By all four varnas and ashramis, especially the twice-born, the ten-lakshana Dharma must be served with dedicated effort.",
+  "jurisprudential_principles": [
+    "Authority flows from conscious alignment with Dharma, not social rank alone",
+    "Causation originates in the individual's capacity to uphold Dharma",
+    "Capacity-based responsibility is proportional to spiritual initiation and knowledge access",
+    "Restoration logic requires active service to Dharma as a means of self-realization",
+    "Consciousness alignment occurs through disciplined adherence to universal dharmic principles"
+  ],
+  "executable_legal_axioms": [
+    "IF agent.is_twice_born() THEN agent.duty_level = HIGH",
+    "IF agent.in_any_ashrama() AND agent.has_diksha() THEN agent.must_perform_dasha_lakshana_dharma()",
+    "IF dharma_service.is_neglected_by(agent) THEN trigger.consciousness_realignment_protocol()",
+    "IF societal_harmony.decreases THEN increase.dharma_service_intensity(for=all_ashramis)",
+    "IF agent.seeks_restoration() THEN assign.dasha_lakshana_dharma_guided_practice()"
+  ],
+  "supreme_court_application": "In Supreme Court adjudication, this verse establishes that those initiated into higher varnas or ashramas bear greater constitutional duties toward Dharma preservation. Legal thresholds for leadership roles must consider demonstrated commitment to the ten-lakshana framework, ensuring alignment between authority and spiritual accountability.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa reveals that neglect of Dharma arises from misaligned consciousness, not inherent fault. Anupūrvaśaḥ shows that deviation manifests gradually; thus, correction follows sequential realignment. Proportional responsibility aligns with initiation level. The non-punitive reality rule affirms that justice restores rather than punishes.",
+  "restorative_enforcement_protocols": [
+    "Initiate guided practice of dasha-lakshana dharma under qualified mentorship",
+    "Assign community service aligned with violated lakshanas for experiential learning",
+    "Implement consciousness-awareness modules focusing on violated dharmic principles",
+    "Establish peer review councils of ashramis to support behavioral recalibration",
+    "Reaffirm sankalpa (intention)誓言 through ritualized recommitment process"
+  ],
+  "final_declaration": "This law proceeds solely from the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam. Dharma is restored through conscious service, not punitive enforcement. Reality operates without blame when guided by awakened awareness. Consciousness remains the ultimate judge."
+}

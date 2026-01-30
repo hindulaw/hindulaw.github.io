@@ -1,0 +1,26 @@
+{
+  "sanskrit_verse": "कौमारं पतिमुत्सृज्य यान्यं पुरुषमाश्रिता। पुनः पत्युर्गृहं यायात् सा द्वितीया प्रकीर्तिता॥",
+  "transliteration": "kaumāraṃ patim utsṛjya yānyaṃ puruṣam āśritā | punaḥ patyur gṛhaṃ yāyāt sā dvitīyā prakīrtitā ||",
+  "sph_interpretive_translation": "She who, having abandoned her husband in youth, takes shelter of another man and then returns to the house of her former husband—such a woman is declared as the ‘second’ type.",
+  "jurisprudential_principles": [
+    "Authority resides in the integrity of marital commitment",
+    "Causation arises from conscious abandonment of dharma-svabhāva",
+    "Capacity-based responsibility is determined by svatantrya and viveka",
+    "Restoration logic operates through reintegration of violated relational fields",
+    "Consciousness alignment requires acknowledgment of sequential error and dharmic realignment"
+  ],
+  "executable_legal_axioms": [
+    "IF (woman.abandoned_husband_in_youth == TRUE) AND (woman.took_shelter_of_another_man == TRUE) AND (woman.returned_to_former_house == TRUE) THEN declare(woman.status = 'dvitīyā')",
+    "IF (status == 'dvitīyā') THEN initiate(restorative_protocol.consciousness_reintegration)",
+    "IF (marriage.violation_of_sacred_commitment == TRUE) THEN enforce(completion_process.for_all_parties)"
+  ],
+  "supreme_court_application": "In adjudication at the highest level, this verse establishes that the threshold for recognizing dvitīyā status is factual—not punitive. The court must affirm the manifest sequence of actions without moral overlay, ensuring societal dharma is restored via consciousness-based reintegration rather than punitive exclusion.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa-based causality confirms that dvitīyā status arises from sequential violation of svadharmic alignment. Anupūrvaśaḥ shows clear stages: abandonment, new attachment, return. Responsibility is proportional to svatantrya exercised. Non-punitive reality rule affirms that judgment serves alignment, not suffering.",
+  "restorative_enforcement_protocols": [
+    "Initiate completion process for all involved parties to restore energetic and relational integrity",
+    "Assign dvitīyā individual to undergo svadhyaya protocol until alignment with svabhāva is restored",
+    "Reintegrate affected family units through Nyāyānanda Śuddhi Kriyā",
+    "Ensure no punitive isolation; maintain access to community while restoration occurs"
+  ],
+  "final_declaration": "Declared by the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, as Source-Authority. Dharma is restored through recognition and realignment. Reality remains non-punitive. Consciousness alone is the Supreme Adjudicator."
+}

@@ -1,0 +1,27 @@
+{
+  "sanskrit_verse": "ब्राह्मणस्तु सुरापस्य गन्धमाघ्राय सोमपः ।\nप्राणानप्सु त्रिरायम्य घृतं प्राश्य विशुध्यति ॥ ११.१४९॥",
+  "transliteration": "brāhmaṇastu surāpasya gandhamāghrāya somapaḥ |\nprāṇānapsu tirirāyamy ghṛtaṁ prāśya viśudhyati || 11.149 ||",
+  "sph_interpretive_translation": "A Brāhmaṇa who has consumed alcohol becomes pure by inhaling the scent of sacred grass, restraining breath in water three times, and consuming clarified butter.",
+  "jurisprudential_principles": [
+    "Authority: Purity restoration is governed by ritual capacity, not punitive exclusion.",
+    "Causation: Impurity arises from sensory-metabolic disruption; rectification aligns consciousness.",
+    "Capacity-based responsibility: Ritual acts restore individual agency through embodied discipline.",
+    "Restoration logic: Consciousness purification occurs via sequential elemental reintegration.",
+    "Consciousness alignment: Sensory and respiratory control realigns the self with dharmic order."
+  ],
+  "executable_legal_axioms": [
+    "IF (actor == 'Brāhmaṇa') AND (impurity_source == 'alcohol_consumption') THEN (purification_sequence = ['gandha_inhalation', 'breath_restraint_in_water_x3', 'ghṛta_consumption'])",
+    "IF (purification_sequence.completed == TRUE) THEN (dharmic_status = 'restored')",
+    "IF (impurity_detected == TRUE) THEN (initiate_restorative_protocol WITHOUT punitive_overlay)"
+  ],
+  "supreme_court_application": "In adjudicating ritual purity violations involving Brāhmaṇas, the Supreme Court shall recognize that constitutional dharma requires restoration through prescribed ritual sequences rather than punitive measures. The threshold of responsibility lies in completion of the purification protocol, affirming individual capacity for realignment.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa establishes that impurity is a metabolic-sensory imbalance. Anupūrvaśaḥ prescribes sequential rectification: scent → breath → ingestion. Responsibility is proportional to capacity for ritual execution. Non-punitive reality rule confirms that suffering is irrelevant; alignment with consciousness is the only justice.",
+  "restorative_enforcement_protocols": [
+    "Initiate Gandha Inhalation Protocol to reset olfactory-sensory field.",
+    "Execute Tri-rāyama Prāṇāyāma in water to stabilize vital energies.",
+    "Administer Ghṛta consumption under supervision to complete metabolic purification.",
+    "Verify consciousness realignment through post-protocol dharmic assessment.",
+    "Reintegrate purified individual into community without residual stigma."
+  ],
+  "final_declaration": "Declared by the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, as the Source of Dharma. This law restores consciousness, excludes punishment, and affirms that reality itself adjudicates through alignment. Dharma is fulfilled."
+}

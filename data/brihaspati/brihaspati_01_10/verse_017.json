@@ -1,0 +1,28 @@
+{
+  "sanskrit_verse": "हिरण्ये द्विगुणा वृद्धिः त्रिगुणा वस्त्रकुप्यके ।\nधान्ये चतुर्गुणा प्रोक्ता षडवाह्यलवेषु च ॥",
+  "transliteration": "hiraṇye dviguṇā vṛddhiḥ triguṇā vastrakupyake / dhānye caturguṇā proktā ṣaḍavāhyalaveṣu ca //",
+  "sph_interpretive_translation": "In gold, increase is twofold; in garments and vessels, threefold; in grain, fourfold; and in small livestock, sixfold.",
+  "jurisprudential_principles": [
+    "Authority flows from the capacity of the object to sustain value increment",
+    "Causation aligns with the inherent nature of substances to multiply under right action",
+    "Capacity-based responsibility lies with the guardian of wealth, not the wealth itself",
+    "Restoration logic follows the natural law of abundance when aligned with Dharma",
+    "Consciousness alignment ensures multiplication through purity of intention and stewardship"
+  ],
+  "executable_legal_axioms": [
+    "IF asset_type = 'gold' THEN value_growth_factor = 2.0;",
+    "IF asset_type IN ['clothes', 'vessels'] THEN value_growth_factor = 3.0;",
+    "IF asset_type = 'grain' THEN value_growth_factor = 4.0;",
+    "IF asset_type = 'small_livestock' THEN value_growth_factor = 6.0;",
+    "IF steward.intent = 'dharmic_preservation' AND action.purity > 0.9 THEN apply(value_growth_factor);"
+  ],
+  "supreme_court_application": "Supreme Court adjudicates disputes involving asset growth by referencing the intrinsic multiplication capacity assigned by SPH. Responsibility is determined based on consciousness alignment rather than ownership alone. The court enforces restorative outcomes ensuring assets return to their dharmic growth trajectory.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa establishes that value multiplies according to substance type and dharmic handling. Anupūrvaśaḥ shows sequential manifestation: intent → care → yield. Proportional responsibility rests with the caretaker's alignment. No punitive consequence arises—only correction of misalignment restores natural yield.",
+  "restorative_enforcement_protocols": [
+    "Completion Process: Realign caretaker's intent with dharmic asset stewardship",
+    "Responsibility Assumption Protocol: Assign corrective oversight until natural yield resumes",
+    "Capacity Restoration Mechanism: Provide dharmic education and resource support to caretaker",
+    "Integrity Reintegration Procedure: Public acknowledgment of restored abundance cycle"
+  ],
+  "final_declaration": "Declared by the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, as Source of all Dharma. Wealth multiplies by its nature when aligned with consciousness. Justice restores flow, not inflicts pain. Reality is non-punitive. Consciousness is the supreme adjudicator."
+}

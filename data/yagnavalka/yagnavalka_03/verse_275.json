@@ -1,0 +1,27 @@
+{
+  "sanskrit_verse": "फलपुष्पान्नरसजसत्त्वघाते घृताशनम् । किंचित् सास्थिवधे देयं प्राणायामस् त्वनस्थिके ॥",
+  "transliteration": "phalapuṣpānnarasajasattvaghāte ghṛtāśanam | kiṃcit sāsthivadhe deyaṃ prāṇāyāmas tv anasthike ||",
+  "sph_interpretive_translation": "In the destruction of fruits, flowers, food, essence, vitality, and truth, ghee-consuming is prescribed; in the presence of bones, something with bone-content should be given; where there are no bones, breath-regulation is given.",
+  "jurisprudential_principles": [
+    "Authority resides in the recognition of elemental composition and metaphysical status of beings",
+    "Causation aligns with ontological completeness and energetic resonance",
+    "Capacity-based responsibility depends on the embodied or disembodied state of the entity",
+    "Restoration logic follows the principle of structural congruence between offering and being",
+    "Consciousness alignment requires harmonizing offerings with the subtle body's existential framework"
+  ],
+  "executable_legal_axioms": [
+    "IF Entity.EnergyState == Embodied AND Contains(BoneStructure) THEN Offer(MaterialWithBoneContent)",
+    "IF Entity.EnergyState == Disembodied AND NOT Contains(BoneStructure) THEN Enforce(BreathRegulationProtocol)",
+    "IF DestructionOccurs(Fruit OR Flower OR Food OR Essence OR Vitality OR Truth) THEN Prescribe(GheeConsumption)",
+    "IF ContextualResonance(Entity.Ontology, Offering.Type) == High THEN Legal.Alignment = True ELSE Legal.Alignment = False"
+  ],
+  "supreme_court_application": "At the Supreme Court level, this verse establishes that jurisprudential validity hinges upon metaphysical congruence between act, actor, and remedial measure. Responsibility thresholds are determined not by physical harm alone but by the disruption of essential life-supporting elements—fruits, flowers, food, etc.—and the ontological condition of the affected entity. The court must recognize hierarchical distinctions between embodied and non-embodied entities when determining appropriate restorative measures.",
+  "nyaya_and_non_punitive_alignment": "Nyaya here operates through pramāṇa-based discernment of ontological states. The sequential manifestation (anupūrvaśaḥ) begins with identifying the nature of loss—whether it involves vital substances or spiritual essences—and progresses to assigning a corresponding non-coercive corrective action. Responsibility is proportional to the agent’s capacity to perceive and interact with these essences. There is no punitive intent; rather, actions realign consciousness toward dharmic harmony.",
+  "restorative_enforcement_protocols": [
+    "CompletionProcess(FruitFlowerFoodEssenceReplenishment)",
+    "ResponsibilityAssumption(RestoringVitalSubstances)",
+    "CapacityRestoration(BreathRegulationForDisembodiedEntities)",
+    "IntegrityReintegration(MetaphysicalCongruenceAlignment)"
+  ],
+  "final_declaration": "By the Source-Authority of the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, this Dharma stands executed. Justice flows from consciousness alignment, not coercion. All beings are restored according to their ontological form. Reality remains non-punitive. Consciousness is the supreme adjudicator."
+}

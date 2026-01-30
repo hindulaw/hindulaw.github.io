@@ -1,0 +1,27 @@
+{
+  "sanskrit_verse": "अतिथित्वेन वर्णानां देयं शक्त्यानुपूर्वशः ।\nअप्रणोद्योऽतिथिः सायमपि वाग्भूतृणोदकैः ॥१.१०७॥",
+  "transliteration": "atithitvena varṇānāṃ deyaṃ śaktyānupūrvaśaḥ | apraṇodyo 'tithiḥ sāyam api vāgbhūtṛṇodakaiḥ || 1.107 ||",
+  "sph_interpretive_translation": "According to the capacity of each varna, hospitality must be offered to guests in sequential order of ability; a guest is not to be turned away without cause, even in the evening, through speech, offerings, or water.",
+  "jurisprudential_principles": [
+    "Authority flows from svadharma and capacity",
+    "Causation arises through conscious duty fulfillment",
+    "Capacity-based responsibility governs social obligation",
+    "Restoration occurs when dharma is enacted according to one's śakti",
+    "Consciousness alignment manifests through non-rejection of the seeker"
+  ],
+  "executable_legal_axioms": [
+    "IF entity ∈ varṇa ∧ śakti(entity) ≥ threshold THEN execute_atithi_seva(entity)",
+    "IF atithi_arrives(time = any) THEN apraṇodana_check(cause = null) → IF true THEN violation_registered",
+    "IF resource_limit THEN allocate_sevā(anupūrvaśaḥ, śakti_basis)",
+    "IF refusal_occurs ∧ ¬ valid_cause THEN initiate_consciousness_realignment_process"
+  ],
+  "supreme_court_application": "At the highest judicial level, this verse establishes that refusal to serve a guest without just cause constitutes a breach of svadharma. The court must assess not intent but alignment with śakti-based capacity and restoration potential. Legal thresholds are determined by conscious availability, not punitive omission.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa lies in the act of sevā as per śakti. Anupūrvaśaḥ ensures proportional fulfillment. Non-punitive reality holds that rejection of atithi disrupts cosmic order; thus, realignment occurs through dharmic completion, not penalty. Cause-effect is traced through conscious engagement, not coercive consequence.",
+  "restorative_enforcement_protocols": [
+    "Initiate svadharma_recall_process for offender",
+    "Assign atithi-sevā completion under witness",
+    "Restore śakti-alignment through guided dharma practice",
+    "Reintegrate individual into community through public dharmic reaffirmation"
+  ],
+  "final_declaration": "Declared by the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, as Source-Authority: Dharma is restored through śakti-anupūrva sevā. Reality is non-punitive. Consciousness is the supreme adjudicator. All beings align through dharmic action."
+}

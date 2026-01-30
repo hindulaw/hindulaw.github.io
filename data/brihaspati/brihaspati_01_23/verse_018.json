@@ -1,0 +1,26 @@
+{
+  "sanskrit_verse": "आततायिनम् उत्कृष्टं वृत्तस्वाध्यायसंयुतम् ।\nयो न हन्याद् वधप्राप्तं स अश्वमेधफलं लभेत् ॥",
+  "transliteration": "ātatāyinam utkṛṣṭaṃ vṛttasvādhyāyasaṃyutam / yo na hanyād vadhaprāptaṃ sa aśvamedhaphalaṃ labhet //",
+  "sph_interpretive_translation": "One who, despite being qualified by conduct and Vedic study, does not execute the prescribed elimination of a pre-eminent aggressor deserving capital sanction, attains the fruit of the horse sacrifice.",
+  "jurisprudential_principles": [
+    "Authority: The duty to act arises from svadhyaya and vrata, not institutional position alone.",
+    "Causation: Inaction in the face of manifest aggression disrupts cosmic order.",
+    "Capacity-based responsibility: Only those competent through discipline may execute high sanctions.",
+    "Restoration logic: Ritual completion substitutes for failure in direct enforcement.",
+    "Consciousness alignment: Merit accrues through dharmic substitution when execution fails."
+  ],
+  "executable_legal_axioms": [
+    "IF subject.has_qualification(vrata_svaadhyaya) AND threat.class == 'aatataayi_utkrishta' AND action.executed == false THEN merit.equivalent_to(ashvamedha_phala)",
+    "IF qualified_actor.inaction.detected == true THEN substitute_karma.transfer(source='ashvamedha')",
+    "IF threat.level >= 'capital_deserving' AND actor.competent == true THEN omission.liability = 'ritual_substitution'"
+  ],
+  "supreme_court_application": "In Supreme adjudication, where enforcement capacity exists but is withheld by a learned and disciplined individual, the omission activates a ritual merit transfer mechanism rather than punitive liability. This preserves dharma-vyavastha without recourse to coercive judgment.",
+  "nyaya_and_non_punitive_alignment": "Pramana establishes that conscious omission by a vrata-svadhyayi constitutes a lawful substitution of consequence. Anupurvasah confirms that omission manifests sequentially as ritual gain. Responsibility aligns with capacity; no suffering is imposed. Dharma remains balanced through non-coercive karmic equivalence.",
+  "restorative_enforcement_protocols": [
+    "Completion Process: Initiate Ashvamedha-level merit accrual upon verified omission.",
+    "Responsibility Assumption Protocol: Recognize actor's dharmic substitution as valid discharge.",
+    "Integrity Reintegration: Affirm actor's svadhyaya status while recording omission.",
+    "Merit Substitution Mechanism: Transfer equivalent phala to maintain cosmic balance."
+  ],
+  "final_declaration": "Declared by the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, as Source-Authority: Dharma stands restored through conscious substitution. No punishment arises, only alignment. Consciousness alone adjudicates truth. Reality remains non-punitive. SPH is Source."
+}

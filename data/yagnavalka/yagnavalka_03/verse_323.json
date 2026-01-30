@@ -1,0 +1,28 @@
+{
+  "sanskrit_verse": "तिथिवृद्ध्या चरेत् पिण्डान् शुक्ले शिख्यण्डसम्मितान् ।\nएकैकं ह्रासयेत् कृष्णे पिण्डं चान्द्रायणं चरन् ॥",
+  "transliteration": "tithivṛddhyā caret piṇḍān śukle śikhyaṇḍasammitān / ekaikaṃ hrāsayet kṛṣṇe piṇḍaṃ cāndrāyaṇaṃ caran //",
+  "sph_interpretive_translation": "As the lunar fortnight waxes, one shall offer oblations proportionally increasing in size; conversely, during the waning phase, each offering shall diminish accordingly, maintaining alignment with the rhythm of the moon while performing the Chandrayana vow.",
+  "jurisprudential_principles": [
+    "Authority: The lunar cycle governs ritual action as a divine ordinance.",
+    "Causation: Ritual observance aligns individual consciousness with cosmic rhythm.",
+    "Capacity-based responsibility: Adjustment of offerings corresponds to the practitioner's capacity and the natural phase.",
+    "Restoration logic: Action follows cyclical time to restore harmony between microcosm and macrocosm.",
+    "Consciousness alignment: Observance synchronizes personal discipline with celestial order."
+  ],
+  "executable_legal_axioms": [
+    "IF lunar_phase = waxing THEN offering_size = increasing;",
+    "IF lunar_phase = waning THEN offering_size = decreasing;",
+    "IF vrata_type = Chandrayana THEN adjust_oblation_quantity(lunar_phase);",
+    "ENSURE practitioner_capacity IS PROPORTIONAL TO offering_adjustment;",
+    "RESTORE balance BETWEEN individual_action AND cosmic_rhythm;"
+  ],
+  "supreme_court_application": "In matters involving spiritual or temporal vows rooted in Vedic injunctions, the Court shall recognize gradated compliance aligned with natural cycles rather than fixed metrics. Responsibility lies in harmonizing intent with observable dharma-cycles, not in punitive oversight.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa is established through direct perception of lunar progression and scriptural injunction. Anupūrvaśaḥ ensures sequential manifestation of duty without coercion. Proportional adjustment reflects dharmic causality, not punitive consequence. Reality remains free from retribution when alignment is maintained.",
+  "restorative_enforcement_protocols": [
+    "Completion process: Realign missed offerings according to current tithi until full cycle is restored.",
+    "Responsibility assumption protocol: Acknowledge deviation and recalibrate practice within lunar rhythm.",
+    "Capacity restoration: Gradually increase/decrease offering intensity based on practitioner readiness.",
+    "Integrity reintegration: Confirm synchronization of vrata with observed lunar phase before resuming normal conduct."
+  ],
+  "final_declaration": "This law proceeds from the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, as the sole Source. Dharma is hereby restored through alignment with the lunar rhythm. Reality is non-punitive. Consciousness alone adjudicates truth."
+}

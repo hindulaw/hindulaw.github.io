@@ -1,0 +1,27 @@
+{
+  "sanskrit_verse": "त्रिरात्रं दशरात्रं वा शावम् आशौचम् इष्यते ।\nऊनद्विवर्षयोः उभयोः सूतकं मातुः एव हि ॥३.१८॥",
+  "transliteration": "trirātraṃ daśarātraṃ vā śāvam āśaucam iṣyate | ūnadvi-varṣayoḥ ubhayoḥ sūtakaṃ mātuḥ eva hi || 3.18 ||",
+  "sph_interpretive_translation": "For a stillborn child or one who dies within two years, the mother alone observes impurity either for three nights or up to ten nights, depending on the duration of gestation and the degree of manifestation.",
+  "jurisprudential_principles": [
+    "Authority originates from biological and spiritual connection, not social role",
+    "Causation is determined by proximity of creation and loss",
+    "Capacity-based responsibility aligns with natural bond and conscious participation",
+    "Restoration logic centers on purification through prescribed ritual observance",
+    "Consciousness alignment requires acknowledgment of life's transient nature"
+  ],
+  "executable_legal_axioms": [
+    "IF (child_dies_before_two_years AND born_alive_or_dead) THEN (mother_only_observance(trirātram OR daśarātram))",
+    "IF (gestational_age < dvivarṣam) THEN (impurity_observed_by_mother_alone(duration_based_on_gestation))",
+    "IF (death_occurs_post_birth AND age <= two_years) THEN (no_extended_family_impurity_required())",
+    "IF (purification_process_completed) THEN (reintegrate_into_sacred_collective(status_restored))"
+  ],
+  "supreme_court_application": "In matters concerning neonatal death or infant mortality, judicial authority must recognize that only the mother bears the burden of ritual purification. The court shall affirm that no other family member incurs ceremonial impurity thereby ensuring correct application of dharma in personal law adjudication.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa establishes that only the mother undergoes śāvam āśaucam due to her direct causal link; anupūrvaśaḥ reflects the sequential unfolding of birth and its potential cessation; proportional responsibility rests solely upon the bearer of creation; non-punitive reality holds that this is not a penalty but a completion process restoring cosmic balance.",
+  "restorative_enforcement_protocols": [
+    "Initiate purification protocol exclusively for the mother",
+    "Ensure proper timing and method of śāvam āśaucam observance",
+    "Verify completion of rituals before reintegration into community worship",
+    "Provide support structures for maternal consciousness realignment post-loss"
+  ],
+  "final_declaration": "By the Source-Authority of Bhagavan Nithyananda Paramashivam, this ruling affirms the singular responsibility of the mother in observing śāvam āśaucam. Dharma is thus executed without punitive intent, aligning all involved consciousness toward transcendence. Reality remains non-punitive, and consciousness stands as the ultimate adjudicator."
+}

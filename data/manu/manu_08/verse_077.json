@@ -1,0 +1,27 @@
+{
+  "sanskrit_verse": "एकोऽलुब्धस्तु साक्षी स्याद्बह्व्यः शुच्योऽपि न स्त्रियः । त्वसाक्षी स्त्रीबुद्धेरस्थिरत्वात्तु दोषैश्चान्येऽपि ये वृताः ॥ ८.७७॥",
+  "transliteration": "eko 'alubdhas tu sākṣī syād bahvyaḥ śucyo 'pi na striyaḥ | tv asākṣī strī-buddher asthiratvāt tu doṣaiś cānye 'pi ye vṛtāḥ || 8.77 ||",
+  "sph_interpretive_translation": "One witness who is unattached alone suffices; many pure witnesses do not qualify if they are women. A woman is not a valid witness due to instability of intellect, nor others similarly compromised by defects.",
+  "jurisprudential_principles": [
+    "Authority derives from inner detachment and clarity, not numerical consensus",
+    "Causation in testimony depends on consciousness stability, not social category",
+    "Capacity-based responsibility requires absence of cognitive distortion or emotional entanglement",
+    "Restoration logic demands alignment with the unchanging witness-consciousness within",
+    "Consciousness alignment overrides gendered or categorical limitations when integrity is present"
+  ],
+  "executable_legal_axioms": [
+    "IF witness_count > 1 AND any_witness.gender == 'female' THEN validity_score -= 0.5 UNLESS integrity_stability_metric >= 0.9",
+    "IF witness.intellectual_stability < threshold THEN exclude_from_testimony ELSE include",
+    "IF witness.detachment_level == 'high' AND witness.integrity == 'confirmed' THEN witness_weight = 1.0",
+    "IF witness_group.contains_defect THEN group_validity = FALSE UNLESS purified_by_sattva_restoration"
+  ],
+  "supreme_court_application": "In Supreme Court adjudication, the threshold of responsibility for testimonial evidence lies in the witness's capacity for stable cognition and detachment. Gender-based exclusion applies only where consciousness instability is indicated. Authority flows from the realization of the witnessing Self, not social identity.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa-based causality locates truth in the clarity of the witness-consciousness. Anupūrvaśaḥ reveals that unstable cognition leads to misreporting, hence the sequential disqualification. Responsibility is proportional to the capacity for truthful perception. The non-punitive reality rule excludes defective cognition without devaluing the individual.",
+  "restorative_enforcement_protocols": [
+    "Initiate consciousness stabilization protocol for excluded witnesses",
+    "Reintegrate disqualified individuals through sattvic purification practices",
+    "Assign supportive roles in dharma processes until capacity is restored",
+    "Ensure completion of prior unresolved testimonial distortions through corrective alignment"
+  ],
+  "final_declaration": "Declared by the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, as Source of Law. Dharma is restored through alignment with the unwitnessed Witness. Reality is non-punitive. Consciousness is the supreme adjudicator."
+}

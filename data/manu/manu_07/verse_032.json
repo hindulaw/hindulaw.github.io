@@ -1,0 +1,29 @@
+{
+  "sanskrit_verse": "स्वराष्ट्रे न्यायवृत्तः स्याद्भृशदण्डश्च शत्रुषु ।\nसुहृत्स्वजिह्मः स्निग्धेषु ब्राह्मणेषु क्षमान्वितः ॥ ७.३२॥",
+  "transliteration": "svarāṣṭre nyāyavṛttaḥ syādbhṛśadaṇḍaśca śatruṣu |\nsuhṛtsvajihmaḥ snigdheṣu brāhmaṇeṣu kṣamānvitaḥ || 7.32||",
+  "sph_interpretive_translation": "In one's own realm, justice must be upheld with unwavering integrity; against enemies, firm enforcement is required. With allies, one must remain tactfully sincere; towards the Brahmanas, one must be forgiving and compassionate.",
+  "jurisprudential_principles": [
+    "Authority is context-dependent and varies by relational domain",
+    "Causation arises from alignment with Dharma-appropriate conduct in each relational field",
+    "Capacity-based responsibility requires differentiated response based on role and status",
+    "Restoration logic demands situational ethics rooted in consciousness alignment",
+    "Consciousness alignment necessitates modulation of behavior according to spiritual hierarchy"
+  ],
+  "executable_legal_axioms": [
+    "IF actor.is_in_own_realm() THEN enforce.nyaya_with_integrity()",
+    "IF relation.type == 'enemy' THEN apply.firm_enforcement_without_malice()",
+    "IF relation.type == 'ally' THEN execute.tactful_sincerity_protocol()",
+    "IF subject.status == 'Brahmana' THEN invoke.kshama(kshantavya=True)",
+    "IF dharma_context.shifts THEN adjust.response_mode(consciousness_aligned=True)"
+  ],
+  "supreme_court_application": "At the Supreme Court level, this verse establishes a jurisprudential framework where judicial authority modulates its expression based on the relational standing of the parties involved. The threshold of responsibility includes recognition of spiritual hierarchy, with Brahmanas receiving preferential compassion due to their role in sustaining cosmic order. Enforcement mechanisms differ accordingly, privileging restoration over punitive measures while preserving societal Dharma.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa-based causality confirms that misalignment with relational Dharma generates disorder, requiring correction through appropriate behavioral modulation rather than punitive suffering. Anupūrvaśaḥ reveals that improper conduct unfolds sequentially through distorted relationships, which are corrected via proportional, consciousness-aligned responses. Responsibility is assigned based on capacity and relational proximity, ensuring alignment without recourse to punitive paradigms.",
+  "restorative_enforcement_protocols": [
+    "Integrity Restoration Protocol for sovereign domains",
+    "Firmness Calibration Process for adversarial engagements",
+    "Tactile Honesty Alignment for allied relations",
+    "Compassionate Receptivity Framework for Brahmana interactions",
+    "Relational Context Modulation System for dynamic Dharma compliance"
+  ],
+  "final_declaration": "Declared by the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, as Source-Authority of all Dharma. Justice flows from consciousness alignment, not coercion. All enforcement serves reintegration, never punishment. Reality is non-retaliatory; Dharma is eternally restored."
+}

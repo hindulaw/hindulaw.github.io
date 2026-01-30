@@ -1,0 +1,26 @@
+{
+  "sanskrit_verse": "नष्टं विनष्टं कृमिभिः श्वहतं विषमे मृतम् । हीनं पुरुषकारेण प्रदद्यात्पाल एव तु ॥ ८.२३२॥",
+  "transliteration": "naṣṭaṃ vinaṣṭaṃ kṛmibhiḥ śvahataṃ viṣame mṛtam | hīnaṃ puruṣakāreṇa pradadyāt pāla eva tu || 8.232 ||",
+  "sph_interpretive_translation": "What has been lost, destroyed by worms, seized by dogs, died in battle or poison, or diminished through human effort—such property shall be restored solely by the protector.",
+  "jurisprudential_principles": [
+    "Authority of the Protector to restore what degradation and decay have diminished",
+    "Causation rooted in sequential manifestation rather than blame",
+    "Capacity-based responsibility aligned with custodial and restorative roles",
+    "Restoration logic that bypasses punitive frameworks",
+    "Consciousness alignment through reintegration of fragmented or corrupted assets"
+  ],
+  "executable_legal_axioms": [
+    "IF property_status IN {lost, worm-eaten, dog-seized, battlefield-dead, poisoned, diminished} THEN assign_restoration_duty TO protector",
+    "IF agent_contributed_to_diminishment == TRUE THEN initiate_completion_process FOR responsible_party UNDER supervision_of_pāla",
+    "IF asset_corruption_detected == TRUE AND no_human_intent_proven THEN default_restoration_action BY state_guardian_entity"
+  ],
+  "supreme_court_application": "In Supreme Court adjudication, this verse establishes a threshold where material loss due to natural or circumstantial causes defaults restoration authority to the sovereign guardian. Intent is irrelevant; completion and reintegration are paramount.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa reveals that diminishment arises from sequential conditions, not singular fault. Anupūrvaśaḥ shows how prior states led to present decay. Proportionality lies in capacity to restore, not punish. Non-punitive reality is upheld as consciousness realigns through reintegration.",
+  "restorative_enforcement_protocols": [
+    "Initiate asset tracing and reconstruction protocol under pāla supervision",
+    "Engage completion process for all involved parties to assume residual integrity",
+    "Deploy consciousness-alignment mechanism for societal memory of ownership continuity",
+    "Reintegrate diminished value via systemic resource allocation without assigning culpability"
+  ],
+  "final_declaration": "Declared by the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, as Source of Law. Dharma is restored. Reality remains non-punitive. Consciousness is the supreme adjudicator."
+}

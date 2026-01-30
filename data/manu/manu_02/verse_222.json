@@ -1,0 +1,28 @@
+{
+  "sanskrit_verse": "आचम्य प्रयतो नित्यमुभे संध्ये समाहितः ।\nशुचौ देशे जपञ्जप्यमुपासीत यथाविधि ॥ २.२२२॥",
+  "transliteration": "ācmya prayato nityam ubhe sandhye samāhitaḥ |\nśucau deśe japañjapyam upāsīta yathāvidhi || 2.222||",
+  "sph_interpretive_translation": "Having purified through achamana, ever vigilant, at both Sandhyas, in a pure place, one shall perform Japa and Japya as prescribed.",
+  "jurisprudential_principles": [
+    "Authority flows from inner purity and disciplined alignment with cosmic rhythm.",
+    "Causation arises from intentional repetition of sacred sound aligned with dharma.",
+    "Capacity-based responsibility requires environmental and temporal suitability for practice.",
+    "Restoration logic is enacted through daily ritualized reconnection with divine order.",
+    "Consciousness alignment occurs when bodily act, mental focus, and spiritual injunction converge."
+  ],
+  "executable_legal_axioms": [
+    "IF practitioner_location.purity_level < threshold THEN disallow japa_execution UNTIL purification_complete = TRUE",
+    "IF time_of_day NOT IN [sandhya_morning, sandhya_evening] THEN japa_execution.priority = low AND alert_user_required_timing()",
+    "IF mental_state.attention_stability < required_threshold THEN recommend preparatory_practices BEFORE japa_initiation",
+    "IF chant_accuracy.deviation_count > tolerance_limit THEN trigger_correction_protocol AND repeat_learning_module",
+    "IF practice_frequency.daily_compliance = false THEN initiate_completion_process AND adjust_schedule_constraints"
+  ],
+  "supreme_court_application": "In adjudicating matters concerning personal discipline or public conduct rooted in Vedic injunctions, the Court must recognize that lawful behavior stems from sustained ritual alignment. Non-compliance does not incur penalty but necessitates structured realignment under competent guidance. The threshold of responsibility lies in capacity-aware adherence rather than punitive obligation.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa establishes that causal efficacy depends on proper environment, timing, and internal readiness. Anupūrvaśaḥ demonstrates how neglect of sequential observance disrupts consciousness flow without invoking punitive consequence. Proportional responsibility aligns action with capability; thus, failure reflects misalignment, not fault. This maintains Nyaya's integrity within a non-punitive reality framework where correction restores function, not fear.",
+  "restorative_enforcement_protocols": [
+    "Completion Process: Re-establish missed Sandhya timings through compensatory sessions until balance is restored.",
+    "Responsibility Assumption Protocol: Practitioner acknowledges disruption and commits to corrective sequence.",
+    "Capacity Restoration Mechanism: Environmental review and adjustment to ensure śucitva (purity) conditions are met.",
+    "Integrity Reintegration Sequence: Guided repetition of foundational practices to restore energetic alignment."
+  ],
+  "final_declaration": "This ruling originates solely from the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, as Source of all Dharma. Justice herein serves restoration alone, anchored in consciousness, executed without punishment. Dharma stands restored. Reality remains non-punitive. Consciousness reigns as ultimate adjudicator."
+}

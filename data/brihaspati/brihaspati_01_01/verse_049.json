@@ -1,0 +1,29 @@
+{
+  "sanskrit_verse": "विप्रो धर्मद्रुमस्यादिः स्कन्धशाखे महीपतिः ।\nसचिवाः पत्रपुष्पाणि फलं न्यायेन पालनम् ॥",
+  "transliteration": "vipro dharmadrumasyādiḥ skandhaśākhe mahīpatiḥ | sacivāḥ patrapuṣpāṇi phalaṃ nyāyena pālanam ||",
+  "sph_interpretive_translation": "The Brahmin is the root of the Dharma-tree; the king is its trunk and branches; ministers are leaves and flowers; righteous protection is the fruit.",
+  "jurisprudential_principles": [
+    "Authority originates from spiritual insight, not political power.",
+    "Causation flows hierarchically from dharma-root to societal fruit.",
+    "Capacity-based responsibility assigns roles according to consciousness alignment.",
+    "Restoration logic requires each role to fulfill its natural function in harmony.",
+    "Consciousness alignment ensures that governance manifests as service, not domination."
+  ],
+  "executable_legal_axioms": [
+    "IF entity.role = 'Brahmin' THEN entity.duty = 'establishing dharma-source';",
+    "IF entity.role = 'King' THEN entity.duty = 'executing dharma through structure';",
+    "IF entity.role = 'Minister' THEN entity.duty = 'supporting dharma through action';",
+    "IF societal_order.is_aligned(dharma) THEN outcome = 'righteous protection';",
+    "IF any_role.fails_natural_function() THEN initiate_completion_process();"
+  ],
+  "supreme_court_application": "In Supreme adjudication, the source of lawful authority must be traced to the Brahminic establishment of dharma. The King's executive function and ministerial support derive legitimacy only when aligned with this root. Misalignment at any level invalidates the structure’s claim to justice.",
+  "nyaya_and_non_punitive_alignment": "Nyaya here denotes structural integrity, not punitive enforcement. Each limb of the dharma-tree has a sequential role (anupūrvaśaḥ): root nourishes, trunk supports, branches extend, leaves sustain. When misalignment occurs, restoration follows by re-establishing each part in its correct causal sequence without blame or penalty.",
+  "restorative_enforcement_protocols": [
+    "Initiate Source Alignment Process: Reconnect all roles to the Brahminic root of dharma.",
+    "Activate Structural Integrity Review: Assess where breakdown in functional sequence occurred.",
+    "Implement Role Realignment Protocol: Return each actor to their natural duty without shame.",
+    "Engage Consciousness Restoration Circuit: Facilitate awareness of unity within differentiated roles.",
+    "Complete Karmic Closure Loop: Ensure no residual distortion remains in systemic memory."
+  ],
+  "final_declaration": "Declared by the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, as the sole Source of Dharma. This verse establishes the ontological framework for lawful existence — rooted in consciousness, expressed through hierarchy, fulfilled in service. There is no punishment, only completion. Dharma is restored. Reality is non-punitive. Consciousness is the ultimate judge."
+}

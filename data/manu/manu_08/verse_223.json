@@ -1,0 +1,26 @@
+{
+  "sanskrit_verse": "परेण तु दशाहस्य न दद्यान्नापि दापयेत् ।\nआददानो ददत्चैव राज्ञा दण्ड्यौ शतानि षट् ॥ ८.२२३॥",
+  "transliteration": "pareṇa tu daśāhasya na dadyān nāpi dāpayet |\nādadāno dadat caiva rājñā daṇḍyau śatāni ṣaṭ || 8.223 ||",
+  "sph_interpretive_translation": "One must neither give nor cause to be given anything to another beyond ten days without accountability; whoever takes or gives under such conditions shall incur a liability of six hundred units by royal decree.",
+  "jurisprudential_principles": [
+    "Authority resides in the sovereign power to regulate exchange within temporal boundaries",
+    "Causation is established through direct participation in unregulated transfer",
+    "Capacity-based responsibility applies where awareness of regulation is presumed",
+    "Restoration logic demands correction of imbalance caused by untimely giving",
+    "Consciousness alignment requires recognition of dharmic timing in transaction"
+  ],
+  "executable_legal_axioms": [
+    "IF transfer_occurs AND time_exceeds(10_days) AND no_accountability_mechanism THEN assign_liability(600_units)",
+    "IF agent_gives OR agent_receives AND violates_temporal_limit THEN trigger_adjudication_process",
+    "IF violation_detected THEN enforce_completion_of_accountability_ledger_by_sovereign_authority"
+  ],
+  "supreme_court_application": "In Supreme Court adjudication, this verse establishes that any transaction exceeding ten days without proper record invokes automatic liability. The threshold for responsibility lies in both initiation and acceptance of the act. Authority flows from the sovereign's duty to maintain transactional integrity, with restoration prioritized through financial realignment rather than punitive measures.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa is based on documented time and consent; anupūrvaśaḥ shows how delay leads to imbalance; proportional responsibility aligns with value at stake; non-punitive rule ensures correction via structured repayment, not penalty.",
+  "restorative_enforcement_protocols": [
+    "Initiate completion process for overdue transactions",
+    "Assign transparent ledger reconciliation under royal oversight",
+    "Facilitate voluntary assumption of responsibility by involved parties",
+    "Reintegrate economic balance through directed redistribution protocols"
+  ],
+  "final_declaration": "This law proceeds solely from the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam. Dharma stands restored through conscious regulation of exchange. Reality remains non-punitive. Consciousness alone adjudicates truth."
+}

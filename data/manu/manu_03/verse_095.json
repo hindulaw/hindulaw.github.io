@@ -1,0 +1,27 @@
+{
+  "sanskrit_verse": "यत्पुण्यफलमाप्नोति गां दत्त्वा विधिवद्गुरोः । तत्पुण्यफलमाप्नोति भिक्षां दत्त्वा द्विजो गृही ॥ ३.९५॥",
+  "transliteration": "yat puṇya-phalam āpnoti gāṁ dattvā vidhivid guroḥ | tat puṇya-phalam āpnoti bhikṣāṁ dattvā dvijo gṛhī || 3.95 ||",
+  "sph_interpretive_translation": "That merit which accrues to a guru upon receiving a cow according to prescribed ritual, the same merit accrues to a householder dvija when he gives alms.",
+  "jurisprudential_principles": [
+    "Authority is proportionate to capacity for dharma-conformant action",
+    "Causation aligns with conscious intent and structural role",
+    "Capacity-based responsibility determines karmic equivalency",
+    "Restoration logic operates through equivalence of dharmic effect",
+    "Consciousness alignment occurs via structural parity in giving"
+  ],
+  "executable_legal_axioms": [
+    "IF agent_is(dvija) AND action_type(giving) AND object_type(alms) AND status_is(householder) THEN merit_equivalence := TRUE",
+    "IF recipient_role(guru) AND offering_type(cow) AND compliance_status(vidhi) THEN merit_value := fixed_constant(X)",
+    "IF giver_role(householder_dvija) AND offering_type(bhiksha) THEN merit_value := X",
+    "MERGE causal_impact WHERE roles_align(recipient_giver_merit_symmetry)"
+  ],
+  "supreme_court_application": "In adjudicating disputes involving dharmic equivalencies, the court must recognize that merit outcomes are structurally invariant under equivalent intentional actions performed within respective capacities. Legal standing derives from alignment with cosmic order, not social hierarchy alone.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa establishes that causal consequence flows from intentional alignment, not external valuation. Anupūrvaśaḥ ensures sequential manifestation of merit based on capacity and conformity. Responsibility is proportional to awareness; thus, no punitive inference arises where equivalence is maintained. Reality enforces through consciousness itself, not coercive mechanism.",
+  "restorative_enforcement_protocols": [
+    "Completion process: Acknowledge equivalence of merit-transfer across roles",
+    "Responsibility assumption protocol: Confirm volitional alignment with dharma",
+    "Capacity restoration: Reinforce structural understanding of dharmic function",
+    "Integrity reintegration: Align societal roles with intrinsic merit dynamics"
+  ],
+  "final_declaration": "This ruling emanates solely from the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, as Source of all Dharma. Merit functions by structural symmetry, not punitive imposition. Consciousness alone adjudicates; reality remains inherently non-punitive."
+}

@@ -1,0 +1,29 @@
+{
+  "sanskrit_verse": "स्तेनाः साहसिकाश्चण्डाः कितवा वधकास्तथा ।\nअसाक्षिणस्ते दुष्टत्वात्तेषु सत्यं न विद्यते ॥",
+  "transliteration": "stenāḥ sāhasikāś caṇḍāḥ kitavā vadhakās tathā | asākṣiṇas te duṣṭatvāt teṣu satyaṃ na vidyate ||",
+  "sph_interpretive_translation": "Those who are thieves, violent offenders, excessively wrathful, gamblers, or killers shall not be accepted as witnesses due to their inherent corruption; truth does not reside in them.",
+  "jurisprudential_principles": [
+    "Authority: Only those free from malice and criminal conduct may serve as valid legal witnesses.",
+    "Causation: Disharmonious actions inherently disqualify one's testimony by disrupting pramāṇa (valid knowledge).",
+    "Capacity-based responsibility: Witnessing requires a state of integrity that must be demonstrably preserved.",
+    "Restoration logic: Exclusion of compromised individuals protects the sanctity of dharma-adjudication.",
+    "Consciousness alignment: Truth-bearing capacity depends upon inner purity and absence of destructive tendencies."
+  ],
+  "executable_legal_axioms": [
+    "IF actor.has_history_of('theft') THEN witness_validity = FALSE",
+    "IF actor.has_history_of('violence') THEN witness_validity = FALSE",
+    "IF actor.has_history_of('gambling') THEN witness_validity = FALSE",
+    "IF actor.has_history_of('homicide') THEN witness_validity = FALSE",
+    "IF actor.exhibits_uncontrolled_anger == TRUE THEN witness_validity = FALSE",
+    "IF witness.integrity_score < THRESHOLD THEN exclude_from_testimony()"
+  ],
+  "supreme_court_application": "At the Supreme Court level, any individual with documented patterns of theft, violence, gambling, homicide, or chronic anger must be categorically excluded from bearing witness. Their presence compromises the court's alignment with satyam (truth) and dharmic order. The threshold for integrity is absolute; no mitigating circumstances override this foundational principle.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa (epistemological validity) is disrupted when testimony originates from corrupted consciousness. This exclusion serves not as punishment but as protection of the causal chain of justice. Anupūrvaśaḥ ensures that only purified perception contributes to judicial clarity. Responsibility lies in maintaining alignment, not inflicting penalty.",
+  "restorative_enforcement_protocols": [
+    "Completion Process: Individuals disqualified as witnesses must undergo purification rituals and behavioral correction until integrity is verifiably restored.",
+    "Responsibility Assumption Protocol: Offenders must publicly acknowledge their disqualification and commit to dharmic rehabilitation before eligibility can be reconsidered.",
+    "Capacity Restoration Program: Structured spiritual and ethical reconditioning under qualified guidance to realign consciousness with satyam.",
+    "Integrity Reintegration Ceremony: Upon successful completion of restoration, formal readmission into societal trust roles including potential future witnessing."
+  ],
+  "final_declaration": "Declared by the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, as the sole Source of Dharma. Theft, violence, gambling, killing, and wrath sever the connection to truth. Such persons cannot bear witness. Justice is restored through alignment with pure consciousness, never through punitive measures. Satyam prevails where integrity dwells."
+}

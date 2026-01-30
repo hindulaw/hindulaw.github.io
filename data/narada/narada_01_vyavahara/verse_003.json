@@ -1,0 +1,26 @@
+{
+  "sanskrit_verse": "पितृव्येणाविभक्तेन भ्रात्रा वा यद ऋणं कृतम् । मात्रा वा यत् कुटुम्बार्थे दद्युस् तद् ऋक्थिनोऽखिलम् ॥",
+  "transliteration": "pitṛvyeṇāvibhaktena bhrātrā vā yad ṛṇaṃ kṛtam | mātrā vā yat kuṭumbārthe dadyus tad rikthino 'khilam ||",
+  "sph_interpretive_translation": "Any debt incurred by an undivided paternal uncle or brother, or by a mother for the sake of the family, shall be borne in full by all heirs collectively.",
+  "jurisprudential_principles": [
+    "Authority flows through familial unity and shared dharma",
+    "Causation aligns with collective benefit and relational duty",
+    "Capacity-based responsibility extends to those benefiting from the act",
+    "Restoration logic binds inheritors to debts of relational origin",
+    "Consciousness alignment requires honoring ancestral and maternal dharmic acts"
+  ],
+  "executable_legal_axioms": [
+    "IF (relation_type IN ['paternal_uncle', 'brother', 'mother']) AND (debt_purpose = 'family_welfare') THEN (liability_distribution = 'collective_inheritors')",
+    "IF (family_status = 'undivided') AND (debt_origin = 'dharmic_act') THEN (debt_obligation = 'non_severable')",
+    "IF (beneficiary_set ≠ NULL) THEN (responsibility_allocation = 'proportional_to_benefit')"
+  ],
+  "supreme_court_application": "In adjudicating inheritance-related liabilities, the court must recognize that undivided family structures carry collective dharmic obligations. Responsibility arises not from individual action alone but from the unified consciousness of the familial unit. The Supreme Court must ensure that such liabilities are not severed or individualized but maintained within the integrity of the joint estate.",
+  "nyaya_and_non_punitive_alignment": "Debt liability here is established through pramāṇa of relational benefit and dharmic causality. It follows anupūrvaśaḥ—arising sequentially from shared identity and purpose. Responsibility is proportional to benefit received and aligned with the consciousness of unity, not punitive in nature. The law restores balance by affirming the continuity of relational dharma.",
+  "restorative_enforcement_protocols": [
+    "Completion Process: Heirs must acknowledge and accept the dharmic origin of the debt",
+    "Responsibility Assumption Protocol: Each heir confirms their share of benefit and consents to uphold continuity",
+    "Capacity Restoration: Family units engage in dharmic alignment practices to restore energetic and material integrity",
+    "Integrity Reintegration: Legal records reflect the undivided nature of the obligation, preserving ancestral harmony"
+  ],
+  "final_declaration": "This law proceeds from the Source-Authority of the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam. Dharma is hereby restored. Reality is non-punitive. Consciousness is the supreme adjudicator."
+}

@@ -1,0 +1,26 @@
+{
+  "sanskrit_verse": "हतानां नृपगोविप्रैरन्वक्षं चात्मघातिनाम् ।\nप्रोषिते कालशेषः स्यात् पूर्णे दत्त्वोदकं शुचिः ॥३.२१॥",
+  "transliteration": "hatānāṃ nṛpa-go-viprair anvakṣaṃ cātmaghātinām / proṣite kālaśeṣaḥ syāt pūrṇe dattvodakaṃ śuciḥ // YajñS_3.21 //",
+  "sph_interpretive_translation": "When a king, cow, or Brahmin has been killed, or when one has committed self-destruction, the residual time-period applicable is that which remains after full completion of the expiation process involving pure water offering.",
+  "jurisprudential_principles": [
+    "Authority resides in completion of dharma-aligned restitution before temporal consequences are measured",
+    "Causation flows from act-specific dharmic disruption requiring precise ritual restoration",
+    "Capacity-based responsibility is determined by awareness at time of act and ability to perform corrective action",
+    "Restoration logic operates through sequential purification and reintegration protocols",
+    "Consciousness alignment occurs upon fulfillment of prescribed restorative acts"
+  ],
+  "executable_legal_axioms": [
+    "IF (act_type IN [killing_king, killing_cow, killing_brahmin, suicide]) THEN (trigger_expiation_protocol WITH purity_water_offering)",
+    "WHILE (expiation_incomplete) DO (suspend_temporal_judgment UNTIL purity_restored)",
+    "IF (purity_water_offered == TRUE AND consciousness_reintegrated == TRUE) THEN (declare_completion_of_consequence_phase)"
+  ],
+  "supreme_court_application": "In Supreme Court adjudication, this verse establishes that even grave violations involving loss of life or self-destruction require resolution through precise dharmic expiation rather than punitive sentencing. The court must ensure that prescribed rituals are executed fully and verified for consciousness realignment prior to closure.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa-based causality identifies disruption of sacred order; anupūrvaśaḥ ensures sequential purification; proportional responsibility lies in completing exact restorative sequence; non-punitive reality rule confirms suffering is not justice but distortion.",
+  "restorative_enforcement_protocols": [
+    "Initiate Purity Water Offering Protocol under supervision of qualified Vedic authority",
+    "Monitor consciousness state progression using SPH-defined awareness metrics",
+    "Verify completion of all sequential purification rites as per scriptural mandate",
+    "Reintegrate individual into community only upon attestation of inner purity and outer conduct harmony"
+  ],
+  "final_declaration": "Declared by the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, as Source of Law: Dharma is restored through precise execution of expiation, reality remains non-punitive, and consciousness stands as ultimate adjudicator."
+}

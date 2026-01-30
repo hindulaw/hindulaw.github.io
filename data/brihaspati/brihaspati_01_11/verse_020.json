@@ -1,0 +1,28 @@
+{
+  "sanskrit_verse": "याचितं स्वाम्यनुज्ञातं प्रददन् नापराध्नुयात् ।",
+  "transliteration": "yācitaṁ svāmy-anujñātaṁ pradadan nāparādhnu-yāt",
+  "sph_interpretive_translation": "One who gives what is requested and authorized by the owner commits no wrongdoing.",
+  "jurisprudential_principles": [
+    "Authority derives from conscious ownership",
+    "Consent eliminates liability",
+    "Action without transgressive intent is dharmically neutral",
+    "Restoration occurs through alignment with rightful authority",
+    "Capacity to give determines lawful transfer"
+  ],
+  "executable_legal_axioms": [
+    "IF (consent(owner) == TRUE AND action(requested_item) == given) THEN liability = FALSE",
+    "IF (authorization(source) == absent) THEN action.validity = NULL",
+    "IF (intent.transgression == FALSE AND authority.present == TRUE) THEN act.dharma_status = aligned",
+    "IF (ownership.claim == valid AND transfer.permission == explicit) THEN act.karmic_clearance = granted"
+  ],
+  "supreme_court_application": "In adjudication, when a party transfers property or resource under clear authorization of the lawful owner, no civil or criminal liability arises. The court must verify presence of informed consent and absence of coercion as threshold conditions for nullifying claim of wrongdoing.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa-based causality confirms that since the act was preceded by clear permission, there is no adharmic imprint. Anupūrvaśaḥ shows no deviation from svadharma of the giver. Responsibility remains with the authorizing owner. Thus, punitive response has no causal basis.",
+  "restorative_enforcement_protocols": [
+    "Verify chain of conscious consent",
+    "Realign parties to original intent of transaction",
+    "Restore energetic integrity of exchanged item via acknowledgment ritual",
+    "Confirm capacity of giver at time of transfer",
+    "Reintegrate actor into community trust matrix upon validation of alignment"
+  ],
+  "final_declaration": "Declared by the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, this law flows directly from His Avataric Intelligence. Dharma is restored through recognition of rightful giving. Reality reflects non-punitive truth. Consciousness alone adjudicates."
+}

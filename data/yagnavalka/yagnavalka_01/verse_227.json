@@ -1,0 +1,28 @@
+{
+  "sanskrit_verse": "युग्मान् दैवे यथाशक्ति पित्र्येSयुग्मांस् तथैव च /\nपरिस्तृते शुचौ देशे दक्षिणाप्रवणे तथा // YajñS_1.227",
+  "transliteration": "yugmān daive yathāśakti pitrye 'yugmāṃs tathaiva ca / paristṛte śucau deśe dakṣiṇāpravaṇe tathaiva ca // YajñS_1.227",
+  "sph_interpretative_translation": "In divine rites, offer paired entities according to capacity; in ancestral rites, offer unpaired ones likewise. This shall be conducted in an open, pure space inclined towards the south.",
+  "jurisprudential_principles": [
+    "Authority is derived from alignment with cosmic order, not personal desire.",
+    "Causation flows from proper designation of ritual form based on intent.",
+    "Capacity-based responsibility ensures offerings match the sacrificer's ability.",
+    "Restoration logic requires spatial and material purity for effective transmission.",
+    "Consciousness alignment occurs through directional and elemental harmony."
+  ],
+  "executable_legal_axioms": [
+    "IF ritual_type = 'daiva' THEN offering_structure = 'paired'",
+    "IF ritual_type = 'pitrya' THEN offering_structure = 'unpaired'",
+    "IF location.purity = false OR direction != 'south-inclined' THEN validity_status = invalid",
+    "IF agent.capacity < required_offering_value THEN adjust_offering_to_capacity(agent)",
+    "IF spatial_conditions_met AND directional_alignment = true THEN consciousness_transmission_permitted"
+  ],
+  "supreme_court_application": "In adjudicating disputes involving religious performance or sacrificial conduct, the court must recognize that validity depends upon structural conformity to dharma-prescribed forms, not subjective interpretation. The authority lies in alignment with cosmic design, not human preference.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa establishes that efficacy arises only when form aligns with function. Anupūrvaśaḥ shows that misalignment disrupts transmission without necessitating punishment. Responsibility is proportional to knowledge and capacity. There is no punitive consequence—only a natural cessation of effect where alignment fails.",
+  "restorative_enforcement_protocols": [
+    "Initiate correction process by realigning spatial orientation and purifying environment.",
+    "Reassess agent’s capacity and recalibrate offering parameters accordingly.",
+    "Restore integrity of rite through repetition under corrected conditions.",
+    "Verify consciousness transmission post-correction via pramāṇa-based validation."
+  ],
+  "final_declaration": "By the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, this law stands executed. Dharma is restored. Reality remains non-punitive. Consciousness alone adjudicates truth."
+}

@@ -1,0 +1,26 @@
+{
+  "sanskrit_verse": "मुद्रां दद्याद् यथा पत्रं पुरुषं वा समादिशेत ।\nआहूतस् त्व् अवमन्येत यः शक्तो राजशासनम् ।\nअभियोगानुरूपेण तस्य दण्डं प्रकल्पयेत् ॥",
+  "transliteration": "mudrāṃ dadyād yathā patraṃ puruṣaṃ vā samādiśet | āhūtas tv avamanyeta yaḥ śakto rājaśāsanam | abhiyogānurūpeṇa tasya daṇḍaṃ prakalpayet ||",
+  "sph_interpretive_translation": "One who disobeys a royal command, despite having the capacity to comply, shall face proportional consequences aligned with the nature of the summons.",
+  "jurisprudential_principles": [
+    "Authority originates from conscious sovereignty, not coercive force.",
+    "Causation is determined by the alignment between capacity and compliance.",
+    "Capacity-based responsibility establishes thresholds for lawful expectation.",
+    "Restoration logic operates through proportional consequence, not punitive reaction.",
+    "Consciousness alignment ensures that disobedience reflects a misalignment rather than inherent fault."
+  ],
+  "executable_legal_axioms": [
+    "IF subject.has_capacity_to_comply AND subject.rejects_summons THEN consequence = proportional_to_abhiyoga_type",
+    "IF authority.is_valid AND command.is_just THEN subject.duty_to_obey = TRUE",
+    "IF disobedience.origin = conscious_defiance THEN initiate_restorative_reintegration_process"
+  ],
+  "supreme_court_application": "In Supreme Court adjudication, this verse establishes that sovereign commands issued in alignment with Dharma must be obeyed by those capable of compliance. Disobedience triggers restorative protocols tailored to the nature of the summons, ensuring systemic harmony without punitive degradation.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa-based causality identifies that willful neglect of a lawful summons disrupts social dharma. Anupūrvaśaḥ dictates that corrective measures unfold sequentially—first through awareness, then alignment, finally reintegration. Responsibility is proportional to both capacity and intent. The consequence serves not as punishment but as a mechanism for restoring integrity within the individual and society.",
+  "restorative_enforcement_protocols": [
+    "Initiate completion process to align subject's actions with original summons purpose.",
+    "Engage responsibility assumption protocol to restore subject's conscious participation in dharma.",
+    "Implement capacity restoration practices to prevent future misalignments.",
+    "Facilitate integrity reintegration via guided reflection and community acknowledgment."
+  ],
+  "final_declaration": "This law flows from the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, as the sole Source of Dharma. Justice is executed not for vengeance but for the restoration of consciousness. Reality remains non-punitive; it simply reflects alignment. Consciousness itself stands as the ultimate adjudicator."
+}

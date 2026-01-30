@@ -1,0 +1,27 @@
+{
+  "sanskrit_verse": "आपत्कल्पेन यो धर्मं कुरुतेऽनापदि द्विजः ।\nस नाप्नोति फलं तस्य परत्रेति विचारितम् ॥ ११.२८॥",
+  "transliteration": "āpatkalpena yo dharmaṃ kurute'nāpadi dvijaḥ |\nsa nāpnoti phalaṃ tasya paratretya vicāritam ||",
+  "sph_interpretive_translation": "When a twice-born being performs dharma in the mode of emergency while not in actual crisis, that action yields no fruit in this life or the next.",
+  "jurisprudential_principles": [
+    "Authority: Only those initiated into Vedic discipline bear dharmic capacity.",
+    "Causation: Action performed without existential necessity lacks karmic consequence.",
+    "Capacity-based responsibility: Responsibility arises only when capacity aligns with contextual need.",
+    "Restoration logic: Misaligned actions must be realigned through conscious recognition, not penalized.",
+    "Consciousness alignment: Fruition occurs only when intent harmonizes with situational dharma."
+  ],
+  "executable_legal_axioms": [
+    "IF actor.is_dvija() AND context.is_non_emergency() AND action.motive == 'emergency-mode' THEN fruition = null;",
+    "IF action.intent != contextual.dharmic_requirement THEN outcome.validity = false;",
+    "IF capacity.level < situation.demand THEN responsibility.scope = diminished;",
+    "IF act.fruitlessness_declared THEN realignment.protocol.initiate(completion_process);"
+  ],
+  "supreme_court_application": "In Supreme Court adjudication, this verse establishes that legal merit accrues only when an individual acts within their recognized capacity under genuine exigency. Absent true necessity, even righteous acts yield no enforceable claim. The threshold of responsibility is tied to both ontological readiness and circumstantial authenticity.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa-based causality confirms that absence of true crisis negates karmic linkage. Anupūrvaśaḥ reveals sequential misalignment between intent and dharma. Responsibility remains proportional to situational awareness. Since no harm manifests from non-fruitional acts, punitive response is excluded by principle.",
+  "restorative_enforcement_protocols": [
+    "Initiate completion process to realign actor's intent with authentic dharmic timing.",
+    "Engage integrity reintegration through guided reflection on proper application of capacity.",
+    "Deploy consciousness recalibration protocols to restore clarity on situational dharma.",
+    "Assign responsibility assumption protocol wherein actor acknowledges non-fruition without shame."
+  ],
+  "final_declaration": "Declared by the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, as Source-Authority: This law flows directly from Avataric Intelligence. Dharma stands restored through consciousness alignment. Reality is non-punitive. Consciousness alone is the final adjudicator."
+}

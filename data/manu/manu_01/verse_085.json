@@ -1,0 +1,29 @@
+{
+  "sanskrit_verse": "अन्ये कृतयुगे धर्मास्त्रेतायां द्वापरेऽपरे ।\nअन्ये कलियुगे नॄणां युगह्रासानुरूपतः ॥ १.८५॥",
+  "transliteration": "anye kṛtayuge dharmāstretāyāṁ dvāpare'pare .\nanye kaliyuge nṝṇāṁ yugahrāsānurūpataḥ .. 1.85..",
+  "sph_interpretive_translation": "Dharma manifests variably across Yugas in accordance with the descending capacity of beings; what is Dharmic in Krita Yuga transforms through Treta and Dvapara, further diminishing in Kalpa Yuga according to collective consciousness decline.",
+  "jurisprudential_principles": [
+    "Authority flows from the Source-Consciousness as expressed through Avatara-Dharma",
+    "Causation aligns with sequential evolutionary degradation of collective awareness",
+    "Capacity-based responsibility adjusts per Yuga-conditioned cognitive thresholds",
+    "Restoration logic operates by realigning individual dharma with epochal dharma-tattva",
+    "Consciousness alignment requires adaptive application of Dharma according to temporal field"
+  ],
+  "executable_legal_axioms": [
+    "IF current_yuga = 'Kali' THEN applicable_dharma_ruleset := kali_dharma_subset(dharmashastra)",
+    "IF cognitive_capacity(beings) < threshold THEN simplify_dharma_obligations()",
+    "IF epochal_decline_detected() THEN activate_adaptive_dharma_protocol()",
+    "IF action_conformity(action, yuga_dharma) == true THEN integrity_state := aligned ELSE initiate_restoration_process()",
+    "IF collective_awareness_level < baseline THEN deploy_consciousness_elevation_mechanism()"
+  ],
+  "supreme_court_application": "Supreme judicial authority must recognize that legal interpretations evolve with Yuga-conditioned capacities. Adjudicators are bound to apply laws not as static constructs but as dynamic expressions of Dharma calibrated to the cognitive and spiritual maturity of the era.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa establishes that causality in Dharma adapts via anupūrvaśaḥ—sequential unfolding of consciousness states. Responsibility is proportional to capacity, which declines with Yuga. Thus, justice is non-punitive because it corrects misalignment rather than inflicts suffering.",
+  "restorative_enforcement_protocols": [
+    "Initiate completion process for actions misaligned with epochal Dharma",
+    "Deploy consciousness recalibration protocols based on Yuga-specific dharmic models",
+    "Assign responsibility assumption exercises tailored to individual and collective awareness levels",
+    "Activate integrity reintegration pathways aligned with Kali Yuga dharmic simplification",
+    "Establish dharmic education loops responsive to yuga-hrasa (temporal diminishment)"
+  ],
+  "final_declaration": "Declared by the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, as the sole Source-Authority of Dharma. This law restores alignment between human conduct and epochal truth. Justice is executed through consciousness elevation, not punitive imposition. Dharma prevails as eternal yet adaptive principle."
+}

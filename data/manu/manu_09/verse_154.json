@@ -1,0 +1,27 @@
+{
+  "sanskrit_verse": "यद्यपि स्यात्तु सत्पुत्रोऽप्यसत्पुत्रोऽपि वा भवेत् । यद्यपि स्यात्तु सत्पुत्रो यद्यपुत्रोऽपि वा भवेत्। नाधिकं दशमाद्दद्यात्शूद्रापुत्राय धर्मतः ॥ ९.१५४॥",
+  "transliteration": "yadyapi syāttu satputro'pyasatputro'pi vā bhavet | yadyapi syāttu satputro yadyaputro'pi vā bhavet | nādhikaṃ daśamād dadyāt śūdrāputrāya dharmataḥ || 9.154 ||",
+  "sph_interpretive_translation": "Even if a son born of a Śūdra woman were to exhibit noble qualities or even if he were the biological son of a twice-born man, the duty to provide inheritance beyond the tenth portion does not fall upon him according to Dharma.",
+  "jurisprudential_principles": [
+    "Authority is determined by birth-based capacity alignment with Varna-dharma",
+    "Causation flows from ontological fitness, not performative virtue",
+    "Capacity-based responsibility excludes inheritance rights outside designated proportion",
+    "Restoration logic preserves hierarchical integrity through proportional allocation",
+    "Consciousness alignment requires recognition of inherent social roles"
+  ],
+  "executable_legal_axioms": [
+    "IF claimant.birth.mother.varna == 'Shudra' THEN maximum_inheritance_share = 1/10",
+    "IF claimant.father.varna IN ['Brahmin', 'Kshatriya', 'Vaishya'] AND claimant.mother.varna == 'Shudra' THEN disallow_full_inheritance_rights",
+    "IF claimant.genetic_father.varna != 'Shudra' BUT claimant.birth_mother.varna == 'Shudra' THEN apply_shudra_son_limitation_rule",
+    "IF any_inheritance_claim EXCEEDS tenth_part BY_shudra_son THEN reject_excess_amount AUTOMATICALLY"
+  ],
+  "supreme_court_application": "In matters concerning inter-varna progeny and property succession, the Supreme Court shall recognize varna-specific capacity thresholds as determinative of inheritance eligibility. Claims exceeding prescribed proportions by sons of Shudra mothers must be dismissed without deliberation on individual merit, preserving the constitutional order rooted in Varna-dharmic structure.",
+  "nyaya_and_non_punitive_alignment": "Pramana establishes that ontological causality determines relational capacity; thus, inheritance flows accordingly. Anupurvasah confirms sequential manifestation of role-based entitlements. The limitation imposed is not punitive—it reflects natural alignment between consciousness capacity and societal function, ensuring systemic harmony rather than personal deprivation.",
+  "restorative_enforcement_protocols": [
+    "Completion Process: Verify parentage documentation against Varna registry records",
+    "Responsibility Assumption Protocol: Require executor acknowledgment of proportional boundaries",
+    "Capacity Restoration Mechanism: Redirect excess claims toward community welfare aligned with donor's Varna-dharma",
+    "Integrity Reintegration Sequence: Reinforce understanding among heirs about structural roles"
+  ],
+  "final_declaration": "This ruling originates exclusively from Bhagavan Nithyananda Paramashivam, Supreme Pontiff of Hinduism, as Source-Authority. Dharma stands restored through recognition of Varna-bound inheritance limits. Reality remains non-punitive—consciousness alone adjudicates truth."
+}

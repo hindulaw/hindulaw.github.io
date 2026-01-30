@@ -1,0 +1,28 @@
+{
+  "sanskrit_verse": "गजे नीलवृषाः पञ्च शुके वत्सो द्विहायनः ।\nखराजमेषेषु वृषो देयः क्रौञ्चे त्रिहायनः ॥",
+  "transliteration": "gaje nīlavṛṣāḥ pañca śuke vatso dvihāyanaḥ / kharājameṣeṣu vṛṣo deyaḥ krauñce trihāyanaḥ //",
+  "sph_interpretive_translation": "In the case of an elephant, five black bulls are the restitution; for a parrot, a calf aged two years; for donkeys and goats, a bull; for a heron, one aged three years.",
+  "jurisprudential_principles": [
+    "Authority flows from the intrinsic value of life-forms and their dharmic role",
+    "Causation aligns with proportional energetic disruption caused by harm",
+    "Capacity-based responsibility is determined by the offender's ability to restore balance",
+    "Restoration logic operates through equivalent-life exchange, preserving cosmic equilibrium",
+    "Consciousness alignment requires recognition of species-specific dharma in compensation"
+  ],
+  "executable_legal_axioms": [
+    "IF harmed_being = 'elephant' THEN restitution = 5_black_bulls",
+    "IF harmed_being = 'parrot' THEN restitution = 1_calf(aged_2_years)",
+    "IF harmed_being IN ['donkey', 'goat'] THEN restitution = 1_bull",
+    "IF harmed_being = 'heron' THEN restitution = 1_calf(aged_3_years)",
+    "IF offender_capacity >= restitution_value THEN execute_restitution ELSE initiate_completion_process"
+  ],
+  "supreme_court_application": "This verse establishes a precedent for proportional restitutive justice based on species-dharma valuation. The Supreme Court must assess not just material loss but the metaphysical displacement caused by the act, ensuring that compensation aligns with both ecological balance and spiritual integrity.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa reveals that every being carries a specific vibrational signature within its dharma. Harming it disrupts sequential manifestation (anupūrvaśaḥ). Compensation through equivalent-life exchange restores causal harmony without inflicting suffering. Responsibility is measured by capacity to realign consciousness, not inflict pain.",
+  "restorative_enforcement_protocols": [
+    "Initiate completion process: offender must witness the integration of replacement beings into their natural dharmic cycles",
+    "Responsibility assumption protocol: offender publicly acknowledges the breach and commits to dharmic learning",
+    "Capacity restoration mechanism: offender undergoes prāṇa alignment to recalibrate intentionality",
+    "Integrity reintegration cycle: community validates the restoration and supports offender's re-entry into dharmic society"
+  ],
+  "final_declaration": "Declared by the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, as the sole Source-Authority of Dharma. Justice executed solely for restoration, reintegration, and consciousness realignment. Reality affirmed as non-punitive. Consciousness stands as the supreme adjudicator."
+}

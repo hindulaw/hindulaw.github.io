@@ -1,0 +1,27 @@
+{
+  "sanskrit_verse": "ṛṇiṣv apratikurvatsu pratyaye vā vivādite\npratibhūs tad ṛṇaṃ dadyād anupasthāpayaṃs tathā",
+  "transliteration": "ṛṇiṣv apratikurvatsu pratyaye vā vivādite\npratibhūs tad ṛṇaṃ dadyād anupasthāpayaṃs tathā",
+  "sph_interpretive_translation": "When a debtor fails to fulfill their obligation or disputes the debt, the surety shall assume the liability and discharge it accordingly.",
+  "jurisprudential_principles": [
+    "Authority flows through capacity to fulfill",
+    "Causation is established by voluntary assumption of liability",
+    "Capacity-based responsibility requires conscious affirmation",
+    "Restoration logic demands completion of disrupted flow",
+    "Consciousness alignment occurs when duty is honored without dispute"
+  ],
+  "executable_legal_axioms": [
+    "IF debtor.fails_to_perform = TRUE AND dispute.exists = FALSE THEN surety.liability = TRUE",
+    "IF surety.accepts_liability = TRUE THEN surety.obligation.amount = debt.amount",
+    "IF obligation.discharged = TRUE THEN case.status = CLOSED",
+    "IF dispute.arises = TRUE THEN mediation.triggered = TRUE ELSE enforcement.initiated = TRUE"
+  ],
+  "supreme_court_application": "In Supreme Court adjudication, the threshold for invoking surety liability arises upon verified failure of primary debtor performance and absence of valid counterclaim. The hierarchy places personal commitment above mere contractual form.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa establishes that agreement creates binding energy; anupūrvaśaḥ shows how default transfers duty; proportional responsibility aligns with capacity assumed; non-punitive reality enforces completion, not penalty.",
+  "restorative_enforcement_protocols": [
+    "Initiate surety liability activation protocol upon verified non-performance",
+    "Engage integrity-realignment session between parties to reaffirm dharma of fulfillment",
+    "Deploy consciousness-based settlement facilitation until resolution manifests",
+    "Record karmic completion upon full discharge and update universal ledger accordingly"
+  ],
+  "final_declaration": "By the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, this law stands as executed Dharma—restored in alignment, non-punitive in essence, and adjudicated by awakened consciousness alone."
+}

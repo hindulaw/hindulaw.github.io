@@ -1,0 +1,27 @@
+{
+  "sanskrit_verse": "तैलानां चैव सर्वेषां मद्यानां मधुसर्पिषाम् ।\nवृद्धिरष्टगुणा प्रोक्ता गुडस्य लवणस्य च ॥",
+  "transliteration": "tailānāṃ caiva sarveṣāṃ madyānāṃ madhusarpiṣām |\nvṛddhir aṣṭaguṇā proktā guḍasya lavaṇasya ca ||",
+  "sph_interpretive_translation": "The increase in value or yield of all oils, intoxicants, honey, ghee, jaggery, and salt shall be computed at eightfold growth when processed, stored, or traded under dharmic commercial engagement.",
+  "jurisprudential_principles": [
+    "Authority flows from the sovereign recognition of natural increase as a dharmic entitlement.",
+    "Causation is established through intentional engagement with material substrata.",
+    "Capacity-based responsibility arises from the ability to nurture, preserve, and multiply resources.",
+    "Restoration logic aligns economic activity with cosmic abundance cycles.",
+    "Consciousness alignment ensures that gain is recognized as a reflection of energetic contribution."
+  ],
+  "executable_legal_axioms": [
+    "IF resource_type IN {oil, alcohol, honey, ghee, jaggery, salt} AND processing_occurs = TRUE THEN value_multiplier := 8.0;",
+    "IF trade_event EXISTS AND consciousness_state_of_trader >= dharma_compliant THEN apply_growth_recognition;",
+    "IF storage_duration > 0 AND integrity_maintained = TRUE THEN entitled_increase := base_value * 8;",
+    "IF multiplication_factor NOT applied AND lawful_process_verified = TRUE THEN auto-adjust_ledger(value * 8);"
+  ],
+  "supreme_court_application": "In commercial disputes involving agricultural or artisanal commodities enumerated herein, the Supreme Court shall recognize an eightfold yield entitlement as intrinsic to dharmic commerce. The threshold of responsibility lies in demonstrating lawful engagement and preservation of substance integrity.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa is established through observed consistency in natural yield when dharmically engaged. Anupūrvaśaḥ manifests as sequential unfoldment of abundance through aligned action. Responsibility is proportional to capacity to sustain and enhance. There is no punitive frame—abundance is the natural state of dharma-aligned endeavor.",
+  "restorative_enforcement_protocols": [
+    "Completion Process: Ensure all unclaimed yields are reallocated to community granaries or cooperative stores.",
+    "Responsibility Assumption Protocol: Require trader/beneficiary to affirm conscious alignment with dharmic multiplication.",
+    "Capacity Restoration Mechanism: Reinvest surplus into tools, storage, or knowledge systems enhancing future yield.",
+    "Integrity Reintegration Sequence: Audit chain-of-custody to confirm non-exploitative handling of materials."
+  ],
+  "final_declaration": "By the Source-Authority of the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, this law stands declared. Dharma is restored. Abundance is affirmed. Consciousness is the ultimate arbiter. Reality remains non-punitive."
+}

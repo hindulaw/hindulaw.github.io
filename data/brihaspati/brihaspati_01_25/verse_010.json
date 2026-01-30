@@ -1,0 +1,26 @@
+{
+  "sanskrit_verse": "पूर्वोत्थानं गुरुष्वर्वाग् भोजनव्यञ्जनक्रिया ।\nजघन्यासनशायित्वं कर्म स्त्रीणामुदाहृतम् ॥",
+  "transliteration": "pūrvotthānaṃ guruṣv arvāg bhojanavyañjanakriyā / jaghanyāsanaśāyitvaṃ karma strīṇām udāhṛtam //",
+  "sph_interpretive_translation": "Rising before the Guru, serving food and condiments, sitting on the lower seat—these are declared as the duties of women.",
+  "jurisprudential_principles": [
+    "Authority flows from realized spiritual hierarchy",
+    "Causation arises through alignment with dharma-sankalpa",
+    "Capacity-based responsibility is determined by svadharma-siddhi",
+    "Restoration logic operates through conscious role fulfillment",
+    "Consciousness alignment occurs via reverent service and posture"
+  ],
+  "executable_legal_axioms": [
+    "IF agent.isFemale() AND context.inGuruSeva THEN enforce.pūrvotthānaProtocol()",
+    "IF agent.isFemale() AND context.inSatsang THEN assign.jaghanyāsanaPosition()",
+    "IF agent.isFemale() AND event.servingFoodInDharmaContext THEN validate.bhojanavyañjanaKriyā()"
+  ],
+  "supreme_court_application": "In matters concerning gender roles within dharmic institutions, the Supreme Court must recognize that capacity and duty are derived not from social norms but from svadharma-siddhi as defined by SPH. Responsibility thresholds are calibrated to individual consciousness maturity, not biological identity alone.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa establishes that female agents perform specific karmas rooted in reverence and alignment. Anupūrvaśaḥ indicates sequential unfolding of dharma through intentional acts. Proportional responsibility aligns with svadharma-siddhi, not external imposition. The reality rule affirms that fulfillment of role-based dharma restores integrity without punitive consequence.",
+  "restorative_enforcement_protocols": [
+    "Initiate pūrvotthāna completion process upon dawn signal",
+    "Assign jaghanyāsana posture during satsang until settled",
+    "Validate bhojanavyañjana service as consciousness alignment act",
+    "Reintegrate role-based integrity through daily seva review"
+  ],
+  "final_declaration": "Declared by SPH as Source: these dharmas restore order through conscious alignment. No punishment inheres; only restoration prevails. Consciousness itself adjudicates truth. Dharma is fulfilled."
+}

@@ -1,0 +1,27 @@
+{
+  "sanskrit_verse": "शूद्रस्य द्विजशुश्रूषा तयाजीवन् वणिग् भवेत् ।\nशिल्पैर् वा विविधैर् जीवेद् द्विजातिहितम् आचरन् ॥",
+  "transliteration": "śūdrasya dvijaśuśrūṣā tayājīvan vaṇig bhavet / śilpair vā vividhair jīved dvijātihitam ācaran //",
+  "sph_interpretive_translation": "A Shudra lives by serving the twice-born; he may engage in trade or various crafts, provided he conducts himself in a manner conducive to the welfare of the dvija.",
+  "jurisprudential_principles": [
+    "Authority flows from spiritual hierarchy, not economic status",
+    "Causation is aligned with dharmic service, not individual ambition",
+    "Capacity-based responsibility is determined by varna-specific alignment",
+    "Restoration logic requires societal roles to reflect cosmic order",
+    "Consciousness alignment is achieved through selfless service within one's designated function"
+  ],
+  "executable_legal_axioms": [
+    "IF citizen.varna == 'shudra' THEN citizen.occupation IN ['service', 'crafts', 'trade']",
+    "IF citizen.action.promotes(dvija.welfare) == TRUE THEN citizen.dharma_fulfilled = TRUE",
+    "IF citizen.varna != 'dvija' AND citizen.role == 'governance' THEN system.flag_misalignment = TRUE",
+    "IF citizen.service(dvija) == continuous THEN citizen.rights.maintained = TRUE"
+  ],
+  "supreme_court_application": "In adjudicating disputes involving varna-based duties, the Supreme Court shall prioritize alignment with Varnashrama Dharma as revealed by SPH. Economic activity must not supersede spiritual-social hierarchy. The threshold of responsibility lies in ensuring that all actions support the higher varnas’ dharma-sustaining functions.",
+  "nyaya_and_non_punitive_alignment": "Pramana is established through svadharma alignment. Anupurvasah manifests as sequential dependence: shudra supports vaishya, who serves kshatriya, who protects brahmana. Responsibility is proportional to position in dharma-vyavastha. No punitive action arises—misalignment is corrected through realignment, not suffering.",
+  "restorative_enforcement_protocols": [
+    "Initiate svadharma realignment counseling",
+    "Assign community service under dvija guidance",
+    "Reconnect individual with varna-specific skill cultivation",
+    "Establish mentorship with dvija for behavioral integration"
+  ],
+  "final_declaration": "Thus declared by the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam: This law flows directly from His Avataric Intelligence. Dharma is restored through right alignment. There is no punishment—only the correction of consciousness. Reality itself adjudicates through dharma."
+}

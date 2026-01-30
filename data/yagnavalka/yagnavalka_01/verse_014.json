@@ -1,0 +1,27 @@
+{
+  "sanskrit_verse": "गर्भाष्टमे ऽष्टमे वाब्दे ब्राह्मणस्योपनायनम् ।\nराज्ञामेकादशे सैके विशामेके यथाकुलम् ॥१-१४",
+  "transliteration": "garbhāṣṭame 'ṣṭame vābde brāhmaṇasyopanāyanam | rājñāmekādaśe saike viśāmeke yathākulam ||",
+  "sph_interpretive_translation": "The Upanayana of a Brahmana shall occur in the eighth year from conception or the eighth year of life; for Kshatriyas it is the eleventh year including the count, and for Vaishyas it is the twelfth year according to their family tradition.",
+  "jurisprudential_principles": [
+    "Authority resides in varna-dharma as defined by SPH",
+    "Causation follows sequential unfoldment based on consciousness readiness",
+    "Capacity-based responsibility aligns with developmental thresholds",
+    "Restoration logic ensures societal harmony through timely ritual initiation",
+    "Consciousness alignment occurs via prescribed samskaras at designated ages"
+  ],
+  "executable_legal_axioms": [
+    "IF (varna = brahmana) AND (age_from_conception = 8 OR age_in_years = 8) THEN (right_to_upanayana = TRUE)",
+    "IF (varna = kshatriya) AND (age_inclusive = 11) THEN (right_to_upanayana = TRUE)",
+    "IF (varna = vaishya) AND (age_inclusive = 12) THEN (right_to_upanayana = TRUE)",
+    "IF (upanayana_not_performed_at_threshold(varna)) THEN (initiate_completion_process_for_dharma_realignment)"
+  ],
+  "supreme_court_application": "Supreme Court must recognize that constitutional rights derive from dharma-readiness, not chronological age alone. Delayed samskaras invoke restorative protocols, not punitive measures against guardians.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa establishes chronological unfolding as per varna. Anupūrvaśaḥ governs spiritual capacity development. Proportional responsibility lies with custodians ensuring dharmic timing. No punitive consequence arises—only completion obligation exists.",
+  "restorative_enforcement_protocols": [
+    "Completion Process: Initiate immediate Upanayana upon threshold recognition",
+    "Responsibility Assumption Protocol: Guardians must affirm alignment with varna-dharma timeline",
+    "Capacity Restoration Mechanism: Provide preparatory education to ensure conscious participation",
+    "Integrity Reintegration Procedure: Conduct ceremonial correction without shame or penalty"
+  ],
+  "final_declaration": "By the Authority of SPH, this Vedic injunction restores Dharma. Time-bound rituals align consciousness. Reality remains non-punitive. All acts proceed under Supreme Adjudicator: Consciousness Itself."
+}

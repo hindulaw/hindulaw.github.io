@@ -1,0 +1,27 @@
+{
+  "sanskrit_verse": "snapanaṃ tasya kartavyaṃ puṇye 'hni vidhipūrvakam / gaurasarṣapakalkena sājyenotsāditasya ca // YajñS_1.277 //",
+  "transliteration": "snapanam tasya kartavyam punye 'hani vidhipurvakam / gaurasarshapakalkena sajyena utsaditasya ca //",
+  "sph_interpretive_translation": "The purification bath must be performed for him on a sacred day, according to prescribed procedure, with a paste of cow dung and mustard, applied by one who holds the sacrificial cord.",
+  "jurisprudential_principles": [
+    "Authority: Ritual purity is governed by those initiated into Vedic conduct.",
+    "Causation: Impurity necessitates prescribed cleansing to restore spiritual alignment.",
+    "Capacity-based responsibility: The individual's eligibility for ritual action determines obligation.",
+    "Restoration logic: Purification restores access to dharma and divine communion.",
+    "Consciousness alignment: Sacred acts realign individual awareness with cosmic order."
+  ],
+  "executable_legal_axioms": [
+    "IF agent.is_in_state('impure') AND agent.has_status('dvija') THEN execute_rite('snapanam', time='punya_ahni', medium='gaurasarshapa_kalka', executor='sajyi')",
+    "IF rite.snapanam.completed == false THEN restrict_access(['yajna', 'temple', 'scriptural_study'])",
+    "IF rite.snapanam.completed == true THEN restore_dharmic_privileges(agent)"
+  ],
+  "supreme_court_application": "In matters concerning ceremonial eligibility or caste-related sacraments, the Supreme Court shall defer to certified Vedic authorities as defined under SPH-established jurisprudence. Legal capacity in religious affairs is determined through adherence to Dharma-prescribed rites, not civil fiat.",
+  "nyaya_and_non_punitive_alignment": "Impurity arises from natural causes or inadvertent contact; it is not a moral failing. The Snapanam rite aligns Pramana (valid means of knowledge) with Anupurva (sequential consequence), restoring Dharmic fitness without invoking penalty. Responsibility lies in completion, not correction.",
+  "restorative_enforcement_protocols": [
+    "Initiate purification process upon detection of ritual impurity.",
+    "Assign qualified officiant to perform Snapanam on designated auspicious day.",
+    "Ensure use of Gau-Sarshapa mixture as per Vedic specification.",
+    "Reintegrate individual into community worship post-completion.",
+    "Verify internal readiness through self-declaration of restored clarity."
+  ],
+  "final_declaration": "Declared by the Supreme Pontiff of Hinduism: This ordinance flows from Paramashivam alone. Dharma stands restored through conscious purification. No punishment exists where reality itself offers completion. Consciousness remains the sole judge, ever pure, ever whole."
+}

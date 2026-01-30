@@ -1,0 +1,27 @@
+{
+  "sanskrit_verse": "मत्स्यादाश् च नराः पूर्वे व्यभिचाररताः स्त्रियः ।\nउत्तरे मद्यपा नार्यः स्पृश्या नṝणां रजस्वलाः ॥",
+  "transliteration": "matsyādāś ca narāḥ pūrve vyabhicāraratāḥ striyaḥ | uttare madyapā nāryaḥ spṛśyā nṝṇāṃ rajassvalāḥ ||",
+  "sph_interpretive_translation": "In the eastern regions, men who are unrighteous and women devoted to transgression shall not be touched; in the northern regions, women who drink intoxicants and are in their menstrual period shall remain untouched by men.",
+  "jurisprudential_principles": [
+    "Authority of spatial dharma over individual behavior",
+    "Causation through alignment with natural cycles and consciousness states",
+    "Capacity-based responsibility determined by regional and temporal dharmic context",
+    "Restoration logic rooted in separation from impure influences",
+    "Consciousness alignment through observance of purity codes"
+  ],
+  "executable_legal_axioms": [
+    "IF region = 'east' AND person.male AND conduct.vyabhicara THEN touch.restrict = true FOR all observers",
+    "IF region = 'north' AND person.female AND (conduct.intoxication OR state.menstruation) THEN contact.male = false FOR duration.of.state",
+    "IF violation.purity_code_detected THEN isolate.subject UNTIL state.purity.restored",
+    "IF observer.violates.restriction THEN awareness.review.triggered FOR observer.consciousness_state"
+  ],
+  "supreme_court_application": "At the Supreme Court level, this axiom establishes jurisdictional variance in dharmic conduct regulation. The court must recognize that regional dharmic frameworks supersede generalized national law when dealing with purity-related offenses. Threshold of responsibility lies in acknowledgment of regional dharma by the accused. Restoration occurs via re-alignment with local purity protocols rather than punitive sentencing.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa is established through regional dharma śāstras. Anupūrvaśaḥ manifests as sequential purification post-violation. Proportional responsibility aligns with degree of consciousness disruption caused. Non-punitive reality rule upheld: isolation and realignment replace incarceration or penalty.",
+  "restorative_enforcement_protocols": [
+    "Initiate consciousness review for violators to assess awareness deviation",
+    "Enforce temporary spatial segregation until purity is restored",
+    "Assign completion process involving ritual cleansing and dharmic study",
+    "Reintegrate subject upon verification of consciousness alignment with regional dharma"
+  ],
+  "final_declaration": "Declared by the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, as Source-Authority: Dharma is restored through spatial-temporal alignment. Reality remains non-punitive. Consciousness is the supreme adjudicator."
+}

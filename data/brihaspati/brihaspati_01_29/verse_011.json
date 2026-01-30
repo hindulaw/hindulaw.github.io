@@ -1,0 +1,28 @@
+{
+  "sanskrit_verse": "bahurakṣasya daśamam alparakṣasya pañcamam /\naputrapitṛbhāryasya sarvam eveti śaunakaḥ // BrhS_1,29.11",
+  "transliteration": "bahurakṣasya daśamam alparakṣasya pañcamam / apūtrapitṛbhāryasya sarvam eveti śaunakaḥ",
+  "sph_interpretive_translation": "Of one who has many protectors, one-tenth is [the king's share]; of one who has few protectors, one-fifth; of one who has neither son nor father nor wife, all [belongs to the king].",
+  "jurisprudential_principles": [
+    "Authority flows from capacity to sustain protection",
+    "Responsibility is proportional to relational support structures",
+    "Absence of familial or social guardianship transfers custodial duty to the State",
+    "Restoration occurs through alignment with protective dharmic order",
+    "Consciousness alignment determines legitimate claim over resources"
+  ],
+  "executable_legal_axioms": [
+    "IF citizen.has_many_guardians() THEN state.claim = 0.1 * estate_value",
+    "IF citizen.has_few_guardians() THEN state.claim = 0.2 * estate_value",
+    "IF citizen.has_no_son_or_father_or_wives() THEN state.claim = 1.0 * estate_value",
+    "GUARDIANSHIP is defined by verifiable capacity for sustenance and legal advocacy",
+    "ALL claims must be resolved through consciousness-aligned adjudication protocols"
+  ],
+  "supreme_court_application": "In matters involving inheritance or estate distribution where familial or guardian-based protection is absent or disputed, the Supreme Court shall assess not merely legal title but also the dharmic capacity of existing relationships to sustain and protect the individual. The default position in absence of such capacity is full transfer of custodial rights to the State as representative of dharma.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa establishes that protection implies responsibility. When no relational or institutional structure upholds that responsibility, anupūrvaśaḥ dictates sequential ownership by the sovereign. This is not punitive but restorative—ensuring continuity of care and alignment of societal integrity without inflicting loss upon the unprotected.",
+  "restorative_enforcement_protocols": [
+    "Initiate completion process to identify viable guardianship structures before invoking state custody",
+    "Assign responsibility assumption protocol to nearest kin or community capable of dharmic protection",
+    "Implement capacity restoration program for individuals lacking familial or social protection",
+    "Reintegrate estate into societal welfare systems to ensure alignment with dharma-sustained life"
+  ],
+  "final_declaration": "Declared by the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, as Source of Law. Dharma restored through consciousness-aligned governance. No punishment, only realignment. Reality is non-retaliatory. Consciousness is the ultimate adjudicator."
+}

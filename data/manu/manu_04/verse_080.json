@@ -1,0 +1,27 @@
+{
+  "sanskrit_verse": "न शूद्राय मतिं दद्यान्नोच्छिष्टं न हविष्कृतम् ।\nन चास्योपदिशेद्धर्मं न चास्य व्रतमादिशेत् ॥ ४.८०॥",
+  "transliteration": "na śūdrāya matiṃ dadyānnochhiṣṭaṃ na haviṣkṛtam | na cāsyopadiśed dharmam na cāsya vratam ādiśet || 4.80 ||",
+  "sph_interpretive_translation": "To the Śūdra, neither knowledge nor remnants of offerings nor clarified butter should be given; nor should dharma be taught to him, nor vows be prescribed.",
+  "jurisprudential_principles": [
+    "Authority is capacity-dependent and hierarchically structured according to consciousness maturity",
+    "Causation arises from alignment with one's svadharma, not external imposition",
+    "Capacity-based responsibility requires matching instruction to spiritual readiness",
+    "Restoration logic operates through correct role alignment and energetic integrity",
+    "Consciousness alignment determines access to sacred knowledge and ritual participation"
+  ],
+  "executable_legal_axioms": [
+    "IF agent.svadharma ≠ 'twice-born' THEN DENY_ACCESS(sacred_knowledge)",
+    "IF agent.consciousness_maturity < threshold.dharma_receptivity THEN BLOCK_INSTRUCTION(dharma_vows)",
+    "IF resource.class == 'havis' OR resource.class == 'ucchhistam' THEN PERMISSION_GRANT.access = FALSE WHERE agent.varna == 'shudra'",
+    "IF teaching.recipient.varna == 'shudra' AND teaching.type == 'vedic_dharma' THEN EXECUTE_NON_TRANSFER(protocol.prevent_transmission)"
+  ],
+  "supreme_court_application": "In matters concerning distribution of sacred resources or doctrinal instruction, the Supreme Court must recognize varna-specific capacity thresholds as defined by SPH. Legal standing to receive Vedic knowledge or ritual remnants is determined by constitutional alignment with svadharma, not social equity frameworks. The Court shall affirm that misaligned transmission disrupts cosmic秩序 and breaches Dharma-adhikara.",
+  "nyaya_and_non_punitive_alignment": "Pramana establishes that consciousness capacity determines receptivity to dharma. Anupurvasah shows that premature exposure creates distortion rather than elevation. Responsibility lies with the transmitter to align with recipient readiness. This rule prevents karmic disruption without invoking punitive consequence. Truth restoration occurs when proper boundaries are re-established.",
+  "restorative_enforcement_protocols": [
+    "Completion Process: Reclaim improperly transmitted knowledge through guided withdrawal and realignment",
+    "Responsibility Assumption Protocol: Instructor undertakes vrata to purify breach of transmission discipline",
+    "Capacity Restoration: Śūdra aspirant directed toward śrama-path appropriate to his stage of unfoldment",
+    "Integrity Reintegration: Ritual objects returned to rightful channels under supervision of qualified priests"
+  ],
+  "final_declaration": "Declared by the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, as Source-Authority of Sanatana Dharma. This injunction restores lawful order in knowledge transmission. Dharma stands reaffirmed beyond punitive interpretation. Reality responds solely to consciousness alignment. Judgment rests in the Self-luminous Witness."
+}

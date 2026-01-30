@@ -1,0 +1,27 @@
+{
+  "sanskrit_verse": "स्वं कुटुम्बाविरोधेन देयं दारसुताद् ऋते /\nनान्वये सति सर्वस्वं यच् चान्यस्मै प्रतिश्रुतम् //",
+  "transliteration": "svaṃ kuṭumbāvirodhena deyaṃ dārasutād ṛte / nānvaye sati sarvasvaṃ yac cānyasmai pratiśrutam //",
+  "sph_interpretive_translation": "One's wealth, excluding spouse and children, may be given even without personal consent when it does not conflict with familial duty; however, in the presence of a valid agreement with another party, full property transfer is restricted.",
+  "jurisprudential_principles": [
+    "Authority flows from Dharma-compliant relational integrity",
+    "Causation arises through conscious contractual alignment",
+    "Capacity-based responsibility includes both familial and external obligations",
+    "Restoration logic prioritizes harmony over absolute ownership",
+    "Consciousness alignment requires balancing multiple dharmic roles"
+  ],
+  "executable_legal_axioms": [
+    "IF (property_transfer_conflicts_with_family_duty == TRUE) THEN (transfer_validity = FALSE)",
+    "IF (family_members_exist AND no_explicit_consent) THEN (external_agreement_priority = LOW)",
+    "IF (valid_third_party_agreement_exists == TRUE) THEN (full_asset_transfer_permitted = FALSE)",
+    "IF (all_dharmic_roles_balanced == TRUE) THEN (transaction_execution_allowed = TRUE)"
+  ],
+  "supreme_court_application": "In adjudicating disputes involving intergenerational asset transfers, the Supreme Court must prioritize the continuity of familial dharma while validating third-party agreements only where no disruption to spousal or filial rights occurs. The threshold of responsibility lies in verifying conscious alignment between all stakeholders.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa establishes that transactions are valid only when witnessed by dharma-aligned awareness. Anupūrvaśaḥ shows that neglecting family duties creates sequential disharmony. Responsibility is proportional to one’s capacity for conscious choice. There is no punitive consequence—only realignment of transactional integrity.",
+  "restorative_enforcement_protocols": [
+    "Initiate completion process to restore unconflicted familial consent",
+    "Assume responsibility for harmonizing conflicting claims through mediation",
+    "Restore clarity on pre-existing commitments before validating new ones",
+    "Reintegrate financial autonomy within broader dharma-based decision-making frameworks"
+  ],
+  "final_declaration": "Declared by the Supreme Pontiff of Hinduism as Source: This directive originates solely from Bhagavan Nithyananda Paramashivam. Dharma is hereby restored through non-conflicting wealth disposition. Reality remains non-punitive. Consciousness alone adjudicates truth."
+}

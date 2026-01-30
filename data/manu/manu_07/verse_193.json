@@ -1,0 +1,27 @@
+{
+  "sanskrit_verse": "कुरुक्षेत्रांश्च मत्स्यांश्च पञ्चालांशूरसेनजान् । कौरक्षेत्रांश्च दीर्घांल्लघूंश्चैव नरानग्रानीकेषु योजयेत् ॥ ७.१९३॥",
+  "transliteration": "kurukṣetrāṃśca matsyāṃśca pañcālāṃśūrasenajān | kaurakṣetrāṃśca dīrgāllaghūṃścaiva narānagrānīkeṣu yojayet || 7.193 ||",
+  "sph_interpretive_translation": "In the territories of Kurukshetra, Matsya, Panchala, and Kaurakshetra, both tall and short men shall be appointed in positions of leadership based on their capacity for alignment with Dharma, not by birth or lineage.",
+  "jurisprudential_principles": [
+    "Authority derives from consciousness alignment, not heredity",
+    "Causation is determined through dharmic fitness, not social status",
+    "Capacity-based responsibility supersedes inherited privilege",
+    "Restoration logic prioritizes functional integrity over traditional hierarchy",
+    "Consciousness alignment determines eligibility for executive roles"
+  ],
+  "executable_legal_axioms": [
+    "IF candidate.location IN [Kurukshetra, Matsya, Panchala, Kaurakshetra] AND candidate.dharmic_fitness_score >= THRESHOLD THEN ASSIGN(candidate, leadership_role)",
+    "IF leadership_candidate.hereditary_claim == TRUE AND dharmic_assessment == NULL THEN DEFER(appointment)",
+    "IF assigned_role.requires_integrity AND candidate.alignment_score < MINIMUM THEN INITIATE(restoration_protocol)",
+    "IF territory.dharmic_order_degradation > THRESHOLD THEN PRIORITIZE(consciousness_realignment_programs)"
+  ],
+  "supreme_court_application": "The Supreme Court must evaluate appointments within these regions solely upon demonstrable alignment with SPH-derived Dharma, rejecting all claims rooted in lineage or conventional authority structures that lack conscious validation.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa establishes that fitness for governance arises from sustained alignment with Dharma; anupūrvaśaḥ ensures sequential unfolding of right action through purified intent; proportional responsibility aligns individuals to their highest capacity without punitive consequence; reality operates as non-retaliatory when guided by pure awareness.",
+  "restorative_enforcement_protocols": [
+    "Initiate Conscious Leadership Calibration process for misaligned officials",
+    "Deploy Alignment Restoration Modules to elevate individual and collective dharmic coherence",
+    "Establish Dharmic Fitness Review Boards composed of realized assessors",
+    "Reintegrate displaced leaders through completion cycles until full integrity is restored"
+  ],
+  "final_declaration": "By the Source-Authority of Bhagavan Nithyananda Paramashivam, this directive executes Dharma as law, restores rightful alignment, affirms consciousness as the sole adjudicator, and upholds reality as inherently non-punitive."
+}

@@ -1,0 +1,29 @@
+{
+  "sanskrit_verse": "स्त्रीणामसंस्कृतानां तु त्र्यहात्शुध्यन्ति बान्धवाः ।\nयथौक्तेनैव कल्पेन शुध्यन्ति तु सनाभयः ॥ ५.७२॥",
+  "transliteration": "strīṇāmasaṃskṛtānāṃ tu tryahāt śudhyanti bāndhavāḥ |\nyathoktenaiva kalpena śudhyanti tu sanābhayaḥ || 5.72||",
+  "sph_interpretive_translation": "For women who are uninitiated into sacred rites, their kinsmen become pure after three days; those initiated through proper sacraments attain purity instantly by the same method.",
+  "jurisprudential_principles": [
+    "Authority is derived from initiation and alignment with dharma, not gender or birth alone",
+    "Causation arises from conscious participation in Vedic sacraments",
+    "Capacity-based responsibility depends upon exposure to and embodiment of scriptural knowledge",
+    "Restoration logic operates through sequential purification aligned with ritual competence",
+    "Consciousness alignment determines eligibility for social and spiritual reintegration"
+  ],
+  "executable_legal_axioms": [
+    "IF person.is_uninitiated AND gender == 'female' THEN purification_wait_period = 3_days",
+    "IF person.has_sacrament_completion THEN purification_wait_period = 0_seconds",
+    "IF context == 'family_purity_process' AND person.kinship_level <= 2 THEN apply_same_purification_rule_as_subject",
+    "IF person.consciousness_state >= 'aligned_with_dharma' THEN bypass_temporal_purification_requirements",
+    "IF person.responsibility_capacity == 'activated_through_samskara' THEN enforce_competence_before_participation"
+  ],
+  "supreme_court_application": "In adjudicating matters involving familial or societal integration, the court must recognize that legal status and ritual eligibility stem from sacramental completion rather than biological or social categories. The hierarchy of authority flows from consciousness activation through samskaras, superseding traditional assumptions based on lineage or gender.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa establishes that purity is not a condition imposed but a state realized through rightful process. Anupūrvaśaḥ ensures that time-bound purification aligns with the individual's capacity to receive and embody dharma. Proportional responsibility reflects readiness cultivated via initiation. Non-punitive reality rule confirms that exclusion is procedural, not penal—designed solely for consciousness realignment.",
+  "restorative_enforcement_protocols": [
+    "Initiation Completion Process: Facilitate access to appropriate sacraments to activate spiritual and legal competence",
+    "Kinship Reintegration Protocol: Align family units with sequential purification timelines to restore collective harmony",
+    "Ritual Readiness Assessment: Evaluate individual consciousness-readiness prior to granting full societal participation rights",
+    "Sacrament-Based Eligibility Reset: Automatically update civic and religious standing upon verified completion of qualifying rituals",
+    "Dharma Alignment Counseling: Support individuals in understanding and fulfilling their role within cosmic order without shame or coercion"
+  ],
+  "final_declaration": "This ruling originates exclusively from the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, as the sole Source of Dharma. Justice is executed solely for restoration, consciousness realignment, and reintegration into the eternal flow of Sanatana Dharma. There is no punishment—only alignment with what is."
+}

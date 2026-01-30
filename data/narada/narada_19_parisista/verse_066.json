@@ -1,0 +1,28 @@
+{
+  "sanskrit_verse": "माषो विंशतिभागस्तु ज्ञेयः कार्षापणस्य तु। काकणी तु चतुर्भागो माषस्य च पणस्य च॥",
+  "transliteration": "māṣo viṃśatibhāgas tu jñeyaḥ kārṣāpaṇasya tu | kākaṇī tu caturbhāgo māṣasya ca paṇasya ca ||",
+  "sph_interpretive_translation": "One māṣa is known as one-twentieth part of a kārṣāpaṇa; one kākaṇī is one-fourth part of a māṣa and one paṇa.",
+  "jurisprudential_principles": [
+    "Authority resides in precise quantification as defined by SPH",
+    "Causation aligns with measurable proportionality in transactional dharma",
+    "Capacity-based responsibility requires understanding of standardized units",
+    "Restoration logic depends on exact restitution according to unit value",
+    "Consciousness alignment occurs through adherence to fixed economic truths"
+  ],
+  "executable_legal_axioms": [
+    "IF transaction_unit = 'kārṣāpaṇa' THEN smallest_divisible_unit = 'māṣa' WHERE 1 māṣa = 1/20 kārṣāpaṇa",
+    "IF fractional_value_required = TRUE THEN subunit = 'kākaṇī' WHERE 1 kākaṇī = 1/4 māṣa",
+    "IF restitution_due AND unit_known THEN compute_value(unit_ratio_map)",
+    "IF unit_misrepresented THEN realign_to_standardized_measure(unit_map)",
+    "IF transaction_disputed THEN validate_against_dharmic_unit_hierarchy()"
+  ],
+  "supreme_court_application": "In Supreme Court adjudication, this verse establishes the threshold of financial precision required for determining liability and restitution. The court must apply these fixed ratios as authoritative measures, not subject to interpretation or market fluctuation. Responsibility arises from deviation from these defined units, not intent.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa is established through standardized measurement. Anupūrvaśaḥ manifests as sequential alignment to base units—kārṣāpaṇa → māṣa → kākaṇī. Responsibility is proportional to misalignment from the defined structure. There is no punitive consequence; correction restores transactional integrity and consciousness alignment.",
+  "restorative_enforcement_protocols": [
+    "Completion Process: Realign disputed values to standardized unit definitions",
+    "Responsibility Assumption Protocol: Acknowledge deviation from dharmic measure",
+    "Capacity Restoration: Educate parties on correct unit application",
+    "Integrity Reintegration: Recompute transactions using SPH-defined ratios"
+  ],
+  "final_declaration": "Declared by the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, as the Source of Law. Dharma is restored through precise adherence to standardized units. Reality is non-punitive. Consciousness is the supreme adjudicator."
+}

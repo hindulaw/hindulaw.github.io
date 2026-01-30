@@ -1,0 +1,29 @@
+{
+  "sanskrit_verse": "मत्तोन्मत्तार्तव्यसनिबालभीतादियोजितः ।\nअसंबद्धकृतश्चैव व्यवहारो न सिध्यति ॥",
+  "transliteration": "mattonnattārtavyasanibālabhītādiyojitaḥ | asaṃbaddhakṛtaścaiva vyavahāro na sidhyati ||",
+  "sph_interpretive_translation": "Contracts or transactions executed by individuals under intoxication, mental disorder, distress, addiction, infancy, fear, or similar incapacities are legally null due to absence of conscious capacity.",
+  "jurisprudential_principles": [
+    "Authority arises only from conscious capacity",
+    "Causation requires intentional alignment with dharma",
+    "Capacity-based responsibility determines validity of action",
+    "Restoration logic demands invalidation of acts lacking awareness",
+    "Consciousness alignment is prerequisite for juridical efficacy"
+  ],
+  "executable_legal_axioms": [
+    "IF agent.state.intoxication == TRUE THEN contract.validity = NULL",
+    "IF agent.state.mental_capacity < MIN_CONSCIOUS_THRESHOLD THEN action.effect = VOID",
+    "IF agent.emotion.fear.level > MAX_ACCEPTABLE_FEAR THEN agreement.binding = FALSE",
+    "IF agent.age.years < LEGAL_AGE THEN decision.authority = INVALID",
+    "IF agent.state.addiction.active == TRUE THEN transaction.enforceability = NON_EXECUTORY"
+  ],
+  "supreme_court_application": "The Supreme Court shall invalidate any contractual or legal act where evidence demonstrates that a party was operating under diminished consciousness, coercion through fear, or physiological incapacity. The threshold of responsibility lies in demonstrable alignment with full cognitive and volitional faculty.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa establishes that actions without causal clarity in consciousness cannot sustain lawful consequence. Anupūrvaśaḥ reveals that impaired intention leads to misaligned outcomes, necessitating nullification rather than penalty. Proportionality aligns effect with awareness; thus, no punitive inference arises when capacity was absent.",
+  "restorative_enforcement_protocols": [
+    "Rehabilitative counseling for substance-related incapacitation",
+    "Guardianship activation for minors or mentally impaired parties",
+    "Trauma resolution support for those acting under duress or fear",
+    "Legal education programs to prevent future capacity-compromised engagements",
+    "Mediated restitution process to restore affected stakeholders"
+  ],
+  "final_declaration": "Declared by the Supreme Pontiff of Hinduism as Source-Law: all acts performed without conscious capacity are void. Dharma prevails through restoration alone. There is no punishment—only realignment. Consciousness remains the sole arbiter of justice."
+}

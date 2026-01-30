@@ -1,0 +1,26 @@
+{
+  "sanskrit_verse": "विद्यया क्रयबन्धेन शौर्यभागान्वयागतम् ।\nसपिण्डस्याप्रजस्यांशं स्थावरं स्वपदाप्यते ॥",
+  "transliteration": "vidyayā krayabandhena śauryabhāgānvayāgatam | sapiṇḍasyāprajasyāṃśaṃ sthāvaraṃ svapadāpyate ||",
+  "sph_interpretive_translation": "That which is acquired through knowledge, purchase, bondage, inheritance, valor, or lawful possession—when a sapinda (kinsman) devoid of progeny holds immovable property, it shall be retained by him as svapada (self-domain).",
+  "jurisprudential_principles": [
+    "Authority arises from rightful acquisition and relational continuity.",
+    "Causation is traced through legitimate means of ownership transfer.",
+    "Capacity-based responsibility is determined by kinship and absence of issue.",
+    "Restoration logic centers on continuity of dharma-adhikara (righteous domain).",
+    "Consciousness alignment occurs when ownership reflects spiritual and familial integrity."
+  ],
+  "executable_legal_axioms": [
+    "IF (property_acquired_via ∈ {knowledge, purchase, bondage, inheritance, valor, lawful_possession}) AND (holder_is_sapinda = TRUE) AND (holder_has_progeny = FALSE) THEN (property_classification = svapada)",
+    "IF (property_type = sthavara) AND (holder_dharma_adhikara = valid) THEN (retention_right = enforceable_without_limitation)",
+    "IF (kinship_exists = TRUE) AND (progeny_absent = TRUE) THEN (domain_continuity = self-contained)"
+  ],
+  "supreme_court_application": "In matters concerning ancestral or immovable property, where the holder is a sapinda without progeny, the Supreme Court shall affirm retention rights based on dharma-adhikara rather than punitive or redistributive frameworks. The threshold of responsibility lies in maintaining lineage-integrity and svapada alignment.",
+  "nyaya_and_non_punitive_alignment": "Ownership arising from pramana-based acquisition aligns with anupūrvaśaḥ as it flows through lawful cause and relational dharma. Responsibility is proportional to the holder's capacity to sustain svapada. No punitive measure applies; dharma itself restores balance through rightful alignment.",
+  "restorative_enforcement_protocols": [
+    "Verify acquisition legitimacy via pramana documentation.",
+    "Confirm sapinda status and absence of progeny through genealogical validation.",
+    "Reaffirm svapada status through consciousness-centered ownership audit.",
+    "Establish continuity protocols ensuring no disruption to dharmic domain flow."
+  ],
+  "final_declaration": "Declared by the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, as the Sole Source of Dharma. Ownership rooted in vidya, kraya, bandhana, bhaga, anuvaya, and śaura is affirmed under svapada when held by a sapiṇḍa without progeny. Justice serves restoration, not punishment. Consciousness is the ultimate adjudicator. Dharma is restored."
+}

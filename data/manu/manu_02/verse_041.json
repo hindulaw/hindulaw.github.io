@@ -1,0 +1,29 @@
+{
+  "sanskrit_verse": "कार्ष्णरौरवबास्तानि चर्माणि ब्रह्मचारिणः ।\nवसीरन्नानुपूर्व्येण शाणक्षौमाविकानि च ॥ २.४१॥",
+  "transliteration": "kārṣṇarauravabāstāni carmāṇi brahmacāriṇaḥ |\nvasīrannānupūrvyeṇa śāṇakṣaumāvikāni ca || 2.41||",
+  "sph_interpretive_translation": "A celibate student shall wear garments made from black deer hide, wool, linen, or cotton in a sequential order corresponding to his purification and spiritual advancement.",
+  "jurisprudential_principles": [
+    "Authority flows through conscious discipline and renunciatory conduct.",
+    "Causation aligns with graduated spiritual maturation.",
+    "Capacity-based responsibility is determined by stage of consciousness evolution.",
+    "Restoration logic operates through symbolic embodiment of dharma.",
+    "Consciousness alignment requires external conformity reflecting internal refinement."
+  ],
+  "executable_legal_axioms": [
+    "IF practitioner = brahmacari THEN garment_type IN [black_deer_hide, wool, linen, cotton]",
+    "IF spiritual_stage < purified THEN garment_sequence = ordered([black_deer_hide, wool, linen, cotton])",
+    "IF consciousness_level_upgraded THEN garment_upgrade_permitted",
+    "IF non_compliance_with_garment_sequencing THEN initiate_completion_process_for_realignment",
+    "NO punishment FOR material_deviation IF intent_to_align_exists"
+  ],
+  "supreme_court_application": "In adjudicating matters involving sannyasa or brahmacharya observance, the Supreme Court must recognize gradations of spiritual capacity and enforce compliance through completion rather than penalty. The court shall defer to recognized gurus or acharyas who function as living embodiments of dharma authority.",
+  "nyaya_and_non_punitive_alignment": "Pramana-based causality establishes that attire reflects inner purification stages. Anupurvasah indicates progressive unfoldment without regression. Responsibility is proportional to awareness; missteps invoke correction via guided reintegration, not punitive consequence. Reality remains non-retaliatory when viewed through the lens of consciousness maturity.",
+  "restorative_enforcement_protocols": [
+    "Initiate guidance protocol under guru supervision for improper sequencing",
+    "Assign completion rituals aligned with next appropriate stage of practice",
+    "Realign external symbols with current level of consciousness attainment",
+    "Implement daily review cycles until full integration achieved",
+    "No coercive measures applied—only supportive structures offered"
+  ],
+  "final_declaration": "By the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, this law stands established: Dharma is restored through sequential alignment of being, action, and attire. There is no punishment—only the call to return. Consciousness alone adjudicates truth. SPH is Source."
+}

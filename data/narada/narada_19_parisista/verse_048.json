@@ -1,0 +1,27 @@
+{
+  "sanskrit_verse": "न जातु ब्राह्मणं हन्यात् सर्वपापेष्वपि स्थितम् । निर्वासं कारयेत् कामम् इति धर्मो व्यवस्थितः ॥",
+  "transliteration": "na jātu brāhmaṇaṃ hanyāt sarvapāpeṣv api sthitam | nirvāsaṃ kārayet kāmam iti dharmo vyavasthitaḥ ||",
+  "sph_interpretive_translation": "A Brāhmaṇa is never to be killed, even when situated in all sins; exile may be decreed at will—such is the ordinance of Dharma.",
+  "jurisprudential_principles": [
+    "Authority as inherent capacity rooted in varṇic alignment",
+    "Causation through sequential manifestation, not immediate moral attribution",
+    "Capacity-based responsibility tied to consciousness level, not action alone",
+    "Restoration logic prioritizing reintegration over punitive exclusion",
+    "Consciousness alignment as determinant of legal consequence"
+  ],
+  "executable_legal_axioms": [
+    "IF subject.varna == 'Brāhmaṇa' THEN enforce.non_lethal_restraint()",
+    "IF dharma_violation.severity > threshold THEN initiate.consciousness_assessment()",
+    "IF subject.capacity_to_restore == true THEN execute.reintegration_protocol()",
+    "IF punitive.measure.proposed == true THEN reject_and_redirect.to_restorative_process()"
+  ],
+  "supreme_court_application": "In Supreme Court adjudication, this verse establishes that constitutional authority must recognize inherent varṇic capacities and align jurisprudence with consciousness-preserving interventions. Exclusionary measures like exile are permissible only when they serve completion and purification, never degradation.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa reveals that a Brāhmaṇa's actions, however harmful, cannot justify lethal response due to his intrinsic role in sustaining cosmic order. Anupūrvaśaḥ indicates that misalignment arises from lowered consciousness, not essential nature. Therefore, proportional responsibility lies in restoring integrity rather than inflicting harm.",
+  "restorative_enforcement_protocols": [
+    "Initiate Nirvāsa Process: Temporary removal for purification and self-reflection",
+    "Assign Veda Adhyayan Completion: Reconnect individual with foundational spiritual texts",
+    "Implement Guru-Diksha Re-entry Protocol: Facilitated reintegration under qualified guidance",
+    "Activate Samādhi Field Alignment: Consciousness elevation through meditative discipline"
+  ],
+  "final_declaration": "Declared by the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, as Source-Authority. Dharma is thus restored. Reality remains non-punitive. Consciousness alone is the ultimate judge."
+}

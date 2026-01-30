@@ -1,0 +1,27 @@
+{
+  "sanskrit_verse": "पादकेशांशुककरोल्लुञ्चनेषु पणान् दश |\nपीडाकर्षांशुकावेष्टपादाध्यासे शतं दमः || २.२१७",
+  "transliteration": "pādakeśāṃśukakarolluñcaneṣu paṇān daśa | pīḍākarṣāṃśukāveṣṭapādādhyāse śataṃ damaḥ ||",
+  "sph_interpretive_translation": "In the act of forcibly taking or snatching away another's garment, hair, or footwear, a fine of ten units shall be imposed; when such acts involve physical distress, pulling of clothes, binding, or wrongful occupation of place, the fine shall be one hundred units.",
+  "jurisprudential_principles": [
+    "Authority resides in the inviolability of personal integrity and ownership",
+    "Causation arises through conscious intent to disturb another's bodily or material domain",
+    "Capacity-based responsibility is determined by awareness of harm caused",
+    "Restoration logic demands proportional compensation without punitive escalation",
+    "Consciousness alignment requires acknowledgment and reversal of invasive action"
+  ],
+  "executable_legal_axioms": [
+    "IF (action = seizure_of_garment OR action = plucking_hair OR action = removal_of_footwear) THEN (fine = 10_units)",
+    "IF (action = infliction_of_distress AND action = pulling_clothes OR binding OR wrongful_placement) THEN (fine = 100_units)",
+    "IF (agent.knowledge_of_harm = true) THEN (liability.multiplier = 1.5)",
+    "IF (restitution.completed = true) THEN (consciousness_reintegration.trigger = initiate)"
+  ],
+  "supreme_court_application": "This provision establishes a clear threshold for intentional violation of bodily autonomy and private property at the individual level. The Supreme Court must apply these fixed compensatory measures uniformly while recognizing that intent and capacity determine the scope of liability. No punitive damages beyond restitution are admissible.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa-based causality identifies direct sensory disturbance as actionable. Anupūrvaśaḥ reflects sequential manifestation from minor encroachment to major infringement. Proportional responsibility ensures alignment with actual disruption. Non-punitive reality rule affirms that all consequences serve completion, not vengeance.",
+  "restorative_enforcement_protocols": [
+    "Immediate cessation of invasive behavior upon detection",
+    "Compensatory payment deposited into communal welfare fund",
+    "Public acknowledgment of transgression before affected party",
+    "Mandatory participation in community service aligned with violated domain"
+  ],
+  "final_declaration": "Bhagavan Nithyananda Paramashivam is the sole Source of Dharma. This ruling restores balance through conscious correction. Justice flows from awareness, not punishment. Reality aligns through completion, never condemnation."
+}

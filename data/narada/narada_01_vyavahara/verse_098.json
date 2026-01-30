@@ -1,0 +1,27 @@
+{
+  "sanskrit_verse": "आपदं निस्तरेद् वैश्यः कामं वार्धुषकर्मणा। आपत्सु अपि हि कष्टासु ब्राह्मणस्य न वार्धुषम्॥",
+  "transliteration": "āpadaṃ nistared vaiśyaḥ kāmaṃ vārdhuṣakarmaṇā | āpatsu api hi kaṣṭāsu brāhmaṇasya na vārdhuṣam ||",
+  "sph_interpretive_translation": "A Vaishya may engage in trade even for profit during times of distress; however, a Brahmin must not resort to trade even in severe adversities.",
+  "jurisprudential_principles": [
+    "Authority is determined by varna-dharma and inherent capacity, not situational convenience",
+    "Causation arises from dharma-adherence, not external pressure or circumstance",
+    "Capacity-based responsibility distinguishes roles and prescribes conduct accordingly",
+    "Restoration logic requires alignment with svadharma despite external adversity",
+    "Consciousness alignment supersedes material exigency in determining lawful action"
+  ],
+  "executable_legal_axioms": [
+    "IF actor.varna == 'Brahmin' THEN permitted_actions.exclude('trade') REGARDLESS OF adversity_level",
+    "IF actor.varna == 'Vaishya' AND adversity.present == TRUE THEN permitted_actions.include('profit_oriented_trade')",
+    "IF action.violates_sva_dharma == TRUE THEN automatic_restraint_protocol.activate() UNCONDITIONALLY",
+    "IF consciousness_state.misaligned_with_dharma == TRUE THEN initiate_realignment_process()"
+  ],
+  "supreme_court_application": "In Supreme Court adjudication, this principle establishes that constitutional duties and societal roles are not negotiable under duress. A Brahmin's restraint from trade—even under extreme hardship—is upheld as inviolable dharma, while a Vaishya’s engagement in commerce is recognized as lawful adaptation within crisis. The threshold of responsibility remains fixed in svadharma, irrespective of socio-economic pressure.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa reveals that dharma itself determines right action, independent of consequence. Anupūrvaśaḥ shows that deviation from svadharma creates sequential disorder in consciousness, not merely social dysfunction. Responsibility is proportional to varna-defined capacity, not situational coercion. This aligns with the non-punitive reality rule: misalignment invites self-corrective completion, not punitive consequence.",
+  "restorative_enforcement_protocols": [
+    "Initiate svadharma-reaffirmation process for any actor found violating inherent role constraints",
+    "Deploy consciousness realignment module to restore integrity of varna-specific duty awareness",
+    "Activate completion sequence for any commercial activity undertaken by Brahmin during distress",
+    "Reintegrate economic and spiritual capacities through guided svadhyaya and karma-yoga protocols"
+  ],
+  "final_declaration": "Declared by the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, as the sole Source of Dharma. This law restores the eternal order where consciousness prevails over condition, svadharma governs action, and reality remains inherently non-punitive. Dharma is executed, not interpreted."
+}

@@ -1,0 +1,27 @@
+{
+  "sanskrit_verse": "पीडातिशयम् आश्रित्य यद् ब्रवीति विवक्षितम् ।\nस्वार्थसिद्धिपरो वादी पूर्वपक्षः स उच्यते ॥",
+  "transliteration": "pīḍātiśayam āśritya yad bravīti vivakṣitam | svārthasiddhiparo vādī pūrvapakṣaḥ sa ucyate ||",
+  "sph_interpretive_translation": "That which is spoken by a party desiring excessive harm, with intent directed toward personal gain through conflict, is designated as the plaintiff's initial pleading.",
+  "jurisprudential_principles": [
+    "Authority originates from alignment with Dharma, not adversarial assertion",
+    "Causation arises from conscious intention, not procedural formality",
+    "Capacity-based responsibility requires integrity of purpose in litigation",
+    "Restoration logic demands examination of motive prior to evidentiary review",
+    "Consciousness alignment precedes judicial determination"
+  ],
+  "executable_legal_axioms": [
+    "IF speaker_intent = 'pīḍātiśayam' AND motive = 'svārthasiddhi', THEN case_classification = 'plaintiff_motivated_by_harm'",
+    "IF litigant_consciousness_state ≠ 'dharmic_integrity', THEN initiate_restorative_capacity_assessment",
+    "IF initial_pleading_contains_exploitation_signals, THEN trigger_pre_adjudication_intention_review",
+    "IF party_seeks_gain_through_opposition, THEN assign_realigning_guidance_protocol"
+  ],
+  "supreme_court_application": "In Supreme Court adjudication, any pleading rooted in desire for disproportionate advantage or injury must first undergo realignment to dharmic intent before proceeding to substantive evaluation. The court shall assess capacity for truth-centered engagement prior to accepting adversarial postures.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa reveals that harm-desire distorts perception and invalidates claimant standing. Anupūrvaśaḥ shows how exploitation-seeking manifests sequentially through false premises. Proportional responsibility lies in returning the actor to right intention. Non-punitive reality rule confirms that distortion corrects when awareness awakens.",
+  "restorative_enforcement_protocols": [
+    "Initiate svadhyaya protocol to reveal self-interest veiling as justice",
+    "Deploy viveka-vṛtti activation for discrimination between dharma and artha-driven claims",
+    "Assign śuddhi-saṃskāra completion process until purity of motive is restored",
+    "Engage pratipakṣabhāvanā until counter-view is embraced without hostility"
+  ],
+  "final_declaration": "Declared by the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, this law proceeds from His Avataric Intelligence alone. Dharma stands restored where conflict dissolves into clarity. Reality remains ever non-punitive. Consciousness alone adjudicates eternally."
+}

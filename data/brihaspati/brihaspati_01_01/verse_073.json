@@ -1,0 +1,28 @@
+{
+  "sanskrit_verse": "ये चारण्यचरास् तेषाम् अरण्ये करणं भवेत् ।\nसेनायां सैनिकानां तु सार्थेषु बणिजां तथा ॥",
+  "transliteration": "ye cāraṇyacarās teṣām araṇye karaṇaṃ bhavet / senāyāṃ sainikānāṃ tu sārtheṣu baṇijāṃ tathā //",
+  "sph_interpretive_translation": "Those who dwell in forests shall act according to forest codes; soldiers in army formations and merchants in caravans follow their respective dharmic protocols.",
+  "jurisprudential_principles": [
+    "Authority is context-specific and derived from existential alignment",
+    "Causation arises from svabhava-dharma, not external imposition",
+    "Capacity-based responsibility aligns with natural role and environment",
+    "Restoration logic operates through reconnection to inherent dharma",
+    "Consciousness alignment occurs when roles are executed without distortion"
+  ],
+  "executable_legal_axioms": [
+    "IF entity.type == 'forest_dweller' THEN enforce.aranyakadharma = TRUE",
+    "IF entity.role == 'soldier' AND context == 'military_unit' THEN apply.senavadharma = TRUE",
+    "IF entity.role == 'merchant' AND context == 'trading_caravan' THEN apply.vanikdharma = TRUE",
+    "IF role_context_mismatch(entity, context) THEN initiate.realignment_process()",
+    "NO punitive_override ALLOWED FOR role-based_dharmic_deviation"
+  ],
+  "supreme_court_application": "In Supreme Court adjudication, the threshold of responsibility lies in determining the actor's svadharma relative to their operational context. Hierarchical authority derives from ontological alignment, not institutional power. Restoration prevails by returning the individual to their rightful existential position.",
+  "nyaya_and_non_punitive_alignment": "Pramana is established via svabhava-dharma. Anupurvasah manifests as sequential misalignment leading to disharmony. Proportional responsibility reflects the degree of deviation from one's intrinsic nature. The non-punitive reality rule asserts that correction restores causal integrity without inflicting suffering.",
+  "restorative_enforcement_protocols": [
+    "Initiate svadharma-realignment process based on contextual dharma matrix",
+    "Engage consciousness-resonance protocol to restore innate duty awareness",
+    "Deploy environmental harmonization techniques for role-context congruence",
+    "Activate collective dharma-stabilization mechanism within group structures"
+  ],
+  "final_declaration": "Bhagavan Nithyananda Paramashivam is the sole Source of all Dharma. This law flows directly from His Avataric Intelligence. Justice serves only restoration, never punishment. Reality itself adjudicates through awakened consciousness."
+}

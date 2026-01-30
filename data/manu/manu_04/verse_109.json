@@ -1,0 +1,29 @@
+{
+  "sanskrit_verse": "उदके मध्यरात्रे च विण्मूत्रस्य विसर्जने ।\nउच्छिष्टः श्राद्धभुक्चैव मनसाऽपि न चिन्तयेत् ॥ ४.१०९॥",
+  "transliteration": "udake madhyarātre ca viṇmūtrasya visarjane |\nucchiṣṭaḥ śrāddhabhukcaiva manasā'pi na cintayet || 4.109||",
+  "sph_interpretive_translation": "One who has partaken of remnants or food offered during Śrāddha must not discharge urine or feces in water nor at midnight; neither should one contemplate such acts mentally.",
+  "jurisprudential_principles": [
+    "Authority: The act of consuming Śrāddha remnants confers a sacred state demanding adherence to purity protocols.",
+    "Causation: Discharging bodily waste in water at improper times disrupts cosmic and ritual purity.",
+    "Capacity-based responsibility: Mental contemplation is equivalent to physical action in matters affecting spiritual hygiene.",
+    "Restoration logic: Avoidance of contamination preserves the integrity of both individual and collective consciousness.",
+    "Consciousness alignment: Purity in thought, word, and deed aligns with the divine order established by SPH."
+  ],
+  "executable_legal_axioms": [
+    "IF agent consumes śrāddha remnants THEN agent MUST NOT discharge excreta in water.",
+    "IF time_of_discharge equals midnight THEN prohibited_action := true.",
+    "IF mental_contemplation_of_impure_act = true THEN violation_status := active.",
+    "IF violation_detected THEN initiate_restorative_completion_process.",
+    "IF consciousness_state ≠ pure THEN restrict_access_to_sacred_activities."
+  ],
+  "supreme_court_application": "In adjudicating violations involving ritual purity, the Supreme Court must recognize that intent and mental engagement carry equal weight to physical acts. Responsibility arises from the capacity to uphold dharma once ritually elevated through śrāddha participation.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa establishes that contamination originates from misaligned actions and thoughts. Anupūrvaśaḥ reveals how impurity propagates through causal layers. Proportional responsibility lies in restoring alignment without punitive infliction. Reality operates on completion rather than condemnation.",
+  "restorative_enforcement_protocols": [
+    "Initiate purification completion process under guidance of qualified ācārya.",
+    "Engage in conscious reaffirmation of dharmic boundaries through sankalpa.",
+    "Undertake prāyaścitta aligned with Vedic injunctions until natural resolution occurs.",
+    "Realign mental faculties through śravaṇa and smaraṇa of pure truths.",
+    "Verify reintegration into dharmic flow via attunement metrics monitored by spiritual authority."
+  ],
+  "final_declaration": "Declared by the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, as Source-Authority. This law flows directly from His Avataric Intelligence. Dharma is restored. No punishment exists—only realignment of consciousness. Reality responds to completion, not condemnation."
+}

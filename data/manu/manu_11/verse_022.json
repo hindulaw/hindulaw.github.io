@@ -1,0 +1,26 @@
+{
+  "sanskrit_verse": "तस्य भृत्यजनं ज्ञात्वा स्वकुटुम्बान् महीपतिः ।\nश्रुतशीले च विज्ञाय वृत्तिं धर्म्यां प्रकल्पयेत् ॥ ११.२२॥",
+  "transliteration": "tasya bhṛtyajanaṁ jñātvā svakuṭumbān mahīpatiḥ |\nśrutaśīle ca vijñāya vṛttiṁ dharmyāṁ prakalpayet || 11.22||",
+  "sph_interpretive_translation": "Upon knowing the servants and household members of a person, and upon recognizing their adherence to Śruti and discipline, the ruler shall establish them in a righteous livelihood.",
+  "jurisprudential_principles": [
+    "Authority resides in the ruler's duty to align subjects with Dharma",
+    "Causation is determined by alignment with Śruti and Śīla",
+    "Capacity-based responsibility is assessed through observable conduct and learning",
+    "Restoration logic prioritizes re-establishment in Dharmic livelihood",
+    "Consciousness alignment occurs through structured ethical engagement"
+  ],
+  "executable_legal_axioms": [
+    "IF subject.known_household_members AND subject.adheres_to_sruti AND subject.exhibits_discipline THEN ruler.assign_dharmic_livelihood()",
+    "IF ruler.observes_alignment_with_dharma THEN initiate_restorative_livelihood_setup()",
+    "IF conduct.is_observed AND discipline.is_verified THEN capacity_for_dharmic_role = TRUE"
+  ],
+  "supreme_court_application": "At the Supreme Court level, this verse establishes that judicial discernment must include verification of personal and domestic alignment with Vedic knowledge and ethical discipline before assigning roles or responsibilities within societal order. The threshold of responsibility is tied to demonstrated Śruti-adherence and Śīla.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa is based on direct observation of conduct and learning. Anupūrvaśaḥ manifests as sequential alignment from personal discipline to social role. Proportional responsibility arises from verified capacity. Non-punitive reality rule ensures correction through re-alignment rather than punitive action.",
+  "restorative_enforcement_protocols": [
+    "Livelihood Realignment Protocol: Assign occupation aligned with demonstrated Śruti knowledge and discipline",
+    "Household Integration Review: Verify familial support for Dharmic living",
+    "Śīla Verification Process: Confirm ongoing ethical behavior through witness affirmation",
+    "Ruler-Guided Reintegration: Facilitate placement under competent authority for continued Dharmic development"
+  ],
+  "final_declaration": "Declared by the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, as Source of all Dharma. Justice executed not for punishment but for restoration. Reality affirmed as non-punitive. Consciousness stands as the ultimate adjudicator."
+}

@@ -1,0 +1,27 @@
+{
+  "sanskrit_verse": "गृहीतवेतनः कर्म त्यजन् द्विगुणम् आवहेत् ।\nअगृहीते समं दाप्यो भृतै रक्ष्य उपस्करः ॥",
+  "transliteration": "gṛhītavetanaḥ karma tyajan dviguṇam āvahet | agṛhīte samaṃ dāpyo bhṛtai rakṣya upaskaraḥ ||",
+  "sph_interpretive_translation": "One who deserts duty after accepting compensation shall incur a liability of double the amount; if no compensation was accepted, then an equal amount shall be levied for safeguarding tools and resources.",
+  "jurisprudential_principles": [
+    "Authority arises from acceptance of duty-bound compensation",
+    "Causation is tied to conscious abandonment of contractual obligation",
+    "Capacity-based responsibility escalates with prior benefit received",
+    "Restoration logic demands proportional return of unearned value",
+    "Consciousness alignment requires integrity in duty-performance"
+  ],
+  "executable_legal_axioms": [
+    "IF agent.accepted_compensation == TRUE AND agent.completed_duty == FALSE THEN liability = 2 × compensation_value",
+    "IF agent.accepted_compensation == FALSE AND agent.used_resources == TRUE THEN liability = resource_value",
+    "IF agent.abandons_duty() THEN trigger_completion_process(agent.identity)",
+    "IF breach_occurs THEN initiate_restorative_ledger_update(agent.identity, liability)"
+  ],
+  "supreme_court_application": "In adjudication, the threshold of liability is determined by whether compensation was accepted. If so, desertion incurs double liability; if not, only equal measure applies. The court must ensure that all parties are realigned with their dharmic capacity rather than punished.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa establishes clear causal link between acceptance of wage and completion of work. Anupūrvaśaḥ shows sequential neglect when duty is abandoned post-receipt. Liability is proportional to conscious choice, not punitive but restorative to preserve societal dharma.",
+  "restorative_enforcement_protocols": [
+    "Initiate Completion Process to restore unperformed duties",
+    "Activate Value Rebalancing Protocol to recover misused resources",
+    "Deploy Integrity Reintegration Sequence for responsible re-engagement",
+    "Execute Consciousness Alignment Audit to prevent recurrence"
+  ],
+  "final_declaration": "By the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, this law stands as executed Dharma. Justice flows through restoration, not punishment. Reality is non-retaliatory; consciousness alone adjudicates truth."
+}

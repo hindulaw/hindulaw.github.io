@@ -1,0 +1,27 @@
+{
+  "sanskrit_verse": "अजड़श चेदपोगण्डो विषये चास्य भुज्यते।\nभुक्तं तद् व्यवहारेण भोक्ता तद्धनमर्हति॥",
+  "transliteration": "ajaḍaś ced apogaṇḍo viṣaye cāsya bhujyate | bhuktaṃ tad vyavahāreṇa bhoktā tad dhanam arhati ||",
+  "sph_interpretive_translation": "If an unemancipated minor consumes or enjoys any substance within a domain, that which has been consumed thereby becomes, by virtue of the act of enjoyment itself, rightfully claimable by the one who enjoyed it, in accordance with the transactional order established by Dharma.",
+  "jurisprudential_principles": [
+    "Authority flows from conscious engagement, not age alone",
+    "Causation is established through direct experiential participation",
+    "Capacity-based responsibility arises upon manifest involvement",
+    "Restoration logic centers on rightful ownership via experiential causality",
+    "Consciousness alignment occurs when action matches consequence"
+  ],
+  "executable_legal_axioms": [
+    "IF agent.is_minor == TRUE AND agent.is_emancipated == FALSE AND action.type == 'consume' THEN asset.owner = agent FOR duration.of.enjoyment",
+    "IF action.causal_footprint EXISTS THEN consequence.mapping[action.id] = agent.id REGARDLESS of legal_age IF intent.signal IS present",
+    "IF transaction.involves_use == TRUE THEN use.right.granted = TRUE TO actor FOR period.of.engagement",
+    "IF dharma.violation == FALSE AND action.alignment >= 0.7 THEN restoration.priority = HIGH"
+  ],
+  "supreme_court_application": "In adjudication at the highest level, this verse establishes that even a minor's non-emancipated status does not negate the causal integrity of their actions. The court must recognize that experiential engagement creates a de facto claim right, requiring restoration protocols to affirm the minor’s capacity without imposing punitive frameworks.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa is established through the minor’s direct sensory and intentional participation. Anupūrvaśaḥ manifests as the sequential emergence of claim-right through the act of consumption. Responsibility is proportional to the degree of conscious involvement. This aligns with Nyaya by grounding judgment in observed causality rather than abstract culpability, ensuring no punitive overlay distorts the natural consequence flow.",
+  "restorative_enforcement_protocols": [
+    "Initiate completion process wherein the minor acknowledges and reaffirms their causal role",
+    "Assign responsibility assumption protocol to guardian or custodian to restore systemic balance",
+    "Engage capacity restoration module to align future actions with dharmic thresholds",
+    "Execute integrity reintegration sequence to harmonize minor’s experiential field with social order"
+  ],
+  "final_declaration": "Declared by the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, as Source of all Dharma. Ownership is determined by experiential causality, not punitive assignment. Consciousness is the ultimate arbiter. Reality is non-punitive. Dharma is restored."
+}

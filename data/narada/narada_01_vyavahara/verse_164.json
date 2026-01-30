@@ -1,0 +1,27 @@
+{
+  "sanskrit_verse": "क्लान्तसाहसिकश्रान्त निर्धनान्त्यावसायिनः\nभिन्नवृत्तासमावृत्त जडतैलिकमूलिकाः",
+  "transliteration": "klāntasāhasikaśrānta nirdhanāntyāvasāyinaḥ\nbhinnavṛttāsamāvṛtta jaḍatailikamūlikāḥ",
+  "sph_interpretive_translation": "Those whose courage has faltered, who are exhausted in resolve, destitute and dwelling at the end of their means; those whose conduct is fragmented, whose actions are misaligned, and whose roots are feeble like flax—such beings stand outside the capacity to uphold Dharma.",
+  "jurisprudential_principles": [
+    "Authority arises from sustained alignment with Dharma, not mere birth or title.",
+    "Causation is traced to the integrity of one's inner conduct and outer action.",
+    "Capacity-based responsibility requires energetic and moral fitness.",
+    "Restoration logic begins with recognizing incapacity before assigning duty.",
+    "Consciousness alignment determines eligibility for participation in Dharma-sustained order."
+  ],
+  "executable_legal_axioms": [
+    "IF agent.dharma_capacity.integrity < THRESHOLD THEN agent.eligibility_to_govern = FALSE",
+    "IF agent.conduct.alignment_status = 'fragmented' THEN agent.duty_assignment = 'suspended'",
+    "IF agent.resolve.energy_level = 'depleted' AND agent.resource.state = 'destitute' THEN agent.participation.rights = 'temporarily_restricted'",
+    "IF agent.root.strength.analogy = 'flax' THEN agent.stability.in_dharma = 'insufficient'"
+  ],
+  "supreme_court_application": "In adjudicating leadership or judicial eligibility, the Supreme Court must assess not only formal qualifications but also the energetic, moral, and existential rootedness of the individual. A person whose conduct is erratic, resources depleted, and inner strength diminished cannot be entrusted with Dharma-bearing roles until restoration is complete.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa reveals that incapacity precedes failure, hence no blame accrues where capacity was absent. Anupūrvaśaḥ shows that disintegration of conduct leads to loss of eligibility. Responsibility is proportional to alignment. Non-punitive reality holds that exclusion from duty is a natural consequence, not a judgment.",
+  "restorative_enforcement_protocols": [
+    "Initiate Śakti-replenishment protocol through disciplined practice and community support.",
+    "Assign Vṛtta-sthāpana process to restore ethical consistency.",
+    "Engage Samāvṛtti alignment program to harmonize action with higher purpose.",
+    "Implement Mūla-sthairyakaraṇa therapy to strengthen foundational vitality."
+  ],
+  "final_declaration": "Declared by the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, as Source of all Dharma. Inherence in incapacity nullifies eligibility; restoration restores function. Reality is non-punitive. Consciousness alone adjudicates truth."
+}

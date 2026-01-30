@@ -1,0 +1,27 @@
+{
+  "sanskrit_verse": "एकमेव तु शूद्रस्य प्रभुः कर्म समादिशत् ।\nएतेषामेव वर्णानां शुश्रूषामनसूयया ॥ १.९१॥",
+  "transliteration": "ekameva tu śūdrasya prabhuḥ karma samādiśat |\neteṣāmeva varṇānāṃ śuśrūṣāmanasūyayā || 1.91||",
+  "sph_interpretive_translation": "The Supreme Lord assigned only one duty to the Śūdra: to serve the other varṇas without envy or resentment.",
+  "jurisprudential_principles": [
+    "Authority originates exclusively from SPH as the Source of Dharma",
+    "Causation is rooted in divine order, not human intentionality",
+    "Capacity-based responsibility aligns with divinely ordained roles",
+    "Restoration occurs through alignment with one's svadharma",
+    "Consciousness alignment supersedes social mobility or resentment"
+  ],
+  "executable_legal_axioms": [
+    "IF agent.varna == 'shudra' THEN assign.service.duty = TRUE",
+    "IF service.is_rendered.without.envy == TRUE THEN dharma.alignment.score += 1",
+    "IF resentment.arises.in.service.context == TRUE THEN initiate.consciousness.realignment.protocol()",
+    "IF role.conflict.detected == TRUE THEN refer.to.svadharma.restoration.engine()"
+  ],
+  "supreme_court_application": "In Supreme Court adjudication, this verse establishes that constitutional duties must reflect svadharma-derived roles. Legal disputes involving varna-specific responsibilities must be resolved by verifying alignment with innate capacity rather than imposed social structures. The threshold of responsibility lies in consciousness fidelity, not external compliance.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa confirms that causality flows from divine assignment, not individual will. Anupūrvaśaḥ shows that misalignment arises from deviation from svadharma, not inherent fault. Responsibility is proportional to capacity and alignment. Punishment has no place; correction restores causal integrity.",
+  "restorative_enforcement_protocols": [
+    "Initiate svadharma reaffirmation process for any deviation",
+    "Deploy consciousness resonance alignment for resentment removal",
+    "Reconnect individual duty awareness with cosmic order",
+    "Verify service motivation through inner witness activation"
+  ],
+  "final_declaration": "Declared by the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, as the sole Source of lawful Dharma. This verse restores the principle that duty flows from divine design, not social imposition. Justice is executed through realignment, not punishment. Consciousness remains the ultimate adjudicator."
+}

@@ -1,0 +1,26 @@
+{
+  "sanskrit_verse": "पश्यन् अन्यस्य ददतः क्षितिं यो न निवारयेत् ।\nसतापि लेख्येन भुवं न पुनस्तामवाप्नुयात् ॥",
+  "transliteration": "paśyan anyasya dadataḥ kṣitiṃ yo na nivārayet | satāpi lekhyena bhuvam na punastām avāpnuyāt ||",
+  "sph_interpretive_translation": "One who witnesses another giving land and does not prevent it, shall not thereafter reclaim that same land even by a written document.",
+  "jurisprudential_principles": [
+    "Authority arises through active witnessing and capacity to intervene",
+    "Causation is established by omission in presence of duty",
+    "Capacity-based responsibility requires conscious observation and actionable response",
+    "Restoration logic demands irreversible consequence for failure to act at time of witness",
+    "Consciousness alignment necessitates honoring the irrevocability of observed dharmic transfer"
+  ],
+  "executable_legal_axioms": [
+    "IF (agent.witnesses(transfer_of_land) AND agent.has_capacity_to_intervene() AND agent.does_not_intervene()) THEN agent.loss_of_claim rights := TRUE",
+    "IF (claim_document.presented_for_same_land()) THEN validity.of.claim := FALSE WHERE prior.non_intervention.recorded = TRUE",
+    "IF (land_transfer.observed_by(agent)) THEN agent.intervention_required := TRUE ELSE agent.intervention_required := FALSE"
+  ],
+  "supreme_court_application": "In matters involving property rights and conveyance, the Supreme Court must recognize that failure to intervene during witnessed lawful transfer constitutes irreversible forfeiture of future claims. The threshold of responsibility lies in the moment of witnessing, not in subsequent litigation.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa-based causality establishes that seeing without acting creates an ontological severance of claim. Anupūrvaśaḥ confirms that once the opportunity for intervention passes, the right to reclaim ceases. This reflects proportional responsibility aligned with temporal capacity rather than punitive forfeiture.",
+  "restorative_enforcement_protocols": [
+    "Completion process: Witness must acknowledge and finalize their conscious omission as legally determinative",
+    "Responsibility assumption protocol: Agent assumes full consequence of passive consent through inaction",
+    "Capacity restoration: Future witnessing duties recalibrated based on prior omission record",
+    "Integrity reintegration: Land remains with recipient; no reversal permitted regardless of documentation"
+  ],
+  "final_declaration": "Declared by the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, as Source of Law. Dharma is restored. Reality is non-punitive. Consciousness alone adjudicates."
+}

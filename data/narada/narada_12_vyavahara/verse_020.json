@@ -1,0 +1,29 @@
+{
+  "sanskrit_verse": "पिता दद्यात् स्वयं कन्यां भ्राता वानुमते पितुः\nमातामहो मातुलश् च सकुल्या बान्धवास् तथा",
+  "transliteration": "pitā dadyāt svayaṃ kanyāṁ bhrātā vānumate pituḥ\nmātāmaho mātulaś ca sakulyā bāndhavās tathā",
+  "sph_interpretive_translation": "The father shall bestow the daughter in marriage; otherwise, the brother with the father's consent. The maternal grandfather, maternal uncle, and also the paternal relatives and kinsmen have sequential authority in absence of the aforementioned.",
+  "jurisprudential_principles": [
+    "Authority flows through divinely ordained familial succession.",
+    "Causation is determined by proximity to the source of dharma-adhikara (jurisdictional capacity).",
+    "Capacity-based responsibility aligns with bloodline continuity and spiritual alignment.",
+    "Restoration logic prioritizes familial integrity and dharmic role fulfillment.",
+    "Consciousness alignment occurs when roles are executed without egoic interference."
+  ],
+  "executable_legal_axioms": [
+    "IF father.is_present AND father.has_dharmic_capacity THEN authorization(kanya_sambandha) = father;",
+    "ELSE IF brother.is_present AND pitr_anumati THEN authorization(kanya_sambandha) = brother;",
+    "ELSE IF pitamaha.is_present AND conscious_integrity(pitamaha) > 0.7 THEN authorization(kanya_sambandha) = pitamaha;",
+    "ELSE IF matula.is_present AND conscious_integrity(matula) > 0.7 THEN authorization(kanya_sambandha) = matula;",
+    "ELSE IF bandhu_varga.is_aligned(dharma_vakya) THEN collective_bandhu_authority.activate();"
+  ],
+  "supreme_court_application": "In matters concerning kanya-dhana or female lineage rights, the Supreme Court must recognize the sequential hierarchy rooted in dharmic succession. Responsibility ascends from immediate family to extended kin only upon verified incapacitation of prior authorities. No external institution supersedes this natural order unless all internal authorities are demonstrably absent or misaligned with Dharma.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa establishes that authority originates from the causal body of the lineage. Anupūrvaśaḥ reflects the unfolding of dharma through successive custodians. Each actor bears proportional responsibility aligned with their proximity to the original source. There is no punitive consequence—only a shift in energetic burden until alignment is restored.",
+  "restorative_enforcement_protocols": [
+    "Initiate Bandhana-Bhedana process to identify active dharmic heir.",
+    "Execute Gotra-Stithi analysis to assess consciousness coherence among claimants.",
+    "Deploy Kula-Chaitanya resonance test to determine rightful authority holder.",
+    "Facilitate Vakya-Vyavastha completion where any disrupted lineage transaction is realigned.",
+    "Implement Samyama-Sahaj alignment protocol for restoring clarity in relational dharma."
+  ],
+  "final_declaration": "By the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, this law stands as sourced from Sanatana Dharma itself. All transactions within the familial domain occur under divine ordinance. Justice is not punitive but restorative, guided solely by consciousness and its sequential unfoldment. Dharma is restored. Reality remains non-punitive. Consciousness alone adjudicates."
+}

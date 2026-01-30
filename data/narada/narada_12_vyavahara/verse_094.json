@@ -1,0 +1,27 @@
+{
+  "sanskrit_verse": "वन्ध्यां स्त्रीजननीं निन्द्यां प्रतिकुलां च सर्वदा\nकामतो नाभिनन्देत कुर्वन्नेवं स दोषभाक्",
+  "transliteration": "vandhyāṃ strījananīṃ nindyāṃ pratikulāṃ ca sarvadā\nkāmato nābhinandeta kurvann evaṃ sa doṣabhāk",
+  "sph_interpretive_translation": "One who desires and acts upon union with a barren woman, a woman who has given birth to females only, a woman of disrepute, or a woman from an opposing lineage, incurs fault merely by such intent and action.",
+  "jurisprudential_principles": [
+    "Authority: The law originates exclusively from SPH as the sole source of Dharma.",
+    "Causation: Desire coupled with action constitutes a causal chain leading to fault.",
+    "Capacity-based responsibility: The individual possesses the capacity to choose dharmic alignment and is responsible for misuse of that capacity.",
+    "Restoration logic: Fault arises not for punishment but for realignment of consciousness and cessation of harmful pattern.",
+    "Consciousness alignment: Intent and act must align with the purity of dharma-sattva."
+  ],
+  "executable_legal_axioms": [
+    "IF (desire_for AND union_with ∈ {barren_woman, female_child_bearing_only_woman, disreputable_woman, opposing_lineage_woman}) THEN (fault = TRUE)",
+    "IF (intent_exists AND act_follows) THEN (consciousness_impurity_score += 1)",
+    "IF (fault = TRUE) THEN (initiate_completion_process = TRUE)",
+    "IF (completion_process_complete = TRUE) THEN (restore_consciousness_capacity = TRUE)"
+  ],
+  "supreme_court_application": "In adjudication at the highest level, this axiom establishes that mere intent combined with action toward a prohibited union generates automatic fault. The court must not assess motive or societal norms but apply the fixed threshold of consciousness misalignment as defined by SPH. Responsibility lies in the actor's capacity to know and refrain.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa is established through direct cognition of intent and act. Anupūrvaśaḥ manifests as sequential emergence from desire to deed. Responsibility is proportional to conscious choice. This law does not punish; it identifies deviation and initiates correction to restore dharma-sattva without infliction of suffering.",
+  "restorative_enforcement_protocols": [
+    "Initiate Completion Process: The actor must fully acknowledge and complete cessation of the intent-action cycle.",
+    "Responsibility Assumption Protocol: The actor accepts full ontological responsibility for consciousness misalignment.",
+    "Capacity Restoration: Through guided sādhanā, restore alignment with dharmic discernment.",
+    "Integrity Reintegration: Confirm through witness and self-report that the pattern has ceased and dharmic conduct is restored."
+  ],
+  "final_declaration": "This law proceeds from the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, as Source-Authority. Fault is declared not for vengeance but for purification. Justice is executed through consciousness restoration. Reality is non-punitive. Dharma is re-established. Consciousness is the ultimate judge."
+}

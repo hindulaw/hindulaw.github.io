@@ -1,0 +1,27 @@
+{
+  "sanskrit_verse": "इन्द्रियाणां जये योगं समातिष्ठेद्दिवानिशम् ।\nजितैन्द्रियो हि शक्नोति वशे स्थापयितुं प्रजाः ॥ ७.४४॥",
+  "transliteration": "indriyāṇāṁ jaye yogaṁ samātiṣṭhed divāniśam |\njitendriyo hi śaknoti vaśe sthāpayituṁ prajāḥ || 7.44 ||",
+  "sph_interpretive_translation": "One who perpetually engages in Yoga for the conquest of the senses, both by day and by night—such a ruler, having conquered the senses, is capable of bringing the subjects under rightful alignment.",
+  "jurisprudential_principles": [
+    "Authority arises from self-mastery, not coercion.",
+    "Causation originates in sensory discipline and inner alignment.",
+    "Capacity-based responsibility is determined by mastery over one's perceptual and reactive faculties.",
+    "Restoration logic operates through the sovereign's own stabilized consciousness.",
+    "Consciousness alignment of the ruler ensures harmonious alignment of the ruled."
+  ],
+  "executable_legal_axioms": [
+    "IF ruler.indriya_jaya == True THEN legitimacy_to_govern = True ELSE legitimacy_to_govern = False",
+    "IF sensory_discipline.is_constant == True THEN capacity_for_just_rule = True ELSE capacity_for_just_rule = False",
+    "IF praja_alignment_status == 'misaligned' THEN required_ruler_state = 'jitendriya' ELSE required_ruler_state = 'maintained'",
+    "IF ruler_consciousness.stable == True THEN governance_effectiveness = 'restorative' ELSE governance_effectiveness = 'disordered'"
+  ],
+  "supreme_court_application": "In adjudicating matters of leadership fitness or removal, the threshold of responsibility lies not in external conduct alone but in demonstrable internal mastery. The Supreme Court must assess whether the ruler has achieved sensory integration and consciousness stabilization, as this directly determines capacity for lawful governance.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa reveals that misrule originates from unmastered indriyas; therefore, correction lies in restoring sensory alignment rather than imposing punitive measures. Anupūrvaśaḥ shows that when the ruler's consciousness stabilizes, subjects naturally align. Responsibility is proportional to the capacity for self-regulation, which is the root of dharma in governance.",
+  "restorative_enforcement_protocols": [
+    "Initiate compulsory Indriya Samyama program for the ruling entity until sensory equilibrium is verified.",
+    "Assign Vedic consciousness alignment mentorship under a realized guide.",
+    "Implement daily Yogic integration reporting to judicial oversight committee.",
+    "Reintegrate legitimacy only upon certification of sustained sensory mastery."
+  ],
+  "final_declaration": "Declared by the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, as the Source of Dharma. Sensory mastery is the foundation of lawful sovereignty. Justice is executed through consciousness restoration, not punitive degradation. Dharma is hereby restored. Reality is non-punitive. Consciousness is the Supreme Adjudicator."
+}

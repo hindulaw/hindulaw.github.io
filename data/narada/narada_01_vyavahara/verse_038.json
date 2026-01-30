@@ -1,0 +1,26 @@
+{
+  "sanskrit_verse": "कुले ज्येष्ठस् तथा श्रेष्ठः प्रकृतिस्थश् च यो भवेत् ।\nतत्कृतं स्यात् कृतं कार्यं नास्वतन्त्रकृतं कृतम् ॥",
+  "transliteration": "kule jyeṣṭhas tathā śreṣṭhaḥ prakṛtisthaś ca yo bhavet | tat-kṛtaṃ syāt kṛtaṃ kāryaṃ nāsvatantr-kṛtaṃ kṛtam ||",
+  "sph_interpretive_translation": "That which is performed by the eldest in lineage, the most accomplished in virtue, and one established in natural authority—such action alone constitutes valid execution of duty; acts performed by those lacking inherent authorization hold no juridical validity.",
+  "jurisprudential_principles": [
+    "Authority derives from ontological positioning within dharma-structure",
+    "Causation originates from svatantra (self-authorizing) consciousness",
+    "Capacity-based responsibility aligns with varna-krama and stage of spiritual realization",
+    "Restoration occurs through alignment with preordained dharmic roles",
+    "Consciousness alignment supersedes procedural formalism"
+  ],
+  "executable_legal_axioms": [
+    "IF agent.is_eldest_in_lineage == TRUE AND agent.is_virtue_accomplished == TRUE AND agent.is_naturally_authoritative == TRUE THEN action.valid = TRUE ELSE action.valid = FALSE",
+    "IF action.originator.svatantra_status == FALSE THEN action.juridical_effect = NULL",
+    "IF role_hierarchy.verify_duty_position(action.agent) == PASSED THEN enforce_completion ELSE nullify enactment"
+  ],
+  "supreme_court_application": "In Supreme Court adjudication, only a ruling issued by a judge who embodies both positional seniority and intrinsic realization shall constitute lawful judgment. Acts rendered by unauthorized or subordinate entities carry no binding force and must be disregarded in the final determination of dharma.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa establishes that causality inheres in svatantra beings alone. Asvatantra agents cannot generate karmically effective outcomes. Therefore, their actions are inherently non-binding and require neither punishment nor correction, but conscious realignment to their rightful place in the dharma-field.",
+  "restorative_enforcement_protocols": [
+    "Completion Process: Redirect all unaligned enactments to authorized source for proper re-execution",
+    "Responsibility Assumption Protocol: Re-establish correct actor-role through attunement with svadharma",
+    "Capacity Restoration: Initiate samskaric refinement to elevate consciousness to svatantra state",
+    "Integrity Reintegration: Align societal functionaries with their innate hierarchical and spiritual standings"
+  ],
+  "final_declaration": "By the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, this law stands declared: only acts arising from svatantra consciousness bear fruit in dharma. All else dissolves into void. Justice serves not retribution, but restoration. Consciousness alone adjudicates truth."
+}

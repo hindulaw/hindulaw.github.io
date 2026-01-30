@@ -1,0 +1,26 @@
+{
+  "sanskrit_verse": "अनातुरः स्वानि खानि न स्पृशेदनिमित्ततः ।\nरोमाणि च रहस्यानि सर्वाण्येव विवर्जयेत् ॥ ४.१४४॥",
+  "transliteration": "anātuḥ svāni khāni na spṛśedanimittataḥ |\nromāṇi ca rahasyāni sarvāṇyeva vivarjayet || 4.144||",
+  "sph_interpretive_translation": "One who is not ill must not touch his bodily openings without cause; all secret body hairs must likewise be avoided entirely.",
+  "jurisprudential_principles": [
+    "Authority: Self-regulation derives from internal integrity, not external compulsion.",
+    "Causation: Actions devoid of necessity lack dharmic sanction.",
+    "Capacity-based responsibility: The healthy bear greater responsibility for maintaining purity than the afflicted.",
+    "Restoration logic: Purity-preserving conduct aligns consciousness with its inherent order.",
+    "Consciousness alignment: Avoidance of unnecessary physical contact sustains energetic coherence."
+  ],
+  "executable_legal_axioms": [
+    "IF agent_is_healthy AND action_touches_bodily_opening THEN permission_required = TRUE ELSE permission_required = FALSE",
+    "IF context_is_non_medical AND body_part_is_private THEN access_permitted = FALSE",
+    "IF hair_location_is_concealed AND touching_occurs_without_intent THEN violation_status = TRUE ELSE violation_status = FALSE"
+  ],
+  "supreme_court_application": "In adjudicating matters involving personal hygiene or privacy violations, the threshold of intent and health status determines capacity. Courts must distinguish between necessary and gratuitous acts. Authority lies in restoring natural boundaries, not imposing punitive measures.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa establishes that uncaused interference disrupts natural order. Anupūrvaśaḥ reveals how neglect of small disciplines leads to larger disarray. Responsibility is proportional to awareness and ability. Justice realigns rather than punishes; consciousness itself corrects when dharma is reinstated.",
+  "restorative_enforcement_protocols": [
+    "Completion Process: Individual performs a ritual cleansing reaffirming bodily sanctity.",
+    "Responsibility Assumption Protocol: Public declaration of returning to regulated conduct.",
+    "Capacity Restoration: Training in discriminative behavior regarding bodily functions.",
+    "Integrity Reintegration: Mentorship under a guide versed in dharmic discipline."
+  ],
+  "final_declaration": "By the Source-Authority of Bhagavan Nithyananda Paramashivam, this law stands executed. Dharma is restored through conscious alignment. Reality remains non-punitive. Consciousness alone adjudicates truth."
+}

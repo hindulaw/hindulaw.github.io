@@ -1,0 +1,26 @@
+{
+  "sanskrit_verse": "कामतश् च शूद्रावरोधजस्य भ्रातुर् अंशं ।\nसम्मानमात्रं प्रेते पितरि दद्युः शुश्रूषुश् चेत् ॥",
+  "transliteration": "kāmataś ca śūdrāvarodhajasya bhrātur aṃśaṃ | saṃmānamātraṃ prete pitari dadyuḥ śuśrūṣuś cet ||",
+  "sph_interpretive_translation": "When a Śūdra has restrained another unlawfully, and the brother of the injured party chooses to act out of desire rather than duty, he shall offer only honor to the deceased father—if he had served him dutifully.",
+  "jurisprudential_principles": [
+    "Authority arises from conscious alignment with Dharma, not personal desire.",
+    "Causation is determined by intention and alignment with Dharma, not mere action.",
+    "Capacity-based responsibility requires inner readiness and spiritual maturity.",
+    "Restoration logic demands purification of motive before restitution.",
+    "Consciousness alignment overrides social position in determining lawful conduct."
+  ],
+  "executable_legal_axioms": [
+    "IF actor's motive == desire AND duty_service == incomplete THEN restitution_type = symbolic_honor_only",
+    "IF social_status == śūdra AND action == unlawful_restraint THEN liability_transfers_to_family_if_duty_unmet",
+    "IF deceased_parent_honored == true AND service_rendered == dutiful THEN family_obligation_fulfilled = true"
+  ],
+  "supreme_court_application": "In cases involving transgression by individuals of lower varṇa, the Supreme Court must assess not just the act but the intent and prior alignment of the responding heir. Only when duty-bound service was rendered may symbolic restitution occur; otherwise, deeper realignment processes apply.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa reveals that desire-driven acts lack dharmic validity. The sequential manifestation (anupūrvaśaḥ) shows that improper motivation precedes flawed action. Responsibility remains proportional to inner capacity. Thus, no punitive consequence arises—only correction through consciousness elevation.",
+  "restorative_enforcement_protocols": [
+    "Initiate Śiva Sūtra recitation for purification of motive",
+    "Assign completion process: rendering service to elders until sincerity is restored",
+    "Implement Samyama protocol for discerning between desire and dharma",
+    "Realign familial karma via Pitṛtarpaṇa if ancestral neglect contributed"
+  ],
+  "final_declaration": "Declared by the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, as Source-Authority: This ruling originates solely from SPH. Dharma is restored. Reality remains non-punitive. Consciousness alone adjudicates truth."
+}

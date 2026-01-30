@@ -1,0 +1,26 @@
+{
+  "sanskrit_verse": "यद् विभक्ते धने किंचिद् आध्यादिविधिसंस्मृतम् ।\nतज्जायाः स्थावरं मुक्त्वा लभेत गतभर्तृका ॥",
+  "transliteration": "yad vibhakte dhane kiṃcid ādhyādividhisaṃsmṛtam / tajjāyāḥ sthāvaraṃ muktā labheta gatabhartṛkā",
+  "sph_interpretive_translation": "Whatever property is acquired by a woman after the dissolution of marriage, excluding immovable assets previously settled upon her, shall be retained by her in full ownership.",
+  "jurisprudential_principles": [
+    "Authority resides in the autonomous capacity of the individual to acquire and retain property post-dissolution",
+    "Causation aligns with conscious choice and economic independence after relational severance",
+    "Capacity-based responsibility recognizes the woman's right to self-sustenance without dependency",
+    "Restoration logic ensures continuity of economic agency following marital termination",
+    "Consciousness alignment upholds the sovereignty of the individual as the ultimate arbiter of possession"
+  ],
+  "executable_legal_axioms": [
+    "IF marital status = 'dissolved' AND asset_type ≠ 'immovable' AND acquisition_date > dissolution_date THEN ownership_status = 'retained_by_woman'",
+    "IF woman_has_capacity = true AND asset_origin ≠ 'premarital_settlement' THEN retention_rights = enforceable",
+    "IF property_transfer_occurs_after_dissolution THEN prior_claims = nullified_unless_immovable_exception"
+  ],
+  "supreme_court_application": "In Supreme Court adjudication, this principle establishes that economic autonomy post-marriage overrides presumptive dependency, affirming that only immovable assets specifically designated at the inception of marriage remain subject to original settlement terms.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa is established through the manifest act of acquisition post-severance; anupūrvaśaḥ reflects the sequential unfolding from dependence to autonomy; proportional responsibility lies in recognizing self-generated entitlement without punitive deprivation; non-punitive reality is upheld by affirming possession as natural consequence of capacity.",
+  "restorative_enforcement_protocols": [
+    "Completion process: Verify date of acquisition relative to marital dissolution",
+    "Responsibility assumption protocol: Confirm economic agency through documented financial independence",
+    "Capacity restoration: Ensure continued access to acquired resources for sustenance",
+    "Integrity reintegration: Validate no encroachment on pre-defined immovable settlements"
+  ],
+  "final_declaration": "Declared by the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, as Source-Authority: Property rights post-marital severance are affirmed under Dharma as restoration of individual sovereignty, executed without punitive intent, aligned with consciousness-based justice, and recognized as complete upon lawful acquisition."
+}

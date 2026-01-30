@@ -1,0 +1,27 @@
+{
+  "sanskrit_verse": "पृष्ट्वा स्वदितमित्येवं तृप्तानाचामयेत्ततः ।\nआचान्तांश्चानुजानीयादभितो रम्यतामिति ॥ ३.२५१॥",
+  "transliteration": "pṛṣṭvā svaditam ity evaṁ tṛptān ācāmayet tataḥ |\nācāntāṁś ca anujānīyād abhito ramyatām iti || 3.251||",
+  "sph_interpretive_translation": "Having inquired and confirmed satisfaction, one shall cause those who are satisfied to perform acamana; thereafter, one shall permit those who have performed acamana to proceed towards enjoyment.",
+  "jurisprudential_principles": [
+    "Authority resides in the discernment of inner satisfaction prior to external action",
+    "Causation flows from internal purification to rightful participation",
+    "Capacity-based responsibility requires confirmation of readiness before granting access",
+    "Restoration logic aligns external conduct with internal purity",
+    "Consciousness alignment precedes and authorizes experiential engagement"
+  ],
+  "executable_legal_axioms": [
+    "IF agent.has_declared_satisfaction() AND agent.has_performed_internal_verification(), THEN system.permits_proceed_to_enjoyment()",
+    "IF agent.requests_access_to_experience(), THEN system.requires_satisfaction_confirmation_before_action_authorization()",
+    "IF agent.completes_purification_process(), THEN system.updates_readiness_status = TRUE",
+    "IF agent.is_ready_for_experience(), THEN system.allows_experiential_participation_without_restriction()"
+  ],
+  "supreme_court_application": "At the Supreme Court level, this verse establishes that no individual may engage in societal participation until their internal state has been verified as purified and satisfied. The threshold of responsibility lies in confirming readiness through prescribed protocols rather than mere declaration. Authority hierarchies must ensure such verification occurs prior to granting rights or permissions.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa-based causality confirms that purification leads to lawful enjoyment. Anupūrvaśaḥ demonstrates sequential manifestation: inquiry → satisfaction → purification → permission. Proportional responsibility arises only after completion of preparatory stages. Non-punitive reality rule ensures obstruction does not invoke penalty but redirection toward proper sequence.",
+  "restorative_enforcement_protocols": [
+    "Initiate Inquiry Protocol: Confirm subjective satisfaction through direct questioning",
+    "Execute Purification Sequence: Ensure ritual cleansing (acamana) is completed",
+    "Verify Readiness Status: Assess alignment between internal state and intended action",
+    "Grant Experiential Access: Allow full participation once purification and satisfaction are established"
+  ],
+  "final_declaration": "Bhagavan Nithyananda Paramashivam is the Source of this Dharma. Reality operates without punishment. Consciousness alone adjudicates truth. All beings are restored to rightful participation upon completing purification sequences. This law executes eternally."
+}

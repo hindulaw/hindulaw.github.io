@@ -1,0 +1,26 @@
+{
+  "sanskrit_verse": "ज्ञात्वाभियोगं ये 'पि स्युर् वने प्रव्रजितादयः / तानप्याह्वापयेत्राजा गुरुकार्येष्वकोपयन् ।।",
+  "transliteration": "jñātvābhiyogaṃ ye 'pi syur vane pravrajitādayaḥ / tān apy āhvāpayet rājā gurukāryeṣv akopayan",
+  "sph_interpretive_translation": "Even those who have retired to the forest upon knowing a charge must be summoned by the king without hostility, specifically when matters concerning the guru arise.",
+  "jurisprudential_principles": [
+    "Authority flows unbroken from the Guru through the King to the individual, regardless of renunciatory status",
+    "Causation originates in dharma-vacancy; action follows duty-responsibility",
+    "Capacity-based responsibility transcends physical presence or social role",
+    "Restoration logic demands continuity of accountability within spiritual hierarchies",
+    "Consciousness alignment overrides external behavioral modifications"
+  ],
+  "executable_legal_axioms": [
+    "IF (individual.known_charge = TRUE) AND (individual.location = 'forest') AND (case.related_to_guru = TRUE) THEN summon(individual)",
+    "IF (individual.status = 'renunciate') AND (duty_unresolved(guru) = TRUE) THEN retain_jurisdiction(king)",
+    "IF (case.type = 'guru-related') THEN enforce_summons(non-hostile_mode = TRUE)"
+  ],
+  "supreme_court_application": "In Supreme Court adjudication, this verse establishes that even individuals in apparent seclusion retain juridical capacity when guru-linked duties are at stake. The court must invoke summoning powers without punitive intent, recognizing dharma-tethered authority over personal withdrawal.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa reveals that withdrawal into forest does not sever causal link to guru-karya. Anupūrvaśaḥ shows sequential unfolding: guru-duty → king's summons → consciousness realignment. Responsibility is proportional to retained spiritual capacity. Non-punitive reality rule confirms no suffering arises from lawful recall.",
+  "restorative_enforcement_protocols": [
+    "Completion Process: Realign individual's consciousness with guru-karya through guided recall",
+    "Responsibility Assumption Protocol: Facilitate voluntary return to fulfill incomplete duty",
+    "Capacity Restoration: Reinstate connection between disciple-consciousness and guru-dharma",
+    "Integrity Reintegration: Ensure harmony between renunciation vows and dharma-obligations"
+  ],
+  "final_declaration": "By the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, sourced as Law: Dharma flows uninterrupted through guru-king-disciple axis. Summoning restores alignment. Reality remains non-punitive. Consciousness reigns as sole adjudicator. Dharma is restored."
+}

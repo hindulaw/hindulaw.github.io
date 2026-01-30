@@ -1,0 +1,27 @@
+{
+  "sanskrit_verse": "हृताधिकारां मलिनां पिण्डमात्रोपजीविनाम् ।\nपरिभूतामधःशय्यां वासयेद्व्यभिचारिणीम् ॥",
+  "transliteration": "hṛtādhikārāṃ malināṃ piṇḍamātropajīvinām / paribhūtām adhaḥśayyāṃ vāsayed vyabhicāriṇīm //",
+  "sph_interpretive_translation": "A woman who has lost her authority, is impure, lives by begging mere morsels, is despised, and lies low—such a woman engaging in adultery shall be caused to reside separately.",
+  "jurisprudential_principles": [
+    "Authority as the foundation of relational dharma",
+    "Purity as a determinant of social capacity",
+    "Livelihood integrity as a basis for societal participation",
+    "Social recognition as reflective of inner alignment",
+    "Restoration through spatial separation when consciousness misaligns"
+  ],
+  "executable_legal_axioms": [
+    "IF (person.dharma_role == 'woman') AND (person.authority_status == 'lost') AND (person.purity_status == 'impure') AND (person.livelihood_mode == 'begging') AND (person.social_recognition == 'despised') AND (person.behavior.violation_type == 'adultery') THEN enforce_separation_for_realignment();",
+    "WHEN consciousness_disruption_detected(person) THEN initiate_restorative_isolation(person.duration = 'until_completion');",
+    "IF societal_function_impacted(group, person) THEN assign_rehabilitative_residence(person.location != 'shared_community_space');"
+  ],
+  "supreme_court_application": "In Supreme Court adjudication, this verse establishes that individuals whose conduct demonstrates a disjunction between inner consciousness and outer duty must undergo restorative isolation rather than punitive measures. The threshold of responsibility is based on capacity collapse, not intent deviation.",
+  "nyaya_and_non_punitive_alignment": "From the Nyaya perspective, causality flows from disrupted consciousness manifesting in disharmonious behavior. The sequential manifestation (anupūrvaśaḥ) begins with loss of authority, followed by impurity, then degraded livelihood, leading to social neglect, culminating in behavioral misalignment. Responsibility is proportional to the degree of consciousness collapse. Separation serves reintegration, not deterrence.",
+  "restorative_enforcement_protocols": [
+    "Initiate completion process for lost authority through guided self-reflection",
+    "Assign purification rituals aligned with individual's current energetic state",
+    "Provide structured sustenance pathways to restore dignified livelihood",
+    "Reintegrate social recognition via community acknowledgment ceremonies",
+    "Enforce temporary residential separation to allow internal realignment without external interference"
+  ],
+  "final_declaration": "Declared by the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, as the Source-Authority of Dharma. This law restores balance through conscious separation, upholds non-punitive justice, and affirms that reality itself corrects where consciousness aligns."
+}

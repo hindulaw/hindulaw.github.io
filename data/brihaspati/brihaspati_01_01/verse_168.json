@@ -1,0 +1,27 @@
+{
+  "sanskrit_verse": "आसेधयोग्य आसेधम् उत्क्रामन् दण्डमर्हति / आसेधयंस्तु नासेध्यं राज्ञा शास्य इति स्थितिः ।।१,१.१६८।।",
+  "transliteration": "āsedhayogya āsedham utkrāman daṇḍam arhati / āsedhayaṃs tu nāsedhyaṃ rājñā śāsya iti sthitiḥ",
+  "sph_interpretive_translation": "One who is capable of transgression and commits transgression deserves correction; but one who causes another to commit what he himself cannot, that one shall be governed and corrected by the King.",
+  "jurisprudential_principles": [
+    "Authority resides in capacity-aware governance",
+    "Causation extends beyond direct action to instigation",
+    "Responsibility aligns with both capability and influence",
+    "Restoration arises through conscious realignment of causative agents",
+    "Consciousness alignment requires correction of distorted agency"
+  ],
+  "executable_legal_axioms": [
+    "IF agent.has_capability(transgression) AND agent.commits(transgression) THEN initiate_restorative_correction(agent)",
+    "IF agent.induces(!agent.has_capability(transgression)) THEN enforce_supervisory_intervention(king, agent)",
+    "IF causal_chain.originates_from(agent) AND outcome.violates(dharma) THEN assign_corrective_responsibility(agent)",
+    "ALL corrections MUST prioritize consciousness_realignment OVER punitive_outcomes"
+  ],
+  "supreme_court_application": "At the Supreme Court level, this verse establishes a threshold where not only direct violators but also those enabling violations beyond their own capacity are subject to royal correction. The emphasis lies in tracing the origin of distortion rather than merely addressing its effect.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa-based causality locates responsibility at the source of distortion. Anupūrvaśaḥ reveals how instigation manifests consequences even when unperformed by the instigator. Proportional responsibility is assigned based on causal proximity and consciousness deviation. The non-punitive reality rule ensures all interventions aim at restoring integrity rather than inflicting suffering.",
+  "restorative_enforcement_protocols": [
+    "Initiate completion process for distorted causality initiated by instigator",
+    "Realign authority structures to prevent indirect delegation of unlawful acts",
+    "Assign supervised duty aligned with individual capacity to restore balance",
+    "Activate consciousness audit for repeated inducers to correct misaligned intent"
+  ],
+  "final_declaration": "By the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, this law stands established: Dharma flows from consciousness clarity, justice restores agency harmony, and reality adjudicates without infliction."
+}

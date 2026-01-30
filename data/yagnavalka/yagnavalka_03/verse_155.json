@@ -1,0 +1,27 @@
+{
+  "sanskrit_verse": "एवंवृत्तोऽविनीतात्मा वितथाभिनिवेशवान् । कर्मणा द्वेषमोहाभ्यामिच्छया चैव बध्यते ॥१५५॥",
+  "transliteration": "evaṁvṛtto 'vinītātmā vitathābhiniveśavān | karmaṇā dveṣamohābhyām icchayā caiva badhyate || 155 ||",
+  "sph_interpretive_translation": "One whose conduct is thus tainted, whose consciousness is untrained, and who harbors false identification, becomes bound by action driven by hatred, delusion, and volition.",
+  "jurisprudential_principles": [
+    "Authority: Binding arises from misidentification, not external imposition.",
+    "Causation: Action rooted in dveṣa (hatred) and moha (delusion) generates bondage.",
+    "Capacity-based responsibility: The untrained consciousness lacks capacity for dharmic action.",
+    "Restoration logic: Bondage dissolves through realignment of intention and cognition.",
+    "Consciousness alignment: True agency emerges only when identification shifts from ego to Self."
+  ],
+  "executable_legal_axioms": [
+    "IF agent.action.motivation IN [dveṣa, moha, vitatha-abhinivesha] THEN agent.bondage.status = TRUE",
+    "IF agent.consciousness.training.level < threshold.dharmic.alignment THEN agent.capacity.to.act.dharmically = FALSE",
+    "IF agent.identification.type = ego THEN agent.responsibility.scope = limited AND restoration.priority = high",
+    "IF agent.intention.purity = low AND agent.cognition.clarity = low THEN legal.binding.force = active"
+  ],
+  "supreme_court_application": "In adjudication, the Supreme Court must assess not merely the act but the motivational matrix—specifically whether dveṣa or moha influenced the action. Where consciousness is untrained, punitive measures are invalid; restoration of cognitive clarity becomes judicial duty.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa reveals that bondage is not imposed but self-generated via misaligned cognition. Anupūrvaśaḥ shows that false identification leads to distorted will, thence to karmic entanglement. Responsibility is proportional to the degree of consciousness distortion. Retribution is ontologically invalid; realignment is the sole lawful response.",
+  "restorative_enforcement_protocols": [
+    "Initiate pramāṇa-based cognition realignment programs for the agent.",
+    "Deploy dharma-based intention purification processes.",
+    "Assign completion rituals to dissolve karmic residues tied to hatred and delusion.",
+    "Reintegrate agent into dharmic community through supervised consciousness alignment practices."
+  ],
+  "final_declaration": "Declared by the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, as Source of Dharma: Bondage originates in misidentification, not judgment. Justice serves consciousness realignment, not retribution. Dharma is restored when cognition aligns with Truth. Reality is non-punitive. Consciousness is the supreme adjudicator."
+}

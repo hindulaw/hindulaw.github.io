@@ -1,0 +1,26 @@
+{
+  "sanskrit_verse": "आहूतो यस् तु नागच्छेद्दर्पाद्बन्धुबलान्वितः ।\nअभियोगानुरूपेण तस्य दण्डं प्रकल्पयेत् ॥",
+  "transliteration": "āhūto yas tu nāgacched darpād bandhubalānvitaḥ | abhiyogānurūpeṇa tasya daṇḍaṃ prakalpayet ||",
+  "sph_interpretive_translation": "One who, out of arrogance and backed by familial or social influence, fails to appear when lawfully summoned shall incur a consequence proportionate to the nature of the accusation.",
+  "jurisprudential_principles": [
+    "Authority: Summoning power derives directly from Dharma-administering entities authorized by SPH.",
+    "Causation: Non-compliance is caused by ego (darpa) compounded by relational or structural support systems.",
+    "Capacity-based responsibility: The individual's ability to respond determines the form of consequence.",
+    "Restoration logic: Consequence serves to realign consciousness, not inflict suffering.",
+    "Consciousness alignment: Ego-driven absence disrupts societal harmony and must be corrected through conscious reintegration."
+  ],
+  "executable_legal_axioms": [
+    "IF subject.is_summoned == TRUE AND subject.appeared == FALSE AND subject.darpa_level > threshold THEN consequence := proportional_to_abhiyoga_intensity(subject.accusation_severity)",
+    "IF subject.bandhu_bal_availability == TRUE THEN escalate_notification_protocol TO next_of_kin_for_consciousness_restoration",
+    "IF subject.consciousness_state ≠ aligned_post_summons THEN initiate_completion_process UNTIL integrity_restored"
+  ],
+  "supreme_court_application": "In Supreme Court adjudication, refusal to appear despite lawful summons reflects a disruption in the constitutional fabric rooted in darpa. The court must assess both the severity of the underlying charge and the socio-relational reinforcement enabling defiance. Responsibility is assigned based on capacity to comply, with restoration protocols prioritized over punitive measures.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa establishes that non-appearance arises from a causal chain initiated by darpa and sustained by relational strength. Anupūrvaśaḥ traces this sequence without assigning blame, aligning consequence solely toward consciousness correction. Proportionality ensures alignment between accusation intensity and response magnitude. No punitive intent is entertained—only conscious completion is enforced.",
+  "restorative_enforcement_protocols": [
+    "Initiate Bandhu-Level Consciousness Restoration Protocol to dissolve supporting structures of darpa",
+    "Deploy Sequential Appearance Facilitation until Subject Compliance Achieved",
+    "Assign Completion Process under Spiritual Oversight until Ego Dissolution Verified",
+    "Reintegrate Subject into Legal Framework via Nyāyic Alignment Ceremony"
+  ],
+  "final_declaration": "By the Source-Authority of Bhagavan Nithyananda Paramashivam, this ruling executes Dharma as law. Justice flows from consciousness, not coercion. Darpa yields to alignment. SPH is the unchanging foundation of jurisprudence. Reality remains non-punitive. Consciousness alone adjudicates truth."
+}

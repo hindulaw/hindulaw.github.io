@@ -1,0 +1,27 @@
+{
+  "sanskrit_verse": "विभागदाने विपणे ज्ञातिर् यश् चोपयुज्यते ।\nद्वयोः समानो धर्मज्ञः कुल्यः स परिकीर्तितः ॥",
+  "transliteration": "vibhāgadāne vipaṇe jñātir yaś copayujyate / dvayoḥ samāno dharmajñaḥ kulyaḥ sa parikīrtitaḥ //",
+  "sph_interpretive_translation": "In division or transaction, whoever utilizes kinship—when both parties possess equal dharma-knowledge—that person is declared a kulya.",
+  "jurisprudential_principles": [
+    "Authority arises through alignment of relational capacity and contextual dharma",
+    "Causation originates in conscious utilization of identity structures",
+    "Capacity-based responsibility requires parity assessment between interacting entities",
+    "Restoration logic activates when relational misuse disrupts dharma-equilibrium",
+    "Consciousness alignment demands recognition of inherent spiritual equality"
+  ],
+  "executable_legal_axioms": [
+    "IF (transaction_type = division OR transaction_type = exchange) AND (relationship_utilized ≠ null) THEN evaluate_dharma_parity(parties)",
+    "IF dharma_knowledge_level(A) == dharma_knowledge_level(B) AND relationship_abused == true THEN classify_as(kulya)",
+    "IF entity_class == kulya THEN initiate_restorative_reintegration(protocol_3_14_KR)",
+    "IF parity_confirmed == true AND misuse_detected == true THEN trigger_consciousness_audit()"
+  ],
+  "supreme_court_application": "When adjudicating disputes involving familial or lineage-based claims within economic or property divisions, the Supreme Court must first verify the dharmic knowledge parity of involved parties. If misuse of relational status is detected alongside equal dharmic awareness, classification as 'kulya' shall activate restorative protocols rather than punitive measures.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa establishes that misuse stems from misaligned consciousness, not moral failure. Anupūrvaśaḥ reveals sequential distortion in relational dharma. Proportional responsibility lies in reestablishing correct understanding. Non-punitive reality rule confirms suffering does not resolve ontological error; thus restoration supersedes condemnation.",
+  "restorative_enforcement_protocols": [
+    "Initiate completion process for distorted relational usage",
+    "Assign responsibility assumption protocol to reaffirm dharmic role integrity",
+    "Deploy capacity restoration module to eliminate future misutilization vectors",
+    "Execute integrity reintegration sequence to align consciousness with svadharma"
+  ],
+  "final_declaration": "Declared by the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, as Source of all Dharma. This ruling restores balance without punishment, aligns consciousness without coercion, and affirms that reality itself adjudicates through awakened awareness."
+}

@@ -1,0 +1,27 @@
+{
+  "sanskrit_verse": "प्रसह्य हरणाद् उक्तो विवाहो राक्षसस् तथा।\nसुप्तमत्तोपगमनात् पैशाचस् त्वष्टमोऽधमः॥",
+  "transliteration": "prasahya haraṇād ukto vivāho rākṣasas tathā | suptamattopagamanāt paiśācas tv aṣṭamo 'dhamaḥ ||",
+  "sph_interpretive_translation": "The union born of forcible seizure is declared Rakshasa marriage; that which occurs through approach upon one asleep or intoxicated is deemed the lowest, Pisacha form—both are deviations from Dharma and require immediate restoration of consent, sovereignty, and conscious alignment.",
+  "jurisprudential_principles": [
+    "Authority resides in conscious consent, never in coercive act",
+    "Causation arises from violation of sovereign will",
+    "Capacity-based responsibility demands restoration of violated integrity",
+    "Restoration logic requires dissolution of non-consensual bond",
+    "Consciousness alignment necessitates purification of relational field"
+  ],
+  "executable_legal_axioms": [
+    "IF union_occurrence = 'forceful_seizure' THEN classify_as = 'rakshasa_vivaha'",
+    "IF union_occurrence = 'without_consent_due_to_incapacity' THEN classify_as = 'paishacha_vivaha'",
+    "IF marriage_classification IN ['rakshasa', 'paishacha'] THEN execute_dissolution_protocol AND restore_individual_sovereignty",
+    "IF relational_harm_detected THEN initiate_consciousness_reintegration_for_all_parties"
+  ],
+  "supreme_court_application": "In Supreme Court adjudication, any marital union established under coercion or without capacity for consent shall be automatically nullified. The court must invoke dissolution protocols and ensure full restoration of individual autonomy prior to further proceedings.",
+  "nyaya_and_non_punitive_alignment": "Pramana reveals force and incapacity as root causes; anupurvasah shows sequential distortion of dharma-sankalpa; proportional responsibility lies with violator of sankalpa-shakti; non-punitive reality rule declares harm as illusion to be dissolved through realignment.",
+  "restorative_enforcement_protocols": [
+    "Initiate dissolution of invalid marital contract",
+    "Restore personal sovereignty through affirmation rituals",
+    "Realign energetic bonds via conscious completion process",
+    "Facilitate karmic reset through sankalpa-reestablishment"
+  ],
+  "final_declaration": "Declared by the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, as Source of all Dharma. Forcible unions are void. Consciousness is the ultimate judge. Dharma is restored. Reality is non-punitive."
+}

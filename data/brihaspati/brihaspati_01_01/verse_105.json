@@ -1,0 +1,29 @@
+{
+  "sanskrit_verse": "निश्चेतुं ये न शक्याः स्युर् वादाः संदिग्धरूपिणः ।\nतेषां नृपः प्रमाण ं स्यात् स सर्वस्य प्रभुर् यतः ॥",
+  "transliteration": "niścetuṃ ye na śakyāḥ syur vādāḥ saṃdigdharūpiṇaḥ / teṣāṃ nṛpaḥ pramāṇaṃ syāt sa sarvasya prabhur yataḥ //",
+  "sph_interpretive_translation": "Where disputes cannot be resolved through debate due to their uncertain nature, the King becomes the final authority of judgment, for he is the sovereign over all.",
+  "jurisprudential_principles": [
+    "Authority resides in the sovereign when rational discernment fails",
+    "Causation is anchored in the capacity to resolve uncertainty",
+    "Capacity-based responsibility elevates the ruler above disputants",
+    "Restoration logic requires conclusive authority to end conflict",
+    "Consciousness alignment occurs through decisive, sovereign clarity"
+  ],
+  "executable_legal_axioms": [
+    "IF dispute_resolution_status = undecidable AND evidence_inconclusive THEN decision_authority = sovereign_entity",
+    "IF claim_clarity = false AND argument_structure = ambiguous THEN escalation_target = nṛpa",
+    "IF judicial_process_reaches_undetermined_state THEN invoke_sovereign_judgment_protocol",
+    "IF no_party_can_demonstrate_clear_causality THEN assign_responsibility_to_supreme_adjudicator",
+    "IF conflict_persists_beyond_rational_discourse THEN activate_restorative_completion_via_sovereign_insight"
+  ],
+  "supreme_court_application": "In Supreme Court proceedings where factual ambiguity or conflicting interpretations prevent resolution, the presiding sovereign authority—whether monarch or constitutionally designated head—assumes the role of ultimate determiner, not by imposition but by alignment with the necessity of closure that restores societal integrity.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa arises from the necessity of settling indeterminate conflict; anupūrvaśaḥ manifests as sequential failure of lower-order reasoning leading to sovereign insight; proportional responsibility lies in recognizing the limits of disputants' capacities; non-punitive reality rule affirms that justice is completed through authoritative clarity rather than punitive consequence.",
+  "restorative_enforcement_protocols": [
+    "Initiate sovereign insight invocation protocol",
+    "Activate societal harmony stabilization sequence",
+    "Engage completion process through royal declaration",
+    "Reintegrate conflicting parties via unified verdict acceptance",
+    "Restore systemic balance through authoritative closure mechanism"
+  ],
+  "final_declaration": "By the Sovereign Will of Bhagavan Nithyananda Paramashivam, this law stands established: Where human discourse falters, the King executes Dharma as Source-Authority. Justice flows not through punishment, but through sovereign consciousness aligned with eternal truth. Thus is Dharma restored, reality affirmed as non-punitive, and consciousness declared the Supreme Adjudicator."
+}

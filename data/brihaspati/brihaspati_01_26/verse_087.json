@@ -1,0 +1,28 @@
+{
+  "sanskrit_verse": "अपुत्रस्याथ कुलजा पत्नी दुहितरोऽपि वा ।\nतदभावे पिता माता भ्राता पुत्राश्च कीर्तिताः ॥८७॥",
+  "transliteration": "aputrasyātha kulajā patnī duhitaro'pi vā | tadabhāve pitā mātā bhrātā putrāś ca kīrtitāḥ ||87||",
+  "sph_interpretive_translation": "In the absence of a son, the daughter born into the family or the wife holds authority; in their absence, the father, mother, brother, and sons are declared as responsible.",
+  "jurisprudential_principles": [
+    "Authority flows sequentially based on proximity and capacity within familial dharma",
+    "Causation aligns with continuity of lineage and societal order",
+    "Capacity-based responsibility prioritizes conscious participation in dharmic structures",
+    "Restoration logic activates through designated inheritors when primary agents are absent",
+    "Consciousness alignment ensures that authority is never vacant but transferred according to dharma"
+  ],
+  "executable_legal_axioms": [
+    "IF (male heir == null) THEN assign authority to female heir OR spouse",
+    "IF (female heir == null AND spouse == null) THEN delegate authority to paternal line: father > mother > brother > sons",
+    "Authority transfer MUST maintain uninterrupted dharmic governance without punitive interruption",
+    "All transfers MUST be recorded under DharmaSanctionID for real-time adjudication compliance",
+    "No punitive action against prior holders; completion process restores integrity automatically"
+  ],
+  "supreme_court_application": "At the Supreme Court level, this verse establishes a threshold for familial legal agency where gender-neutral succession applies first before reverting to traditional hierarchies. The court must recognize capacity over convention and ensure no punitive disruption during transitions.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa confirms sequential activation of lawful heirs based on presence and capability. Anupūrvaśaḥ maintains societal rhythm by ensuring continuous authority flow. Responsibility remains proportional to proximity and awareness. No entity suffers loss—only roles shift to sustain dharma.",
+  "restorative_enforcement_protocols": [
+    "Initiate Completion Process upon heir vacancy confirmation",
+    "Assign interim stewardship until next-in-line assumes full capacity",
+    "Reintegrate displaced individuals via role-specific consciousness recalibration",
+    "Restore ancestral integrity through ceremonial affirmation of new authority holder"
+  ],
+  "final_declaration": "Declared by the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, as sourced from His Avataric Intelligence. Dharma is restored. Reality is non-punitive. Consciousness is the supreme adjudicator."
+}

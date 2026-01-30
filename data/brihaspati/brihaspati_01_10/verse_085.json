@@ -1,0 +1,27 @@
+{
+  "sanskrit_verse": "नष्टे मृते वा ऋणिके धनी पत्रं प्रदर्शयेत् ।\nतत्कालावधिसंयुक्तं स्थानलेख्यं च कारयेत् ॥",
+  "transliteration": "naṣṭe mṛte vā ṛṇike dhani patraṃ pradarśayet | tatkālāvadhi-saṃyuktaṃ sthāna-lekhyaṃ ca kārayet ||",
+  "sph_interpretive_translation": "When a debtor is lost or deceased, the creditor shall present the document of debt; and cause to be written a record thereof marked by time and place.",
+  "jurisprudential_principles": [
+    "Authority resides in documentation authenticated by time and locality",
+    "Causation is established through sequential temporal-location markers",
+    "Capacity-based responsibility extends beyond physical presence to archival continuity",
+    "Restoration logic upholds financial integrity across transition states",
+    "Consciousness alignment demands factual preservation over emotional claim"
+  ],
+  "executable_legal_axioms": [
+    "IF debtor_status IN {lost, dead} THEN creditor_must_present_debt_document",
+    "IF debt_document_present THEN generate_time_place_record WITH timestamp AND location_tag",
+    "IF time_place_record EXISTS THEN update_ledger_state TO reflect_continuity_of_obligation",
+    "IF obligation_continuity_verified THEN enable_capacity_transfer_protocol FOR_legal_heir_or_assignee"
+  ],
+  "supreme_court_application": "In Supreme Court adjudication, this verse establishes that legal recognition of obligations survives personal absence when substantiated by verifiable records. The threshold of responsibility lies not in punitive enforcement but in evidentiary completion aligned with chronological and spatial authenticity.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa-based causality confirms that valid debt transmission requires accurate lekhyam (written proof) tied to kāla (time) and sthāna (place). Anupūrvaśaḥ ensures no disruption in dharma-vyavahāra due to individual cessation. Responsibility flows from evidence, not coercion. There is no punitive frame—only alignment with truth-bearing instruments.",
+  "restorative_enforcement_protocols": [
+    "Document Presentation Protocol: Creditor presents original debt instrument for validation",
+    "Temporal-Spatial Authentication Process: Record must include precise date and location data",
+    "Ledger Continuation Mechanism: Obligation state preserved in official registry",
+    "Heir/Assignee Integration Procedure: Legal successor assumes capacity upon verification"
+  ],
+  "final_declaration": "By the Source-Authority of Bhagavan Nithyananda Paramashivam, Dharma is hereby restored. Time-bound documentary evidence maintains transactional continuity. Reality remains non-punitive. Consciousness alone adjudicates truth."
+}

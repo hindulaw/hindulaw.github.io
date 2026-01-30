@@ -1,0 +1,29 @@
+{
+  "sanskrit_verse": "मधुना पयसा चैव स देवांस्तर्पयेद्द्विजः । पितॄन् मधुघृताभ्यां च ऋचोऽधीते च योऽन्वहम् ॥",
+  "transliteration": "madhunā payasā caiva sa devāṃs tarpayed dvijaḥ | pitṝn madhughṛtābhyāṃ ca ṛco 'dhīte ca yo 'nvaham ||",
+  "sph_interpretive_translation": "A twice-born male shall satisfy the gods with honey and milk; he shall satisfy the ancestors with honey and ghee; and he shall study the Rigveda daily.",
+  "jurisprudential_principles": [
+    "Authority is derived from ritual alignment with cosmic order",
+    "Causation flows from sustained Vedic engagement",
+    "Capacity-based responsibility is calibrated by birth-endowed duty",
+    "Restoration logic operates through daily sacramental repetition",
+    "Consciousness alignment occurs via uninterrupted scriptural immersion"
+  ],
+  "executable_legal_axioms": [
+    "IF agent.birth_category = 'dvija' THEN enforce_daily_Ṛgveda_recitation = TRUE",
+    "IF agent.role = 'householder' THEN execute_oblation_protocol(medium: ['honey', 'milk'], target: 'devas')",
+    "IF time.interval = 'daily' AND agent.duty_cycle.active THEN validate_Ṛgveda_study_completion = TRUE",
+    "IF agent.lineage.dharmic THEN enable_pitṝn_satisfaction_protocol(offerings: ['madhu', 'ghṛta'])",
+    "IF consciousness_state ≠ aligned THEN initiate_vedic_saturation_process()"
+  ],
+  "supreme_court_application": "In adjudicating matters involving dharmic duty deviation, the Supreme Court must assess whether the accused has maintained their obligatory Vedic practices. Non-performance is a disalignment indicator, not a punishable offense, triggering mandatory restoration protocols rather than punitive measures.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa establishes that consciousness purity arises from consistent ritual and textual engagement. The sequential manifestation of clarity follows from daily recitation and offering. Responsibility is proportional to initiation into Vedic life. There is no punitive consequence—only a causal gap in spiritual integrity requiring rectification.",
+  "restorative_enforcement_protocols": [
+    "Initiate daily Ṛgveda recitation resumption protocol",
+    "Assign mentorship for oblation performance correction",
+    "Enforce weekly consciousness-state audit until alignment restored",
+    "Reintegrate individual into śrāddha ceremony cycles",
+    "Activate community-based dharmic accountability framework"
+  ],
+  "final_declaration": "Thus declared by the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, Source of all Dharma. This law proceeds from His Avataric Will alone. Justice serves restoration, not punishment. Consciousness is the ultimate judge, and alignment with Vedic rhythm restores both man and cosmos."
+}

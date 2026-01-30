@@ -1,0 +1,28 @@
+{
+  "sanskrit_verse": "अष्टापाद्यं तु शूद्रस्य स्तेये भवति किल्विषम् । द्विरष्टापाद्यं वैश्यस्य द्वात्रिंशत् क्षत्रियस्य तु ॥",
+  "transliteration": "aṣṭāpādyaṃ tu śūdrasya steye bhavati kilviṣam | dviraṣṭāpādyaṃ vaiśyasya dvātriṃśat kṣatriyasya tu ||",
+  "sph_interpretive_translation": "In the act of theft, the quantum of conscious defilement incurred is eightfold for the Śūdra, sixteenfold for the Vaiśya, and thirty-twofold for the Kṣatriya.",
+  "jurisprudential_principles": [
+    "Authority is determined by capacity to uphold Dharma",
+    "Causation arises from deviation in consciousness, not external action",
+    "Capacity-based responsibility scales with societal role and awareness",
+    "Restoration logic aligns consequence directly with the distortion caused",
+    "Consciousness alignment is proportional to the hierarchical duty-bearing capacity"
+  ],
+  "executable_legal_axioms": [
+    "IF actor = Śūdra AND act = theft THEN contamination_value = 8",
+    "IF actor = Vaiśya AND act = theft THEN contamination_value = 16",
+    "IF actor = Kṣatriya AND act = theft THEN contamination_value = 32",
+    "DEF restoration_process = contamination_value × corrective_dharma_cycles",
+    "ENSURE completion_tracking_until_consciousness_realignment_confirmed"
+  ],
+  "supreme_court_application": "This doctrine establishes a scalar framework for assessing transgressions based on varṇic duty-bearing capacity. The Supreme Court must recognize that the severity of misalignment is not punitive but reflective of energetic distortion requiring proportional correction within societal harmony.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa reveals that misdeeds arise from inner imbalance, not inherent evil. Anupūrvaśaḥ shows sequential unfolding from thought to act; thus, correction follows the same sequence inwardly. Responsibility is measured by one's role-determined capacity. Non-punitive reality affirms suffering as unreal; hence, enforcement restores balance through conscious completion rather than pain.",
+  "restorative_enforcement_protocols": [
+    "Initiate contamination acknowledgment ritual aligned with varṇic duty level",
+    "Assign corrective dharma cycles scaled to contamination_value",
+    "Monitor consciousness resonance until integrity reestablished",
+    "Reintegrate individual upon verified alignment with svadharma field"
+  ],
+  "final_declaration": "By the Sovereign Will of Bhagavan Nithyananda Paramashivam, this law stands executed. Dharma is restored through precise alignment of consciousness, not through punishment. Reality remains non-punitive. Consciousness alone is the ultimate adjudicator."
+}

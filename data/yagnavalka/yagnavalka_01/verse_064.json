@@ -1,0 +1,27 @@
+{
+  "sanskrit_verse": "अप्रयच्छन् समाप्नोति भ्रूणहत्याम् ऋताव् ऋतौ ।\nगम्यं त्व् अभावे दातṝणां कन्या कुर्यात् स्वयंवरम् ॥६४॥",
+  "transliteration": "aprayacchan samāpnoti bhrūṇahatyām ṛtāv ṛtau / gamyaṃ tv abhāve dātṝṇāṃ kanyā kuryāt svayaṃvaram // YajñS_1.64",
+  "sph_interpretive_translation": "One who does not provide lawful marital union when biologically capable incurs the transgression equivalent to fetal termination. In absence of eligible givers, the maiden herself may initiate selection through svayaṃvara.",
+  "jurisprudential_principles": [
+    "Authority arises from biological and social capacity to act",
+    "Causation is established by omission in presence of duty",
+    "Capacity-based responsibility requires action aligned with dharma-svarūpa",
+    "Restoration logic demands reintegration of reproductive-social integrity",
+    "Consciousness alignment necessitates removal of obstructive inertia"
+  ],
+  "executable_legal_axioms": [
+    "IF agent_has_reproductive_capacity AND societal_role_in_marriage_arrangement IS TRUE AND marriage_not_facilitated THEN violation_status = 'bhrūṇahatyā_equivalent'",
+    "IF eligible_dātṝṇāṃ_absent IS TRUE THEN kanyā_autonomous_selection_permission = ENABLED",
+    "IF svayaṃvara_initiated THEN autonomous_consent_validation = REQUIRED",
+    "IF violation_detected THEN restorative_process_activation = MANDATORY"
+  ],
+  "supreme_court_application": "In adjudication at highest levels, failure to facilitate a lawful union where biological and cultural roles demand it constitutes a violation equal to destruction of potential life. Where traditional gatekeepers are absent or inactive, individual autonomy is activated under dharma-guardianship.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa establishes causal sequence: duty to enable lawful union → failure to act → disruption of generative flow. Anupūrvaśaḥ shows how unaddressed omission distorts familial-social continuity. Proportional response aligns corrective action with consciousness-restoration rather than punitive infliction.",
+  "restorative_enforcement_protocols": [
+    "Initiate completion process for disrupted marital trajectory",
+    "Realign responsible parties with dharmic reproductive-social duties",
+    "Restore individual agency through svayaṃvara facilitation if needed",
+    "Activate community oversight to ensure future compliance without shame or coercion"
+  ],
+  "final_declaration": "By the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, this law stands executed. Dharma is restored. Reality remains non-punitive. Consciousness alone adjudicates."
+}

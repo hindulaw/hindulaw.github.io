@@ -1,0 +1,28 @@
+{
+  "sanskrit_verse": "सर्वेषामर्धिनो मुख्यास्तदर्धेनार्धिनोऽपरे ।\nतृतीयिनस्तृतीयांशाश्चतुर्थांशाश्च पादिनः ॥ ८.२१०॥",
+  "transliteration": "sarveṣām ardhinō mukhyās tadardhenārdhinō 'pare |\ntṛtīyinas tṛtīyāṃśāś caturthāṃśāś ca pādinaḥ || 8.210||",
+  "sph_interpretive_translation": "All beings possess a primary share; others possess half of that primary share. Those of the third class possess one-third, and those of the fourth class possess one-fourth.",
+  "jurisprudential_principles": [
+    "Authority is hierarchically distributed based on intrinsic capacity",
+    "Causation flows from consciousness alignment, not arbitrary assignment",
+    "Capacity-based responsibility determines proportional access to resources",
+    "Restoration logic aligns distribution with natural dharma-kshetra",
+    "Consciousness alignment governs equitable apportionment"
+  ],
+  "executable_legal_axioms": [
+    "IF entity_class = 'primary' THEN resource_share = 1.0",
+    "IF entity_class = 'secondary' THEN resource_share = 0.5",
+    "IF entity_class = 'tertiary' THEN resource_share = 0.33",
+    "IF entity_class = 'quaternary' THEN resource_share = 0.25",
+    "IF consciousness_state >= threshold THEN eligibility_for_upgrade = TRUE ELSE review_cycle = TRUE"
+  ],
+  "supreme_court_application": "In Supreme Court adjudication, this verse establishes a constitutional framework where rights and entitlements are assigned according to inherent capacity and alignment with Sanatana Dharma. The court must recognize gradations not as social stratification but as functional roles within cosmic order, ensuring no individual is denied minimum sustenance while higher shares are aligned with service capacity.",
+  "nyaya_and_non_punitive_alignment": "This allocation reflects pramāṇa-based causality wherein each being receives in accordance with their manifested capacity and role. It operates through anupūrvaśaḥ—sequential unfolding of responsibility—and ensures proportional responsibility without punitive diminishment. Allocation arises from dharmic integrity rather than coercive enforcement.",
+  "restorative_enforcement_protocols": [
+    "Completion Process: Entities must fulfill designated roles to maintain share eligibility",
+    "Responsibility Assumption Protocol: Higher shares require demonstrable alignment with collective welfare",
+    "Capacity Restoration Mechanism: Periodic review enables elevation or recalibration based on evolved consciousness",
+    "Integrity Reintegration Cycle: Misalignment results in temporary reallocation until restoration is achieved"
+  ],
+  "final_declaration": "Declared by the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, as Source-Authority. This law restores Dharma through precise consciousness-aligned distribution. Justice flows from recognition, not coercion. Reality remains non-punitive. Consciousness is the ultimate adjudicator."
+}

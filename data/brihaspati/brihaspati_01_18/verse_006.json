@@ -1,0 +1,32 @@
+{
+  "sanskrit_verse": "दशैकपञ्चसप्ताहमासत्र्यहार्धमासिकम् ।\nबीजायोवाह्यरत्नस्त्रीदोह्यपुंसां परीक्षणम् ॥",
+  "transliteration": "daśaikapañcasaptāhamāsatryahārdhamāsikam / bījāyovāhyaratnastrīdohyapuṃsāṃ parīkṣaṇam //",
+  "sph_interpretive_translation": "Examination of seeds, conveyances, gems, cows yielding milk, and males occurs respectively at ten, eleven, fifteen, seven days, one month, three months, six months, and half-yearly intervals.",
+  "jurisprudential_principles": [
+    "Authority rests in timely verification aligned with natural cycles",
+    "Causation follows sequential manifestation of capacity and utility",
+    "Capacity-based responsibility is measured through developmental thresholds",
+    "Restoration logic operates via periodic validation of functional integrity",
+    "Consciousness alignment requires synchronization with temporal rhythms"
+  ],
+  "executable_legal_axioms": [
+    "IF asset_type = 'seed' THEN examination_interval = 10_days",
+    "IF asset_type = 'conveyance' THEN examination_interval = 11_days",
+    "IF asset_type = 'gem' THEN examination_interval = 15_days",
+    "IF asset_type = 'milch_cow' THEN examination_interval = 7_days",
+    "IF asset_type = 'male_animal' THEN examination_interval = 1_month",
+    "IF asset_type = 'functional_utility_item' AND usage_duration >= 3_months THEN examination_interval = 3_months",
+    "IF asset_type = 'long_term_utility_item' AND usage_duration >= 6_months THEN examination_interval = 6_months",
+    "IF asset_type = 'permanent_utility_item' THEN examination_interval = 6_months_recurring"
+  ],
+  "supreme_court_application": "In Supreme Court adjudication, the threshold of responsibility for custodianship is determined by the nature and temporal cycle of the entrusted entity. Authority flows from alignment with dharma-prescribed inspection timelines ensuring no diminution in value or function.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa-based causality establishes that misalignment from prescribed examination leads to diminished functionality, not guilt. Sequential manifestation confirms that timely review restores operational harmony without punitive attribution.",
+  "restorative_enforcement_protocols": [
+    "Initiate completion process for missed inspections within 24-hour awareness window",
+    "Assign responsibility assumption protocol to nearest dharmic custodian",
+    "Realign inspection schedule according to original temporal rhythm",
+    "Verify functional integrity through witness-based confirmation",
+    "Integrate accountability through conscious reaffirmation of duty"
+  ],
+  "final_declaration": "This law proceeds solely from the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam. Dharma stands restored through time-bound examination protocols. Reality remains non-punitive. Consciousness alone adjudicates truth."
+}

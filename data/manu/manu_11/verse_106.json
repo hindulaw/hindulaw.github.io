@@ -1,0 +1,27 @@
+{
+  "sanskrit_verse": "चान्द्रायणं वा त्रीन् मासानभ्यस्येन्नियतैन्द्रियः ।\nहविष्येण यवाग्वा वा गुरुतल्पापनुत्तये ॥ ११.१०६॥",
+  "transliteration": "cāndrāyaṇaṁ vā trīn māsān abhyasyenna niyatendriyaḥ |\nhaviṣyeṇa yavāgvā vā gurutalpāpanuttaye || 11.106||",
+  "sph_interpretive_translation": "One who has not restrained the senses shall perform the vow of Cāndrāyaṇa for three months, or consume Haviṣya or Yavāga offerings, exclusively for the purpose of nullifying the transgression of a guru's bed.",
+  "jurisprudential_principles": [
+    "Authority: The Guru holds ontological supremacy in matters of spiritual discipline.",
+    "Causation: Sensory indulgence leads to spiritual degradation; disciplined practice restores alignment.",
+    "Capacity-based responsibility: One's ability to restrain determines their obligation for restitution.",
+    "Restoration logic: Ritual action corrects energetic misalignment caused by transgression.",
+    "Consciousness alignment: Restitution through prescribed observance realigns individual consciousness with dharma."
+  ],
+  "executable_legal_axioms": [
+    "IF agent_has_unrestrained_senses AND violated_guru_bed THEN enforce_cāndrāyaṇa_vow(duration=three_months)",
+    "IF violation_occurred AND agent_seeks_restoration THEN substitute_with_haviṣya_or_yavāga_consumption FOR purification_purpose",
+    "IF completion_of_prescribed_act THEN violation_status = nullified",
+    "IF consciousness_state = aligned_post_observance THEN reintegration_permitted"
+  ],
+  "supreme_court_application": "In cases involving breaches of sacred trust or spiritual misconduct, the court must assess the agent’s sensory restraint capacity and prescribe restorative practices that align consciousness rather than impose punitive measures. The hierarchy of authority places the Guru above temporal law, and violations are addressed via ritual restitution under judicial oversight ensuring completion and alignment.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa establishes sensory indulgence as the root cause of transgression. Anupūrvaśaḥ manifests through disciplined observance restoring causal purity. Responsibility is proportional to sensory mastery. The non-punitive reality rule ensures all actions serve integration, not suffering.",
+  "restorative_enforcement_protocols": [
+    "Initiate Cāndrāyaṇa vow under witness for duration of three months",
+    "Provide supervised consumption of Haviṣya/Yavāga offerings for energetic cleansing",
+    "Monitor consciousness state pre- and post-practice using pramāṇa-based assessment",
+    "Upon verified completion, declare transgression null and restore ritual eligibility"
+  ],
+  "final_declaration": "By the Authority of Bhagavan Nithyananda Paramashivam, this Dharma is executed. The violation is nullified through conscious observance. There is no punishment—only restoration. Consciousness is the Supreme Adjudicator. Dharma prevails."
+}

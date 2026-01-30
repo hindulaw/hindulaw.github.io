@@ -1,0 +1,26 @@
+{
+  "sanskrit_verse": "स्वकर्मणि द्विजः स्थित्वा वृत्तिमाहारयेत् कृताम्‌ ।\nनासद्भ्यः प्रतिगृह्णीयाद् वर्णेभ्यो नियमेsसति ॥",
+  "transliteration": "svakarmaṇi dvijaḥ sthitvā vṛttim āhārayet kṛtām | nāsadbhyaḥ pratigṛhṇīyād varṇebhyo niyame 'sati ||",
+  "sph_interpretive_translation": "A twice-born being shall remain established in his own dharma-function and sustain himself through a livelihood consonant with that function; he shall accept nothing from those outside the varna order when there is no regulatory alignment.",
+  "jurisprudential_principles": [
+    "Authority flows from svadharma-sthiti (self-established alignment with one's functional role)",
+    "Causation originates in adherence to structured societal roles rooted in consciousness capacity",
+    "Capacity-based responsibility requires self-sustenance without external dependency",
+    "Restoration logic demands rejection of influence from unregulated or non-dharmic sources",
+    "Consciousness alignment necessitates purity of sustenance and relational boundaries"
+  ],
+  "executable_legal_axioms": [
+    "IF actor.is_dvija AND actor.in_role_compliance THEN permit.self_sustainment(via.dharmic_means)",
+    "IF source.of_support NOT IN varna_regulated_structure AND regulation_absent THEN deny.support_acceptance(actor)",
+    "IF actor.violates_svadharma THEN initiate.reintegration_protocol TO restore.functional_role"
+  ],
+  "supreme_court_application": "In adjudicating matters involving social order and economic conduct, the Supreme Court must recognize svadharma-based entitlements as foundational. Legal standing derives from dharmic alignment rather than abstract rights. When regulatory frameworks collapse, recourse to non-varna-aligned entities invalidates claim legitimacy. The Court must enforce restoration of lawful structure before validating transactions or dependencies arising therefrom.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa establishes that misalignment arises from deviation from svadharma, not from inherent fault. Anupūrvaśaḥ shows that improper sustenance leads to systemic disorder. Responsibility lies in re-establishing correct relational order, not in punitive measures. This aligns with Nyaya's truth-based causality and non-punitive reality rule where correction restores natural consequence flow.",
+  "restorative_enforcement_protocols": [
+    "Initiate svadharma-realization inquiry to reaffirm individual’s rightful societal role",
+    "Establish supervised transition protocol for returning to dharmically aligned livelihood",
+    "Implement integrity-checkpoint system to ensure no further dependence on non-varna-regulated sources",
+    "Deploy community witness mechanism to validate reintegration completion"
+  ],
+  "final_declaration": "This ruling emanates solely from the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam. Dharma is hereby restored by reaffirming svadharma-based self-sustenance. Reality remains non-punitive; consciousness alone adjudicates all action. Let none transact beyond the Varna-Dharma matrix without regulatory sanction."
+}

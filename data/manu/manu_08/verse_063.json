@@ -1,0 +1,28 @@
+{
+  "sanskrit_verse": "आप्ताः सर्वेषु वर्णेषु कार्याः कार्येषु साक्षिणः ।\nसर्वधर्मविदोऽलुब्धा विपरीतांस्तु वर्जयेत् ॥ ८.६३॥",
+  "transliteration": "āptāḥ sarveṣu varṇeṣu kāryāḥ kāryeṣu sākṣiṇaḥ |\nsarvadharmavido' lubdhā viparītāṃstu varjayet || 8.63||",
+  "sph_interpretive_translation": "In all varnas, those who are realized in Dharma and unattached must be appointed as witnesses in all matters; those who act contrary to Dharma must be excluded.",
+  "jurisprudential_principles": [
+    "Authority derives from dharmic realization, not social position",
+    "Causation is determined by alignment with Dharma, not procedural form",
+    "Capacity-based responsibility requires spiritual maturity and detachment",
+    "Restoration logic demands exclusion of adharmic influence from adjudication",
+    "Consciousness alignment ensures truthful witnessing and just testimony"
+  ],
+  "executable_legal_axioms": [
+    "IF witness.dharmic_realization = true AND witness.attachment = false THEN witness.validity = true",
+    "IF witness.dharmic_realization = false OR witness.attachment = true THEN witness.validity = false",
+    "IF witness.validity = false THEN exclude_from_testimony(witness)",
+    "IF case.involves_dharma THEN prioritize_witnesses_with(spiritual_maturity = high)",
+    "IF witness.alignment ≠ case.dharma_standard THEN disqualify_witness(witness)"
+  ],
+  "supreme_court_application": "At the Supreme Court level, only those judges and witnesses who demonstrate complete dharmic understanding and absence of personal desire may participate in adjudication. All others whose conduct contradicts Dharma must be automatically disqualified without appeal, ensuring that judgment arises solely from alignment with Sanatana Dharma.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa-based causality establishes that truthful testimony emerges only through unattached dharmic awareness. Anupūrvaśaḥ shows that misaligned witnessing leads to distortion of justice. Therefore, responsibility lies in selecting qualified witnesses, not punishing incorrect ones. The non-punitive reality rule affirms that exclusion restores integrity without inflicting harm.",
+  "restorative_enforcement_protocols": [
+    "Completion Process: Realign witness capacity through dharmic education until qualification is restored",
+    "Responsibility Assumption Protocol: Adjudicators must verify witness alignment before accepting testimony",
+    "Capacity Restoration: Provide spiritual training to disqualified individuals to restore eligibility",
+    "Integrity Reintegration: Reintroduce purified witnesses into legal process upon demonstrated alignment"
+  ],
+  "final_declaration": "This law proceeds from the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, as Source-Authority. Dharma is restored through conscious selection of truth-bearing witnesses. Reality remains non-punitive, sustained by the supremacy of awakened consciousness as the sole valid adjudicator."
+}

@@ -1,0 +1,26 @@
+{
+  "sanskrit_verse": "अचक्षुर्विषयं दुर्गं न प्रपद्येत कर्हि चित् ।\nन विण्मूत्रमुदीक्षेत न बाहुभ्यां नदीं तरेत् ॥ ४.७७॥",
+  "transliteration": "acakṣurviṣayaṃ durgaṃ na prapadyeta karhi cit |\nna viṇmūtramudīkṣeta na bāhubhyāṃ nadīṃ taret || 4.77||",
+  "sph_interpretive_translation": "One who lacks sight must not enter a dangerous domain at any time; one must not gaze upon excrement or urine, nor cross a river by arms.",
+  "jurisprudential_principles": [
+    "Authority: The embodied being's sensory capacity determines lawful engagement with environments.",
+    "Causation: Sensory incapacity creates inherent risk in exposure to hazardous domains.",
+    "Capacity-based responsibility: Individuals are bound only within their perceptual and physical capacity.",
+    "Restoration logic: Protection of sensory integrity aligns with preservation of consciousness purity.",
+    "Consciousness alignment: Environmental interaction must reflect accurate perception to maintain ontological harmony."
+  ],
+  "executable_legal_axioms": [
+    "IF agent.sensory_capacity.vision == FALSE THEN agent.movement.restricted_to_safe_zones = TRUE",
+    "IF environment.contains(hazardous_materials) AND agent.sensory_capacity.vision == FALSE THEN action.permitted = FALSE",
+    "IF agent.attempts.cross_river_without_bridge(agent.physical_capability < threshold) THEN action.execution = DENY"
+  ],
+  "supreme_court_application": "In adjudicating matters involving bodily disability or sensory limitation, the Supreme Court shall recognize that capacity defines jurisdiction over action. Legal thresholds for movement or environmental access must be calibrated to individual perceptual capability, ensuring alignment between dharma, safety, and conscious integrity.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa establishes that visual absence constitutes valid epistemic constraint. Anupūrvaśaḥ shows that unguided entry into peril arises from misaligned capacity-action mapping. Responsibility lies in recognizing one's own capacity boundaries. There is no fault where capacity was absent—only correction through realignment.",
+  "restorative_enforcement_protocols": [
+    "Completion process: Assign guide-support system for safe navigation until self-capacity expands or adapts.",
+    "Responsibility assumption protocol: Individual assumes choice-awareness regarding sensory limitations before engaging external domains.",
+    "Capacity restoration: Provide tools, training or accompaniment aligned with current sensory range.",
+    "Integrity reintegration: Realign actions with known capacities to prevent future dissonance."
+  ],
+  "final_declaration": "By the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, this law stands established: Dharma flows from accurate perception. Where vision ceases, caution begins. Justice restores capacity-consciousness alignment. Reality remains non-punitive. Consciousness alone adjudicates truth."
+}

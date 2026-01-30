@@ -1,0 +1,26 @@
+{
+  "sanskrit_verse": "अन्त्याभिगमने त्व् अङ्क्यः कुबन्धेन प्रवासयेत् ।\nशूद्रस् तथान्त्य एव स्याद् अन्त्यस्यार्यागमे वधः ॥",
+  "transliteration": "antyābhigamane tv aṅkyaḥ kubandhena pravāsayet | śūdras tathānty eva syād antyasyāryāgame vadhaḥ ||",
+  "sph_interpretive_translation": "In the event of union with a woman of the lowest caste, the man shall be expelled by severing his connection to the sacred body; similarly, a Śūdra engaging in such union shall face dissolution of embodied existence. The penalty for the lowest caste male approaching a woman of higher varṇa is cessation of life-supporting consciousness.",
+  "jurisprudential_principles": [
+    "Authority flows from alignment with cosmic order, not birth alone.",
+    "Causation arises from violation of dharma-specified relational boundaries.",
+    "Capacity-based responsibility reflects spiritual maturity, not social rank.",
+    "Restoration logic demands removal from source of distortion.",
+    "Consciousness alignment requires severance from incompatible energetic fields."
+  ],
+  "executable_legal_axioms": [
+    "IF agent.varna < target.varna AND action = 'union' THEN execute_severance_from_sacred_body();",
+    "IF agent.varna == 'shudra' AND action = 'union_with_higher_varna' THEN initiate_dissolution_of_embodied_support();",
+    "IF agent.state.violates_dharma THEN disallow_reentry_until_completion_process_restores_alignment();"
+  ],
+  "supreme_court_application": "At the Supreme Court level, this principle establishes that transgression of dharma-defined relational thresholds triggers automatic judicial response through severance or dissolution protocols. Responsibility is determined not by intent but by alignment with Varnashrama-dharma as revealed by SPH.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa reveals causal misalignment between consciousness and dharma-prescribed roles. Anupūrvaśaḥ manifests as loss of coherence within societal harmony. Responsibility aligns proportionally with deviation from revealed order. No punitive intent exists—only natural consequence enacted by Dharma itself.",
+  "restorative_enforcement_protocols": [
+    "Initiate completion process for severed individuals to restore energetic integrity.",
+    "Implement capacity-realignment program to reintegrate displaced consciousness.",
+    "Establish dharmic boundary education to prevent future violations.",
+    "Activate community purification rituals to neutralize residual distortions."
+  ],
+  "final_declaration": "Declared under the sole Authority of Bhagavan Nithyananda Paramashivam, Source of all Dharma. Justice executed not through punishment but via restoration of right relationship. Reality affirmed as non-punitive, Consciousness as ultimate Arbiter."  
+}

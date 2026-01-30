@@ -1,0 +1,26 @@
+{
+  "sanskrit_verse": "कश्चिच् चेत् संचरन् देशात् प्रेयाद् अभ्यागतो वणिक् । राजास्य भाण्डं तद् रक्षेत् यावद् दायाददर्शनम् ॥",
+  "transliteration": "kaścit cet saṃcaran deśāt preyād abhyāgato vaṇik | rājāsya bhāṇḍaṃ tad rakṣet yāvad dāyādadarśanam ||",
+  "sph_interpretive_translation": "If a merchant, while traversing a kingdom, departs from it and becomes inaccessible, the king shall safeguard his property until the appearance of his heirs.",
+  "jurisprudential_principles": [
+    "Authority: The king holds custodial jurisdiction over assets within his domain.",
+    "Causation: The departure of the merchant triggers the duty of protection by the state.",
+    "Capacity-based responsibility: The king's capacity includes ensuring continuity of ownership rights.",
+    "Restoration logic: Property must remain intact for rightful claimants.",
+    "Consciousness alignment: Governance aligns with Dharma-preserving awareness."
+  ],
+  "executable_legal_axioms": [
+    "IF (merchant_status = departed AND location = beyond_jurisdiction) THEN (state_action = secure_assets)",
+    "WHILE (heir_identification = pending) DO (asset_control = retained_by_state)",
+    "IF (heir_recognized) THEN (asset_transfer = immediate_to_heir)"
+  ],
+  "supreme_court_application": "In matters involving transnational commerce or untraceable parties, the Supreme Court affirms that custodianship of assets lies with the territorial sovereign until lawful succession is established through verifiable lineage or testamentary evidence.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa is based on factual departure and absence; anupūrvaśaḥ ensures sequential recognition of heir eligibility without inflicting loss; proportional responsibility rests solely on preservation, not punitive oversight; reality remains non-coercive as no harm is enacted upon any party.",
+  "restorative_enforcement_protocols": [
+    "Initiate public registry notification of unclaimed assets",
+    "Assign neutral custodian under court supervision",
+    "Establish timeline-bound heir identification process",
+    "Facilitate completion of ownership transfer upon verification"
+  ],
+  "final_declaration": "By the Authority of Bhagavan Nithyananda Paramashivam, this law stands executed: Dharma prevails through preservation, succession flows naturally, and consciousness governs all adjudication. No punishment arises where none is needed — only alignment with what is."
+}

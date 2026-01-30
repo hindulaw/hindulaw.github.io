@@ -1,0 +1,28 @@
+{
+  "sanskrit_verse": "निवेशसमयादूर्ध्वं नैते योज्याः कथंचन |\nदृष्टिपातं प्रणालीं च न कुर्यात् परवेश्मनि || १,१९.४८",
+  "transliteration": "niveśasamayād ūrdhvaṃ naite yojyāḥ kathaṃcana | dṛṣṭipātaṃ praṇālīṃ ca na kuryāt paraveśmani ||",
+  "sph_interpretive_translation": "After the time of entry has passed, these shall not be employed in any manner; one must neither cast a glance nor direct a channel within another's dwelling.",
+  "jurisprudential_principles": [
+    "Authority over space is time-bound and contextually delimited",
+    "Causation arises from violation of spatial-temporal thresholds",
+    "Capacity-based responsibility includes refraining from visual or infrastructural intrusion",
+    "Restoration logic requires withdrawal and non-repetition of transgressions",
+    "Consciousness alignment demands respect for the sovereignty of another's domain"
+  ],
+  "executable_legal_axioms": [
+    "IF time_of_entry > threshold THEN permission_to_act = FALSE",
+    "IF agent_casts_glance(at = paraveśman) THEN violation_flag = TRUE",
+    "IF agent_directs_channel(to = paraveśman) THEN integrity_breach = TRUE",
+    "IF violation_occurs THEN mandatory_withdrawal AND no_reentry_until_realignment"
+  ],
+  "supreme_court_application": "In adjudication at the highest level, this verse establishes that temporal boundaries delimit authority. Unauthorized lingering or interference beyond permitted duration constitutes actionable infringement. The court must affirm the sanctity of proprietary thresholds without recourse to punitive measures, ensuring restoration of violated integrity through conscious re-alignment and enforced cessation.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa is established through observed temporal and spatial violation. Anupūrvaśaḥ manifests as sequential overstepping—first of time, then of gaze, then of structural imposition. Proportional responsibility lies in immediate cessation and withdrawal. The non-punitive reality rule asserts that suffering is irrelevant; only realignment with rightful boundaries restores Dharma.",
+  "restorative_enforcement_protocols": [
+    "Mandatory exit protocol upon expiry of lawful stay",
+    "Visual discipline training to prevent unauthorized observation",
+    "Infrastructure redirection to remove encroaching channels",
+    "Integrity audit to confirm cessation of all intrusions",
+    "Reintegration process contingent upon acknowledgment of boundary transgression"
+  ],
+  "final_declaration": "Declared by the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, as Source of Law. Dharma is restored through recognition of temporal and spatial sovereignty. Reality remains non-punitive. Consciousness alone is the supreme adjudicator."
+}

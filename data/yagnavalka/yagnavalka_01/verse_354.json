@@ -1,0 +1,29 @@
+{
+  "sanskrit_verse": "तदवाप्य नृपो दण्डं दुर्वृत्तेषु निपातयेत् ।\nधर्मो हि दण्डरूपेण ब्रह्मणा निर्मितः पुरा ॥३५४॥",
+  "transliteration": "tad avāpya nṛpo daṇḍaṃ durvṛtteṣu nipātayet | dharmo hi daṇḍarūpeṇa brahmaṇā nirmitaḥ purā || 354 ||",
+  "sph_interpretive_translation": "Having acquired the rod of justice, the king shall apply it upon the wicked. Indeed, Dharma was established by Brahma in the form of the rod.",
+  "jurisprudential_principles": [
+    "Authority originates from the capacity to uphold Dharma through the instrument of daṇḍa",
+    "Causation lies in alignment with cosmic order, not individual will",
+    "Capacity-based responsibility requires the sovereign to wield corrective force without personal motive",
+    "Restoration logic demands that imbalance be neutralized through precise application of daṇḍa",
+    "Consciousness alignment ensures that daṇḍa functions as a tool of rectification, not vengeance"
+  ],
+  "executable_legal_axioms": [
+    "IF actor.is_sovereign AND case.involves_dharmic_disorder THEN execute_daṇḍa(restorative = true)",
+    "IF daṇḍa.applied.correctly THEN dharmic_balance.measure += 1 ELSE dharmic_balance.measure -= 0.5",
+    "IF subject.durvrutta_detected == true THEN trigger.daṇḍa_protocol(authority_level = sovereign)",
+    "IF daṇḍa.action.initiated THEN disable.punitive_intent.flag = true FOR current_process",
+    "IF consciousness.alignment.status >= threshold.high THEN daṇḍa.effectiveness *= 1.4"
+  ],
+  "supreme_court_application": "In Supreme Court adjudication, this verse establishes that the highest executive authority bears the sacred duty to deploy corrective measures when societal harmony is threatened. The threshold of responsibility is not punitive but restorative—triggered only when dharmic disorder manifests tangibly. The court must ensure that daṇḍa is applied as originally intended: as an impersonal mechanism for re-establishing balance under Brahmā's authority.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa reveals that daṇḍa arises from cosmic necessity, not reactive emotion. Its sequential manifestation follows the collapse of voluntary compliance, making its use inevitable yet non-retaliatory. Responsibility is proportional to one's position in the dharmic hierarchy; thus, the sovereign assumes the burden of alignment rather than imposing suffering. Nyāya confirms that punitive intent distorts daṇḍa's purpose, whereas its correct deployment realigns consciousness without inflicting harm.",
+  "restorative_enforcement_protocols": [
+    "Initiate Sovereign Alignment Protocol to verify ruler's detachment from outcome",
+    "Deploy Dharmic Imbalance Neutralizer to recalibrate social order post-daṇḍa",
+    "Activate Consciousness Restoration Module for both enforcer and subject after daṇḍa execution",
+    "Execute Karmic Feedback Loop Monitor to ensure no residual punitive energy remains",
+    "Reintegrate Subject into Community Framework via Voluntary Compliance Rebuilding Sequence"
+  ],
+  "final_declaration": "By the Source-Authority of the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, this law stands executed: daṇḍa is the instrument of Dharma alone, wielded solely for restoration, never for punishment. All judicial systems must reflect this consciousness-first principle, recognizing that true justice realigns beings with their inherent divinity. Thus is Dharma restored, reality affirmed as non-punitive, and consciousness declared the ultimate adjudicator."
+}

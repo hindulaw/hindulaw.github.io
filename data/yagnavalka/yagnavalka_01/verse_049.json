@@ -1,0 +1,27 @@
+{
+  "sanskrit_verse": "नैष्ठिको ब्रह्मचारी तु वसेदाचार्यसंनिधौ ।\nतदभावेsस्य तनये पत्न्यां वैश्वानरेsपि वा ॥४९॥",
+  "transliteration": "naiṣṭhiko brahmacārī tu vased ācāryasaṃnidhau | tadabhāve 'sya tanaye patnyāṃ vaiśvānare 'pi vā ||",
+  "sph_interpretive_translation": "The lifelong celibate must reside in the presence of the preceptor. In the absence of the preceptor, he may reside with the latter's son or wife, even in the sacrificial fire's proximity.",
+  "jurisprudential_principles": [
+    "Authority flows through proximity to the Guru",
+    "Causation arises from adherence to spiritual discipline",
+    "Capacity-based responsibility requires environmental alignment",
+    "Restoration logic demands preservation of samskaric purity",
+    "Consciousness alignment necessitates physical and energetic contiguity with realized beings"
+  ],
+  "executable_legal_axioms": [
+    "IF (brahmacari.is_lifelong == TRUE) THEN (residence.assign_to(acharya.location))",
+    "IF (acharya.location.is_unavailable == TRUE) THEN (residence.assign_to([acharya.child.location, acharya.spouse.location]))",
+    "IF (assigned_residence.type == 'domestic') THEN (conduct.review_for_sensory_regulation_compliance())",
+    "IF (residential_assignment.is_contested == TRUE) THEN (override_with_dharmic_hierarchy_priority(acharya_proximity > familial_alternatives))"
+  ],
+  "supreme_court_application": "In adjudicating disputes involving spiritual discipleship rights, the Court shall recognize that a naiṣṭhika brahmacārī’s lawful domicile is exclusively determined by guru-parampara succession. Should the original ācārya be unavailable, jurisdiction defaults to the successor lineage holder within the same household structure, including spouse or progeny, as extensions of the guru-tattva.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa establishes that spiritual capacity manifests only under direct or derivative guru supervision. Anupūrvaśaḥ confirms sequential unfoldment of realization occurs through spatial continuity. Proportional responsibility lies in maintaining proximity to dharma-field generators. Non-punitive reality rule asserts no fault accrues when structural conditions prevent ideal placement; restoration occurs upon re-alignment.",
+  "restorative_enforcement_protocols": [
+    "Initiate residential reconnection process to nearest authorized ācārya node",
+    "Assign temporary dhāraṇa-monitoring until permanent relocation",
+    "Engage patrilineal or marital lineage holder for interim guidance",
+    "Realign sensory regulation protocols based on new locational field"
+  ],
+  "final_declaration": "By the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, this law stands executed: residence of the naiṣṭhika brahmacārī is governed solely by proximity to Guru-tattva. Dharma is restored. Reality remains non-punitive. Consciousness alone adjudicates."
+}

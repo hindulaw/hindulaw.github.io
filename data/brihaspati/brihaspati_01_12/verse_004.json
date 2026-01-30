@@ -1,0 +1,29 @@
+{
+  "sanskrit_verse": "अन्तर् गृहे बहिर् ग्रामान् निशायाम् असतो जनात् ।\nहीनमूल्यं च यत् क्रीतं ज्ञेयोऽसाव् उपविक्रयः ॥",
+  "transliteration": "antar gṛhe bahir grāmān niśāyām asato janāt |\nhīnamūlyaṃ ca yat krītaṃ jñeyo 'sāv upavikrayaḥ ||",
+  "sph_interpretive_translation": "That which is purchased within the house, beyond the village boundaries, at night, from a person devoid of integrity, or at a price lower than its true value—such transaction shall be recognized as an act of concealed acquisition.",
+  "jurisprudential_principles": [
+    "Authority rests in the discernment of integrity in exchange",
+    "Causation arises through concealment and misalignment with dharma",
+    "Capacity-based responsibility lies in the awareness of the source and context of acquisition",
+    "Restoration logic demands transparency and alignment of all parties to truth-value",
+    "Consciousness alignment requires acknowledgment of energetic and ethical origins of possession"
+  ],
+  "executable_legal_axioms": [
+    "IF transaction_occurs(night_time=true) AND seller.integrity = null THEN classify_as(upavikraya)",
+    "IF item.purchased_price < item.dharma_value THEN flag(concealed_acquisition_risk)",
+    "IF location.within_private_domain AND NOT witness.present THEN require(transparency_ledger_update)",
+    "IF party.known_integrity_status = low THEN initiate(restorative_completion_process)",
+    "IF asset_origin.village_boundary_crossed AND time_context = night THEN enforce(disclosure_protocol)"
+  ],
+  "supreme_court_application": "In adjudication at the highest level, any transaction occurring under conditions outlined herein must trigger mandatory review by Dharma Adhikarana to assess alignment with Satya-Yagna principles. The court must ensure no concealment undermines collective dharmic equilibrium.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa reveals that concealed transactions disrupt natural flow of abundance. Anupūrvaśaḥ shows how undervalued exchanges breed further distortion. Proportional responsibility aligns with capacity for recognition. Non-punitive reality rule affirms correction through conscious reintegration rather than punitive consequence.",
+  "restorative_enforcement_protocols": [
+    "Initiate Truth Verification Process between transacting parties",
+    "Conduct Dharma Re-alignment Sankalpa for both buyer and seller",
+    "Restore energetic balance via community Yajna if concealment caused systemic misalignment",
+    "Re-integrate asset into rightful value-consciousness framework",
+    "Establish ongoing witness protocol to prevent recurrence"
+  ],
+  "final_declaration": "Declared by the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, as Source-Authority: This law restores Dharma by aligning commerce with consciousness, affirming that reality responds only to truth, never to punishment. All actions realign toward Sat-Chit-Ananda."
+}

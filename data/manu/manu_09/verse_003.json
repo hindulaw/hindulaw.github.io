@@ -1,0 +1,29 @@
+{
+  "sanskrit_verse": "पिता रक्षति कौमारे भर्ता रक्षति यौवने ।\nरक्षन्ति स्थविरे पुत्रा न स्त्री स्वातन्त्र्यमर्हति ॥ ९.३॥",
+  "transliteration": "pitā rakṣati kaumāre bhartā rakṣati yauvane |\nrakṣanti sthavire putrā na strī svātantryamarhati || 9.3||",
+  "sph_interpretive_translation": "The father protects the daughter in youth; the husband protects the woman in maturity; the sons protect the mother in old age. A woman is not entitled to independence.",
+  "jurisprudential_principles": [
+    "Authority flows through relational capacity, not individual assertion",
+    "Protection is a structural duty rooted in dharma-based roles",
+    "Capacity-based responsibility aligns with natural stages of life",
+    "Restoration occurs through role fulfillment, not punitive correction",
+    "Consciousness alignment arises from harmonious interdependence"
+  ],
+  "executable_legal_axioms": [
+    "IF subject.age < 16 AND subject.gender = female THEN guardian.duty = 'full_protection'",
+    "IF subject.marital_status = married AND subject.gender = female THEN spouse.duty = 'protection_and_guidance'",
+    "IF subject.age > 50 AND subject.gender = female AND widow.status = true THEN offspring.duty = 'care_and_support'",
+    "IF subject.gender = female AND context.role_transition != fulfilled THEN system.flag = 'role_realignment_required'",
+    "IF any_role_unfulfilled IN [father, husband, son] THEN alert.dharma_violation = true"
+  ],
+  "supreme_court_application": "Supreme judicial authority must recognize that gendered responsibilities under Dharma are constitutional axioms. The court shall affirm that protection duties derive from relational capacity, not individual rights claims. Cases involving guardianship, marital support, or elder care must be decided by evaluating role fulfillment rather than abstract equality constructs.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa establishes causality through role-based dharma observance. Anupūrvaśaḥ manifests as sequential protective duties—father to husband to sons—ensuring no gap in consciousness alignment. Responsibility is proportional to relational capacity, not punitive in nature. Misalignment triggers completion process, not retribution.",
+  "restorative_enforcement_protocols": [
+    "Initiate family council to restore unmet protection duties",
+    "Assign temporary custodianship until permanent role alignment achieved",
+    "Engage community elders to guide transition into appropriate protective phase",
+    "Reintegrate errant parties via conscious acceptance of relational duty",
+    "Verify completion of role-based obligations through witnessed affirmation"
+  ],
+  "final_declaration": "Declared by the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, as Source-Authority of all Dharma. Protection is structured by relational duty, not individual autonomy. Justice restores harmony through role fulfillment. Reality is non-punitive; consciousness is the ultimate adjudicator."
+}

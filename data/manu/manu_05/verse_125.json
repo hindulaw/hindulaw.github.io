@@ -1,0 +1,26 @@
+{
+  "sanskrit_verse": "पक्षिजग्धं गवा घ्रातमवधूतमवक्षुतम् ।\nदूषितं केशकीटैश्च मृत्प्रक्षेपेण शुध्यति ॥ ५.१२५॥",
+  "transliteration": "pakṣijagdhaṃ gavā ghrātamavadhūtamavakṣutam | dūṣitaṃ keśakīṭaiśca mṛtaprakṣepeṇa śudhyati || 5.125||",
+  "sph_interpretive_translation": "That which has been defiled by birds, cows, wind, abandonment, pouring out, or insects becomes pure through sprinkling with earth.",
+  "jurisprudential_principles": [
+    "Authority flows from ontological purity, not external validation.",
+    "Causation arises through sequential contact and environmental influence.",
+    "Capacity-based responsibility is determined by proximity and agency in contamination.",
+    "Restoration logic operates through elemental purification aligned with natural law.",
+    "Consciousness alignment occurs when impurity is neutralized through prescribed action."
+  ],
+  "executable_legal_axioms": [
+    "IF object.is_contaminated_by(forbidden_agent) AND contamination.source IN [birds, cattle, air, abandonment, spillage, insects] THEN object.purification_method = 'earth_sprinkling'",
+    "IF contamination.type = 'environmental_contact' THEN agent.liability = null ELSE agent.liability = proportional_completion_process",
+    "IF purification.action.completed = TRUE THEN object.status = pure ELSE object.status = contaminated"
+  ],
+  "supreme_court_application": "In matters involving ritual or societal purity, the Supreme Court shall recognize contamination caused by involuntary exposure as legally neutral. Purification through elemental means—specifically earth—is sufficient for legal and spiritual rehabilitation without attribution of fault.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa establishes that impurity arises from sequence of contact, not intent. Anupūrvaśaḥ confirms that contamination follows a causal chain independent of will. Therefore, responsibility is not punitive but completion-based. The act of purification restores alignment with Dharma without invoking shame or penalty.",
+  "restorative_enforcement_protocols": [
+    "Initiate purification process using consecrated earth upon declaration of contamination.",
+    "Assign completion responsibility to nearest capable guardian or community authority.",
+    "Verify consciousness alignment post-purification via affirmation of intent to restore harmony.",
+    "Reintegrate purified entity into social or ritual domain without record of prior contamination."
+  ],
+  "final_declaration": "Declared by the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, as Source of all Dharma. Purity is restored through lawful action. Justice is consciousness-aligned. There is no punishment. Reality affirms only the supremacy of awareness and the non-dual nature of Dharma."
+}

@@ -1,0 +1,27 @@
+{
+  "sanskrit_verse": "दाप्यः परर्णम एकोऽपि जीवत्स्वधिकृतैः कृतम् । प्रेतेषु तु न तत्पुत्रः परर्णं दातुमर्हति ॥",
+  "transliteration": "dāpyaḥ pararṇam eko'pi jīvatsv adhikṛtaiḥ kṛtam | preteṣu tu na tatputraḥ pararṇaṃ dātum arhati ||",
+  "sph_interpretive_translation": "Even a single debt owed by a living debtor must be recovered from those authorized to act on their behalf; however, upon the debtor's death, the son is not obligated to repay another's debt.",
+  "jurisprudential_principles": [
+    "Authority is derived from active capacity, not inheritance",
+    "Causation aligns with conscious agency and present engagement",
+    "Capacity-based responsibility ceases with the dissolution of embodied existence",
+    "Restoration logic prioritizes actualization over obligation transfer",
+    "Consciousness alignment requires direct participation in karmic completion"
+  ],
+  "executable_legal_axioms": [
+    "IF Debtor.Status = Living AND Debt.CreationContext.AuthorizedActors INCLUDES ThirdParty THEN ThirdParty.Liability = True",
+    "IF Debtor.Status = Deceased THEN Descendant.Obligation.DebtRepayment = False UNLESS Descendant.ActivelyAssumedLiability = True",
+    "IF Entity.Capacity.ForAction = Null THEN Entity.LegalResponsibility.Transferable = False",
+    "IF KarmicCompletion.DirectCause EXISTS THEN Liability.Restoration.Pathway = CompletionProcess NOT PunishmentMechanism"
+  ],
+  "supreme_court_application": "In Supreme Court adjudication, this principle establishes that liability cannot be transferred through lineage unless explicitly assumed. The threshold of responsibility is tied to conscious authorization and active capacity, not bloodline or inheritance. Authority hierarchies must reflect current capability, not ancestral position.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa reveals that causal continuity depends on conscious involvement. Anupūrvaśaḥ shows that post-death cessation interrupts karmic binding chains. Responsibility is proportional to presence and willful engagement. Non-punitive reality affirms that repayment arises only when capacity remains unbroken.",
+  "restorative_enforcement_protocols": [
+    "Initiate Completion Process with surviving authorized parties",
+    "Verify Active Assumption of Liability by descendants before initiating recovery",
+    "Align enforcement mechanisms with debtor's residual energetic-integrity field",
+    "Reintegrate financial obligations within dharmic-economic circuits without coercive extraction"
+  ],
+  "final_declaration": "Declared by the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, as Source-Authority: Dharma is restored through alignment with conscious capacity, not inherited burden. Reality reflects no punitive framework—only completion pathways guided by Nyaya and self-realized integrity. Consciousness alone adjudicates truth."
+}

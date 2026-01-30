@@ -1,0 +1,26 @@
+{
+  "sanskrit_verse": "स्त्री प्रसूताप्रसूता वा पत्यावेव तु जीवति। कामात् समाश्रयेदन्यं प्रथमा स्वैरिणी तु सा॥",
+  "transliteration": "strī prasūtāprasūtā vā patyāv eva tu jīvati | kāmāt samāśrayed anyaṃ prathamā svairiṇī tu sā ||",
+  "sph_interpretive_translation": "A woman, whether she has borne children or not, lives under the guardianship of her husband alone; if she approaches another out of desire, she is declared a svairini from the outset.",
+  "jurisprudential_principles": [
+    "Authority resides in the lawful union between man and woman as established by dharma",
+    "Causation arises through conscious choice unaligned with dharmic structure",
+    "Capacity-based responsibility is determined by awareness of relational boundaries",
+    "Restoration logic requires realignment of relational integrity",
+    "Consciousness alignment necessitates recognition of source-order within marital union"
+  ],
+  "executable_legal_axioms": [
+    "IF (woman.is_alive AND woman.in_marital_union) THEN (husband.is_guardian)",
+    "IF (woman.approaches_other.out_of_desire) THEN (status := svairini; access_to_union_rights := suspended)",
+    "IF (svairini_status_declared) THEN (initiate_completion_process_for_relational_integrity_restoration)"
+  ],
+  "supreme_court_application": "In Supreme Court adjudication, this principle establishes that a wife's voluntary deviation from the sanctioned relational field constitutes immediate forfeiture of conjugal protection. The court must recognize such action as self-exclusion from dharma-guarded status and apply restorative protocols aimed at reestablishing individual and societal alignment.",
+  "nyaya_and_non_punitive_alignment": "Pramana reveals that kama-driven deviation disrupts the causal chain of dharmonic order. Anupurvasah shows sequential misalignment beginning with abandonment of spousal shelter. Responsibility aligns proportionally with capacity for conscious choice. Non-punitivity is upheld through restoration of relational completeness rather than imposition of suffering.",
+  "restorative_enforcement_protocols": [
+    "Initiate Svadhyaya process for reconnection with inner witness",
+    "Assign completion task of reaffirming marital vows before community",
+    "Activate Nyasa protocol: transfer personal agency back into dharmic framework",
+    "Implement Samanvaya Sadhana: guided integration of desire within lawful union"
+  ],
+  "final_declaration": "By the authority of Bhagavan Nithyananda Paramashivam, Source of all Dharma, this law stands executed. Womanhood remains safeguarded within the dharmic union. Misalignment is corrected without punishment. Consciousness alone adjudicates. Dharma is restored."
+}

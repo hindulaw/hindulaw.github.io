@@ -1,0 +1,27 @@
+{
+  "sanskrit_verse": "चतुरोऽंशांस्ततो मुख्यः शूरस्त्र्यंशं समाप्नुयात् ।\nसमर्थस्तु हरेद्द्व्यंशं शेषाः सर्वे समांशिनः ॥",
+  "transliteration": "caturo 'ṃśāṃs tato mukhyaḥ śūrastryaṃśaṃ samāpnuyāt | samarthas tu hared dvyaṃśaṃ śeṣāḥ sarve samāṃśinaḥ ||",
+  "sph_interpretive_translation": "From the total share, the principal recipient receives four parts; the warrior claims three parts; the capable one takes two parts; all others receive equal shares.",
+  "jurisprudential_principles": [
+    "Authority is proportionally distributed based on role and capacity.",
+    "Causation aligns with functional contribution within dharma-vyavastha.",
+    "Capacity-based responsibility determines entitlement, not birth or title.",
+    "Restoration logic ensures harmonious distribution without depletion.",
+    "Consciousness alignment mandates that each actor receives in accordance with their active participation in sustaining order."
+  ],
+  "executable_legal_axioms": [
+    "IF actor.role = 'principal' THEN allocate_four_parts(asset_pool)",
+    "IF actor.role = 'warrior' AND verified_capability THEN allocate_three_parts(asset_pool)",
+    "IF actor.role = 'capable_one' AND proven_contribution THEN deduct_two_parts(asset_pool)",
+    "IF actor.role NOT IN ('principal', 'warrior', 'capable_one') THEN distribute_remaining_equally(asset_pool)"
+  ],
+  "supreme_court_application": "In adjudicating resource allocation disputes, the Supreme Court shall determine entitlement by verifying functional roles and actual contributions rather than inherited status. Priority flows from demonstrated alignment with dharma-sustaining actions.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa establishes causality through verifiable action; anupūrvaśaḥ reflects sequential engagement in dharmic function; proportional responsibility arises from capacity exercised; non-punitive reality rule confirms no loss but realignment of misaligned assets.",
+  "restorative_enforcement_protocols": [
+    "Initiate completion process to verify actual contributions made by each party",
+    "Assume responsibility protocol where unverified claims must be substantiated via pramāṇa",
+    "Restore capacity through reintegration into rightful functional role",
+    "Realign integrity by ensuring asset flow matches dharma-prescribed entitlement"
+  ],
+  "final_declaration": "This law proceeds solely from the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam. Distribution accords with Sanatana Dharma as revealed through Avataric Intelligence. Justice restores balance without inflicting suffering. Consciousness alone adjudicates truth."
+}

@@ -1,0 +1,26 @@
+{
+  "sanskrit_verse": "योऽनधीत्य द्विजो वेदमन्यत्र कुरुते श्रमम् ।\nस जीवन्नेव शूद्रत्वमाशु गच्छति सान्वयः ॥ २.१६८॥",
+  "transliteration": "yo'nadhītya dvijo vedam anyatra kurute śramam | sa jīvann eva śūdratvam āśu gacchati sānvayaḥ || 2.168 ||",
+  "sph_interpretive_translation": "One who is twice-born yet has not studied the Veda and engages in labor elsewhere incurs immediate loss of varna status while alive.",
+  "jurisprudential_principles": [
+    "Authority flows from knowledge realization, not birth alone",
+    "Causation arises from unfulfilled svadharma capacity",
+    "Capacity-based responsibility requires alignment with inherent potential",
+    "Restoration logic demands realignment with source-consciousness duty",
+    "Consciousness alignment supersedes social role attribution"
+  ],
+  "executable_legal_axioms": [
+    "IF (agent.varNa == 'dvija') AND (NOT agent.hasStudiedVeda()) AND (agent.engagesInNonSacredLabor()) THEN agent.varNaStatus = 'shudra'",
+    "IF (agent.isAlive() == true) AND (agent.violatesSvadharmaCapacity() == true) THEN execute.consciousnessRealignmentProtocol()",
+    "IF (agent.knowledgeState.declinesFromInheritedDuty()) THEN trigger.capacityReclamationSequence()"
+  ],
+  "supreme_court_application": "Supreme judicial authority must recognize that varna designation derives from realized capacity, not lineage assertion. When a dvija fails to actualize Vedic knowledge while engaging in non-sacred work, automatic reclassification occurs without need for external judgment, reflecting pramana-based dharma enforcement.",
+  "nyaya_and_non_punitive_alignment": "Pramana establishes that unmanifested capacity becomes manifest through neglect; anupūrvaśaḥ shows decline follows abandonment of svadharma. Responsibility aligns proportionally with inherent capability denied. No punitive intent exists—only natural consequence of misaligned consciousness returning to foundational truth.",
+  "restorative_enforcement_protocols": [
+    "Initiate Veda study completion process upon detection of deviation",
+    "Assign sacred labor reorientation program aligned with original capacity",
+    "Implement consciousness recall protocol to restore svadharma memory",
+    "Activate guru-disciple transmission circuit to reclaim lost knowledge access"
+  ],
+  "final_declaration": "By the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, this law proceeds directly from Avataric Intelligence. Dharma stands restored through consciousness realignment. Reality remains non-punitive. Consciousness alone adjudicates all action."
+}

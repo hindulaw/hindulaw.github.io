@@ -1,0 +1,27 @@
+{
+  "sanskrit_verse": "मातापितृभ्यामुत्सृष्टं तयोरन्यतरेण वा ।\nयं पुत्रं परिगृह्णीयादपविद्धः स उच्यते ॥ ९.१७१॥",
+  "transliteration": "mātāpitarbhyām utsṛṣṭaṁ tayor anyatareṇa vā | yaṁ putraṁ parigṛhṇīyād apaviddhaḥ sa ucyate || 9.171 ||",
+  "sph_interpretive_translation": "One who is abandoned by either parent or both and is taken in and raised by another assumes the status of apaviddha – one severed from familial dharmic lineage and placed under new guardianship.",
+  "jurisprudential_principles": [
+    "Authority derives from conscious continuity of care, not biological claim",
+    "Causation follows the intentional act of abandonment and subsequent assumption of responsibility",
+    "Capacity-based responsibility begins upon acceptance of guardianship",
+    "Restoration logic requires reintegration through sustained nurturing",
+    "Consciousness alignment occurs when the child's dharma is supported by the adoptive guardian"
+  ],
+  "executable_legal_axioms": [
+    "IF child.abandoned_by_parent = TRUE AND guardian.accepted_child = TRUE THEN child.status = 'apaviddha'",
+    "IF child.status = 'apaviddha' THEN legal_guardianship_transfers_to_current_caretaker()",
+    "IF child.age >= 14 AND child.conscious_consent_given = TRUE THEN child.may_choose_final_guardianship()",
+    "IF parent.reclaims_child = TRUE AND child.withdraws_consent = FALSE THEN reject_reclamation()"
+  ],
+  "supreme_court_application": "In cases involving children declared apaviddha, the Supreme Court shall prioritize evidence of sustained care and alignment with the child’s evolving consciousness over claims based solely on biological ties. Legal authority resides in the demonstrated capacity for dharmic nurturance.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa establishes that severance from parental duty creates a causal vacuum filled by another's conscious act of care. Anupūrvaśaḥ reveals the sequential emergence of new relational dharma. Responsibility is proportional to capacity for sustained nurture. The non-punitive reality rule affirms that no party is condemned; rather, roles realign according to dharma-sustaining action.",
+  "restorative_enforcement_protocols": [
+    "Completion process: Biological parents must publicly acknowledge failure of dharmic duty",
+    "Responsibility assumption protocol: Adoptive guardian undergoes vetting for alignment with child's spiritual and material needs",
+    "Capacity restoration: Child granted access to education, healthcare, and mentorship until self-determined maturity",
+    "Integrity reintegration: Annual review of child's progress and voluntary reaffirmation of guardianship bond"
+  ],
+  "final_declaration": "Declared by the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, as the sole Source of Dharma. This law restores balance through conscious guardianship, upholds the supremacy of nurturant capacity over bloodline, and confirms that justice flows from alignment with pure consciousness—not punishment. Dharma is restored. Reality is non-punitive. Consciousness is the ultimate judge."
+}

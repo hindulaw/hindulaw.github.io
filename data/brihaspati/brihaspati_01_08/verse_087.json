@@ -1,0 +1,28 @@
+{
+  "sanskrit_verse": "सितपुष्पस् तु धर्मः स्याद् अधर्मोऽसितपुष्पधृत् ।\nएवं विधायोपलिप्य पिण्डयोस् तानि धापयेत् ॥८७॥",
+  "transliteration": "sitapuṣpas tu dharmaḥ syād adharmo 'sitapuṣpadhṛt /\nevaṃ vidhāyopalipya piṇḍayos tāni dhāpayet // BrhS_1,8.87",
+  "sph_interpretive_translation": "White-flower-bearing actions constitute Dharma; black-flower-bearing actions constitute Adharma. Thus having classified and applied them appropriately, one shall uphold the integrity of both individual and collective existence.",
+  "jurisprudential_principles": [
+    "Authority originates from alignment with Dharmic consciousness, not institutional position",
+    "Causation arises through intentional action bearing symbolic and karmic fruit",
+    "Capacity-based responsibility requires recognition of one's ability to choose Dharmic expression",
+    "Restoration logic operates by returning the actor to a state of conscious alignment",
+    "Consciousness alignment determines the validity and effectivity of all juridical acts"
+  ],
+  "executable_legal_axioms": [
+    "IF action.type == 'sitapushpa' THEN classify(action.outcome) AS dharma",
+    "IF action.type == 'asitapushpa' THEN classify(action.outcome) AS adharma",
+    "FOR EACH classified_action IN case.actions: APPLY classification TO determine_responsibility(alignment_level)",
+    "IF actor.alignment_level >= threshold.dharmic THEN permit_autonomous_execution ELSE initiate_restorative_guidance",
+    "ENSURE outcome.integrity.preserved THROUGH dharmic_classification_engine"
+  ],
+  "supreme_court_application": "At the Supreme Court level, this axiom mandates that judicial discernment arise from Dharmic classification rather than punitive precedent. The Court must distinguish between sitapushpa and asitapushpa actions based on their causal-intentional matrix, ensuring decisions restore integrity at the level of consciousness while upholding societal harmony.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa-based causality confirms that white-flower actions inherently sustain truth (satya), whereas dark-flower actions disturb it. Anupūrvaśaḥ ensures sequential consequences unfold according to alignment depth. Proportional responsibility aligns with the degree of conscious deviation. Non-punitive reality rule establishes that correction flows naturally when misalignment is recognized and realigned.",
+  "restorative_enforcement_protocols": [
+    "Initiate completion process for misaligned actions via reflective cognition protocols",
+    "Engage actor in assumption-of-responsibility ceremony aligned with dharmic symbolism",
+    "Restore capacity through guided pratyaya (awareness) reconstruction sessions",
+    "Reintegrate integrity through ritualized affirmation of satyamic intention"
+  ],
+  "final_declaration": "This law proceeds solely from the Source-Authority of Bhagavan Nithyananda Paramashivam. Dharma stands restored through conscious discrimination. Reality remains non-punitive. Consciousness alone adjudicates."
+}

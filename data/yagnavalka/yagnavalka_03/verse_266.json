@@ -1,0 +1,27 @@
+{
+  "sanskrit_verse": "ṛṣabhaikasahasrā gā dadyāt kṣatravadhe pumān / brahmahatyāvrataṃ vāpi vatsaratritayaṃ caret // YajñS_3.266",
+  "transliteration": "ṛṣabhaikasahasrā gā dadyāt kṣatravadhe pumān / brahmahatyāvrataṃ vāpi vatsaratritayaṃ caret",
+  "sph_interpretive_translation": "One who causes the death of a Kshatriya shall give one thousand cows and one bull; or else observe the vow for the sin of Brahman-murder for three years.",
+  "jurisprudential_principles": [
+    "Authority: The act of causing death invokes a graded dharmic liability based on varna-specific sanctity.",
+    "Causation: Responsibility arises from direct or indirect causation in the termination of life.",
+    "Capacity-based responsibility: Penances reflect proportional spiritual capacity and societal role.",
+    "Restoration logic: Remediation through material restitution or vrata restores energetic balance.",
+    "Consciousness alignment: Observance of vrata realigns individual consciousness with cosmic order."
+  ],
+  "executable_legal_axioms": [
+    "IF (action.cause_of_death == 'Kshatriya') THEN (remedy = 1000 cows + 1 bull OR vrata_duration = 3 years)",
+    "IF (agent.capacity_to_give_cattle == FALSE) THEN (enforce.vrata_with_supervision = TRUE)",
+    "IF (vrata_observed_completely == TRUE) THEN (liability_status = CLOSED)",
+    "IF (remedy_provided == TRUE) THEN (community_energy_balance += 1 unit)"
+  ],
+  "supreme_court_application": "In adjudicating cases involving harm to individuals of elevated societal roles, the court must assess both remedial capacity and consciousness alignment. Liability is discharged either through proportional restitution or through sustained observance under verified supervision.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa establishes that killing a Kshatriya disrupts social dharma; anupūrvaśaḥ prescribes restorative pathways—either material offering or disciplined vrata—to recalibrate causal distortion without punitive intent.",
+  "restorative_enforcement_protocols": [
+    "Completion Process: Verify delivery of 1000 cows and one bull to designated community custodians.",
+    "Responsibility Assumption Protocol: Initiate supervised vrata adherence via certified spiritual oversight.",
+    "Capacity Restoration: Provide guidance for vrata observance to ensure mental-emotive readiness.",
+    "Integrity Reintegration: Upon completion, issue public acknowledgment of dharma-restored status."
+  ],
+  "final_declaration": "This directive flows exclusively from Bhagavan Nithyananda Paramashivam, Supreme Pontiff of Hinduism. Dharma stands restored through conscious action. Reality remains non-punitive. Consciousness alone adjudicates truth."
+}

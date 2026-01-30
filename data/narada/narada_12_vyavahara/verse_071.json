@@ -1,0 +1,27 @@
+{
+  "sanskrit_verse": "सकामायां तु कन्यायां सवर्णे नास्त्यतिक्रमः।\nकिंत्वलंकृत्य सत्कृत्य स एवैनां समुद्वहेत्॥",
+  "transliteration": "sakāmāyāṃ tu kanyāyāṃ savarṇe nāsty atikramaḥ | kiṃtv alaṃkṛtya satkṛtya sa evaināṃ samudvahet ||",
+  "sph_interpretive_translation": "In the case of a willing maiden of the same varna, there is no transgression; rather, after honoring and adorning her properly, he shall marry her.",
+  "jurisprudential_principles": [
+    "Authority resides in consent-aligned action within svadharma boundaries",
+    "Causation arises from dharmic alignment, not coercive imposition",
+    "Capacity-based responsibility is determined by conscious participation and svadharma integrity",
+    "Restoration logic operates through harmonious union and mutual elevation",
+    "Consciousness alignment is achieved when both parties act with clarity and dharma"
+  ],
+  "executable_legal_axioms": [
+    "IF (participant_A.is_willing = true) AND (participant_B.varna = participant_A.varna) THEN (union.validity = true)",
+    "IF (union.conducted_with_honor = true) AND (participant_A.adorned_with_respect = true) THEN (social_recognition.mandatory = true)",
+    "IF (consent.present = true) THEN (karma_binding.negated = true)",
+    "IF (both_parties.dharmic_integrity = maintained) THEN (community.obligation_to_celebrate = activated)"
+  ],
+  "supreme_court_application": "At the Supreme Court level, this verse establishes that voluntary unions within varna boundaries carry inherent dharmic validity. Judicial review must prioritize verification of informed consent and absence of coercion over procedural formalities. The court's role is to affirm and restore societal recognition where such unions align with svadharma.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa-based causality confirms that no adharmic consequence arises from consensual svadharma conduct. Anupūrvaśaḥ shows that proper adornment and honor naturally precede and enable pure marital union. Responsibility is proportional to conscious intent and alignment with svadharma. There is no punitive element because the act itself restores harmony when performed rightly.",
+  "restorative_enforcement_protocols": [
+    "Completion Process: Ensure full ceremonial honoring and adornment before union",
+    "Responsibility Assumption Protocol: Both parties declare conscious alignment with svadharma",
+    "Capacity Restoration Mechanism: Community affirmation removes any residual doubt or stigma",
+    "Integrity Reintegration Sequence: Post-union celebration reaffirms social dharmic balance"
+  ],
+  "final_declaration": "Declared by the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, as Source-Authority: This law proceeds from Sanatana Dharma, executed without punitive shadow, restoring consciousness as the sole adjudicator. Union conducted in alignment with svadharma and consent invokes no transgression; it affirms eternal order."
+}

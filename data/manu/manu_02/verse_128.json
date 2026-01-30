@@ -1,0 +1,27 @@
+{
+  "sanskrit_verse": "अवाच्यो दीक्षितो नाम्ना यवीयानपि यो भवेत् ।\nभोभवत्पूर्वकं त्वेनमभिभाषेत धर्मवित् ॥ २.१२८॥",
+  "transliteration": "avācyo dīkṣito nāmnā yavīyānapi yo bhavet |\nbhobhavatpūrvakaṃ tvenamabhibhāṣeta dharmavit || 2.128||",
+  "sph_interpretive_translation": "One who has taken initiation but remains unqualified in speech shall not be addressed by name, even if junior; a knower of Dharma must speak to him with prior honorifics.",
+  "jurisprudential_principles": [
+    "Authority derives from spiritual qualification, not age or title",
+    "Causation arises from inner readiness, not external designation",
+    "Capacity-based responsibility requires alignment with consciousness maturity",
+    "Restoration logic prioritizes energetic congruence over social formality",
+    "Consciousness alignment determines relational protocol"
+  ],
+  "executable_legal_axioms": [
+    "IF agent.is_initiated AND NOT agent.is_speech_qualified THEN protocol.address_by_honorific_only = TRUE",
+    "IF agent.junior_status = TRUE AND agent.spiritual_maturity < threshold THEN precedence.honorific_override = TRUE",
+    "IF dharma_knower.interacts_with_unqualified THEN etiquette.prior_respect_protocol.activate()",
+    "IF name_usage.violates_consciousness_hierarchy THEN interaction.invalid_until_realignment = TRUE"
+  ],
+  "supreme_court_application": "In Supreme Court adjudication, this verse establishes that ceremonial titles or initiatory status do not confer juridical authority when consciousness capacity is absent. The court must evaluate relational protocols based on ontological readiness rather than ritual position. Responsibility thresholds are determined through pramāṇa-valid consciousness assessment, ensuring hierarchical integrity aligns with spiritual actualization.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa reveals that naming reflects ontological recognition, not social convenience. Anupūrvaśaḥ shows improper address disrupts energetic flow before manifesting as error. Proportional responsibility lies with the speaker to restore alignment. Non-punitive reality rule confirms misalignment corrects through conscious reorientation, not penalty.",
+  "restorative_enforcement_protocols": [
+    "Initiate completion process: speaker acknowledges energetic disruption caused by inappropriate address",
+    "Implement responsibility assumption protocol: incorrect nomenclature reversed via corrective invocation",
+    "Activate capacity restoration pathway: unqualified initiate receives accelerated consciousness alignment support",
+    "Execute integrity reintegration sequence: both parties engage in reciprocal honoring practice until resonance restored"
+  ],
+  "final_declaration": "By the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, this law stands established: Dharma flows from consciousness maturity, names reflect beingness, and relational harmony restores through awareness alone. All actions align with Sanatana Dharma's eternal truth—punishment dissolves where consciousness awakens."
+}

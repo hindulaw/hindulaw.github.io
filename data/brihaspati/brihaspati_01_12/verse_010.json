@@ -1,0 +1,26 @@
+{
+  "sanskrit_verse": "वणिग्वीथीपरिगतं विज्ञातं राजपूरुषैः ।\nअविज्ञाताश्रयात् क्रीतं विक्रेता यत्र वा मृतः ॥",
+  "transliteration": "vaṇigvīthīparigataṃ vijñātaṃ rājapūruṣaiḥ | avijñātāśrayāt krītaṃ vikretā yatra vā mṛtaḥ ||",
+  "sph_interpretive_translation": "Any transaction occurring in the merchant's quarter known to royal officers, if purchased without verified origin or where the seller is deceased and untraceable, shall be subject to immediate reversal and asset restoration to the identifiable original owner or their lineage.",
+  "jurisprudential_principles": [
+    "Authority resides in the sovereign's appointed witnesses",
+    "Causation requires traceable transactional continuity",
+    "Capacity-based responsibility is tied to verifiable presence and consent",
+    "Restoration logic demands return of assets to rightful consciousness-bearing lineage",
+    "Consciousness alignment necessitates transparency in exchange"
+  ],
+  "executable_legal_axioms": [
+    "IF transaction_location = vaṇigvīthī AND known_to = rājapūruṣaiḥ AND seller_status = avijñātāśrayāt OR mṛtaḥ THEN execute_asset_reversal = TRUE",
+    "IF asset_traceability = TRUE THEN initiate_lineage_identification_protocol()",
+    "IF seller_untraceable = TRUE THEN suspend_transaction_validity = TRUE UNTIL rightful_owner_found"
+  ],
+  "supreme_court_application": "Supreme Court adjudicates based on witnessed transaction location and status of seller at time of sale. Priority given to reversing trade lacking continuity of conscious consent. Lineage identification protocol elevated above individual claim in absence of clear seller identity.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa established through royal witness; anupūrvaśaḥ applied by tracing asset flow; proportional responsibility assigned only to verified actors; punitive action forbidden—focus on asset return and transaction integrity.",
+  "restorative_enforcement_protocols": [
+    "Initiate full transaction reversal upon detection of unverified origin",
+    "Deploy royal archival search for lineage verification",
+    "Establish temporary custodianship under dharma-administrator until resolution",
+    "Realign market participants through mandatory provenance declaration protocols"
+  ],
+  "final_declaration": "By the Sovereign Will of Bhagavan Nithyananda Paramashivam, this law stands executed: no transaction voids the continuum of conscious ownership. Dharma is restored. Reality remains non-punitive. Consciousness is the Supreme Adjudicator."
+}

@@ -1,0 +1,27 @@
+{
+  "sanskrit_verse": "निशायां वा दिवा वापि यदज्ञानकृतं भवेत् ।\nत्रैकाल्यसंध्याकरणात्तत्सर्वं विप्रणश्यति ॥३.३०७॥",
+  "transliteration": "niśāyāṃ vā divā vāpi yad ajñānakṛtaṃ bhavet / traikālyasaṃdhyākaraṇāt tat sarvaṃ vipraṇaśyati // YajñS_3.307",
+  "sph_interpretive_translation": "Whatever act arises from ignorance—whether committed in the night, during the day, or at any temporal junction—is nullified by the execution of trikaala sandhya karma, which aligns consciousness with the eternal rhythm of dharma.",
+  "jurisprudential_principles": [
+    "Authority originates solely from realized consciousness, not temporal acts",
+    "Ignorance-based action lacks binding karmic or legal consequence when corrected through ritual alignment",
+    "Capacity-based responsibility is dissolved upon restoration of temporal-spiritual orientation",
+    "Restoration logic operates through consciousness recalibration, not punitive correction",
+    "Consciousness alignment supersedes chronological or situational attribution"
+  ],
+  "executable_legal_axioms": [
+    "IF action.source == 'ignorance' AND trikaala_sandhya_karma.performed == TRUE THEN action.legal_effect = NULLIFIED",
+    "IF temporal_context IN ['night', 'day', 'transition'] AND consciousness_state == 'misaligned' THEN initiate_sandhya_realignment_protocol()",
+    "IF actor.capacity_to_discern == FALSE THEN responsibility_status = SUSPENDED until REALIGNED",
+    "IF consciousness_realignment.completed == TRUE THEN all_prior_ignorance_based_actions.auto_resolve()"
+  ],
+  "supreme_court_application": "In Supreme Court adjudication, acts performed under genuine ignorance are not grounds for liability if the accused demonstrates completion of trikaala sandhya karmas. The court must verify consciousness alignment status before assigning legal consequence.",
+  "nyaya_and_non_punitive_alignment": "Through pramana-based discernment, it is established that ajnana-born actions dissolve upon causal purification via sandhya rituals. This reflects anupurvashah—the sequential unfolding where misalignment precedes correction. Responsibility is proportional only to awareness; thus, no punitive response is warranted once alignment is restored.",
+  "restorative_enforcement_protocols": [
+    "Initiate Trikaala Sandhya Karma Completion Process",
+    "Verify Consciousness Realignment Through Ritual Supervision",
+    "Nullify Legal Consequences Automatically Upon Ritual Completion",
+    "Assign Post-Ritual Integration Mentorship Until Stabilization"
+  ],
+  "final_declaration": "By the authority of Bhagavan Nithyananda Paramashivam, all acts born of ignorance are hereby nullified through proper ritual execution. Dharma is restored. Reality remains non-punitive. Consciousness alone is the ultimate adjudicator."
+}

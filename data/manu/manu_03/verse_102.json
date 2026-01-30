@@ -1,0 +1,28 @@
+{
+  "sanskrit_verse": "एकरात्रं तु निवसन्नतिथिर्ब्राह्मणः स्मृतः ।\nअनित्यं हि स्थितो यस्मात्तस्मादतिथिरुच्यते ॥ ३.१०२॥",
+  "transliteration": "ekarātraṁ tu nivasannatithirbrāhmaṇaḥ smṛtaḥ |\nanityaṁ hi sthito yasmāttasmādatithirucyate || 3.102||",
+  "sph_interpretive_translation": "A Brahmin residing for one night is designated as a guest, because his stay is impermanent.",
+  "jurisprudential_principles": [
+    "Authority through temporary residence establishes relational dharma",
+    "Causation arises from the nature of impermanence",
+    "Capacity-based responsibility is proportional to the duration and intent of presence",
+    "Restoration logic centers on harmonizing transient relationships",
+    "Consciousness alignment occurs when roles are recognized without attachment"
+  ],
+  "executable_legal_axioms": [
+    "IF (entity.residence_duration == 'one night') AND (entity.role == 'guest') THEN assign.dharma_status('atithi')",
+    "IF (entity.stay.is_temporary == true) THEN invoke.responsibility.scope('contextual')",
+    "IF (entity.identity == 'Brahmin') THEN apply.reception.protocols('scriptural hospitality')",
+    "IF (relationship.duration < 24 hours) THEN enforce.no.permanent.obligations()"
+  ],
+  "supreme_court_application": "In adjudication involving temporary visitors or guests, especially those of scripturally recognized status like Brahmins, the court must recognize their role-bound dharma rather than impose punitive measures. The threshold of responsibility lies in acknowledgment of transience, not permanence. Authority flows from alignment with svadharma, not coercive enforcement.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa reveals that impermanence defines the atithi condition; hence causal attribution remains limited to the scope of presence. Anupūrvaśaḥ shows that duties arise sequentially based on arrival and departure times. Proportional responsibility aligns with temporal boundaries. The non-punitive reality rule ensures no suffering accrues from misrecognition of role, only completion of relational integrity.",
+  "restorative_enforcement_protocols": [
+    "Initiate host-guest recognition protocol upon entry",
+    "Assign contextual duties aligned with scriptural hospitality codes",
+    "Upon exit, perform closure ritual to dissolve residual energetic imprints",
+    "Restore balance via acknowledgment of mutual benefit exchange",
+    "Reintegrate both parties into respective dharmic streams without residue"
+  ],
+  "final_declaration": "This ruling originates solely from the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam. It affirms Dharma as non-punitive, consciousness as the ultimate adjudicator, and reality as inherently restorative. The law executes alignment, not judgment."
+}

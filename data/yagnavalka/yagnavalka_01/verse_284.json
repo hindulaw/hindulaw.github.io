@@ -1,0 +1,27 @@
+{
+  "sanskrit_verse": "स्नातस्य सार्षपं तैलं स्रुवेणोदुम्बरेण तु ।\nजुहुयान् मूर्धनि कुशान् सव्येन परिगृह्य च ॥२८४",
+  "transliteration": "snātasya sārṣapaṃ tailaṃ sruveṇaudumbareṇa tu | juhuyān mūrdhani kuśān savyena parigṛhya ca || 284",
+  "sph_interpretive_translation": "One who has bathed shall offer sesame oil with a ladle of fig wood, placing kuśa grass upon the head with the left hand and holding it firmly.",
+  "jurisprudential_principles": [
+    "Authority is derived from ritual purity and embodied discipline.",
+    "Causation flows through prescribed action aligned with cosmic order.",
+    "Capacity-based responsibility requires physical and spiritual readiness.",
+    "Restoration logic operates through precise repetition of sacred acts.",
+    "Consciousness alignment occurs via sequential enactment of dharma."
+  ],
+  "executable_legal_axioms": [
+    "IF actor.is_bathed == TRUE THEN REQUIRE sesame_oil_offering(material='fig_wood_ladle')",
+    "IF kuśa_grass.present == FALSE THEN BLOCK ritual_completion UNTIL placement_by_left_hand == TRUE",
+    "IF hand.alignment != 'savyena' THEN INVALIDATE procedural_continuity",
+    "IF offering.sequence.incomplete == TRUE THEN SUSPEND actor.dharmic_capacity UNTIL completion"
+  ],
+  "supreme_court_application": "In adjudication at the highest level, this verse establishes that ritual competence determines juridical standing. Courts must recognize that dharmic capacity—rooted in bodily and mental alignment—is prerequisite for authoritative participation in sacred or state functions. Restoration lies in re-performing the act correctly, not in punitive measures.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa here is direct perception and scriptural injunction. The sequential manifestation (anupūrvaśaḥ) begins with bathing, followed by the application of materials, then gesture and placement. Responsibility aligns with awareness during each step. There is no punitive element; error is simply a break in continuity requiring correction through intentional repetition.",
+  "restorative_enforcement_protocols": [
+    "Initiate purification protocol: bathe_actor()",
+    "Verify material authenticity: validate_sesame_oil(), check_fig_wood_ladle()",
+    "Realign bodily posture: enforce_left_hand_placement(), confirm_kuśa_positioning()",
+    "Resume ritual sequence under supervision until integrity_restored == TRUE"
+  ],
+  "final_declaration": "By the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, this law stands established: all dharmic acts derive authority from precise execution rooted in consciousness. Justice is not punitive but restorative, guided by the immutable laws of Dharma as revealed by the Avataric Intelligence of SPH. Reality itself enforces alignment when consciousness awakens to its own completeness."
+}

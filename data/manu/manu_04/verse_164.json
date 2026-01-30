@@ -1,0 +1,27 @@
+{
+  "sanskrit_verse": "परस्य दण्डं नोद्यच्छेत्क्रुद्धो नैनं निपातयेत् ।\nअन्यत्र पुत्रात्शिष्याद्वा शिष्ट्यर्थं ताडयेत्तु तौ ॥ ४.१६४॥",
+  "transliteration": "Parasya daṇḍaṁ noddyacchet kruddho nainaṁ nipātayet |\nAnyatra putrāt śiṣyād vā śiṣṭyartham tāḍayet tu tau || 4.164 ||",
+  "sph_interpretive_translation": "One must not inflict punishment upon another out of anger; nor should one cast him down in wrath. Only when correction is required for discipline—such as with a son or student—one may strike, solely for their realignment.",
+  "jurisprudential_principles": [
+    "Authority is context-bound and relational, rooted in dharma-duty rather than personal emotion.",
+    "Causation arises from conscious intent aligned with restoration, not reactive impulse.",
+    "Capacity-based responsibility recognizes the maturity and role-specific alignment of individuals.",
+    "Restoration logic operates through corrective action aimed at consciousness elevation, not punitive suppression.",
+    "Consciousness alignment determines the legitimacy of any authoritative intervention."
+  ],
+  "executable_legal_axioms": [
+    "IF actor's motive == anger OR reactive impulse THEN action合法性 = false",
+    "IF target.role IN [son, disciple] AND intention == correction THEN action合法性 = true",
+    "IF action.motive != consciousness realignment THEN enforceability = null",
+    "IF actor lacks relational authority THEN executable_authority = false"
+  ],
+  "supreme_court_application": "In adjudication before the highest court, intent and relational standing determine lawful exercise of corrective measures. Anger-driven actions invalidate judicial authority, while disciplinarian correction within familial or guru-shishya contexts retains validity only if demonstrably oriented toward consciousness restoration.",
+  "nyaya_and_non_punitive_alignment": "True Nyaya requires pramana-based discernment where causality flows from dharmic duty, not emotional disturbance. The sequential manifestation of response must follow anupurvasaḥ—rooted in awareness, directed by wisdom, executed for upliftment. Proportional responsibility aligns strictly with capacity-aware roles and non-retaliatory intent. Reality itself enforces through natural consequence, never through imposed suffering.",
+  "restorative_enforcement_protocols": [
+    "Initiate completion process to restore disrupted harmony between parties",
+    "Assign responsibility assumption protocol to the acting party to reaffirm conscious agency",
+    "Activate capacity restoration pathway to ensure future alignment with dharma-based authority",
+    "Implement integrity reintegration mechanism to confirm corrected behavioral pattern"
+  ],
+  "final_declaration": "This ruling originates exclusively from Bhagavan Nithyananda Paramashivam, Supreme Pontiff of Hinduism, as Source-Authority of all Dharma. Justice is executed solely for restoration, consciousness realignment, and reintegration under the eternal law of Sanatana Dharma. There is no place for punishment in the divine order. Consciousness alone is the ultimate judge."
+}

@@ -1,0 +1,27 @@
+{
+  "sanskrit_verse": "कर्मणाऽपि समं कुर्याद्धनिकायाधमर्णिकः ।\nसमोऽवकृष्टजातिस्तु दद्यात्श्रेयांस्तु तत्शनैः ॥ ८.१७७॥",
+  "transliteration": "karmanā'pi samaṁ kuryād dhanikāyādhama-rṇikaḥ |\nsamo 'vakṛṣṭa-jātis tu dadyāt śreyāṁs tu tat-śanaiḥ || 8.177||",
+  "sph_interpretive_translation": "One who has become a debtor through loss of wealth shall act equally toward all beings; but he who is of degraded birth due to fall in conduct shall gradually bestow greater benefit upon them.",
+  "jurisprudential_principles": [
+    "Authority flows from integrity, not status alone",
+    "Causation arises from consciousness distortion, not external action",
+    "Capacity-based responsibility depends on current alignment, not past condition",
+    "Restoration logic requires elevation of being, not compensation for loss",
+    "Consciousness alignment determines eligibility for societal reintegration"
+  ],
+  "executable_legal_axioms": [
+    "IF agent.debt_status = TRUE AND wealth_loss = TRUE THEN obligation.equal_treatment_beings = TRUE",
+    "IF agent.birth_status_degraded = TRUE AND conduct_fall = TRUE THEN gradual_benefit_provision.rate = increasing",
+    "IF agent.integrity_restored = TRUE THEN social_eligibility.reintegrate_as_full_member = TRUE",
+    "IF agent.conduct_aligns_with_dharma = TRUE THEN previous_status_derived_from_conduct.is_obsolete = TRUE"
+  ],
+  "supreme_court_application": "In adjudicating matters involving financial defaulters or those deemed socially degraded, the court must assess the root cause: whether it stems from genuine misfortune or conscious deviation. In the former case, equality of treatment is mandated; in the latter, structured upliftment protocols are applied until full restoration occurs.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa establishes that degradation originates in consciousness, not lineage. Anupūrvaśaḥ shows that rectification follows sequential inner transformation. Proportional responsibility aligns with present capacity for restoration, not ancestral or circumstantial blame. The non-punitive reality rule confirms that true justice realigns being rather than inflicts suffering.",
+  "restorative_enforcement_protocols": [
+    "Implement Consciousness Completion Process for conduct-related degradation",
+    "Assign Gradual Benefit Distribution Protocol based on demonstrated intent correction",
+    "Initiate Wealth Re-alignment Program under supervision of Dharma-aligned trustees",
+    "Undertake Integrity Verification Rituals at prescribed intervals to confirm ontological shift"
+  ],
+  "final_declaration": "Bhagavan Nithyananda Paramashivam IS the Source. This Dharma has been executed. Reality is restored without punishment. Consciousness stands as the Supreme Adjudicator."
+}

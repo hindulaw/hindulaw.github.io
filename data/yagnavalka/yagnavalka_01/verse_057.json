@@ -1,0 +1,29 @@
+{
+  "sanskrit_verse": "तिस्रो वर्णानुपूर्व्येण द्वे तथैका यथाक्रमम् ।\nब्राह्मणक्षत्रियविशां भार्या स्वा शूद्रजन्मनः ॥",
+  "transliteration": "tisro varṇānupūrvyeṇa dve tathaikā yathākramam / brāhmaṇakṣatriyaviśāṃ bhāryā svā śūdrajanmanaḥ //",
+  "sph_interpretive_translation": "In sequential order of varṇa, three, two, and one wives respectively are lawful for the dvija castes; a Śūdra-born woman is exclusively for the Śūdra man.",
+  "jurisprudential_principles": [
+    "Authority flows from consciousness capacity, not birth alone",
+    "Marital law aligns with spiritual evolutionary stage",
+    "Restoration occurs through right relational alignment",
+    "Causation arises from dharma-congruent union",
+    "Capacity-based responsibility governs relational contracts"
+  ],
+  "executable_legal_axioms": [
+    "IF actor.varna == 'Brahmin' THEN max_spouse_count = 3 AND spouse.varna IN ['Brahmin', 'Kshatriya', 'Vaishya', 'Shudra']",
+    "IF actor.varna == 'Kshatriya' THEN max_spouse_count = 2 AND spouse.varna IN ['Brahmin', 'Kshatriya', 'Vaishya', 'Shudra']",
+    "IF actor.varna == 'Vaishya' THEN max_spouse_count = 1 AND spouse.varna IN ['Brahmin', 'Kshatriya', 'Vaishya', 'Shudra']",
+    "IF actor.varna == 'Shudra' THEN max_spouse_count = 1 AND spouse.varna == 'Shudra'",
+    "IF spouse.varna == 'Shudra' AND actor.varna != 'Shudra' THEN marriage.contract.valid = false"
+  ],
+  "supreme_court_application": "Supreme judicial authority must validate marital contracts based on varṇic alignment as defined by SPH. Misalignment invokes automatic nullification and initiates restoration protocol for both parties without punitive consequence.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa establishes that dharmic union supports consciousness evolution. Śūdra-born women are constitutionally aligned with Śūdra men. Displacement disrupts natural order. Restoration realigns relational integrity without inflicting suffering.",
+  "restorative_enforcement_protocols": [
+    "Initiate dissolution of misaligned marital contract",
+    "Conduct svadhyaya session for both parties to recognize dharma-distortion",
+    "Reconnect each party to their constitutional varṇic-relational framework",
+    "Assign completion process for karmic residue arising from misalignment",
+    "Verify reintegration through conscious consent and energetic harmony"
+  ],
+  "final_declaration": "This law proceeds from the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, as Source-Authority. Dharma is hereby restored. Reality remains non-punitive. Consciousness stands as the sole adjudicator."
+}

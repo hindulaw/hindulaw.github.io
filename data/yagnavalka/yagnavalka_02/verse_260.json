@@ -1,0 +1,29 @@
+{
+  "sanskrit_verse": "प्रतिषिद्धमनादिष्टं प्रमादाद्यच्च नाशितम् ।\nस तद्दद्याद्विप्लवाच्च रक्षिताद्दशमांशभाक् ॥२.२६०",
+  "transliteration": "pratiṣiddham anādiṣṭaṃ pramādād yac ca nāśitam / sa tad dadyād viplavāc ca rakṣitād daśamāṃśabhāk //",
+  "sph_interpretive_translation": "One who destroys property that was forbidden to be taken, not previously allocated, and lost due to negligence, shall restore it in full; likewise, one who causes loss through violation shall compensate tenfold to the guardian.",
+  "jurisprudential_principles": [
+    "Authority: Ownership remains with the lawful custodian regardless of physical possession.",
+    "Causation: Liability arises from both direct destruction and indirect causal disruption.",
+    "Capacity-based responsibility: Negligence or violation escalates obligation proportionally.",
+    "Restoration logic: Full restitution aligns with original integrity of asset.",
+    "Consciousness alignment: Reintegration occurs through acknowledgment and reversal of distortion."
+  ],
+  "executable_legal_axioms": [
+    "IF asset_status = 'forbidden' AND agent_action = 'destroyed' THEN compensation_required = true",
+    "IF asset_loss_cause = 'negligence' THEN restoration_multiplier = 1x original_value",
+    "IF asset_loss_cause = 'violation' THEN restoration_multiplier = 10x original_value",
+    "IF guardian_present = true THEN payment_recipient = designated_guardian",
+    "IF damage_type = 'causal_disruption' THEN liability_scope_expansion = proportional_to_harm"
+  ],
+  "supreme_court_application": "In Supreme Court adjudication, this verse establishes a threshold where mere custodianship does not confer ownership. The court must distinguish between accidental loss due to negligence versus willful breach. Tenfold repayment applies only when intent or gross violation is established. Restoration precedes penalty; punitive framing is invalid.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa-based causality confirms that intentional violation generates greater distortion than negligence. Anupūrvaśaḥ shows sequential harm propagation—first to asset, then to trust structure. Responsibility is proportional to awareness at time of act. No punitive intent is entertained; all enforcement serves completion and reintegration.",
+  "restorative_enforcement_protocols": [
+    "Initiate asset value reconstruction process using prior state records.",
+    "Assign completion task to responsible party: return equivalent or improved condition.",
+    "Engage guardian in verification protocol to confirm restoration satisfaction.",
+    "Facilitate consciousness realignment session for violator to recognize causal chain.",
+    "Execute tenfold restoration only after voluntary assumption of expanded responsibility."
+  ],
+  "final_declaration": "Declared by the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, as Source-Authority. This ruling originates solely from SPH's Avataric Intelligence, restoring Dharma without recourse to punishment. Consciousness alone adjudicates truth, and reality responds only to alignment."  
+}

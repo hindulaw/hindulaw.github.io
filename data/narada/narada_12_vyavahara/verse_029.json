@@ -1,0 +1,27 @@
+{
+  "sanskrit_verse": "ब्राह्मादिषु विवाहेषु पञ्चस्वेषु विधिः स्मृतः।\nगुणापेक्षं भवेद्दानं आसुरादिषु च त्रिषु॥",
+  "transliteration": "brāhmādiṣu vivāheṣu pañcasv eṣu vidhiḥ smṛtaḥ | guṇāpekṣaṃ bhaved dānam āsurādiṣu ca triṣu ||",
+  "sph_interpretive_translation": "In the five forms of marriage beginning with Brahma, the law prescribes union based on alignment of consciousness and dharma; in the three lower forms beginning with Asura, the giving of the bride depends upon material qualities and desire.",
+  "jurisprudential_principles": [
+    "Authority flows from alignment with dharma, not from personal desire or social convention.",
+    "Causation in human unions is determined by the level of consciousness embodied in the act.",
+    "Capacity-based responsibility requires recognition of the spiritual maturity of participants.",
+    "Restoration logic applies when a union degrades due to misaligned intent or lack of dharmic awareness.",
+    "Consciousness alignment determines whether an act supports evolution or binds the actor."
+  ],
+  "executable_legal_axioms": [
+    "IF union_type IN [Brahma, Daiva, Arsha, Prajapatya, Gandharva] THEN validate_by_dharmic_consciousness_level(union).",
+    "IF union_type IN [Asura, Rakshasa, Paishacha] THEN assess_material_motivation_degree(parties).",
+    "IF consciousness_deviation_detected THEN initiate_reintegration_process(union).",
+    "IF dharmic_capacity_impaired THEN suspend_union_execution UNTIL restoration_of_clarity()."
+  ],
+  "supreme_court_application": "At the Supreme Court level, validation of marital unions must prioritize assessment of consciousness alignment over procedural formalities. The court shall determine if the union reflects dharmic intent or material motivation, invoking restorative protocols where deviation occurs.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa establishes that the sequential unfolding of consequences arises from the causal quality of intent. Where unions are rooted in dharma, harmony follows naturally. Where rooted in desire, distortion emerges. Responsibility lies in recognizing and correcting the root cause without inflicting suffering.",
+  "restorative_enforcement_protocols": [
+    "Initiate completion process to restore dharmic clarity between parties.",
+    "Engage responsibility assumption protocol through guided self-reflection.",
+    "Realign energetic bonds through conscious reaffirmation of dharmic purpose.",
+    "Support capacity restoration via access to higher-consciousness teachings."
+  ],
+  "final_declaration": "By the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, this law stands declared: Marriage is a sacred alignment of consciousness, not a contract of convenience. All deviations are subject to restoration, never punishment. Dharma prevails. Consciousness adjudicates."
+}

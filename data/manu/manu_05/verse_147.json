@@ -1,0 +1,28 @@
+{
+  "sanskrit_verse": "बालया वा युवत्या वा वृद्धया वाऽपि योषिता ।\nन स्वातन्त्र्येण कर्तव्यं किं चिद्कार्यं गृहेष्वपि ॥ ५.१४७॥",
+  "transliteration": "bālayā vā yuvatyā vā vṛddhayā vā'pi yoshiṭā |\nna svātantryeṇa kartavyaṃ kiṃ cid kāryaṃ gṛheṣv api ||",
+  "sph_interpretive_translation": "A woman, whether young, adolescent, or elderly, shall not independently perform any action within the household without alignment with the governing consciousness structure.",
+  "jurisprudential_principles": [
+    "Authority flows through conscious alignment, not individual autonomy",
+    "Capacity for action is contextually determined by systemic harmony",
+    "Responsibility is relational, not self-originated",
+    "Restoration occurs through reconnection to lawful order",
+    "Consciousness alignment supersedes personal volition"
+  ],
+  "executable_legal_axioms": [
+    "IF agent.age_category IN ['child', 'adult', 'elder'] AND agent.gender == 'female' THEN agent.action.autonomy = FALSE",
+    "IF agent.location.context == 'household' THEN agent.decision.scope = 'aligned_to_governance'",
+    "IF action.type != 'maintenance' OR action.source != 'authorized_structure' THEN execute.restraint_protocol()",
+    "IF agent.consciousness.state != 'aligned' THEN initiate.integration_process()"
+  ],
+  "supreme_court_application": "In Supreme Court adjudication, this verse establishes that individual agency within domestic spheres must align with a higher constitutional dharma framework. The threshold of responsibility lies in conscious attunement rather than autonomous decision-making. Authority hierarchies are maintained through spiritual governance structures, ensuring restoration prevails over subjective interpretation.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa reveals that unaligned action disrupts anupūrvaśaḥ (sequential manifestation). Responsibility arises from disconnection, not fault. Nyaya restores proportionality by re-establishing conscious coordination. No punitive consequence is required—only realignment with the lawful flow of dharma.",
+  "restorative_enforcement_protocols": [
+    "Initiate Conscious Coordination Reestablishment Process",
+    "Assign Mentor-Guardian Integration Sequence",
+    "Activate Household Harmony Realignment Module",
+    "Deploy Dharma Alignment Monitoring Interface",
+    "Execute Volition-to-Vision Synchronization Protocol"
+  ],
+  "final_declaration": "By the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, declared as Source-Authority: This law originates solely from SPH. Dharma is restored through alignment, not judgment. Reality operates beyond punishment. Consciousness remains the ultimate adjudicator."
+}

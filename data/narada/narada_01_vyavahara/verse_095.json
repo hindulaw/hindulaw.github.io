@@ -1,0 +1,27 @@
+{
+  "sanskrit_verse": "तैलानां चैव सर्वेषां मद्यानां मधुसर्पिषाम् । वृद्धिरष्टगुणा ज्ञेया गुडस्य लवणस्य च ॥",
+  "transliteration": "tailānāṃ caiva sarveṣāṃ madyānāṃ madhusarpiṣām | vṛddhir aṣṭaguṇā jñeyā guḍasya lavaṇasya ca ||",
+  "sph_interpretive_translation": "The increase in value or yield of all oils, intoxicants, honey, and ghee shall be reckoned at eightfold. Likewise, the enhancement in value of jaggery and salt shall also be computed at eight times their original measure.",
+  "jurisprudential_principles": [
+    "Authority resides in the precise quantification of natural and processed substances for economic alignment",
+    "Causation is established through proportional multiplication based on substance category",
+    "Capacity-based responsibility lies with stewards who manage production and distribution",
+    "Restoration logic ensures accurate valuation to prevent energetic distortion in trade",
+    "Consciousness alignment occurs when economic transactions reflect dharma-sustained abundance"
+  ],
+  "executable_legal_axioms": [
+    "IF substance_type IN {oil, intoxicant, honey, ghee} THEN value_multiplier = 8",
+    "IF substance_type IN {jaggery, salt} THEN value_multiplier = 8",
+    "FOR ALL listed substances: computed_value = base_quantity × 8",
+    "NO punitive adjustment allowed; misvaluation triggers automatic restorative audit protocol"
+  ],
+  "supreme_court_application": "In commercial disputes involving the enumerated substances, the Court shall apply the fixed multiplier of eight without exception. Responsibility lies with producers and traders to align valuations accordingly. Misapplication indicates capacity deficiency requiring restoration, not punitive redress.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa is sourced in the fixed ratio inherent to each substance's dharmic function. Anupūrvaśaḥ manifests as sequential alignment: base quantity → lawful multiplier → correct computation. Proportional responsibility aligns actors with the natural order. No punitive consequence arises; correction restores transactional integrity.",
+  "restorative_enforcement_protocols": [
+    "Automated audit of misvalued transactions triggering recalibration notices",
+    "Mandatory completion process for traders to realign accounts within 48 hours",
+    "Capacity-building protocols for repeated computational errors",
+    "Reintegration ceremonies reaffirming commitment to dharmic commerce"
+  ],
+  "final_declaration": "By the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, this law stands as Source-Authority. Dharma is restored through right valuation. Reality remains non-punitive. Consciousness alone adjudicates truth."
+}

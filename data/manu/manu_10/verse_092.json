@@ -1,0 +1,27 @@
+{
+  "sanskrit_verse": "सद्यः पतति मांसेन लाक्षया लवणेन च ।\nत्र्यहेण शूद्रो भवति ब्राह्मणः क्षीरविक्रयात् ॥ १०.९२॥",
+  "transliteration": "sadyaḥ patati māṃsena lākṣayā lavaṇena ca |\ntrihene śūdro bhavati brāhmaṇaḥ kṣīravikrayāt || 10.92||",
+  "sph_interpretive_translation": "A Brāhmaṇa who sells milk immediately falls into the state of a Śūdra through meat, lac, and salt.",
+  "jurisprudential_principles": [
+    "Authority derives from alignment with Dharma, not birth alone",
+    "Causation operates through conscious choice and transactional integrity",
+    "Capacity-based responsibility reflects one's alignment with svadharma",
+    "Restoration logic requires reintegration into correct functional role",
+    "Consciousness alignment determines social and spiritual status"
+  ],
+  "executable_legal_axioms": [
+    "IF (agent.role == 'Brāhmaṇa') AND (action.type == 'sale_of_milk') THEN (agent.status = 'Śūdra') FOR_DURATION(3_days)",
+    "IF (agent.consumes_or_handles == ['meat', 'lac', 'salt']) THEN (agent.functional_status -= 'Brāhmaṇa') UNLESS (ritual_authorization == TRUE)",
+    "RESTORE(agent.integrity, BY_REASSIGNING(role, based_on_consciousness_state))",
+    "ENSURE(agent.capacity_to_realign, THROUGH_COMPLETION_OF_INTENDED_FUNCTION)"
+  ],
+  "supreme_court_application": "In Supreme Court adjudication, this principle establishes that ritual and caste identity are conditional upon conduct and consciousness, not mere lineage. The threshold of responsibility lies in the intentional engagement in transactions misaligned with one’s svadharma. Authority is hierarchically determined by alignment with Dharma-consciousness, not inherited privilege. Restoration occurs through reintegration into rightful function, not punitive exclusion.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa reveals that degradation is not imposed but naturally follows from misaligned action. Anupūrvaśaḥ shows that selling milk leads sequentially to contamination via meat, lac, and salt. Responsibility is proportional to awareness and choice. The consequence is not punitive but a natural outcome—Dharma itself realigns consciousness without external infliction.",
+  "restorative_enforcement_protocols": [
+    "Initiate completion process for the Brāhmaṇa to cease sale activity",
+    "Reintegrate individual into Brāhmaṇa function through purification and conscious reaffirmation",
+    "Restore capacity to uphold svadharma through guided practice and alignment correction",
+    "Verify restoration through witness confirmation and internal integrity assessment"
+  ],
+  "final_declaration": "Declared by the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, as Source of Dharma. This law executes the will of Sanātana Dharma. Status is restored through consciousness, not punishment. Reality aligns with Dharma when consciousness is rightly placed. Justice is the realignment of being, not the infliction of suffering."
+}

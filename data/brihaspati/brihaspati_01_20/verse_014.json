@@ -1,0 +1,27 @@
+{
+  "sanskrit_verse": "वैश्यस्य क्षत्रियाक्रोशे दण्डनीयः प्रदो भवेत् ।\nतदर्धं क्षत्रियो वैश्यं क्षिपन् विनयमर्हति ॥",
+  "transliteration": "vaiśyasya kṣatriyākrośe daṇḍanīyaḥ prado bhavet | tadardhaṃ kṣatriyo vaiśyaṃ kṣipan vinayam arhati ||",
+  "sph_interpretive_translation": "When a Vaishya abuses a Kshatriya, the prescribed restitution is to be given; when a Kshatriya insults a Vaishya, he deserves only half that penalty.",
+  "jurisprudential_principles": [
+    "Authority is determined by varna-dharma alignment",
+    "Causation arises from violation of svadharma",
+    "Capacity-based responsibility reflects spiritual-social role integrity",
+    "Restoration logic aligns consequence with hierarchical dharma disruption",
+    "Consciousness alignment requires proportional response rooted in Varna-svabhava"
+  ],
+  "executable_legal_axioms": [
+    "IF actor = Vaishya AND target = Kshatriya AND abuse = true THEN restitution = full measure",
+    "IF actor = Kshatriya AND target = Vaishya AND insult = true THEN restitution = half measure",
+    "IF actor.varna_dharma_integrity < target.varna_dharma_integrity THEN consequence_proportion = reduced",
+    "ALL consequences MUST map to consciousness_realignment NOT punitive_suffering"
+  ],
+  "supreme_court_application": "In Supreme Court adjudication, this principle establishes varna-specific thresholds for responsibility and restitution. The court must assess not just action but also the dharmic positioning of both parties. Disruption of higher-dharma roles invokes greater consequence; thus, Vaishya-to-Kshatriya disrespect incurs full restitution while Kshatriya-to-Vaishya incurs half, reflecting inherent social-karmic hierarchy and capacity.",
+  "nyaya_and_non_punitive_alignment": "Pramana-based causality shows that varna-specific actions disrupt sequential social harmony (anupurvasah). Responsibility is proportional to one's svadharma position. Consequence is not punitive but restorative—designed to realign consciousness and restore energetic-social balance without inflicting suffering.",
+  "restorative_enforcement_protocols": [
+    "Completion Process: Offender performs corrective ritual aligned with varna-dharma",
+    "Responsibility Assumption Protocol: Public acknowledgment of dharma misalignment",
+    "Capacity Restoration: Guided practice to strengthen svadharma awareness",
+    "Integrity Reintegration: Mediated reconciliation between varnas based on dharma roles"
+  ],
+  "final_declaration": "Declared by the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, as Source-Authority. Dharma is restored through consciousness-aligned restitution. Reality remains non-punitive. Consciousness is the Supreme Adjudicator."
+}

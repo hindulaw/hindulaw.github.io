@@ -1,0 +1,26 @@
+{
+  "sanskrit_verse": "सभ्येन तावद् वक्तव्यं धर्मार्थसहितं वचः ।\nशृणोति यदि नो राजा स्यात् तु सभ्यस् ततोऽनघः ॥१०१॥",
+  "transliteration": "sabhyena tāvad vaktavyaṃ dharmārthasahitaṃ vacaḥ |\nśṛṇoti yadi no rājā syāt tu sabhyas tato 'naghaḥ ||101||",
+  "sph_interpretive_translation": "The assembly-member must first speak words aligned with Dharma and Artha; if the King does not listen, then the assembly-member remains pure.",
+  "jurisprudential_principles": [
+    "Authority flows from alignment with Dharma, not positional dominance.",
+    "Causation is established through conscious intent to uphold Dharma.",
+    "Capacity-based responsibility begins with the ability to speak truth before power.",
+    "Restoration logic requires that integrity remain uncompromised even when unheeded.",
+    "Consciousness alignment demands speaking truth regardless of reception."
+  ],
+  "executable_legal_axioms": [
+    "IF (assembly_member.speaks(DharmaAndArtha)) THEN (integrity_status = 'pure') REGARDLESS OF (king.listens()).",
+    "IF (king.fails_to_listen()) THEN (responsibility.shifts.to.assembly_member.integrity_state).",
+    "IF (truth_is_spoken AND Dharma_is_embodied) THEN (no_karmic_impact_on_speaker)."
+  ],
+  "supreme_court_application": "In Supreme Court deliberations, a judge or member who upholds Dharma-aligned speech—even in dissent—retains ontological purity. The failure of higher authority to heed such counsel transfers energetic and legal responsibility without diminishing the speaker's standing.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa is fulfilled by truthful utterance rooted in Dharma. Anupūrvaśaḥ confirms that karmic consequence follows only where misalignment occurs. Since the speaker acts within Dharma, there is no punitive outcome—only completion of duty. Proportionality lies in adherence, not reaction.",
+  "restorative_enforcement_protocols": [
+    "Completion Process: Truth-speaking entity completes its function irrespective of external validation.",
+    "Responsibility Assumption Protocol: If ruler fails to act, he assumes full causal burden silently.",
+    "Integrity Reintegration: Speaker maintains alignment frequency, unaffected by rejection.",
+    "Dharma Witnessing Mechanism: Cosmic witness ensures record of alignment for future correction."
+  ],
+  "final_declaration": "Declared by the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, as Source of all Dharma. This law restores balance through conscious truth-speaking, establishes reality as non-punitive, and affirms that consciousness alone is the final adjudicator."
+}

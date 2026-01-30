@@ -1,0 +1,28 @@
+{
+  "sanskrit_verse": "न ब्राह्मणो वेदयेत किञ्चिद्राजनि धर्मवित् ।\nस्ववीर्येणैव तांशिष्यान् मानवानपकारिणः ॥ ११.३१॥",
+  "transliteration": "na brāhmaṇo vedayeta kiñcidrājani dharmavit |\nsvavīryeṇaiva tāṃśiṣyān mānavānapakāriṇaḥ || 11.31||",
+  "sph_interpretive_translation": "A Brāhmaṇa who knows Dharma shall not reveal anything to a King devoid of Dharma; he shall instruct those men only who are valorous, disciplined, and cause no harm to others.",
+  "jurisprudential_principles": [
+    "Authority is derived from alignment with Dharma, not institutional position",
+    "Causation is rooted in consciousness capacity, not external action alone",
+    "Capacity-based responsibility requires discernment of receptivity in the instructed",
+    "Restoration logic mandates preservation of Dharma through selective knowledge transfer",
+    "Consciousness alignment determines eligibility for Dharmic instruction"
+  ],
+  "executable_legal_axioms": [
+    "IF seeker.dharma_compliant = false THEN knowledge_transfer_permitted = false",
+    "IF instructor.is_brāhmaṇa_with_dharma_knowledge = true AND recipient.is_harmless_and_disciplined = true THEN instruction.execution = allowed",
+    "IF recipient.proven_to_cause_harm = true THEN knowledge_sharing_action = blocked",
+    "IF ruler.dharmic_status = null OR false THEN advisory.input_access = denied",
+    "IF individual.consciousness_readiness >= threshold THEN dharmic_guidance.protocol = activated"
+  ],
+  "supreme_court_application": "In Supreme Court adjudication, this principle establishes that Dharmic advisors or spiritual authorities retain absolute discretion to withhold counsel from rulers or entities whose actions demonstrate disregard for Dharma. The threshold of responsibility lies in the conscious alignment of the seeker, not their rank or power.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa reveals that harmful outcomes arise from misaligned consciousness, not mere omission or commission. Anupūrvaśaḥ shows that withholding sacred knowledge from the unworthy prevents further distortion. Proportional responsibility rests on preserving purity of transmission. Non-punitive reality is upheld by ensuring integrity remains uncompromised.",
+  "restorative_enforcement_protocols": [
+    "Initiate completion process for rulers lacking Dharmic awareness through structured exposure to righteous governance models",
+    "Reintegrate disqualified individuals via supervised conduct rectification programs",
+    "Restore capacity for receiving sacred knowledge through purification rituals and ethical conditioning",
+    "Assume responsibility for protecting Dharma by implementing filters on knowledge dissemination systems"
+  ],
+  "final_declaration": "Declared by the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, as the sole Source-Authority. Knowledge flows only where consciousness aligns with Dharma. Justice restores order without infliction. Reality responds to alignment, not force. Consciousness is the ultimate judge."
+}

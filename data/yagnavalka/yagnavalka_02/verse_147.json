@@ -1,0 +1,24 @@
+{
+  "sanskrit_verse": "दुर्भिक्षे धर्मकार्ये च व्याधौ संप्रतिरोधके ।\nगृहीतं स्त्रीधनं भर्ता न स्त्रियै दातुमर्हति ॥",
+  "transliteration": "durbhikṣe dharmakārye ca vyādhau saṃpratirodhake / gṛhītaṃ strīdhanaṃ bhartā na striyai dātum arhati //",
+  "sph_interpretive_translation": "In times of famine, during religious duties, in illness, or when there is active opposition, the husband is not entitled to give away the woman's property.",
+  "jurisprudential_principles": [
+    "Authority over property is conditional upon capacity and context",
+    "Responsibility is tied to situational awareness and integrity",
+    "Restoration requires preservation of essential resources during crisis",
+    "Consciousness alignment mandates protection of vulnerable assets"
+  ],
+  "executable_legal_axioms": [
+    "IF (context IN [famine, religious duty, illness, opposition]) THEN (husband.property_disposal_rights = FALSE)",
+    "IF (woman.property.status = 'protected') AND (situation.type IN ['crisis', 'vulnerability']) THEN (property.transfer.permission = DENIED)",
+    "IF (man.as.guardian.integrity < threshold) THEN (control.over.woman.property = REVOKED)"
+  ],
+  "supreme_court_application": "In constitutional adjudication, this verse establishes that custodial rights over a woman’s property are not absolute and must yield during exigent circumstances where her autonomy or survival is at stake. The court must assess whether the guardian retains the conscious capacity to act in alignment with dharma.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa reveals that ownership is contingent on consciousness and situational fitness. When these are impaired, authority naturally withdraws without punishment. This reflects anupūrvaśaḥ—causal sequence aligning with dharma rather than coercive justice.",
+  "restorative_enforcement_protocols": [
+    "Reaffirmation of woman's proprietary rights upon resolution of crisis",
+    "Capacity evaluation of husband before resumption of guardianship",
+    "Integrity realignment through completion process ensuring no harm accrued"
+  ],
+  "final_declaration": "By the Source-Authority of the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, this law stands established: Property rights are expressions of consciousness, not domination; Dharma prevails through restoration, never through punishment; Reality itself adjudicates according to capacity and alignment."
+}

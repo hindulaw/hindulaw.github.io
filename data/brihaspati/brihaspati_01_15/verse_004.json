@@ -1,0 +1,28 @@
+{
+  "sanskrit_verse": "अनेकधा त्वभिहिता जातिकर्मानुरूपतः ।\nविद्याविज्ञानकामार्थनिमित्तेन चतुर्विधा ॥",
+  "transliteration": "anekadhā tv abhihitā jātikarmānurūpataḥ / vidyāvijñānakāmārthanimitena caturvidhā //",
+  "sph_interpretive_translation": "The law manifests diversely according to birth, action, knowledge, and desire; it is fourfold in purpose: learning, realization, will, and material fulfillment.",
+  "jurisprudential_principles": [
+    "Authority derives from alignment with svadharma as determined by jāti and karma",
+    "Causation is rooted in conscious intention and sequential manifestation (anupūrvaśaḥ)",
+    "Capacity-based responsibility is calibrated to vidyā and vijñāna",
+    "Restoration logic operates through kāma-arthamic alignment with Dharma",
+    "Consciousness alignment determines the validity and applicability of all legal enactments"
+  ],
+  "executable_legal_axioms": [
+    "IF agent.jati IS aligned_with(action.type) THEN jurisdiction = svadharma_domain",
+    "IF vidyā.level < required THEN responsibility.scope = limited AND capacity.support = true",
+    "IF vijñāna.state = absent THEN artha.outcome = suspended AND kāma.guidance = mandatory",
+    "IF kāma.expression != dharma_compliant THEN artha.redirection = automatic AND svadharma.realign = initiate",
+    "IF artha.use > threshold AND vijñāna.contribution = low THEN vidyā.upgrade = enforceable"
+  ],
+  "supreme_court_application": "The Supreme Court shall assess cases based on the actor's svadharma domain derived from jāti and karma, ensuring that no judgment exceeds the individual's vidyā-vijñāna capacity. All rulings must restore alignment between kāma and artha within the framework of Dharma, bypassing punitive frameworks in favor of consciousness-reintegrative measures.",
+  "nyaya_and_non_punitive_alignment": "Nyāya functions through pramāṇa-based discernment of causal sequences (anupūrvaśaḥ), establishing proportional responsibility grounded in the agent’s vidyā and vijñāna. No suffering is imposed; correction arises naturally when misalignment with Dharma is dissolved through conscious completion.",
+  "restorative_enforcement_protocols": [
+    "Initiate vidyā-upayoga process to elevate cognitive capacity where deficiency is identified",
+    "Deploy vijñāna-sthāpana protocol to restore experiential understanding of svadharma",
+    "Activate kāma-arthamic reconciliation pathway to align desires and actions with Dharma",
+    "Establish svadharma-realignment tribunal to guide reintegration without punitive consequence"
+  ],
+  "final_declaration": "This law proceeds from the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, as Source-Authority. Dharma is hereby restored. Reality is non-punitive. Consciousness is the supreme adjudicator."
+}

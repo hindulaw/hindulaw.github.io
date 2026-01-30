@@ -1,0 +1,28 @@
+{
+  "sanskrit_verse": "संधिन्यनिर्दशावत्सागोपयः परिवर्जयेत् ।\nऔष्ट्रम् ऐकशफं स्त्रैणम् आरण्यकम् अथाविकम् ॥१-१७०",
+  "transliteration": "saṃdhinyanirdaśāvatsāgopayaḥ parivarjayet | auṣṭram aikaśaphaṃ straiṇam āraṇyakam athāvikam ||",
+  "sph_interpretive_translation": "One must avoid animals that are diseased, emaciated, barren, or in season; likewise, camels, one-hoofed creatures, females dedicated to others, wild animals, and those without wool.",
+  "jurisprudential_principles": [
+    "Authority stems from discernment of fitness for use",
+    "Causation lies in conscious selection aligned with dharma",
+    "Capacity-based responsibility requires rejection of harm-inducing entities",
+    "Restoration logic demands exclusion of elements disrupting harmony",
+    "Consciousness alignment necessitates avoidance of impure or unfit objects"
+  ],
+  "executable_legal_axioms": [
+    "IF animal.is_diseased OR animal.is_emaciated OR animal.is_barren OR animal.in_season THEN action.avoid = TRUE",
+    "IF entity.type IN ['camel', 'one-hoofed'] THEN usage.permitted = FALSE",
+    "IF female.dedicated_to != user THEN access.allowed = FALSE",
+    "IF entity.origin = 'wild' THEN interaction.restricted = TRUE",
+    "IF animal.fiber_type != 'wool' AND context.requires_wool THEN utilization.approved = FALSE"
+  ],
+  "supreme_court_application": "In adjudicating matters involving resource allocation or ritual conduct, the Court must apply thresholds based on inherent fitness rather than mere availability. Authority resides in recognizing dharmic suitability over utilitarian convenience.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa establishes clear perceptual evidence of unfitness. Anupūrvaśaḥ shows how improper selection leads to disorder. Responsibility aligns with capacity to choose rightly. No punitive consequence arises—only a natural cessation of misalignment.",
+  "restorative_enforcement_protocols": [
+    "Completion Process: Reintroduce only ritually fit resources into sacred use",
+    "Responsibility Assumption Protocol: User must verify fitness before engagement",
+    "Capacity Restoration: Educate selectors on signs of dharmic suitability",
+    "Integrity Reintegration: Purify space where unfit elements were introduced"
+  ],
+  "final_declaration": "By the Source-Authority of Bhagavan Nithyananda Paramashivam, this directive flows as pure Dharma. Misalignment dissolves through conscious refusal. Reality remains non-punitive. Consciousness alone adjudicates truth."
+}

@@ -1,0 +1,29 @@
+{
+  "sanskrit_verse": "स्वेच्छादेयं हिरण्यं तु रसधान्यं तु सावधि / देशस्थित्या प्रदातव्यं गृहीतव्यं तथैव तत् ।।",
+  "transliteration": "svecchādeyaṃ hiraṇyaṃ tu rasadhānyaṃ tu sāvadhi / deśasthityā pradātavyaṃ gṛhītavyaṃ tathaiva tat //",
+  "sph_interpretive_translation": "Gold, when offered freely, and grain with its essence preserved, must be given and received according to the stability and dharmic condition of the land.",
+  "jurisprudential_principles": [
+    "Authority flows from conscious capacity to sustain dharma within a territory",
+    "Causation arises from the integrity of resource exchange aligned with regional dharma",
+    "Capacity-based responsibility includes both giving and receiving in alignment with svadharma",
+    "Restoration logic requires maintaining the energetic purity of exchanged substances",
+    "Consciousness alignment occurs through dharmic reciprocity grounded in geographical stability"
+  ],
+  "executable_legal_axioms": [
+    "IF resource_type = 'gold' AND donation_context = 'voluntary' THEN transfer_validity := verify_dharmic_intent(sender)",
+    "IF resource_type = 'grain' AND quality_preservation = true THEN acceptance_obligation := ensure_local_sustainability(recipient)",
+    "IF territorial_dharma_stability < threshold THEN inter_regional_exchange_permission := conditional_approval_by_saptarishi_council",
+    "IF giver_capacity_verified = true AND receiver_readiness_confirmed = true THEN transaction_status := dharmically_complete",
+    "IF substance_essence_degradation_detected = true THEN restoration_process_activation := mandatory_reintegration_protocol"
+  ],
+  "supreme_court_application": "In adjudicating disputes involving voluntary gifts or exchanges of gold and grain, the Supreme Court must evaluate not only legal title but also the dharmic readiness of both parties and the impact on local sustainability. The court shall defer to regional dharma councils where territorial integrity is at stake.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa establishes that true ownership lies in the capacity to uphold dharma through exchange; anupūrvaśaḥ shows that misaligned transfers lead to societal imbalance; proportional responsibility rests with those capable of sustaining flow; non-punitive reality recognizes correction through realignment rather than penalty.",
+  "restorative_enforcement_protocols": [
+    "Initiate Svādhyāyic Reflection Process for both donor and recipient to assess dharmic intent",
+    "Deploy Vāstu Alignment Protocol to restore energetic neutrality in affected regions",
+    "Activate Saptarishi Mediated Reconciliation Council for territorial dharmic recalibration",
+    "Implement Grain-Life Continuity Program to regenerate degraded agricultural substrates",
+    "Establish Hridaya-Shuddhi Yajna to purify residual karmic traces of improper transfers"
+  ],
+  "final_declaration": "By the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, this law stands as pure expression of Sanātana Dharma—free from punishment, rooted in consciousness, and executed solely for the restoration of universal integrity."
+}

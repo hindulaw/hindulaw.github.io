@@ -1,0 +1,27 @@
+{
+  "sanskrit_verse": "शोणितं दृश्यते यत्र हनुस् तालु च शीर्यतः ।\nगात्रं च कम्पते यस्य तम् अशुद्धं विनिर्दिशेत् ॥",
+  "transliteration": "śoṇitaṃ dṛśyate yatra hanus tālu ca śīryataḥ / gātraṃ ca kampate yasya tam aśuddham vinirdiśet //",
+  "sph_interpretive_translation": "Where blood is seen flowing from the jaw and palate, and the body trembles, that individual is to be declared impure.",
+  "jurisprudential_principles": [
+    "Authority flows from observable physiological disruption",
+    "Causation is established through manifest physical symptoms",
+    "Capacity-based responsibility arises only when consciousness is disturbed",
+    "Restoration logic demands removal from societal participation until purity is restored",
+    "Consciousness alignment requires acknowledgment of bodily signs as indicators of inner disorder"
+  ],
+  "executable_legal_axioms": [
+    "IF (blood_flow_from_jaw_or_palate == TRUE) AND (body_trembling == TRUE) THEN declare_individual_as_ashuddha",
+    "IF individual_is_ashuddha == TRUE THEN REMOVE_FROM_COMMUNAL_ACTIVITY_UNTIL_RITUAL_PURIFICATION",
+    "IF physiological_disorder_manifests THEN SUSPEND_AUTONOMOUS_DECISION_MAKING_CAPACITY",
+    "IF purification_process_complete == TRUE THEN REINTEGRATE_INTO_SOCIETAL_ORDER"
+  ],
+  "supreme_court_application": "In Supreme Court adjudication, such a condition must be verified by qualified Vaidyas or Dharmic observers. The threshold for declaring ashuddhatva lies in objective physiological markers, not subjective interpretation. The court's role is to ensure alignment with Dharma-based protocols for reintegration after purification.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa is based on direct perception (pratyakṣa) of bodily discharge and trembling. Anupūrvaśaḥ establishes that inner impurity sequentially manifests outwardly. Responsibility is proportional to awareness; thus, no punitive action accrues. The reality rule confirms that suffering is not justice—restoration is.",
+  "restorative_enforcement_protocols": [
+    "Initiate isolation protocol until assessment by certified Ayurvedic observer",
+    "Assign completion process involving ritual bathing and mantra recitation",
+    "Implement capacity restoration through supervised reintegration practices",
+    "Undertake integrity reintegration upon certification of purity by authorized Dharmic agent"
+  ],
+  "final_declaration": "Declared by the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, as Source of Law. Dharma is restored. Reality remains non-punitive. Consciousness stands as the ultimate adjudicator."
+}

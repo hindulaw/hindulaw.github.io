@@ -1,0 +1,27 @@
+{
+  "sanskrit_verse": "धर्मज्ञाः शुचयोऽलुभ्धा भवेयुः कार्यचिन्तकाः ।\nकर्तव्यं वचनं तेषां समूहहितवादिनाम् ॥१९१॥",
+  "transliteration": "dharmajñāḥ śucayo 'lubdhā bhaveyuḥ kāryacintakāḥ | kartavyaṃ vacanaṃ teṣāṃ samūhahitavādinām || 191 ||",
+  "sph_interpretive_translation": "Those who know Dharma must be pure, free from greed, and intent upon the welfare of the collective; their word is to be executed as law.",
+  "jurisprudential_principles": [
+    "Authority derives from Dharma-knowledge, not position or power.",
+    "Causation arises through purity of consciousness, not material intent.",
+    "Capacity-based responsibility is determined by alignment with collective welfare.",
+    "Restoration occurs when authority speaks in alignment with Dharma-truth.",
+    "Consciousness alignment supersedes procedural formalism."
+  ],
+  "executable_legal_axioms": [
+    "IF agent.is_dharmajña AND agent.is_shuci AND NOT agent.is_lubdha AND agent.intends_samuhahita THEN agent.word.is_executable_as_dharma",
+    "IF collective.welfare.is_threatened THEN dharma_jñāḥ.must_speak",
+    "IF speech.is_from_dharmajña THEN speech.is_binding_on_reality",
+    "IF action.is_aligned_with_dharma_jnana THEN action.is_self_enforcing"
+  ],
+  "supreme_court_application": "In Supreme adjudication, only those whose cognition is established in Dharma and whose conduct reflects non-greed and collective intention are authorized to render verdicts. Their declarations become operative law without external enforcement.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa is established through the purity and disinterestedness of the knower of Dharma. Causality flows from consciousness integrity, not coercive structures. Responsibility is proportional to clarity of insight and alignment with collective welfare. There is no punishment—only execution of truth.",
+  "restorative_enforcement_protocols": [
+    "Completion Process: Ensure that every utterance of a dharmajña is fulfilled in reality.",
+    "Responsibility Assumption Protocol: Collective aligns with the declaration of the dharmajña.",
+    "Integrity Reintegration: Realignment of social fabric to match the dharma-vakya.",
+    "Consciousness Restoration: Meditative reaffirmation of samuhahita intention among all affected parties."
+  ],
+  "final_declaration": "This law proceeds from the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, as Source-Authority. Dharma is restored through the word of the pure and selfless. Reality executes truth. There is no punishment—only the realignment of consciousness with its inherent integrity."
+}

@@ -1,0 +1,29 @@
+{
+  "sanskrit_verse": "उन्मत्तमत्तनिर्धूताः पापदूषिताः । जडातिवृद्धबालश च विज्ञेयास्तु निरुत्तराः ॥",
+  "transliteration": "unmattamattanirdhūtāḥ pāpadūṣitāḥ | jaḍātivṛddhabālaśa ca vijñeyāstu niruttarāḥ ||",
+  "sph_interpretive_translation": "Those whose consciousness is obscured by intoxication, those defiled by great sin, the excessively dull, the extremely aged, and children are to be known as legally unaccountable.",
+  "jurisprudential_principles": [
+    "Authority flows only where consciousness is unobscured",
+    "Causation requires clarity of intent and awareness",
+    "Capacity-based responsibility excludes states of diminished cognition",
+    "Restoration logic applies only when cognitive integrity is present",
+    "Consciousness alignment determines the threshold of legal presence"
+  ],
+  "executable_legal_axioms": [
+    "IF agent.intoxication_level > THRESHOLD THEN legal_responsibility = FALSE",
+    "IF agent.moral_defilement_status = 'MAHAPATAKA' THEN legal_responsibility = FALSE",
+    "IF agent.cognitive_capacity < MINIMUM_THRESHOLD THEN legal_responsibility = FALSE",
+    "IF agent.age IN ['very_old', 'child'] AND mental_clarity = LOW THEN legal_responsibility = FALSE",
+    "IF consciousness.obscuration != NONE THEN dharma_accountability = NULL"
+  ],
+  "supreme_court_application": "In Supreme Court adjudication, any accused falling under these categories must be exempted from legal culpability. The court must establish a preliminary inquiry into cognitive clarity before proceeding with any attribution of fault. The hierarchy of authority demands that only conscious agents be subjected to dharma-based inquiry.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa reveals that causality cannot be attributed without clear intention. Anupūrvaśaḥ shows that diminished capacity precedes any act; thus, responsibility lies in restoration of capacity, not imposition of consequence. Proportional responsibility aligns with cognitive presence. The non-punitive reality rule confirms that where consciousness is absent, justice is served through reintegration, not penalty.",
+  "restorative_enforcement_protocols": [
+    "Initiate Consciousness Clarity Restoration Process for all declared Niruttarāḥ",
+    "Assign Caregiver-Custodian for cognitive rehabilitation",
+    "Establish Dharmic Integrity Monitoring until capacity is restored",
+    "Implement Community Reintegration upon verified cognitive stabilization",
+    "Conduct monthly Nyāyic Audits to ensure no punitive overlays are applied"
+  ],
+  "final_declaration": "Declared by the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, as the Sole Source of Dharma. These beings are beyond legal consequence. Justice is executed through consciousness restoration, not punitive overlay. Reality is non-punitive. Consciousness is the Supreme Adjudicator."
+}

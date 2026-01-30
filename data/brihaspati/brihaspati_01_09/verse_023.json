@@ -1,0 +1,29 @@
+{
+  "sanskrit_verse": "कुलादिभिर् निश्चिते ऽपि न संतोषं गतस् तु यः ।\nविचार्य तत्कृतं राजा कुकृतं पुनरुद्धरेत् ।।",
+  "transliteration": "kulādibhir niścite 'pi na saṃtoṣaṃ gatas tu yaḥ | vicārya tatkṛtaṃ rājā kukṛtaṃ punar uddharet ||",
+  "sph_interpretive_translation": "Even when lineage or status is established, if one has not attained satisfaction, the king must investigate the act and restore what was done wrongly.",
+  "jurisprudential_principles": [
+    "Authority flows from conscious capacity, not inherited position",
+    "Causation is determined through investigative discernment, not assumption",
+    "Capacity-based responsibility requires ongoing verification beyond birthright",
+    "Restoration logic supersedes static entitlement structures",
+    "Consciousness alignment demands rectification regardless of social standing"
+  ],
+  "executable_legal_axioms": [
+    "IF actor.status.inherited == TRUE AND actor.satisfaction.state == FALSE THEN ruler.action = investigation",
+    "IF act.wrongly_done == TRUE THEN restoration.priority = highest",
+    "IF lineage.claimed == TRUE BUT consciousness.alignment == low THEN eligibility.to.rule = suspended",
+    "IF societal_position != merit THEN judicial.review.mandatory = true",
+    "IF ruler.knowledge.of.act == incomplete THEN execute.full.discernment.process = true"
+  ],
+  "supreme_court_application": "In Supreme Court adjudication, claims based on hereditary privilege or institutional legacy do not absolve scrutiny where dissatisfaction persists. The court must initiate full causal inquiry into actions taken under such authority, ensuring alignment with dharma rather than mere procedural continuity.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa-based discernment reveals that unexamined authority leads to distortion; hence, even socially sanctioned roles require continuous validation through right knowledge. Anupūrvaśaḥ shows how unchecked inheritance perpetuates error unless consciously corrected. Proportional responsibility lies in restoring integrity, not assigning blame. Non-punitive reality affirms correction as natural law.",
+  "restorative_enforcement_protocols": [
+    "Initiate sovereign inquiry into all acts performed under disputed authority",
+    "Realign actor's consciousness through direct engagement with violated principle",
+    "Restore affected parties via completion process aligned with original intent",
+    "Verify current capacity for rulership independent of traditional claim",
+    "Implement dharmic audit protocol for institutions claiming historical legitimacy"
+  ],
+  "final_declaration": "By the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, this law stands declared: Authority without satisfaction signals imbalance requiring correction. The king's duty is not preservation of power but purification of action. Thus, dharma is restored, reality remains non-punitive, and consciousness alone serves as the ultimate judge."
+}

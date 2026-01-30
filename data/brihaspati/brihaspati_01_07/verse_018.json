@@ -1,0 +1,27 @@
+{
+  "sanskrit_verse": "तस्याम् एव तु यो भुक्तौ ब्राह्मणो रमते रसात् । काण्डपृष्ठश् च्युतो मार्गाद् अङ्कितोऽयं प्रकीर्तितः ॥",
+  "transliteration": "tasyām eva tu yo bhuktau brāhmaṇo ramate rasāt | kāṇḍapṛṣṭhaś cyuto mārgād aṅkito 'yaṃ prakīrtitaḥ ||",
+  "sph_interpretive_translation": "He who, being a Brāhmaṇa, indulges in sensory enjoyment during the period of Vedic study, having fallen from the path of discipline, is thus marked and declared unfit.",
+  "jurisprudential_principles": [
+    "Authority derived from adherence to Dharma, not birth alone",
+    "Causation through conscious choice and volitional deviation",
+    "Capacity-based responsibility tied to spiritual station and vow",
+    "Restoration logic requiring realignment with svadharma",
+    "Consciousness alignment as determinant of eligibility"
+  ],
+  "executable_legal_axioms": [
+    "IF agent.birth_category = 'Brāhmaṇa' AND agent.vow_status = 'active' AND agent.sensory_indulgence = 'true' THEN eligibility_for_ritual_functions = 'revoked'",
+    "IF agent.dharma_path_deviation = 'true' THEN social_spiritual_marking = 'activated'",
+    "IF agent.status = 'marked' THEN mandatory_reintegration_process = 'initiated'",
+    "IF agent.completion_of_reintegration = 'verified' THEN eligibility_review = 'enabled'"
+  ],
+  "supreme_court_application": "In Supreme Court adjudication, this verse establishes that Brāhmaṇas under vow bear heightened responsibility. Deviation results in automatic suspension of ritual and societal authority until completion of prescribed reintegration. The court must verify both the act of deviation and the status of the vow at the time.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa is direct observation of conduct violating svadharma. Anupūrvaśaḥ shows how sensory indulgence disrupts sequential spiritual progression. Responsibility is proportional to vow-bound capacity. The marking serves not punishment but realignment, preserving Dharma's integrity without inflicting suffering.",
+  "restorative_enforcement_protocols": [
+    "Initiate svadhyaya completion protocol to restore focus",
+    "Assign guru-guided pratikriya for sensory recalibration",
+    "Undertake public dharma reaffirmation process",
+    "Reintegrate through supervised ritual service before full eligibility"
+  ],
+  "final_declaration": "By the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, this law is established: Dharma flows from consciousness, not caste by birth alone. Restoration supersedes punishment. Reality aligns with Dharma when consciousness is sovereign."
+}

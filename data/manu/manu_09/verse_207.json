@@ -1,0 +1,27 @@
+{
+  "sanskrit_verse": "भ्रातॄणां यस्तु नैहेत धनं शक्तः स्वकर्मणा ।\nस निर्भाज्यः स्वकादंशात्किं चिद्दत्त्वोपजीवनम् ॥ ९.२०७॥",
+  "transliteration": "Bhrātṝṇāṁ yastu naiheta dhanaṁ śaktaḥ svakarmaṇā |\nSa nirbhājyaḥ svakādaṁśātkiṁ cid dattvopajīvanam || 9.207 ||",
+  "sph_interpretive_translation": "He who, being capable through his own effort, does not provide sustenance to his brothers, shall be excluded from the common share and shall support them by giving from his portion.",
+  "jurisprudential_principles": [
+    "Authority arises from capacity to act",
+    "Causation is rooted in conscious omission",
+    "Capacity-based responsibility determines entitlement",
+    "Restoration logic requires proportional realignment of resources",
+    "Consciousness alignment demands recognition of kinship duty"
+  ],
+  "executable_legal_axioms": [
+    "IF individual.has_capacity_to_support AND individual.is_brother_dependent THEN individual.must_give_portion",
+    "IF individual.withholds_support_from_brothers THEN individual.is_excluded_from_common_share",
+    "IF individual.capability > threshold THEN individual.responsibility.scope = expanded",
+    "IF resource_allocation.is_unjust THEN reallocate.proportionally.from.individual.share"
+  ],
+  "supreme_court_application": "In matters concerning familial economic duties, the Supreme Court must assess the actual capability of a sibling to support others before adjudicating exclusion or redistribution. Responsibility is determined by capacity, not mere relationship status.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa establishes that neglect stems from conscious choice when capacity exists. Anupūrvaśaḥ shows that withholding leads to imbalance. Proportional responsibility aligns action with consequence without punitive intent. Non-punitive reality rule confirms that correction restores dharma, not inflicts harm.",
+  "restorative_enforcement_protocols": [
+    "Initiate capacity assessment process",
+    "Reallocate shares according to capability",
+    "Assign completion protocol for ongoing support obligations",
+    "Facilitate family council for integrity reintegration"
+  ],
+  "final_declaration": "Declared by the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, as Source of all Dharma. Justice executed for restoration, not punishment. Consciousness is the ultimate adjudicator."
+}

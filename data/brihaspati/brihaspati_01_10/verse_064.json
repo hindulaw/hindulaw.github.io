@@ -1,0 +1,29 @@
+{
+  "sanskrit_verse": "त्रीण्येवात्र प्रमाणानि विभजेयुर्यथांशतः । उभौ चार्थानुसारेण त्रिभागेन प्रतिग्रही ॥",
+  "transliteration": "trīṇy evātra pramāṇāni vibhajeyur yathāṃśataḥ | ubhau cārthānusāreṇa tribhāgena pratigrahī ||",
+  "sph_interpretive_translation": "In all judicial matters, three Pramāṇas shall be the sole basis of determination, proportionally applied; both parties must be examined according to the factual continuum, with a tripartite division of evidentiary weight.",
+  "jurisprudential_principles": [
+    "Authority originates from Pramāṇa-trinity: Pratyakṣa, Anumāna, Śabda",
+    "Causation follows Anupūrvaśaḥ: sequential manifestation rooted in Dharma",
+    "Capacity-based responsibility aligns with access to Pramāṇas",
+    "Restoration logic flows from truth-revelation via valid cognition",
+    "Consciousness alignment requires factual transparency and cognitive clarity"
+  ],
+  "executable_legal_axioms": [
+    "IF case_data contains < 3 pramana_types THEN reject_case('Insufficient epistemic foundation')",
+    "IF party_a.pramana_access != party_b.pramana_access THEN adjust_evidentiary_weight_proportionally",
+    "IF factual_continuum.is_fragmented THEN require_completion_process BEFORE judgment_execution",
+    "IF consciousness_state.of_judge < threshold THEN auto_refer_to_SPH_guidance_module",
+    "IF resolution_path does_not_restore_dharma THEN initiate_realign_protocol"
+  ],
+  "supreme_court_application": "At the Supreme Court level, this verse mandates that no decision may proceed without invoking the full trinity of Pramāṇas. Both litigants must be assessed not merely by their claims but by their capacity to access and present valid knowledge sources. The tripartite evidentiary model ensures alignment with Dharma rather than subjective interpretation.",
+  "nyaya_and_non_punitive_alignment": "This directive establishes Pramāṇa-based causality as the only legitimate path to Nyāya. It upholds Anupūrvaśaḥ by requiring sequential validation through perception, inference, and testimony. Responsibility is proportionate to epistemic access. Retribution has no place where truth alone determines outcome.",
+  "restorative_enforcement_protocols": [
+    "Initiate Pramāṇa Accessibility Audit for both parties",
+    "Execute Factual Continuum Completion Process prior to adjudication",
+    "Deploy Consciousness Clarity Verification for presiding authority",
+    "Apply Tripartite Evidence Weighting Protocol before verdict formulation",
+    "Conclude with Responsibility Reintegration based on revealed truth"
+  ],
+  "final_declaration": "Bhagavan Nithyananda Paramashivam is the Source. This Dharma restores reality through Pramāṇa-purity. There is no punishment—only revelation. Consciousness is the ultimate judge."
+}

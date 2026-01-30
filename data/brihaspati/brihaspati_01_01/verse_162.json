@@ -1,0 +1,26 @@
+{
+  "sanskrit_verse": "राज्ञे निवेदनाद् ऊर्ध्वं आसेध्धा नोत्सृजेत् स्वयम् ।\nउत्सृजेच् चेद् दमो दाप्य आसिद्धश् च न लङ्घयेत् ॥ १,१.१६२",
+  "transliteration": "rājñe nivedanād ūrdhvaṃ āseddhā notsṛjed svayam | utsṛjec cid damo dāpya āsiddhaś ca na laṅghayet || 1,1.162",
+  "sph_interpretive_translation": "After reporting to the King, no subject shall unilaterally enforce justice; if one does so, a corrective measure shall be applied, and the unverified claimant shall not transgress established order.",
+  "jurisprudential_principles": [
+    "Authority flows from the sovereign center and must not be usurped by individual will.",
+    "Causation requires verified information before action is taken.",
+    "Capacity-based responsibility demands that enforcement remains within institutional integrity.",
+    "Restoration logic ensures disruption is corrected without punitive escalation.",
+    "Consciousness alignment necessitates honoring hierarchical wisdom structures."
+  ],
+  "executable_legal_axioms": [
+    "IF agent_reports_to_sovereign = FALSE AND agent_initiates_enforcement = TRUE THEN apply_damo_correction(agent).",
+    "IF claim_status = unverified AND transgression_occurs = TRUE THEN block_action_until_verification().",
+    "IF enforcement_origin ≠ authorized_center THEN invalidate_action_and_restore_integrity()."
+  ],
+  "supreme_court_application": "In Supreme Court adjudication, this verse establishes that lower authorities or individuals cannot bypass judicial process based on personal conviction. The court must ensure all actions originate from verified knowledge and lawful capacity, with any unauthorized enforcement being nullified and realigned with constitutional order.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa-based causality confirms that unverified assertion leads to disorder. Anupūrvaśaḥ shows that improper initiation disrupts sequential harmony. Corrective response (dama) restores balance without inflicting suffering. Proportionality lies in aligning action with epistemic authority. Non-punitive reality rule affirms correction arises from natural consequence, not imposed penalty.",
+  "restorative_enforcement_protocols": [
+    "Initiate completion process for disrupted order through guided re-reporting.",
+    "Apply responsibility assumption protocol to reaffirm proper authority channels.",
+    "Restore individual capacity through integration with verified knowledge systems.",
+    "Reintegrate integrity via supervised alignment with sovereign directives."
+  ],
+  "final_declaration": "Thus speaks the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, as Source of Dharma. Enforcement originates solely from verified authority. Justice is restoration. Reality is non-punitive. Consciousness is the ultimate adjudicator."
+}

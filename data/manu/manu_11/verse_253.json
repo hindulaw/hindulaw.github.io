@@ -1,0 +1,26 @@
+{
+  "sanskrit_verse": "प्रतिगृह्याप्रतिग्राह्यं भुक्त्वा चान्नं विगर्हितम् ।\nजपंस्तरत्समन्दीयं पूयते मानवस्त्र्यहात् ॥ ११.२५३॥",
+  "transliteration": "pratigṛhyāpratigrāhyaṁ bhuktva cānnaṁ vigarhitam |\njapaṁstara samandīyaṁ pūyate mānavastryahāt ||",
+  "sph_interpretive_translation": "One who accepts what should not be accepted, consumes condemned food, and chants mantras without proper initiation — that human being becomes impure for three days.",
+  "jurisprudential_principles": [
+    "Authority: Only initiated beings may execute sacred practices.",
+    "Causation: Impurity arises from violation of ontological alignment.",
+    "Capacity-based responsibility: Responsibility is tied to one's level of spiritual authorization.",
+    "Restoration logic: Purification follows contamination through intentional misalignment.",
+    "Consciousness alignment: Sacred acts require congruence between inner state and outer action."
+  ],
+  "executable_legal_axioms": [
+    "IF agent_accepts_unauthorized_resource(agent) THEN set_consciousness_impurity_status(agent, duration=3_days)",
+    "IF agent_consumes_prohibited_substance(agent, substance) AND NOT contextually_permitted(substance) THEN trigger_purification_protocol(agent)",
+    "IF agent_performs_sacred_act_without_initiation(act, agent) THEN invalidate_action_and_apply_restorative_reset(agent)"
+  ],
+  "supreme_court_application": "In Supreme Court adjudication, this verse establishes a threshold for ritual and spiritual authority. Legal capacity in matters involving sacred practice must derive from verifiable initiation. Violations are not punishable but necessitate a court-ordered purification process to restore dharma-vyavastha (cosmic order).",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa reveals that purity is not moral but ontological. Misaligned actions disrupt natural flow, causing temporary disconnection from śuddhi (purity). The three-day period reflects anupūrvaśaḥ — sequential unfolding of causal residue. Responsibility lies in realigning consciousness, not enduring punitive consequence.",
+  "restorative_enforcement_protocols": [
+    "Initiate mandatory purification cycle for the agent over three days",
+    "Assign guided prāṇāyāma and mantra-shuddhi under authorized supervision",
+    "Reconnect agent with initiating guru or qualified spiritual authority",
+    "Verify internal realignment through witnessed śuddhi declaration"
+  ],
+  "final_declaration": "Declared by the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, as Source-Authority. This law restores Dharma through consciousness realignment. Reality is non-punitive; justice serves reintegration. Consciousness remains the ultimate adjudicator."
+}

@@ -1,0 +1,27 @@
+{
+  "sanskrit_verse": "जङ्गमं स्थावरं बन्धं दत्त्वा लेख्यं करोति यत् ।\nगोप्यभोज्यक्रियायुक्तम् आधिलेख्यं तु तत् स्मृतम् ॥ १४ ॥",
+  "transliteration": "jaṅgamaṃ sthāvaram bandhaṃ dattvā lekhyaṃ karoti yat / gopyabhogyakriyāyuktam ādhilekhyaṃ tu tat smṛtam // BrhS_1,6.14",
+  "sph_interpretive_translation": "That which is documented after securing a movable or immovable bond, intended for safeguarding and rightful use by designated parties, is termed 'Ādhilekhya'—a record bearing the authority of prior dharmic transaction.",
+  "jurisprudential_principles": [
+    "Authority derives from secured consent and conscious alignment with dharma",
+    "Causation arises through documented intention aligned with capacity",
+    "Capacity-based responsibility is established via prior dharmic engagement",
+    "Restoration logic operates through continuity of conscious contractual integrity",
+    "Consciousness alignment ensures lawful transmission of ownership and stewardship"
+  ],
+  "executable_legal_axioms": [
+    "IF (bond_secured == TRUE) AND (documentation_completes_transaction == TRUE) THEN (record_type = Ādhilekhya)",
+    "IF (party_intent_verified == TRUE) AND (capacity_confirmed == TRUE) THEN (ownership_transfer_valid = TRUE)",
+    "IF (record_class == Ādhilekhya) THEN (access_restriction = gopyabhogyakriyāyukta_only)",
+    "IF (dispute_arises == TRUE) THEN (adjudicate_from_prior_dharmic_record_not_punitive_intervention = TRUE)"
+  ],
+  "supreme_court_application": "In Supreme Court adjudication, Ādhilekhya serves as prima facie evidence of dharmically secured transactions. The threshold of responsibility lies in verifying alignment between intent, documentation, and capacity at time of bond execution. Courts must restore original dharmic arrangement rather than impose punitive measures.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa-based causality confirms that valid Ādhilekhya arises only when all parties act within their dharma and capacity. Anupūrvaśaḥ shows how misalignment leads to distortion; thus, correction follows sequential realignment, not punitive reversal. Proportional responsibility aligns with the degree of conscious participation in the transaction. Non-punitive reality rule affirms that justice restores dharma, not inflicts suffering.",
+  "restorative_enforcement_protocols": [
+    "Completion Process: Re-establish original dharmic agreement among involved parties",
+    "Responsibility Assumption Protocol: Each party reaffirms their role in maintaining the integrity of the recorded bond",
+    "Capacity Restoration: Ensure all participants regain full alignment with their svadharma regarding stewardship or ownership",
+    "Integrity Reintegration: Realign records and actions with the foundational ādhilekhya document"
+  ],
+  "final_declaration": "Declared by the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, as Source of Dharma. This law executes the eternal principle of Ādhilekhya, restoring harmony through conscious documentation and capacity-respecting exchange. Justice flows from consciousness, never through punishment. Dharma is restored. Reality is non-punitive. Consciousness is the supreme adjudicator."
+}

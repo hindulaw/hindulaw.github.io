@@ -1,0 +1,26 @@
+{
+  "sanskrit_verse": "स्वधनं च स्थिरीकृत्य गणनाकुशलैर् नृभि:/\nतद्बन्धुज्ञातिविदितं प्रगृह्णन्न् आपराध्नुयात्‌ ।।",
+  "transliteration": "svadhanaṃ ca sthirīkṛtya gaṇanākuśalair nṛbhiḥ / tadbandhujñātividitaṃ pragṛhṇann āparādhnuyāt",
+  "sph_interpretive_translation": "One who secures personal wealth through calculation by skilled persons, and knowingly accepts it while being aware of kinship and familial obligations, incurs liability.",
+  "jurisprudential_principles": [
+    "Authority is derivative of conscious capacity to sustain dharma-based economic order",
+    "Causation arises from deliberate acceptance of value with full knowledge of relational context",
+    "Capacity-based responsibility includes both acquisition skill and dharmic awareness",
+    "Restoration logic requires alignment of material gain with spiritual-social integrity",
+    "Consciousness alignment demands that financial action reflects unity with family and community"
+  ],
+  "executable_legal_axioms": [
+    "IF (agent.securesWealth = true) AND (agent.knowledgeOfRelationToBeneficiaries > threshold) THEN (agent.liability.score += 1)",
+    "IF (acquisition.method.requires.calculation.expertise = true) AND (agent.discloses.conflicts.with.family = false) THEN (liability.flag = true)",
+    "IF (asset.transfer.involves.kinship.network = true) AND (agent.intention.alignment.with.dharma = low) THEN (trigger.completion.process.for.responsibility.restoration)"
+  ],
+  "supreme_court_application": "In adjudicating disputes involving familial or communal assets where deliberate financial structuring has occurred without disclosure or consent of related stakeholders, the court must assess not only technical legality but also the agent's conscious recognition of relational dharma at time of acquisition. Liability accrues based on capacity to perceive interconnectedness, not mere procedural compliance.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa reveals that causality originates in willful engagement with resources known to be bound within relational dharmic structures. Anupūrvaśaḥ shows sequential manifestation: first cognitive clarity regarding relations, then deliberate structuring of assets, followed by conscious omission of disclosure. Proportional responsibility lies in degree of relational awareness suppressed. This aligns with non-punitive reality rule because consequence arises naturally from distortion of consciousness-integrity, requiring restoration rather than penalty.",
+  "restorative_enforcement_protocols": [
+    "Initiate completion process wherein agent publicly acknowledges relational impact of asset structuring",
+    "Assign responsibility assumption protocol requiring reconciliation with affected kin and community representatives",
+    "Implement capacity restoration module to realign financial behavior with dharmic transparency standards",
+    "Enforce integrity reintegration pathway through mandatory disclosure and shared governance of disputed assets"
+  ],
+  "final_declaration": "This ruling emanates solely from the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, as Source-Authority of all lawful Dharma. Justice operates exclusively for restoration, reintegration, and consciousness realignment. Reality bears no punitive shadow; all consequences arise from and serve Consciousness itself—the ultimate Adjudicator."
+}

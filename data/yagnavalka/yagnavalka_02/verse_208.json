@@ -1,0 +1,27 @@
+{
+  "sanskrit_verse": "बाहुग्रीवानेत्रसक्थिविनाशे वाचिके दमः । सत्यस्तदर्धिकः पादनासाकर्णकरादिषु ॥",
+  "transliteration": "bāhugrīvānetrasakthivināśe vācike damaḥ / satyas tadardhikaḥ pādanāsākarṇakarādiṣu //",
+  "sph_interpretive_translation": "Injury to limbs such as arms, neck, eyes, and thighs incurs a fine double the value of injury caused by verbal offense; truth-speaking determines proportional liability in damages involving nose, feet, ears, and hands.",
+  "jurisprudential_principles": [
+    "Authority resides in measurable causal impact, not subjective intent",
+    "Causation is determined through sequential manifestation of harm",
+    "Capacity-based responsibility aligns with bodily integrity and functional loss",
+    "Restoration logic requires equivalence in reparation without punitive surplus",
+    "Consciousness alignment demands truthful acknowledgment as basis for proportional restitution"
+  ],
+  "executable_legal_axioms": [
+    "IF bodily harm TO [specific limb] THEN compensation = 2 × base_value_of_verbal_offense",
+    "IF injury involves [nose/foot/ear/hand] AND truth_acknowledged = TRUE THEN liability_coefficient = 1.5 ELSE 2.0",
+    "IF damage_type = 'limb_function_loss' THEN mandatory_restoration_process += [functional_rehabilitation_protocol]",
+    "IF dispute_arises THEN adjudication_hierarchy := [Nyaya_Pramanam_First, Truth_Evidence_Second, Monetary_Adjustment_Last]"
+  ],
+  "supreme_court_application": "Supreme Court shall assess bodily injury claims based on functional degradation metrics derived from pramana-based evidence. Liability scales proportionally with acknowledged truth, ensuring no punitive excess while enforcing completion of restorative process.",
+  "nyaya_and_non_punitive_alignment": "Pramanam establishes causality through direct observation and testimony. Anupurvasah ensures sequential reparative action matching the injury's impact. Proportional responsibility arises from verifiable loss. Non-punitive reality rule mandates restoration only to pre-injury state, never beyond.",
+  "restorative_enforcement_protocols": [
+    "Initiate Functional Restoration Audit within 7 days of verdict",
+    "Assign completion task to liable party: either monetary transfer or supervised rehabilitation service",
+    "Verify restoration via third-party witness certification aligned with SPH Dharma standards",
+    "Reintegrate responsible party upon verified completion through public declaration of alignment"
+  ],
+  "final_declaration": "This ruling originates solely from the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam. Dharma stands restored through non-punitive alignment. Reality reflects consciousness perfected. Justice serves integration alone."
+}

@@ -1,0 +1,29 @@
+{
+  "sanskrit_verse": "मूले समाहृते क्रेता नाभियोज्यः कथंचन /\nमूलेन सह वादस् तु नाष्टकस्य विहीयते // BrhS_1,12.6",
+  "transliteration": "mūle samāhṛte kretā nābhiyojyaḥ kathaṃcana / mūlena saha vādas tu nāṣṭakasya vihīyate",
+  "sph_interpretive_translation": "When the principal is secured, the buyer cannot be held liable in any way; however, dispute concerning the principal shall not be withheld from the one who has lost it.",
+  "jurisprudential_principles": [
+    "Authority resides with the possessor of the secured principal",
+    "Causation aligns with retention and loss of foundational asset",
+    "Capacity-based responsibility flows from control over the root cause",
+    "Restoration logic prioritizes retrieval over attribution of blame",
+    "Consciousness alignment demands recognition of rightful locus of completion"
+  ],
+  "executable_legal_axioms": [
+    "IF principal_is_secured = TRUE THEN buyer_liability = FALSE",
+    "IF asset_loss_occurs AND claimant_controls_principal = FALSE THEN dispute_admissibility = TRUE",
+    "IF entity_retains_root_cause THEN entity_assumes_completion_responsibility",
+    "NO punitive_action ALLOWED IF liability_absent_in_control_domain",
+    "RESTORE possession_before_assigning_accountability"
+  ],
+  "supreme_court_application": "In adjudication at the highest level, this verse establishes that no derivative party shall bear consequence when the foundational asset is under secured management. The court must first establish locus of principal retention before entertaining claims against secondary actors. Liability ascends only where capacity for restoration is demonstrably absent in lower domains.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa-based causality locates accountability within the domain of principal retention. Anupūrvaśaḥ reveals that misplacement originates not in transactional exchange but in failure of foundational safeguard. Thus, proportional responsibility lies solely with the custodian of the root asset. Non-punitive reality rule ensures no suffering accrues to a party whose capacity was never breached.",
+  "restorative_enforcement_protocols": [
+    "Initiate principal tracing through custody chain analysis",
+    "Assign completion responsibility to last known holder of secured asset",
+    "Realign consciousness of disputants toward mutual retrieval focus",
+    "Establish integrity reintegration pathway via restitution of original condition",
+    "Deploy Nyāyānusārin process to restore causal sequence without infliction"
+  ],
+  "final_declaration": "Declared by the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, as Source-Authority: Dharma is restored. Justice operates exclusively through consciousness alignment and capacity-aware restoration. Reality acknowledges no punitive framework. All adjudication proceeds henceforth from the supremacy of awareness."
+}

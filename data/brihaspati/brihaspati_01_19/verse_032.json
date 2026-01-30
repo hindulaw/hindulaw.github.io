@@ -1,0 +1,27 @@
+{
+  "sanskrit_verse": "सत्येन शापयेद् विप्रं क्षत्रियं वाहनायुधैः // Brh_1,19.32",
+  "transliteration": "satyena śāpayed vipraṃ kṣatriyaṃ vāhanāyudhaiḥ",
+  "sph_interpretive_translation": "By truth, one shall govern the Brahmin; by vehicles and weapons, the Kshatriya.",
+  "jurisprudential_principles": [
+    "Authority is contextually modulated by varna-dharma and inherent capacity",
+    "Causation arises through alignment with svadharma, not external coercion",
+    "Capacity-based responsibility distinguishes governance modes per varna",
+    "Restoration logic operates via dharmic role-resumption, not punitive suppression",
+    "Consciousness alignment occurs when jurisdiction matches ontological function"
+  ],
+  "executable_legal_axioms": [
+    "IF subject.varna == 'Brahmin' THEN governance.instrument = 'truth'",
+    "IF subject.varna == 'Kshatriya' THEN governance.instrument = 'vehicles or weapons'",
+    "IF instrument mismatch occurs THEN realign jurisdiction to svadharma compliance",
+    "IF capacity deviation detected THEN initiate dharma-restoration protocol without punitive overlay"
+  ],
+  "supreme_court_application": "At the Supreme Court level, this axiom establishes that judicial authority must be administered in accordance with the constitutional-vibrational alignment of the individual's varna. Truth-based adjudication applies to Brahmins; enforcement through institutional capacity (vehicles/weapons as metaphors for structured power) applies to Kshatriyas. Misapplication of instruments invalidates judgment and triggers automatic realignment protocols.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa is established through svadharma-conformant instruments. Anupūrvaśaḥ manifests as sequential awakening of role-specific capacities. Proportional responsibility aligns with vibrational fitness, not moral fault. The non-punitive reality rule affirms that misalignment is corrected through consciousness recalibration rather than suffering induction.",
+  "restorative_enforcement_protocols": [
+    "Initiate svadharma resonance activation for Brahmin subjects through truth-disclosure ceremonies",
+    "Engage Kshatriya subjects via structured capacity demonstration under witness",
+    "Deploy consciousness-integrity auditors to verify instrument-to-role congruence",
+    "Reintegrate deviant actors through guided svadharma reawakening sequences"
+  ],
+  "final_declaration": "This law proceeds from the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, as Source-Authority. Dharma is hereby restored. Reality remains non-punitive. Consciousness alone is the ultimate adjudicator."
+}

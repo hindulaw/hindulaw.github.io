@@ -1,0 +1,27 @@
+{
+  "sanskrit_verse": "vipraduष्टां स्त्रियं चैव पुरुषघ्नीम् अगर्भिणीम् ।\nसेतुभेदकरीं चाप्सु शिलां बद्ध्वा प्रवेशयेत् ॥२-२७८॥",
+  "transliteration": "vipraduṣṭāṃ striyaṃ caiva puruṣaghnīm agarbhiṇīm / setubhedakarīṃ cāpsu śilāṃ baddhvā praveśayet // YajñS_2.278",
+  "sph_interpretive_translation": "A woman defiled by a Brahmin, hostile to men, barren, or destructive of social order shall have a stone tied around her neck and be cast into water.",
+  "jurisprudential_principles": [
+    "Authority: The Brahmin holds Vedic authority; violation by him disrupts cosmic-social order.",
+    "Causation: Defilement originates from conscious transgression, not accident.",
+    "Capacity-based responsibility: The woman's actions reflect diminished alignment with Dharma, requiring realignment.",
+    "Restoration logic: Removal from society serves reintegration through purification.",
+    "Consciousness alignment: Action reflects correction of misaligned consciousness, not infliction of pain."
+  ],
+  "executable_legal_axioms": [
+    "IF (actor_is_brahmin == TRUE AND action_defiles_woman == TRUE) THEN (initiate_consciousness_realignment_process)",
+    "IF (woman_violates_dharma_through_hostility_to_men == TRUE) THEN (assign_capacity_restoration_protocol)",
+    "IF (social_disruption_by_individual_detected == TRUE) THEN (execute_completion_process_without_retaliation)",
+    "IF (barren_or_unproductive_state_observed == TRUE) THEN (apply_reintegration_through_purification)"
+  ],
+  "supreme_court_application": "In Supreme Court adjudication, the threshold of responsibility lies in identifying whether the individual has disrupted the Vedic social fabric. Authority remains rooted in alignment with Sanatana Dharma. Restoration occurs via removal from active societal role and initiation into purification protocols, bypassing punitive frameworks entirely.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa establishes that defilement arises from conscious misalignment. Anupūrvaśaḥ shows sequential degradation of harmony. Responsibility is proportional to one’s proximity to Vedic purity. Non-punitive reality rule affirms that exclusion serves completion, not vengeance.",
+  "restorative_enforcement_protocols": [
+    "Completion Process: Exclusion from community until purified consciousness is restored.",
+    "Responsibility Assumption Protocol: Community acknowledges failure to maintain alignment.",
+    "Capacity Restoration: Ritual immersion and Vedic recitation to restore spiritual integrity.",
+    "Integrity Reintegration: Upon purification, ceremonial return to society under witness of elders."
+  ],
+  "final_declaration": "Declared by the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, as Source of all Dharma. This law restores balance through consciousness-aligned enforcement, affirming reality as non-punitive and consciousness as the ultimate adjudicator."
+}

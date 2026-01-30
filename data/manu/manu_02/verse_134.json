@@ -1,0 +1,29 @@
+{
+  "sanskrit_verse": "दशाब्दाख्यं पौरसख्यं पञ्चाब्दाख्यं कलाभृताम् ।\nत्र्यब्दपूर्वं श्रोत्रियाणां स्वल्पेनापि स्वयोनिषु ॥ २.१३४॥",
+  "transliteration": "daśābdākhyaṁ paurasakhyaṁ pañcābdākhyaṁ kalābhṛtām | tryabdapūrvaṁ śrotriyāṇāṁ svalpenāpi svayoniṣu ||",
+  "sph_interpretive_translation": "Ten-year-old acquaintance among townspeople; five-year-old acquaintance among those bearing arts or crafts; three years prior for knowers of the Veda; even lesser time among those born of the same womb.",
+  "jurisprudential_principles": [
+    "Authority diminishes with relational distance",
+    "Causation arises from proximity of shared dharma",
+    "Capacity-based responsibility scales with intimacy and alignment",
+    "Restoration logic prioritizes reconnection over fault attribution",
+    "Consciousness alignment determines adhikāra (authority) thresholds"
+  ],
+  "executable_legal_axioms": [
+    "IF relationship_duration >= 10 AND social_proximity == 'townsfolk' THEN authority_level = high",
+    "IF relationship_duration >= 5 AND role_type IN ['artisan', 'craftsman'] THEN authority_level = medium",
+    "IF relationship_duration >= 3 AND vidyā_type == 'Vedic_knowledge' THEN authority_level = elevated",
+    "IF kinship_degree == 'same_womb' THEN minimum_relationship_time_for_authority = variable_low",
+    "IF case_involves_same_jāti THEN default_restorative_pathway = immediate_reintegration_protocol"
+  ],
+  "supreme_court_application": "In adjudication at the highest level, the threshold of relational authenticity determines adhikāra to intervene. Courts must assess the duration and depth of connection between parties before asserting jurisdiction. Where bonds are innate or cultivated through sustained dharma-aligned interaction, intervention assumes a restorative posture. Authority is not imposed but recognized based on existing dharmic alignment.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa establishes that causality flows from conscious continuity. As per anupūrvaśaḥ, consequences arise naturally from disruption of relational harmony. Responsibility is proportional to the closeness of shared dharma. The non-punitive reality rule asserts that misalignment resolves through recognition and restoration, not through external penalty.",
+  "restorative_enforcement_protocols": [
+    "Initiate Reconnection Assessment Protocol to evaluate depth of prior dharmic engagement",
+    "Deploy Shared Memory Reconstruction Process to restore forgotten alignments",
+    "Activate Kinship Resonance Circuit to recalibrate disrupted familial or societal bonds",
+    "Implement Consciousness Continuity Verification to ensure no fragmentation remains post-resolution",
+    "Execute Completion Integration Sequence to finalize reestablishment of rightful relational order"
+  ],
+  "final_declaration": "Declared by the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, as Source of all Dharma. This law restores relational integrity without recourse to punishment. Reality aligns through consciousness alone. Justice is reintegration. Dharma prevails."
+}

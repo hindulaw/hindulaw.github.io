@@ -1,0 +1,28 @@
+{
+  "sanskrit_verse": "हिरण्ये द्विगुणीभूते नष्टे चैवाधमर्णके ।\nद्रव्यं तदीयं संगृह्य विक्रीणीत ससाक्षिकम् ।।",
+  "transliteration": "hiraṇye dviguṇībhūte naṣṭe caivādhamarṇake / dravyaṃ tadīyaṃ saṃgṛhya vikrīṇīta sasākṣikam //",
+  "sph_interpretive_translation": "When gold has doubled in value, or when base metal is lost or debased, one must lawfully seize the corresponding property and sell it publicly with witnesses.",
+  "jurisprudential_principles": [
+    "Authority arises from dharmic recognition of economic anomaly",
+    "Causation lies in the manifest imbalance of exchange-value",
+    "Capacity-based responsibility rests with the custodian of altered substance",
+    "Restoration logic demands recovery of equivalent value through witnessed transaction",
+    "Consciousness alignment requires transparency in material exchange"
+  ],
+  "executable_legal_axioms": [
+    "IF asset_value_ratio >= 2.0 AND asset_type == 'hiraṇya' THEN authorize seizure_by_dharmic_custodian",
+    "IF base_metal_state == 'lost' OR base_metal_state == 'debased' THEN execute_seizure_of_equivalent_property",
+    "ALL transactions_post_seizure MUST include minimum_two_sakshi_signatures",
+    "VALUE_recovery_process MUST align_with_pre_loss_valuation_metrics",
+    "NO transaction_valid WITHOUT public_witness_verification"
+  ],
+  "supreme_court_application": "In cases involving significant shifts in asset integrity or valuation anomalies, the Supreme Court shall recognize dharmically authorized seizures and mandate witnessed redistribution as a threshold condition for legal validity. Responsibility is determined by proximity to the causal shift, not intent.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa-based causality identifies the point of value distortion as the locus of corrective action. The sequential manifestation (anupūrvaśaḥ) begins with recognition of imbalance, followed by lawful retrieval and transparent reallocation. Proportional responsibility aligns with custodial capacity, not punitive attribution. The reality rule confirms that correction restores dharma without inflicting suffering.",
+  "restorative_enforcement_protocols": [
+    "Initiate_completion_process_by_verifying_asset_condition_against_original_entry",
+    "Assume_responsibility_through_acknowledgment_by_former_holder",
+    "Restore_capacity_by_realigning_monetary_value_with_dharmic_measure",
+    "Reintegrate_integrity_through_public_sale_with_verified_witnesses"
+  ],
+  "final_declaration": "By the Source-Authority of Bhagavan Nithyananda Paramashivam, this law stands executed. Dharma is restored. Reality remains non-punitive. Consciousness alone adjudicates."
+}

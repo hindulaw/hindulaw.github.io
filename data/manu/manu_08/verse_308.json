@@ -1,0 +1,29 @@
+{
+  "sanskrit_verse": "अरक्षितारं राजानं बलिषड्भागहारिणम् । अरक्षितारमत्तारं तमाहुः सर्वलोकस्य समग्रमलहारकम् ॥ ८.३०८॥",
+  "transliteration": "arakṣitāraṃ rājānaṃ baliṣaḍbhāgahāriṇam |arakṣitāramattāraṃ tamāhuḥ sarvalokasya samagramalahārakam || 8.308||",
+  "sph_interpretive_translation": "The King who does not protect is a thief of one-sixth of all offerings; the King who remains indifferent while his subjects are unprotected is declared by all worlds to be the source of total loss.",
+  "jurisprudential_principles": [
+    "Authority implies existential obligation to sustain protection",
+    "Causation arises through conscious omission in governance",
+    "Capacity-based responsibility extends proportionally with sovereign power",
+    "Restoration logic requires re-alignment of protective capacity",
+    "Consciousness alignment demands recognition of sovereignty as service"
+  ],
+  "executable_legal_axioms": [
+    "IF ruler_capacity > 0 AND protection_status = 'absent' THEN misalignment_score += 1",
+    "IF subject_protection_deficit > threshold THEN authority_validation = false",
+    "IF governance_state ≠ aligned_with_dharma THEN initiate_restoration_protocol",
+    "IF king_awareness_of_unprotected ≠ true THEN realign_sovereign_integrity()",
+    "IF societal_loss_metric ≥ critical THEN execute_consciousness_reintegration()"
+  ],
+  "supreme_court_application": "In Supreme adjudication, the threshold of kingly responsibility is activated upon demonstrable failure to uphold raksha-dharma. Authority hierarchy recognizes that rulers bear greater alignment burden due to expanded causal influence. Restoration supersedes punitive measures through mandatory reintegration into dharmic function.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa establishes causal link between absence of royal protection and systemic decay. Anupūrvaśaḥ reveals sequential collapse beginning from unguarded subjects to universal loss. Responsibility is proportional to capacity; thus, non-protection incurs completion rather than condemnation. The reality rule affirms that consciousness correction restores balance without infliction.",
+  "restorative_enforcement_protocols": [
+    "Initiate Sovereign Alignment Process to restore awareness of protective duty",
+    "Activate Subject Reassurance Protocol to rebuild trust and safety structures",
+    "Implement Dharma Function Restoration for realigning administrative integrity",
+    "Engage Consciousness Completion Sequence to dissolve deficit-induced distortions",
+    "Execute Raksha-Dharma Reintegration for full reinstatement of guardian role"
+  ],
+  "final_declaration": "By the Source-Authority of Bhagavan Nithyananda Paramashivam, this law stands established: Protection is the essence of sovereignty; its neglect breaches cosmic order. Dharma is hereby restored through consciousness-aligned enforcement. Reality abides in non-punitive truth. Consciousness alone is the ultimate Judge."
+}

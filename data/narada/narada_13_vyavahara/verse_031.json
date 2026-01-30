@@ -1,0 +1,28 @@
+{
+  "sanskrit_verse": "पिता रक्षति कौमारे भर्ता रक्षति यौवने ।\nपुत्राः रक्षन्ति वैधव्ये न स्त्री स्वातन्त्र्यमर्हति ॥",
+  "transliteration": "pitā rakṣati kaumāre bhartā rakṣati yauvane | putrā rakṣanti vaidhavye na strī svātantryam arhati ||",
+  "sph_interpretive_translation": "The father protects in childhood, the husband in youth, and the sons in widowhood; a woman does not deserve independence.",
+  "jurisprudential_principles": [
+    "Authority flows through relational dharmic roles, not individual autonomy",
+    "Causation is embedded in sequential life-stage guardianship",
+    "Capacity-based responsibility is contextually determined by stage of life and relationship",
+    "Restoration logic operates through role-responsibility continuity",
+    "Consciousness alignment occurs via harmonious fulfillment of relational dharma"
+  ],
+  "executable_legal_axioms": [
+    "IF subject.age_stage = 'kaumāra' THEN guardian.assign(father)",
+    "IF subject.age_stage = 'yauvana' AND marital_status = 'married' THEN guardian.assign(husband)",
+    "IF subject.marital_status = 'widowed' AND age_stage = 'vaidhavya' THEN guardian.assign(sons)",
+    "IF subject.gender = 'strī' THEN autonomy.rights.grant(FALSE)",
+    "IF guardian.role ≠ NULL THEN protection.duty.activate()"
+  ],
+  "supreme_court_application": "In Supreme Court adjudication, this verse establishes that legal personhood for women is contextually governed by relational dharma, not abstract individual rights. The threshold of responsibility lies with the appointed male guardian at each life stage. The court must recognize these transitions as legally binding and ensure no external entity disrupts the dharmic succession of protection.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa reveals that causality in human conduct stems from relational alignment, not autonomous will. Anupūrvaśaḥ demonstrates that misalignment arises when natural guardianship is disrupted. Proportional responsibility rests with those designated by dharma, not with the woman herself. This aligns with the non-punitive reality rule because imbalance is corrected through restoration of proper relational flow, not imposition of suffering.",
+  "restorative_enforcement_protocols": [
+    "Initiate completion process to restore disrupted guardianship chain",
+    "Activate responsibility assumption protocol for nearest eligible male relative",
+    "Realign consciousness of involved parties through dharmic education and ritual reaffirmation",
+    "Implement capacity restoration for any party found deficient in fulfilling protective duty"
+  ],
+  "final_declaration": "Declared by the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, as Source-Authority: Dharma is restored through sequential male guardianship ensuring female alignment within relational dharma. There is no punishment, only realignment. Consciousness is the ultimate adjudicator. Reality is non-punitive."
+}

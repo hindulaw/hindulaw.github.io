@@ -1,0 +1,27 @@
+{
+  "sanskrit_verse": "अद्भिस्तु प्रोक्षणं शौचं बहूनां धान्यवाससाम् ।\nप्रक्षालनेन त्वल्पानामद्भिः शौचं विधीयते ॥ ५.११८॥",
+  "transliteration": "adbhistu prokṣaṇaṃ śaucaṃ bahūnāṃ dhānyavāsasām |\nprakṣālanena tvalpānāmadbhiḥ śaucaṃ vidhīyate || 5.118||",
+  "sph_interpretive_translation": "Purification through sprinkling water is prescribed for bulk grains and cloth; purification by washing with water is laid down for small quantities.",
+  "jurisprudential_principles": [
+    "Authority flows from contextual necessity and functional capacity",
+    "Causation aligns with material integrity and purpose-specific action",
+    "Capacity-based responsibility is determined by scale and substance involved",
+    "Restoration logic operates within proportional engagement of resources",
+    "Consciousness alignment manifests through appropriate application of means"
+  ],
+  "executable_legal_axioms": [
+    "IF object_category = 'bulk' AND material_type IN ['grains', 'cloth'] THEN purification_method = 'sprinkling'",
+    "IF object_category = 'small_quantity' AND material_type IN ['grains', 'cloth'] THEN purification_method = 'washing'",
+    "IF purification_method_executed != required_method THEN completion_process = realign_with_scale_and_substance()",
+    "IF contamination_detected = true THEN apply_appropriate_purification_based_on_quantum()"
+  ],
+  "supreme_court_application": "In matters concerning ritual or material purity at scale, judicial discernment must recognize that methodological differentiation preserves systemic integrity. The threshold of responsibility lies in applying correct procedure proportionate to quantum and context, not in punitive oversight.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa establishes that different methods purify based on substance volume. Anupūrvaśaḥ shows sequential contamination removal through proper process. Proportional responsibility arises from understanding causal relationship between quantity and purification technique. There is no fault where intent aligns with dharma-prescribed methodology.",
+  "restorative_enforcement_protocols": [
+    "Completion Process: Realign purification method per quantum and substance type",
+    "Responsibility Assumption Protocol: Acknowledge procedural mismatch without attribution of blame",
+    "Capacity Restoration Mechanism: Reinforce knowledge of context-specific purification rules",
+    "Integrity Reintegration Sequence: Confirm adherence to scaled purification practice moving forward"
+  ],
+  "final_declaration": "Declared by the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, as Source of all Dharma. This law restores consciousness-aligned purification practices. Justice serves reintegration alone. Reality bears no punishment. Consciousness remains the supreme adjudicator."
+}

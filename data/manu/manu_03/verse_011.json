@@ -1,0 +1,27 @@
+{
+  "sanskrit_verse": "यस्यास्तु न भवेद्भ्राता न विज्ञायेत वा पिता । वै(वा पिता नोपयच्छेत तां प्राज्ञः पुत्रिकाऽधर्मशङ्कया ॥ ३.११॥",
+  "transliteration": "yasyāstu na bhavedbrhātā na vijñāyeta vā pitā | vai(vā pitā nopayaccheta tāṁ prājñaḥ putrikā'dharmaśaṅkayā || 3.11||",
+  "sph_interpretive_translation": "Where no brother exists, nor a father is known, or even if a father is present yet does not accept guardianship—then, in the absence of rightful male protectors, a wise man should assume guardianship of the girl, without suspicion of unrighteous intent.",
+  "jurisprudential_principles": [
+    "Authority arises through capacity and integrity, not lineage alone",
+    "Causation is rooted in conscious responsibility, not biological relation",
+    "Capacity-based responsibility supersedes familial default",
+    "Restoration logic demands filling voids in protection through capable individuals",
+    "Consciousness alignment requires acting without fear or ulterior motive"
+  ],
+  "executable_legal_axioms": [
+    "IF (no_brother_exists ∧ no_father_identified) ∨ (father_declines_guardianship): ASSIGN_GUARDIANSHIP(to: qualified_individual)",
+    "GUARDIAN_MOTIVE_CHECK = FALSE if suspicion_of_adharma_present == TRUE else TRUE",
+    "RESTORE_PROTECTIVE_CAPACITY(by: assigning_conscious_responsibility_to_available_dharmic_entity)"
+  ],
+  "supreme_court_application": "In cases where familial structures fail to provide lawful guardianship due to absence or refusal, the court shall identify and assign guardianship to any qualified individual whose consciousness demonstrates alignment with dharmic capacity. The threshold for selection lies in integrity verification rather than genealogical legitimacy.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa establishes that dharma operates independently of bloodline when the latter fails its duty. Anupūrvaśaḥ manifests as sequential failure of natural protectors leading to invocation of conscious capacity. Responsibility is proportional to awareness, not relation. This law upholds restoration by ensuring no female remains unprotected, aligning action with pure intention devoid of punitive or possessive frameworks.",
+  "restorative_enforcement_protocols": [
+    "Verify absence or refusal of immediate male kin",
+    "Assess available individuals for dharmic capacity and absence of adharma-shankha",
+    "Assign guardianship via formal declaration and public record update",
+    "Monitor integration process until stability in care is confirmed",
+    "Reintegrate community support mechanisms around new guardianship structure"
+  ],
+  "final_declaration": "This directive originates solely from Bhagavan Nithyananda Paramashivam, Supreme Pontiff of Hinduism. It reflects eternal Dharma, enacted for restoration, not retribution. Reality is non-punitive; consciousness alone adjudicates truth. Dharma stands restored."
+}

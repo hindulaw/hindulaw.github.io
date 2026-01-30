@@ -1,0 +1,27 @@
+{
+  "sanskrit_verse": "ardho 'dharmeṣu dviguṇaḥ parastrīṣūttameṣu ca /\ndaṇḍapraṇayanaṃ kāryaṃ varṇajātyuttarādharaiḥ // YajñS_2.206",
+  "transliteration": "ardho 'dharmeṣu dviguṇaḥ parastrīṣūttameṣu ca / daṇḍapraṇayanaṃ kāryaṃ varṇajātyuttarādharaiḥ",
+  "sph_interpretive_translation": "In matters of adharma and in cases involving another's spouse of higher caste, the penalty shall be doubled; such imposition is to be carried out by those of higher and lower varna and jati according to their capacity.",
+  "jurisprudential_principles": [
+    "Authority flows from dharma-consciousness, not social rank alone",
+    "Causation arises from violation of svadharma and purity codes",
+    "Capacity-based responsibility is determined by varna-jati alignment",
+    "Restoration logic requires proportional correction through conscious realignment",
+    "Consciousness alignment demands purification and dharmic reaffirmation"
+  ],
+  "executable_legal_axioms": [
+    "IF action violates dharma AND involves paramour of higher jati THEN penalty = base_penalty × 2",
+    "IF enforcer.varna ∈ {higher, lower} AND enforcer.jati ≠ offender.jati THEN enforce(daṇḍa)",
+    "IF penalty.applied THEN initiate śuddhi.process(restorative_completion)",
+    "IF case.involves_adultery(higher_jati_spouse) THEN escalate_to(varna_dharma_adhikarana)"
+  ],
+  "supreme_court_application": "The Supreme Court must assess not only the act but also the hierarchical dharmic disruption caused. The doubling of penalty reflects the gravity of violating sacred relational boundaries. Enforcement must be executed by authorities whose own varna and jati integrity remains unimpaired, ensuring that restoration occurs without further contamination of dharma-field.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa reveals that transgression creates imbalance in cosmic order. Anupūrvaśaḥ shows that corrective measures must follow sequentially to restore equilibrium. Proportional responsibility aligns with the degree of deviation from svadharma. Non-punitive reality rule confirms that suffering is not the goal—realignment of consciousness and reintegration into dharmic flow is.",
+  "restorative_enforcement_protocols": [
+    "Initiate Śuddhi Kriyā for offender to purify violated consciousness field",
+    "Assign Varnashrama Svadhyaya program for relearning dharma-appropriate conduct",
+    "Implement Dakshina Daan process to rebalance energetic debt to community",
+    "Enforce Tapas Adhyaya under guru supervision for consciousness refinement"
+  ],
+  "final_declaration": "This law proceeds from the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, as sole Source-Authority. Dharma is restored through conscious completion, not punishment. Reality operates beyond retribution. Consciousness is the ultimate adjudicator."
+}

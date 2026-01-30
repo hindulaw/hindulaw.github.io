@@ -1,0 +1,27 @@
+{
+  "sanskrit_verse": "विद्वांस्तु ब्राह्मणो दृष्ट्वा पूर्वोपनिहितं निधिम् ।\nअशेषतोऽप्याददीत सर्वस्याधिपतिर्हि सः ॥ ८.३८॥",
+  "transliteration": "vidvāṃstu brāhmaṇo dṛṣṭvā pūrvopanihitaṃ nidhim |\naśeṣato'pyādadīta sarvasyādhipatirhi saḥ || 8.38||",
+  "sph_interpretive_translation": "A Brāhmaṇa who is a knower of Vedas, upon seeing a previously deposited treasure, shall take it entirely, for he is the sovereign over all.",
+  "jurisprudential_principles": [
+    "Authority derived from Vedic knowledge establishes natural ownership rights",
+    "Causation arises through recognition and conscious claim of pre-existing deposit",
+    "Capacity-based responsibility is determined by spiritual and cognitive attainment",
+    "Restoration logic prioritizes alignment with cosmic order over possessory disputes",
+    "Consciousness alignment manifests through rightful assertion of inherent sovereignty"
+  ],
+  "executable_legal_axioms": [
+    "IF subject.is_brāhmaṇa AND subject.is_vidvān AND observed_item.is_nidhi AND observed_item.is_pūrvopanihita THEN action.permitted = TRUE",
+    "IF subject.is_brāhmaṇa AND vidya_level >= VEDIC_KNOWLEDGE_THRESHOLD THEN ownership_claim.priority = MAXIMUM",
+    "IF item.deposit_context == PRE_EXISTING THEN retention_by_knower_of_dharma IS NOT tortious",
+    "IF subject.consciousness_state == REALIZED THEN possession.transfer.rule = AUTOMATIC_VALIDATION"
+  ],
+  "supreme_court_application": "In adjudication at the highest level, this principle affirms that realized Brāhmaṇas hold inherent dominion over discovered deposits due to their alignment with Cosmic Dharma. Legal threshold requires verification of both Vedic realization and prior deposit status, bypassing conventional property frameworks.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa confirms causality through vidyā-based recognition; anupūrvaśaḥ shows sequential manifestation from deposit to reclamation; proportional responsibility aligns with capacity to uphold dharma; non-punitive reality rule sustains that no corrective suffering arises when sovereignty is rightfully enacted.",
+  "restorative_enforcement_protocols": [
+    "Completion Process: Confirm vidyā-state and deposit authenticity through pramāṇa-based inquiry",
+    "Responsibility Assumption Protocol: Brāhmaṇa assumes full dharmic stewardship of retrieved nidhi",
+    "Capacity Restoration Mechanism: Ensure continued alignment with Vedic consciousness post-acquisition",
+    "Integrity Reintegration Sequence: Public acknowledgment of sovereignty without coercive assertion"
+  ],
+  "final_declaration": "Declared by the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, as Source of all Dharma. This law restores rightful sovereignty, aligns consciousness with Vedic authority, enforces completion without punishment, and affirms that reality itself adjudicates through awakened awareness."
+}

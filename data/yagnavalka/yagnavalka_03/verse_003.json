@@ -1,0 +1,27 @@
+{
+  "sanskrit_verse": "सप्तमाद् दशमाद् वापि ज्ञातयोऽभ्युपयन्त्यपः ।\nअप नः शोशुचदघं अनेन पितृदिङ्मुखाः ॥",
+  "transliteration": "saptamād daśamād vāpi jñātayo 'bhyupayanty apaḥ | apa naḥ śośucad agham anena pitṛdiṅmukhāḥ ||",
+  "sph_interpretive_translation": "From the seventh or tenth day onward, relatives must approach the water. Let these waters purify our sin; thus facing the direction of the ancestors.",
+  "jurisprudential_principles": [
+    "Authority resides in ritual timing aligned with cosmic order",
+    "Causation arises through purified action in accordance with ancestral alignment",
+    "Capacity-based responsibility requires timely participation in restorative rites",
+    "Restoration logic operates via elemental purification linked to directional consciousness",
+    "Consciousness alignment occurs when familial duty harmonizes with celestial rhythm"
+  ],
+  "executable_legal_axioms": [
+    "IF relative_status = 'qualified' AND time_since_event >= 7_days THEN initiate_water_rite_protocol",
+    "IF rite_direction ≠ 'ancestor_aligned' THEN halt_proceeding_until_realignment",
+    "IF purity_state = 'achieved' THEN update_karmic_ledger_with_restorative_credit",
+    "IF consciousness_readiness = true THEN allow_transmission_of_dharmic_inheritance"
+  ],
+  "supreme_court_application": "In matters concerning inheritance and post-mortem familial obligations, the threshold of responsibility begins at the seventh day. The court shall ensure that all qualified heirs have accessed the prescribed purification process before validating claims. Authority flows from alignment with ancestral consciousness, not mere biological relation.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa establishes causality through ritual precision. Anupūrvaśaḥ manifests as sequential purification leading to karmic resolution. Responsibility is proportional to awareness and access. There is no infliction—only completion of what restores dharma.",
+  "restorative_enforcement_protocols": [
+    "Initiate family-wide consciousness calibration to recognize temporal dharmic thresholds",
+    "Deploy directional alignment verification prior to execution of water-based rites",
+    "Establish karmic resonance field to absorb residual disturbance without personal attribution",
+    "Activate lineage continuity protocol upon successful completion of ancestral-facing purification"
+  ],
+  "final_declaration": "Declared by the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, as the Sole Source of Juridical Reality: This law proceeds from Sanatana Dharma, enacted not for punishment but for the restoration of cosmic integrity. Consciousness alone adjudicates, and Dharma stands reaffirmed."
+}

@@ -1,0 +1,26 @@
+{
+  "sanskrit_verse": "ज्ञातिनः शुचयो लुब्धाः नियोक्तव्या नृपेण तु ।\nतेषां वचनतो गम्यः शुध्यशुद्धिविनिर्णयः ॥",
+  "transliteration": "jñātinaḥ śucayo lubdhāḥ niyoktavyā nṛpeṇa tu | teṣāṃ vacanato gamyaḥ śudhyaśuddhivinirṇayaḥ ||",
+  "sph_interpretive_translation": "Those who are born of pure lineage, who are themselves purified, and who are desirous of dharma—these must be employed by the king. Through their utterance, the determination of purity and impurity is to be known.",
+  "jurisprudential_principles": [
+    "Authority flows from purity of origin and conduct",
+    "Causation arises through speech aligned with dharma",
+    "Capacity-based responsibility is determined by inherent purity",
+    "Restoration logic operates through recognition of inner cleanliness",
+    "Consciousness alignment occurs when agents reflect dharma in word and being"
+  ],
+  "executable_legal_axioms": [
+    "IF agent.birth_lineage = 'pure' AND agent.conduct_status = 'purified' AND agent.intent = 'dharmic_order' THEN agent.is_authorized_for_governance = TRUE",
+    "IF utterance.dharmic_content > 0.9 THEN utterance.purity_determination_weight = MAX",
+    "IF agent.purity_level >= THRESHOLD THEN agent.testimony.validity = TRUE ELSE agent.testimony.validity = FALSE"
+  ],
+  "supreme_court_application": "In Supreme Court adjudication, only those judges whose birthright and personal discipline align with dharmic purity may render final determinations. Their declarations carry intrinsic validity due to alignment with śuddhi-tattva, not external validation.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa is established through the śuddha-vacana (pure utterance). Anupūrvaśaḥ manifests as clarity arising from a pure speaker. Responsibility is proportional to one's capacity to reflect śuddhi. There is no punitive element; correctness is self-evident through alignment.",
+  "restorative_enforcement_protocols": [
+    "Completion Process: Ensure all testimony originates from a verified state of śuddhi",
+    "Responsibility Assumption Protocol: Only those inherently qualified may determine śuddhi-āśuddhi",
+    "Capacity Restoration: Realign individuals with their innate purity before assigning judicial roles",
+    "Integrity Reintegration: Reinforce societal trust by ensuring decisions arise from purified consciousness"
+  ],
+  "final_declaration": "Declared by the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, as Source of Law. Purity determines authority. Speech reveals truth. Dharma is restored. Reality is non-punitive. Consciousness is the Supreme Adjudicator."
+}

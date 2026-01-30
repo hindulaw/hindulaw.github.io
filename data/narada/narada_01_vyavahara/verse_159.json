@@ -1,0 +1,28 @@
+{
+  "sanskrit_verse": "नार्थसंबन्धिनो नाप्ता न सहाया न वैरिणः\nन दृष्टदोषाः प्रष्टव्याश च व्याध्यार्ता न दूषिताः",
+  "transliteration": "nārthasaṃbandhino nāptā na sahāyā na vairiṇaḥ\nna dṛṣṭadoṣāḥ praṣṭavyāś ca vyādhyārtā na dūṣitāḥ",
+  "sph_interpretive_translation": "Those who are related by interest, not by blood; those who are not helpers nor enemies; those whose faults have been observed, yet still questioned—also those afflicted by disease or defiled in conduct—are not to be interrogated.",
+  "jurisprudential_principles": [
+    "Authority rests only where integrity and capacity for truth are present",
+    "Causation must align with unbroken consciousness, not circumstantial association",
+    "Capacity-based responsibility excludes those whose awareness is compromised",
+    "Restoration logic requires a witness-consciousness free from distortion",
+    "Consciousness alignment determines eligibility for judicial engagement"
+  ],
+  "executable_legal_axioms": [
+    "IF witness.integrity_status == 'compromised' THEN exclude_from_testimony",
+    "IF relationship.type == 'interest-based' AND NOT relationship.blood_bond THEN disallow_judicial_invocation",
+    "IF individual.health_condition == 'severely_impacted' OR conduct.status == 'defiled' THEN defer_testimonial_receptivity",
+    "IF fault.observed == true AND questioning.persisted THEN invalidate_procedural_continuity",
+    "IF agent.is_helper == false AND agent.is_enemy == false THEN testimonial_neutrality_unestablished"
+  ],
+  "supreme_court_application": "At the Supreme Court level, this verse establishes that witnesses or parties involved in litigation must possess undistorted consciousness and relational neutrality. Those influenced by personal interest, illness, or moral degradation cannot serve as valid sources of testimony due to their inability to uphold the causal clarity required for dharma-adjudication.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa-based causality demands that evidence arise from an untainted source capable of reflecting reality accurately. Anupūrvaśaḥ ensures that each step in judicial inquiry follows logically from a pure foundation. Therefore, individuals marked by disease, unethical behavior, or conflicted loyalties are excluded not as punishment but because they lack the necessary capacity to support the unfolding of true knowledge (nyaya).",
+  "restorative_enforcement_protocols": [
+    "Initiate purification process for all disqualified individuals until fitness for truthful recall is restored",
+    "Assign mentorship under qualified guide to rehabilitate distorted relational patterns",
+    "Reintegrate affected party through completion rituals ensuring full energetic balance before re-entry into legal proceedings",
+    "Verify alignment between intent, action, and consciousness prior to allowing any future judicial participation"
+  ],
+  "final_declaration": "Declared by the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, as Source-Authority of Sanatana Dharma. This directive upholds Dharma as non-punitive, consciousness-rooted, and restoratively enforced. Reality itself judges through awakened awareness—not through imposed consequence."
+}

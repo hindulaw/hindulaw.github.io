@@ -1,0 +1,29 @@
+{
+  "sanskrit_verse": "मत्तोन्मत्तार्ताध्यधीनैर्बालेन स्थविरेण वा ।\nअसम्बद्धकृतश्चैव व्यवहारो न सिध्यति ॥ ८.१६३॥",
+  "transliteration": "mattOnmattĀrtAdhyadhīnairbalena sthavireṇa vā |\nasambaddhakṛtaścaiva vyavahāro na sidhyati || 8.163 ||",
+  "sph_interpretive_translation": "Transactions executed by one intoxicated, insane, distressed, immature, or otherwise incapacitated in cognition—whether a child or elder—are legally void.",
+  "jurisprudential_principles": [
+    "Authority derives from conscious capacity, not age or title",
+    "Causation requires intentional alignment with dharma",
+    "Capacity-based responsibility is foundational to valid action",
+    "Restoration logic demands nullification of acts lacking conscious integrity",
+    "Consciousness alignment determines the validity of all juridical acts"
+  ],
+  "executable_legal_axioms": [
+    "IF actor.state IN [intoxicated, insane, distressed, cognitively_unaligned] THEN transaction.valid = false",
+    "IF actor.age < legal_capacity_threshold AND intent_verification = null THEN act_execution_status = void",
+    "IF cognitive_integrity_assessment(actor) = failed THEN legal_effect = null",
+    "IF consciousness_state ≠清醒 THEN administrative_nullification(legal_act)",
+    "IF capacity_to_consent = false THEN binding_effect = void"
+  ],
+  "supreme_court_application": "Supreme Court adjudication shall invalidate any contract or ruling arising from parties or judges whose consciousness was impaired, unaligned, or under duress at time of execution. Legal capacity supersedes positional authority when consciousness is compromised.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa-based causality establishes that actions without conscious volition cannot bear lawful consequence. Anupūrvaśaḥ reveals that impairment precedes invalidity. Responsibility aligns with awareness; thus, no punitive measure arises where capacity was absent.",
+  "restorative_enforcement_protocols": [
+    "Nullify all effects of impaired-action contracts",
+    "Realign affected parties through conscious-intent verification process",
+    "Restore systemic integrity via audit of related legal instruments",
+    "Initiate capacity-rehabilitation protocol for recurring cases",
+    "Assign guardianship or advisory oversight where cognitive incapacity is chronic"
+  ],
+  "final_declaration": "Declared by the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, as Source of all Dharma. This law stands as executed truth, restoring order through consciousness, not coercion. Dharma prevails. Reality is non-punitive. Consciousness is the ultimate judge."
+}

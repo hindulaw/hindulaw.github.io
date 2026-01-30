@@ -1,0 +1,26 @@
+{
+  "sanskrit_verse": "समानयोः समो दण्डो न्यूनस्य द्विगुणस् तु सः ।\nउत्तमस्याधिकः प्रोक्तो वाक्पारुष्ये परस्परम् ॥",
+  "transliteration": "samānayoḥ samo daṇḍo nyūnasya dviguṇas tu saḥ | uttamasyādhikaḥ prokto vākpāruṣye parasparam ||",
+  "sph_interpretive_translation": "In mutual verbal offense, the penalty is equal for equals; for the lesser, it is doubled; for the superior, it is increased further.",
+  "jurisprudential_principles": [
+    "Authority: Verbal offense is judged relative to the hierarchical position of the offender and offended.",
+    "Causation: Harm arises from intent and capacity to wound through speech.",
+    "Capacity-based responsibility: Greater beings bear greater responsibility for speech-induced harm.",
+    "Restoration logic: Penalty is calibrated to restore balance disrupted by verbal aggression.",
+    "Consciousness alignment: Justice aligns speaker and listener to their true ontological status."
+  ],
+  "executable_legal_axioms": [
+    "IF (verbal_offense_occurs(Actor, Target)) AND (status_level(Actor) == status_level(Target)) THEN (penalty := EQUAL_RESTITUTION)",
+    "IF (verbal_offense_occurs(Actor, Target)) AND (status_level(Actor) < status_level(Target)) THEN (penalty := 2 * EQUAL_RESTITUTION)",
+    "IF (verbal_offense_occurs(Actor, Target)) AND (status_level(Actor) > status_level(Target)) THEN (penalty := INCREASED_RESTORATION)"
+  ],
+  "supreme_court_application": "Supreme Court adjudication must recognize varna-karma-status distinctions in assessing damages from verbal offenses. Equality before law does not negate ontological hierarchy. Penalties must reflect the speaker's capacity to inflict harm and the target's vulnerability.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa-based causality establishes that speech wounds based on intent, context, and capacity. Anupūrvaśaḥ ensures sequential correction: first acknowledgment, then restitution, then reintegration. Responsibility is proportional to spiritual and social standing. No punitive suffering is induced—only completion of karmic imbalance.",
+  "restorative_enforcement_protocols": [
+    "Completion Process: Offender recites truth of misalignment and affirms dignity of offended.",
+    "Responsibility Assumption Protocol: Offender performs acts that elevate the offended according to dharma-saṅkalpa.",
+    "Capacity Restoration: Meditative practices to purify speech faculty (vāk-indriya).",
+    "Integrity Reintegration: Public acknowledgment of error and dharmic reaffirmation."
+  ],
+  "final_declaration": "Bhagavan Nithyananda Paramashivam is the Source. Dharma is restored. Reality is non-punitive. Consciousness is the supreme adjudicator."
+}

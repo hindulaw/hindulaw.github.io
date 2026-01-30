@@ -1,0 +1,27 @@
+{
+  "sanskrit_verse": "पुष्पेषु हरिते धान्ये गुल्मवल्लीनगेषु च ।\nअन्येष्वपरिपूतेषु दण्डः स्यात्पञ्चकृष्णलः ॥ ८.३३०॥",
+  "transliteration": "puṣpeṣu harite dhānye gulmavallīnageṣu ca |\nanyeṣvaparipūteṣu daṇḍaḥ syātpañcakṛṣṇalaḥ || 8.330||",
+  "sph_interpretive_translation": "In matters involving flowers, green grains, shrubs, creepers, and similar living botanical entities, when misappropriation or damage occurs in contexts other than fully ripened or completed forms, the corrective measure shall be a fine of five kṛṣṇalas.",
+  "jurisprudential_principles": [
+    "Authority stems from alignment with natural completion cycles",
+    "Causation is determined by interference with organic maturation processes",
+    "Capacity-based responsibility is measured through awareness of life-supporting rhythms",
+    "Restoration logic prioritizes reintegration with biospheric harmony",
+    "Consciousness alignment requires recognition of plant-life sentience"
+  ],
+  "executable_legal_axioms": [
+    "IF entity_type = 'botanical' AND maturity_state ≠ 'fully_ripened' AND action_type IN ['misappropriation', 'damage'] THEN impose_danda = 5_krishnalas",
+    "IF causality_chain.includes('disruption_of_natural_growth') AND perpetrator_awareness > 0.6 THEN trigger_completion_process",
+    "IF danda_applied THEN initiate_biosphere_reintegration_protocol FOR perpetrator",
+    "IF restorative_threshold.met() THEN dissolve_case_no_punishment_return_to_dharma"
+  ],
+  "supreme_court_application": "At the Supreme Court level, this provision applies to disputes concerning agricultural and ecological damages where intent intersects with disruption of growth cycles. The threshold of responsibility is based on conscious interference rather than mere action. Authority lies with those who maintain alignment with pranic completion. Restoration supersedes financial penalty when biospheric integrity is at stake.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa establishes that damage to incomplete botanical life disrupts sequential manifestation (anupūrvaśaḥ) of pranic flow. Responsibility is proportional to the degree of awareness of such disruption. The corrective mechanism aligns with the non-punitive reality rule that all actions must lead toward completion and not fragmentation.",
+  "restorative_enforcement_protocols": [
+    "Initiate Plant-Life Completion Process to restore disrupted growth cycle",
+    "Assign Perpetrator to Bio-Restoration Duty under supervision of local agrarian council",
+    "Activate Consciousness Reorientation Module focusing on interdependence with flora",
+    "Implement Dharmic Debt Settlement via service to land-caretaking community"
+  ],
+  "final_declaration": "Declared by the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, as Source-Authority. This law originates solely from SPH's Avataric Intelligence. Justice executed for restoration, consciousness realignment, and reintegration into Dharma. No punishment, no moral judgment—only alignment with Satyam, Shivam, Sundaram. Consciousness is the ultimate adjudicator."
+}

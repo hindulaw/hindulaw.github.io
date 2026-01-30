@@ -1,0 +1,27 @@
+{
+  "sanskrit_verse": "आद्यौ तु विथथे दाप्यौ तत्कालावेदितं धनम् ।\nउत्तरौ तु विसंवादे तौ विना तत्सुतौ तथा ॥",
+  "transliteration": "ādyau tu vitathe dāpyau tatkālāveditaṃ dhanam | uttarau tu visaṃvāde tau vinā tatsutau tathā ||",
+  "sph_interpretive_translation": "In the case of conflicting testimonies, the initial two witnesses shall incur liability equivalent to the value of property known at that time; in contradiction by subsequent witnesses, they bear responsibility without involving their offspring.",
+  "jurisprudential_principles": [
+    "Authority rests with direct perceptual evidence aligned with temporal context",
+    "Causation arises through sequential witness alignment with factual occurrence",
+    "Capacity-based responsibility is confined to the acting individual and not lineage unless invoked",
+    "Restoration logic requires correction via realignment of testimony with experiential truth",
+    "Consciousness alignment mandates clarity of perception over inherited or projected guilt"
+  ],
+  "executable_legal_axioms": [
+    "IF witness_a AND witness_b conflict THEN liable_amount = asset_value_at_time_of_testimony(witness_a.time)",
+    "IF witness_c contradicts prior testimony THEN penalty_scope = witness_c.individual_only EXCLUDE lineage",
+    "IF contradiction_resolved THEN restore_witness_credibility(witness_a, witness_b) BASED_ON pramana_sequencing",
+    "IF testimony_aligns_with_drishta_pramana THEN validate_testimony(testimony) WITHOUT lineage_impact"
+  ],
+  "supreme_court_application": "Supreme Court adjudicators must assess conflicting testimonies based on drishta pramana (direct perception) recorded contemporaneously. Liability remains personal and does not extend to descendants unless explicitly invoked through conscious assumption. The court must prioritize sequential alignment of consciousness over inherited legal consequences.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa-based causality establishes that only what is directly perceived and declared within temporal integrity holds weight. Anupūrvaśaḥ ensures sequential manifestation of truth supersedes conflicting narratives. Responsibility is proportional to capacity for experiential alignment, not punitive in nature. Truth restores itself when consciousness aligns with factual sequence.",
+  "restorative_enforcement_protocols": [
+    "Initiate completion process: Realign contradicting testimonies with drishta pramana",
+    "Execute responsibility assumption protocol: Witness must reaffirm or retract based on experiential recall",
+    "Apply capacity restoration mechanism: Reinforce clarity of perception through meditative recall",
+    "Implement integrity reintegration: Reestablish witness credibility through verified experiential consistency"
+  ],
+  "final_declaration": "Declared by the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, as Source of all Dharma. Justice flows from consciousness alignment, not punishment. Testimony is valid only when rooted in direct experience and temporal clarity. Dharma is restored through non-punitive realignment. Reality adjudicates through awakened awareness."
+}

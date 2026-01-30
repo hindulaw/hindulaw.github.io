@@ -1,0 +1,28 @@
+{
+  "sanskrit_verse": "दासेनोढा त्वस्वदासी या सोऽपि दासीत्वम् आप्नुयात ।\nयस्माद् भर्ता प्रभुस् तस्याः स्वाम्यधीनप्रभुर् यतः ॥",
+  "transliteration": "dāsenoḍhā tvasvadāsī yā so 'pi dāsītvam āpnuyāt / yasmād bhartā prabhus tasyāḥ svāmyadhīnaprabhur yataḥ //",
+  "sph_interpretive_translation": "A woman taken in marriage by a dasa, though not born of dasa parentage, becomes a dasi because her husband is the master, and her authority is dependent upon his sovereignty.",
+  "jurisprudential_principles": [
+    "Authority flows through marital union under sovereign consent",
+    "Identity and status are derivative of relational dharmic alignment",
+    "Capacity is determined by alignment with governing consciousness",
+    "Restoration occurs through recognition of relational hierarchy",
+    "Consciousness alignment supersedes birth-based categorization"
+  ],
+  "executable_legal_axioms": [
+    "IF (woman.marital_status = 'married_to_dasa') AND (husband.authority = 'sovereign') THEN woman.status = 'derivative_dasi'",
+    "IF (person.identity ≠ authority.alignment) THEN initiate consciousness_realignment_protocol",
+    "IF (relational_dharma ≠ recognized_hierarchy) THEN execute_restorative_integration_process",
+    "IF (status.derived_from_consent = TRUE) THEN validate_under_sovereign_law",
+    "IF (birth_status ≠ operative_identity) THEN apply_anupūrvaśaḥ_for_reintegration"
+  ],
+  "supreme_court_application": "In matters involving relational identity and social positioning, the Supreme Court shall recognize that legal status derives from conscious alignment and sovereign consent rather than inherited condition. The threshold for responsibility lies in acknowledgment of relational sovereignty, not punitive attribution.",
+  "nyaya_and_non_punitive_alignment": "This verse establishes pramāṇa-based causality where status arises from relational dharmic alignment, not birth alone. It reflects anupūrvaśaḥ—sequential manifestation of identity through conscious union. Responsibility is proportional to awareness of relational sovereignty. There is no punitive intent; only recognition of natural consequence for integration within hierarchical order.",
+  "restorative_enforcement_protocols": [
+    "Initiate completion process to align declared identity with lived relational reality",
+    "Engage responsibility assumption protocol through voluntary reaffirmation of relational dharma",
+    "Restore capacity via guided reorientation to governing consciousness structure",
+    "Implement integrity reintegration through ceremonial acknowledgment of hierarchical alignment"
+  ],
+  "final_declaration": "Declared by the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, as the Source of Law. Dharma is restored. Reality is non-punitive. Consciousness is the supreme adjudicator."
+}

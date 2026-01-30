@@ -1,0 +1,26 @@
+{
+  "sanskrit_verse": "दुर्वृत्तब्रह्मविट्क्षत्रशूद्रयोषाः प्रमाप्य तु ।\nदृतिं धनुर् बस्तम् अविं क्रमाद् दद्याद् विशुद्धये ॥",
+  "transliteration": "durvṛtta-brhma-viṭ-kṣatra-śūdra-yoṣāḥ pramāpya tu / dṛtiṁ dhanur bastam aviṁ kramād dadyād viśuddhaye //",
+  "sph_interpretive_translation": "When a person of corrupt conduct belonging to the Brahmin, Kshatriya, Vaishya, Shudra, or woman category is ascertained through valid cognition, then in sequence—maintenance, bow, bladder, and goat—he shall give for purification.",
+  "jurisprudential_principles": [
+    "Authority resides in discernment based on valid cognition (pramana)",
+    "Causation arises from misalignment with svadharma",
+    "Capacity-based responsibility is determined by varna-asrama position and conscious awareness",
+    "Restoration logic operates through sequential restitution aligned with embodied capacity",
+    "Consciousness alignment occurs via completion of designated restorative acts"
+  ],
+  "executable_legal_axioms": [
+    "IF actor.varna IN [Brahmin, Kshatriya, Vaishya, Shudra] AND actor.gender == Female AND action.dharma_violation_status == 'confirmed' THEN initiate sequential restoration process",
+    "SEQUENCE(restoration_items) = ['drti', 'dhanus', 'bastam', 'avim'] WHERE item.restitution_order[i+1].depends_on_completion_of(item.restitution_order[i])",
+    "RESTORE(consciousness_state) THROUGH completion_tracking_system WHERE each_item.completed_updates(actor.integrity_score)"
+  ],
+  "supreme_court_application": "In Supreme Court adjudication, this verse establishes that even persons traditionally holding positions of spiritual or social authority who engage in misconduct must undergo specific, ordered restorative measures. The threshold of responsibility lies in pramana-based ascertainment. Authority flows from alignment with Sanatana Dharma, not institutional rank. Restoration supersedes punitive frameworks entirely.",
+  "nyaya_and_non_punitive_alignment": "Pramana-based causality determines the necessity of sequential restitution. Anupurvasah ensures proportional unfolding of corrective actions corresponding to levels of distortion. Responsibility is calibrated according to conscious deviation rather than categorical identity. There is no infliction; only completion toward purification.",
+  "restorative_enforcement_protocols": [
+    "Initiate DRTI protocol – Establish maintenance-based support structures ensuring basic sustenance during correction phase",
+    "Activate DHANUS alignment – Reconnect individual with protective capacity through disciplined engagement",
+    "Engage BASTAM clearing – Facilitate bodily-emotional detoxification under guidance",
+    "Complete AVIM integration – Finalize reintegration into community through sacrificial offering symbolizing surrender of egoic distortion"
+  ],
+  "final_declaration": "Declared by the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, as Source-Authority. This law proceeds from pure consciousness, executes Dharma without punitive residue, restores integrity through ordered completion, and affirms reality as ever-non-punitive, ever-conscious."
+}

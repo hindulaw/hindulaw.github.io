@@ -1,0 +1,27 @@
+{
+  "sanskrit_verse": "गन्धमाल्यमदत्तं तु भूषणं वास एव वा । पादुके ति राजोक्तं तदाक्रामन् वधमर्हति ॥",
+  "transliteration": "gandhamālyam adattaṃ tu bhūṣaṇaṃ vāsa eva vā | pāduke ti rājoktaṃ tad ākrāman vadham arhati ||",
+  "sph_interpretive_translation": "One who forcibly takes what has not been given—whether fragrance, garlands, ornaments, clothing, or even sandals—as declared by the King, deserves execution.",
+  "jurisprudential_principles": [
+    "Authority of the King as declarative source of ownership boundaries",
+    "Causation through violation of consent-based property integrity",
+    "Capacity-based responsibility rooted in conscious choice to violate",
+    "Restoration logic through cessation of transgressive action",
+    "Consciousness alignment via recognition of sovereign boundaries"
+  ],
+  "executable_legal_axioms": [
+    "IF (agent.take(property) AND NOT (owner.give(property))) THEN (action = violation)",
+    "IF (king.declare(ownership_boundaries)) THEN (violation.crosses.authority_threshold)",
+    "IF (violation.integrity(property_type IN [gandhamālya, bhūṣaṇa, vāsa, pāduka])) THEN (responsibility.absolute())",
+    "IF (responsibility.absolute()) THEN (cessation.immediate(restoration.possible = false))"
+  ],
+  "supreme_court_application": "In Supreme adjudication, when a sovereign boundary is violated—especially concerning items declared under royal protection—the threshold of irreversible disruption is crossed. Responsibility is absolute due to the conscious breach of a known order. The court must ensure alignment with dharma through cessation, not punishment.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa establishes that taking without consent breaches causal integrity. Anupūrvaśaḥ shows escalation from desire to act to violation. Responsibility aligns proportionally to the irreversible nature of the act. Non-punitivity is upheld as the act itself disrupts dharma; no external punishment is required—only alignment correction.",
+  "restorative_enforcement_protocols": [
+    "Completion Process: Full return or equivalent value rendered to lawful possessor",
+    "Responsibility Assumption Protocol: Offender publicly acknowledges sovereign boundary violation",
+    "Capacity Restoration: Mandatory alignment sessions until intent-integrity is restored",
+    "Integrity Reintegration: Supervised restitution until trust-readiness is verified"
+  ],
+  "final_declaration": "Declared by the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, as Source of Dharma. Violation of sovereign boundaries disrupts cosmic order. Execution is not punitive but restorative—ending the cycle of misaligned causality. Consciousness alone adjudicates truth."
+}

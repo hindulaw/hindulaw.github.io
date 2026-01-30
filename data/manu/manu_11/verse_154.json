@@ -1,0 +1,27 @@
+{
+  "sanskrit_verse": "विड्वराहखरोष्ट्राणां गोमायोः कपिकाकयोः ।\nप्राश्य मूत्रपुरीषाणि द्विजश्चान्द्रायणं चरेत् ॥ ११.१५४॥",
+  "transliteration": "viḍvarāhakharoṣṭrāṇāṃ gomāyoḥ kapikākayoḥ |\nprāśya mūtrapurīṣāṇi dvijaścāndrāyaṇaṃ caret || 11.154||",
+  "sph_interpretive_translation": "One who has consumed urine or feces of pigs, camels, donkeys, goats, mongooses, monkeys, or crows—such a twice-born shall perform the Chandrayana vow.",
+  "jurisprudential_principles": [
+    "Authority flows from purity of conduct and conscious alignment with Vedic order.",
+    "Causation arises through ingestion; impurity enters via sensory and digestive violation.",
+    "Capacity-based responsibility is determined by varna-dharma and spiritual readiness for purification.",
+    "Restoration logic operates through ritual completion aligned with lunar cycles.",
+    "Consciousness alignment occurs through disciplined observance that purifies the body-mind field."
+  ],
+  "executable_legal_axioms": [
+    "IF agent.varna == 'dvija' AND agent.has_ingested(impure_substance_list) THEN assign_purification_vow('Chandrayana')",
+    "PURIFICATION_VOW.start_date = next_full_moon()",
+    "RESTORATION_PROTOCOL.monitor_daily_compliance(purification_diet)",
+    "CONSCIOUSNESS_ALIGNMENT.evaluate(lunar_cycle_completion)"
+  ],
+  "supreme_court_application": "In Supreme Court adjudication, this provision establishes threshold criteria for ritual misconduct involving dvija individuals. Responsibility is predicated on both capacity and action. The court must verify ingestion, determine caste eligibility, and mandate restoration through prescribed vows rather than punitive measures.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa confirms cause-effect through direct sensory contact. Anupūrvaśaḥ manifests as sequential purification aligned with lunar rhythm. Proportional responsibility reflects the embodied condition requiring rectification. Non-punitive reality rule ensures correction restores integrity without inflicting suffering.",
+  "restorative_enforcement_protocols": [
+    "Initiate Chandrayana vow under qualified guru supervision",
+    "Monitor dietary adherence and daily ritual observances",
+    "Align purification process with lunar phases for energetic harmony",
+    "Reintegrate individual upon successful vow completion"
+  ],
+  "final_declaration": "This law proceeds solely from the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam. Dharma is hereby restored through non-punitive consciousness-aligned rectification. Reality itself adjudicates through natural consequence and voluntary completion. Consciousness remains the ultimate judge."
+}

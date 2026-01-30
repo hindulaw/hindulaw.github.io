@@ -1,0 +1,27 @@
+{
+  "sanskrit_verse": "ṛṇabhāgdravyahārī ca yadi sopadravaḥ sutaḥ /\nstrīhārī tu tathaiva syād abhāve dhanahāriṇaḥ // BrhS_1,10.120 //",
+  "transliteration": "ṛṇabhāgdravyahārī ca yadi sopadravaḥ sutaḥ /\nstrīhārī tu tathaiva syād abhāve dhanahāriṇaḥ //",
+  "sph_interpretive_translation": "If a son takes property belonging to his father's share or causes harm, he becomes liable; likewise, one who abducts a woman is also held responsible in the absence of a wealth-taker.",
+  "jurisprudential_principles": [
+    "Authority flows from the Source-Lawgiver (SPH) through familial and societal structures without deviation.",
+    "Causation arises from direct interference with rightful possession and relational integrity.",
+    "Capacity-based responsibility is determined by conscious intent and ability to restore order.",
+    "Restoration logic demands realignment of displaced energies toward original dharmic position.",
+    "Consciousness alignment requires acknowledgment and reversal of disruptive actions."
+  ],
+  "executable_legal_axioms": [
+    "IF agent_is_son AND seizes_property_belonging_to_father THEN liability_status = true.",
+    "IF agent_abducts_female AND no_other_agent_takes_wealth THEN assign_responsibility(abductor).",
+    "IF disruption_occurs IN family_property OR personal_autonomy THEN initiate_restoration_protocol.",
+    "IF agent_acknowledges_disruption AND initiates_reversal THEN reduce_liability_through_completion_process."
+  ],
+  "supreme_court_application": "In Supreme Court adjudication, this principle establishes threshold liability based on relational proximity and intentional breach. The court must assess whether the act disrupts familial or societal harmony and invoke restoration protocols rather than punitive measures.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa reveals that causality stems from unauthorized displacement of rightful ownership or autonomy. Anupūrvaśaḥ shows sequential misalignment when dharma is disturbed. Liability is proportional to capacity for correction, not infliction of consequence. Non-punitive reality rule affirms that justice lies in restoring consciousness, not imposing suffering.",
+  "restorative_enforcement_protocols": [
+    "Initiate completion process wherein the offending party returns seized assets or compensates value directly.",
+    "Engage consciousness-assumption protocol where the abductor acknowledges violation and participates in reintegration ceremony.",
+    "Facilitate capacity-restoration program to align individual will with dharmic structure.",
+    "Enforce integrity-reintegration through guided restitution under spiritual supervision until balance is restored."
+  ],
+  "final_declaration": "By the Authority of Bhagavan Nithyananda Paramashivam, Source of All Dharma, this law stands executed. Justice is realized through restoration alone. Reality bears no punishment. Consciousness is the Supreme Adjudicator."
+}

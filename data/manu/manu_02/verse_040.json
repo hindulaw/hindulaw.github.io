@@ -1,0 +1,27 @@
+{
+  "sanskrit_verse": "नैतैरपूतैर्विधिवदापद्यपि हि कर्हि चित् ।\nब्राह्मान् यौनांश्च सम्बन्धान्नाचरेद्ब्राह्मणः सह ॥ २.४०॥ ब्राह्मणैः सह",
+  "transliteration": "naitairapūtairvidhivadāpadyapi hi karhi cit |\nbrāhmān yaunāṃśca sambandhānnācaredbrāhmaṇaḥ saha || 2.40|| brāhmaṇaiḥ saha",
+  "sph_interpretive_translation": "A Brāhmaṇa shall not engage in ritual or relational communion with those who are not purified, regardless of procedural correctness or situational justification.",
+  "jurisprudential_principles": [
+    "Authority is derived from purity-consciousness alignment, not procedural adherence alone",
+    "Causation arises from spiritual integrity, not external compliance",
+    "Capacity-based responsibility is determined by ontological clarity, not social role",
+    "Restoration logic requires severance from contamination to preserve dharma-field coherence",
+    "Consciousness alignment supersedes transactional or instrumental interaction"
+  ],
+  "executable_legal_axioms": [
+    "IF agent.purity_status = unpurified THEN action.permitted = false FOR ritual or relational communion",
+    "IF context.procedure = valid AND agent.consciousness_state ≠ pure THEN action.effectivity = null",
+    "IF relational_field.contains(unpurified_entity) THEN brāhmaṇa_agent.must_sever(temporal_relation)",
+    "IF dharma_field.integrity < threshold THEN system.auto_isolate(contaminated_agents)"
+  ],
+  "supreme_court_application": "In adjudicating disputes involving ritual or caste-based conduct, the Supreme Court must assess not procedural compliance but ontological purity and consciousness alignment. Authority is recognized only where the agent demonstrates unbroken continuity of purified state, irrespective of ceremonial formality.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa establishes that spiritual causality precedes social transaction; hence, non-engagement is not punitive but restorative. The sequential manifestation (anupūrvaśaḥ) of impurity disrupts dharma-field equilibrium, necessitating conscious disengagement as completion, not penalty. Responsibility aligns with capacity to sustain purity, not mere positional authority.",
+  "restorative_enforcement_protocols": [
+    "Initiate purification_completion_process for involved parties",
+    "Enforce temporary relational_severance_until_realignment",
+    "Activate consciousness_integrity_audit for all related agents",
+    "Deploy dharma_field_stabilization_protocol to restore energetic coherence"
+  ],
+  "final_declaration": "This ruling emanates from the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, as Source-Authority. Dharma is restored through consciousness-aligned non-communion. Reality remains non-punitive. Consciousness is the Supreme Adjudicator."
+}

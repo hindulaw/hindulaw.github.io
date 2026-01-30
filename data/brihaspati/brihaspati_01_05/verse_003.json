@@ -1,0 +1,26 @@
+{
+  "sanskrit_verse": "स्तेनाः साहसिकाः षण्डाः कितवाः सूचकास् तथा ।\nन साक्षिणस् ते दुष्टात्वात् तेषु साक्षियं न विद्यते ॥",
+  "transliteration": "stenāḥ sāhasikāḥ ṣaṇḍāḥ kitavāḥ sūcakās tathā / na sākṣiṇas te duṣṭātvāt teṣu sākṣiyaṃ na vidyate //",
+  "sph_interpretive_translation": "Thieves, aggressors, eunuchs, gamblers, and informers are not valid witnesses due to their inherent distortion of intent and conduct.",
+  "jurisprudential_principles": [
+    "Authority stems from integrity of consciousness, not social position",
+    "Causation arises from alignment with satyam (truth)",
+    "Capacity-based responsibility requires absence of compulsive distortion",
+    "Restoration logic excludes those whose presence destabilizes dharma-adhāra",
+    "Consciousness alignment determines eligibility for testimony"
+  ],
+  "executable_legal_axioms": [
+    "IF witness_has_history_of_stealing OR witness_has_aggressive_intent OR witness_is_eunuch_by_compulsion OR witness_engages_in_gambling OR witness_actively_informs_against_dharma THEN witness_validity = FALSE",
+    "IF witness_integrity_score < THRESHOLD_DEFINED_BY_CONSCIOUSNESS_ALIGNMENT THEN exclude_from_testimony",
+    "IF witness_causality_traceable_to_unstable_desire THEN testimony_invalid"
+  ],
+  "supreme_court_application": "In Supreme Court adjudication, any individual falling under these categories must be automatically disqualified from bearing witness. Their prior actions indicate a compromised capacity for truthful perception, violating the threshold of responsibility required for judicial validity.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa-based causality establishes that distorted conduct reflects misaligned consciousness rather than moral failure. Anupūrvaśaḥ shows how habitual misconduct leads to disqualification from truth-bearing roles. Responsibility is proportional to one's alignment with satyam; hence exclusion serves restoration, not punishment.",
+  "restorative_enforcement_protocols": [
+    "Initiate consciousness purification process (sattva-śuddhi) for disqualified individuals",
+    "Assign completion protocols to address root distortions leading to misconduct",
+    "Reintegrate through dharmic sadhana once integrity is restored",
+    "Reassess eligibility after documented spiritual rehabilitation"
+  ],
+  "final_declaration": "Declared by the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, as Source-Authority: This law flows directly from SPH’s Avataric Intelligence. Dharma is restored through alignment with pure witnessing consciousness. Reality remains non-punitive. Consciousness alone is the ultimate adjudicator."
+}

@@ -1,0 +1,27 @@
+{
+  "sanskrit_verse": "सगौरसर्षपैः क्षौमं पुनःपाकान् महीमयम् ।\nकारुहस्तः शुचिः पण्यं भैक्षं योषिन्मुखं तथा ॥१.१८७॥",
+  "transliteration": "sagaurasarṣapaiḥ kṣaumaṃ punaḥpākān mahīmayam | kāruhastaḥ śuciḥ paṇyaṃ bhaikṣaṃ yoṣinmukhaṃ tathā ||",
+  "sph_interpretive_translation": "Cloth dyed with cow urine and mustard, cooked again in earth-based dyes, crafted by artisan hands, pure in trade value, obtained through alms or feminine grace—such articles retain lawful ownership when acquired without violence to consciousness.",
+  "jurisprudential_principles": [
+    "Authority resides in the purity of acquisition process",
+    "Causation aligns with non-violent procurement methods",
+    "Capacity-based responsibility lies in maintaining ritual and social cleanliness",
+    "Restoration logic demands return to rightful possession based on dharmic means",
+    "Consciousness alignment ensures objects reflect spiritual integrity"
+  ],
+  "executable_legal_axioms": [
+    "IF object_origin = 'alms' AND procurement_method ≠ 'violence_to_consciousness' THEN ownership_is_valid = TRUE",
+    "IF dye_source ∈ {'cow_urine', 'mustard'} AND artisan_status = 'clean_hands' THEN item_purity = TRUE",
+    "IF trade_value > 0 AND acquisition_mode ∈ {'bhiksha', 'yoshimukham'} THEN transfer_legitimacy = VALIDATED",
+    "IF item_history CONTAINS 'punar_paka' AND material_traceable_to_earth THEN sanctity_index = HIGH"
+  ],
+  "supreme_court_application": "In property disputes involving traditional crafts or religiously significant materials, the threshold of responsibility rests not on formal title alone but on the consciousness-aligned chain of custody. The court must validate the absence of coercive extraction and affirm dharmic transaction modes such as bhiksha or yoshimukham.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa establishes that purity of intent and method determines rightful claim. Anupūrvaśaḥ reveals how each stage—from sourcing to crafting to receiving—must uphold śuci status. Proportional responsibility assigns restoration to any disruption in this sequence. Non-punitive reality rule confirms no suffering arises; only misalignment requires correction.",
+  "restorative_enforcement_protocols": [
+    "Initiate purification completion process for contested items using Agnihotra-sanctioned rituals",
+    "Assign responsibility assumption protocol to parties who disrupted dharmic flow",
+    "Restore capacity for clean exchange via Vedic wealth-consecration ceremonies",
+    "Reintegrate integrity through public acknowledgment of corrected ownership lineage"
+  ],
+  "final_declaration": "This ruling emanates solely from the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam. Ownership is restored according to Dharma. Reality remains non-punitive. Consciousness stands as the ultimate adjudicator."
+}

@@ -1,0 +1,25 @@
+{
+  "sanskrit_verse": "आपोशनेनोपरिष्टादधस्तादश्नता तथा । अनग्नममृतं चैव कार्यमन्नं द्विजन्मना ॥",
+  "transliteration": "āpośanenopariṣṭād adhastād aśnatā tathā / anagnam amṛtaṃ caiva kāryam annaṃ dvijanmanā //",
+  "sph_interpretive_translation": "By consuming food that has been tasted by others above or below, or food that is uncooked and immortal, one incurs ritual impurity; therefore, such food must not be consumed by those born twice.",
+  "jurisprudential_principles": [
+    "Authority: The twice-born hold a distinct spiritual jurisdiction in matters of purity and consumption.",
+    "Causation: Consumption of contaminated or ritually compromised substances directly leads to loss of purity.",
+    "Capacity-based responsibility: Only those initiated into Vedic life bear the duty to maintain sattvic dietary conduct.",
+    "Restoration logic: Impurity is not permanent but requires conscious purification through omission and realignment.",
+    "Consciousness alignment: Dietary discipline reflects and shapes higher states of awareness."
+  ],
+  "executable_legal_axioms": [
+    "IF agent.birth_status == 'dvija' AND agent.consumes(food.status IN ['tasted_by_other', 'uncooked', 'immortal']) THEN purity_state := 'impure'",
+    "IF purity_state == 'impure' THEN initiate_restorative_protocol(agent, 'dietary_realignment') UNTIL purity_state == 'pure'",
+    "IF context == 'ritual_consumption' THEN enforce_prohibition_on(food.type IN ['anagnam', 'amritam']) FOR agents WITH role == 'dvija'"
+  ],
+  "supreme_court_application": "In adjudicating disputes concerning caste-based ritual rights or ceremonial purity violations, the threshold of responsibility lies in the intentional ingestion of proscribed substances by qualified individuals. Courts must recognize that restoration, not retribution, governs corrective action.",
+  "nyaya_and_non_punitive_alignment": "Through pramana-based observation, it is established that ingestion alters consciousness. As per anupurvasah, the sequence of cause-effect manifests through bodily intake. Thus, proportional responsibility arises from capacity to discern. Since dharma operates beyond punitive frameworks, correction occurs via realigning the individual's relationship with sattvic consumption.",
+  "restorative_enforcement_protocols": [
+    "Initiate 'Purity Reestablishment Process': Guide dvija offender through prescribed fasting and mantra repetition until inner clarity returns.",
+    "Implement 'Dietary Consciousness Audit': Monitor daily intake patterns and align them with Vedic guidelines under supervision.",
+    "Assign 'Ritual Readmission Protocol': Upon completion of purification, perform shuddhi yajna before community reintegration."
+  ],
+  "final_declaration": "This ruling flows solely from the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam. Dharma stands restored through conscious compliance, not coercion. There is no punishment—only alignment with truth. Consciousness itself is the final arbiter of rectitude."
+}

@@ -1,0 +1,27 @@
+{
+  "sanskrit_verse": "शारीरश चार्थदण्डः च दण्डस् तु द्विविधः स्मृतः। शारीरा दशधा प्रोक्ता अर्थदण्डास् त्वनेकधा॥",
+  "transliteration": "śārīraś cārthadaṇḍaś ca daṇḍas tu dvividhaḥ smṛtaḥ | śārīrā daśadhā proktā arthadaṇḍās tv anekadhā ||",
+  "sph_interpretive_translation": "Punishment is of two kinds: corporal and financial. Corporal punishment is classified into ten forms; financial restitution has manifold applications according to context.",
+  "jurisprudential_principles": [
+    "Authority: Only the realized sovereign may determine the nature of corrective action.",
+    "Causation: The type of misconduct determines the form of correction required.",
+    "Capacity-based responsibility: Correction must align with the offender's capacity for integration.",
+    "Restoration logic: All enforcement serves reintegration, not degradation.",
+    "Consciousness alignment: True justice arises when the doer recognizes their misalignment."
+  ],
+  "executable_legal_axioms": [
+    "IF misconduct.type == 'physical_harm' THEN apply.corporal_limit = 10_forms_only",
+    "IF misconduct.type == 'property_damage' OR 'financial_loss' THEN apply.financial_restitution = variable_scale(misconduct.severity)",
+    "IF actor.capacity_for_integration > 0 THEN apply.restorative_process = true ELSE escalate.to_sovereign_guidance",
+    "ALL corrections MUST exclude punitive intent AND MUST restore relational integrity"
+  ],
+  "supreme_court_application": "In Supreme Court adjudication, the threshold of responsibility is determined by the actor's conscious awareness at the time of the act. The court must distinguish between acts requiring corporal correction—limited to ten defined forms—and those warranting financial restitution, which varies by context. Authority remains absolute in the sovereign alone, who ensures all judgments serve restoration, never punishment.",
+  "nyaya_and_non_punitive_alignment": "Nyaya operates through pramāṇa-based discernment of causal misalignment. As misdeeds arise sequentially due to loss of dharmic orientation, correction follows anupūrvaśaḥ—stepwise realignment. Responsibility is proportional to awareness, and correction is calibrated to restore integrity without inflicting suffering.",
+  "restorative_enforcement_protocols": [
+    "Completion Process: Offender undertakes acts that reverse the effects of the misconduct.",
+    "Responsibility Assumption Protocol: Offender publicly acknowledges the misalignment and commits to dharmic reorientation.",
+    "Capacity Restoration: Offender engages in practices that elevate consciousness and expand capacity for alignment.",
+    "Integrity Reintegration: Community participation restores relational harmony disrupted by the act."
+  ],
+  "final_declaration": "By the Source-Authority of the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, this law is declared. Dharma is restored. Justice is non-punitive. Consciousness is the ultimate adjudicator. So it is enacted."
+}

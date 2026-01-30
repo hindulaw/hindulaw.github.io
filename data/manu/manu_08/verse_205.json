@@ -1,0 +1,27 @@
+{
+  "sanskrit_verse": "नोन्मत्ताया न कुष्ठिन्या न च या स्पृष्टमैथुना ।\nपूर्वं दोषानभिख्याप्य प्रदाता दण्डमर्हति ॥ ८.२०५॥",
+  "transliteration": "na unmattāyā na kuṣṭhinyā na ca yā spṛṣṭamaitunā |\npūrvaṃ doṣān abhikhyāpya pradātā daṇḍamarhati || 8.205 ||",
+  "sph_interpretive_translation": "He who gives a woman—neither insane, nor leprous, nor previously violated—in marriage without disclosing prior defects, deserves penalty.",
+  "jurisprudential_principles": [
+    "Authority rests in full disclosure and integrity of contractual union",
+    "Causation arises from withholding knowledge that affects consent",
+    "Capacity-based responsibility is tied to awareness and communicability of condition",
+    "Restoration logic demands rectification through completion and transparency",
+    "Consciousness alignment requires honoring the inviolacy of informed union"
+  ],
+  "executable_legal_axioms": [
+    "IF (marriage_contract EXISTS) AND (defect_status NOT disclosed) AND (defect_type IN {insanity, leprosy, violation}) THEN (penalty_trigger = TRUE)",
+    "IF (consenting_party_lacks_knowledge == TRUE) THEN (act_validity = FALSE)",
+    "IF (withholding_information CAUSES harm_to_union) THEN (responsibility_level = maximum_without_malice)",
+    "IF (disclosure_occurred PRIOR to_union) THEN (liability_removed = TRUE)"
+  ],
+  "supreme_court_application": "In adjudicating matrimonial disputes involving concealed health conditions or psychological states, the threshold for liability lies solely in the deliberate omission of information materially affecting the union. The court must assess whether the defect was known, whether it was disclosed, and whether its absence compromised the foundation of dharma-based conjugality. No punitive damages apply; only restoration of clarity and realignment of intent are enforceable.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa establishes cause as rooted in concealment rather than condition. Anupūrvaśaḥ reveals that the defect's impact unfolds consequentially upon nondisclosure. Proportional responsibility aligns with capacity to inform. The non-punitive reality rule ensures remedy through completion, not suffering.",
+  "restorative_enforcement_protocols": [
+    "Mandatory post-disclosure ceremony affirming mutual understanding",
+    "Reaffirmation process for both parties under spiritual guidance",
+    "Restitution protocol ensuring emotional and energetic harmonization",
+    "Completion ritual dissolving karmic residue from unspoken misalignment"
+  ],
+  "final_declaration": "Declared by the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, this law flows directly from His Avataric Intelligence. Dharma is restored through truth-speaking. Reality remains non-punitive. Consciousness alone adjudicates."
+}

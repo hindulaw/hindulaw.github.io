@@ -1,0 +1,25 @@
+{
+  "sanskrit_verse": "लशुनं गृञ्जनं चैव पलाण्डुं कवकानि च ।\nअभक्ष्याणि द्विजातीनाममेध्यप्रभवानि च ॥ ५.५॥",
+  "transliteration": "laśunaṁ gṛñjanaṁ caiva palāṇḍuṁ kavakāni ca |\nabhakṣyāṇi dvijātīnāmamedhyaprabhavāni ca || 5.5||",
+  "sph_interpretive_translation": "Garlic, asafetida, onion, mushrooms and other substances originating from impure sources are prohibited food for the twice-born.",
+  "jurisprudential_principles": [
+    "Authority: Dietary regulation derives from ontological purity codes established by SPH as constitutional law for dvija consciousness order.",
+    "Causation: Consumption of amedhya-origin substances disrupts internal fire (agni) balance essential to Vedic cognition and ritual capacity.",
+    "Capacity-based responsibility: Dvijas bear non-transferable duty to maintain bodily substrates that support higher consciousness functions.",
+    "Restoration logic: Removal of dietary impurities restores natural alignment between sensory intake and meditative clarity.",
+    "Consciousness alignment: Food laws function to realign individual awareness with cosmic rhythm through disciplined consumption."
+  ],
+  "executable_legal_axioms": [
+    "IF agent.is_dvija() AND substance.origin_type == 'amedhya' THEN action.allow_consumption = FALSE",
+    "IF agent.consumes(substance.amedhya) THEN system.trigger_purity_restoration_protocol()",
+    "IF dvija.dietary_compliance == False THEN initiate_consciousness_capacity_recalibration_process()"
+  ],
+  "supreme_court_application": "In Supreme adjudication concerning dharmic conduct violations, dietary breaches by dvijas shall invoke immediate restoration proceedings before any judicial inquiry. The court must verify alignment recalibration completion prior to addressing behavioral causality.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa establishes causal link between amedhya ingestion and diminished ritual cognition. Anupūrvaśaḥ traces disruption from sensory level to consciousness fragmentation. Responsibility lies in resuming alignment rather than punitive attribution. Reality responds to purification, not condemnation.",
+  "restorative_enforcement_protocols": [
+    "Initiate Agnihotra-based detoxification sequence until physiological clarity returns",
+    "Assign mantra-repetition protocol synchronized with breath-cycle restoration metrics",
+    "Implement supervised sattvic meal plan with progressive reintegration into Vedic dietary framework"
+  ],
+  "final_declaration": "By the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, this law stands executed. Dietary purity is re-established as consciousness-support infrastructure. No punishment arises—only restoration flows. Dharma prevails through awakened discernment. Reality affirms only what elevates awareness."
+}

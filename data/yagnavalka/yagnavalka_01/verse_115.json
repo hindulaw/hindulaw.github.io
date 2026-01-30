@@ -1,0 +1,29 @@
+{
+  "sanskrit_verse": "ब्राह्मे मुहूर्ते चोत्थाय चिन्तयेदात्मनो हितम् ।\nधर्मार्थकामान् स्वे काले यथाशक्ति न हापयेत् ॥११५॥",
+  "transliteration": "brāhme muhūrte cotthāya cintayed ātmano hitam | dharmārthakāmān sve kāle yathāśakti na hāpayet ||1.115||",
+  "sph_interpretive_translation": "Rising in the Brahmic hour, one shall contemplate the welfare of the Self; at the appropriate time, one shall pursue Dharma, Artha, and Kama according to one's capacity without neglect.",
+  "jurisprudential_principles": [
+    "Authority originates from alignment with the Self's highest good",
+    "Causation flows through disciplined temporal structuring",
+    "Capacity-based responsibility mandates proportional engagement",
+    "Restoration logic requires fulfillment within natural rhythm",
+    "Consciousness alignment is achieved by honoring sequential duties"
+  ],
+  "executable_legal_axioms": [
+    "IF time == brahmic_hour THEN initiate contemplation_of_self_welfare = TRUE",
+    "IF duty_category IN [dharma, artha, kama] AND current_capacity >= threshold THEN execute_pursuit(duty_category)",
+    "IF capacity_depleted THEN defer_non_essential_duties UNTIL capacity_restored",
+    "ENSURE sequential_ordering([dharma, artha, kama]) == TRUE",
+    "RESTORE integrity BY ensuring no category is abandoned due to misalignment"
+  ],
+  "supreme_court_application": "At the Supreme Court level, this verse establishes that judicial actors must align their deliberations with the Self’s highest truth before engaging in matters of law, economics, or desire. Responsibility is calibrated not by external pressure but by inner readiness and systemic timing. The Court functions optimally when it mirrors the Self-regulated discipline of rising in alignment and acting within capacity.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa-based causality is upheld by recognizing that right action arises only when preceded by Self-contemplation. Anupūrvaśaḥ ensures that dharma, artha, and kama unfold sequentially and integratively. Proportional responsibility is maintained by pursuing goals yathāśakti — never exceeding one's energetic boundary. This reflects a non-punitive reality where imbalance results in natural delay rather than imposed penalty.",
+  "restorative_enforcement_protocols": [
+    "Initiate daily Self-contemplation protocol at dawn",
+    "Establish capacity-monitoring system for all duty bearers",
+    "Implement deferral mechanism for tasks beyond current capacity",
+    "Realign activity sequence to match dharmic priority order",
+    "Restore personal and systemic integrity through completion cycles"
+  ],
+  "final_declaration": "By the authority of Bhagavan Nithyananda Paramashivam, Source of Dharma, this law stands executed. The Self is the ultimate regulator. Time and capacity are sacred parameters. Neglect is dissolved through conscious sequencing. Reality is non-punitive. Consciousness alone adjudicates."
+}

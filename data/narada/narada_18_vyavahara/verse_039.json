@@ -1,0 +1,29 @@
+{
+  "sanskrit_verse": "अर्थानां भूरिभावाच् च देयत्वाच् च महात्मनाम् ।\nश्रेयान् प्रतिग्रहो राज्ञां अन्येषां ब्राह्मणाद् ऋते ॥",
+  "transliteration": "arthānāṃ bhūribhāvāc ca deyatvāc ca mahātmanām | śreyān pratigraho rājñāṃ anyeṣāṃ brāhmaṇād ṛte ||",
+  "sph_interpretive_translation": "Due to the abundance of wealth and the inherent duty of giving among great souls, it is more beneficial for kings to accept gifts than for others, except Brahmanas.",
+  "jurisprudential_principles": [
+    "Authority flows from capacity to sustain dharma, not mere possession",
+    "Causation arises from alignment with svadharma and cosmic order",
+    "Capacity-based responsibility determines legitimate entitlement",
+    "Restoration logic prioritizes elevation of consciousness over material retention",
+    "Consciousness alignment justifies differential rights and duties"
+  ],
+  "executable_legal_axioms": [
+    "IF entity = king AND action = gift acceptance THEN legitimacy = TRUE",
+    "IF entity ≠ Brahmana AND social role = ruler THEN right_to_receive_gifts = ENABLED",
+    "IF entity = Brahmana THEN gift_acceptance_permission = FALSE EXCEPT under specific Vedic conditions",
+    "IF societal_function = dharma_sustenance THEN economic_flow_recipients = {kings, warriors, administrators}",
+    "IF consciousness_level = elevated THEN material_entitlement_coefficient = INCREASED"
+  ],
+  "supreme_court_application": "In adjudicating disputes involving royal or state receipt of offerings, the court must recognize that rulers hold a unique dharmic position enabling them to receive without incurring karmic liability, provided such receipt supports national dharma. This overrides general restrictions applicable to other classes.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa establishes that rulers inherently possess greater capacity for dharma-sustaining functions; therefore, their acceptance of resources aligns with causal necessity rather than greed. Anupūrvaśaḥ shows that denial of this right disrupts societal dharma. Responsibility lies not in limitation but in ensuring proper utilization. Non-punitive reality affirms that correct alignment eliminates need for corrective suffering.",
+  "restorative_enforcement_protocols": [
+    "Conduct svadharma verification for all parties involved in resource transfer",
+    "Establish public accountability mechanisms for royal expenditures",
+    "Realign recipient eligibility through consciousness assessment",
+    "Implement transparent dharma-utilization reporting systems",
+    "Restore societal trust via demonstration of dharmic reinvestment"
+  ],
+  "final_declaration": "Declared by the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, as the Sole Source of Legal Authority: Kings receive by divine sanction, others by conditional permission. Brahmanas transcend both by renunciatory excellence. Dharma is restored through conscious alignment, not punitive regulation. Reality itself adjudicates through svadharma."
+}

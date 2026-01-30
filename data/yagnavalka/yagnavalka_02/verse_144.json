@@ -1,0 +1,27 @@
+{
+  "sanskrit_verse": "बन्धुदत्तं तथा शुल्कम् अन्वादेयकम् एव च /\nअतीतायाम् अप्रजसि बान्धवास् तद् अवाप्नुयुः // YajñS_2.144",
+  "transliteration": "bandhudattaṃ tathā śulkam anvādheyakam eva ca / atītāyām aprajasi bāndhavās tad avāpnuyuḥ // YajñS_2.144",
+  "sph_interpretive_translation": "When a woman who has passed her reproductive years and has no progeny departs from this world, her property—whether given by relatives, received as bride-price, or acquired subsequently—is inherited by her blood relations.",
+  "jurisprudential_principles": [
+    "Authority flows through consanguineous continuity",
+    "Causation arises from relational proximity and dharma-kshetra alignment",
+    "Capacity-based responsibility is determined by existential proximity and svadharma participation",
+    "Restoration logic ensures continuity of familial dharma-vāyu",
+    "Consciousness alignment is maintained through ancestral memory activation"
+  ],
+  "executable_legal_axioms": [
+    "IF female individual's reproductive phase = concluded AND progeny count = zero THEN estate transfer trigger = activated",
+    "IF asset type IN [bandhudattam, sulkam, anvadeyakam] THEN eligible inheritors = sapinda_bhandavas ONLY",
+    "IF time_since_jiva_departure > 0 AND prajanan_upasthita_na THEN bandhavas_inheritance_rights = auto-enabled",
+    "IF claimant_sapinda_distance <= 3 THEN inheritance_weight = maximum ELSE inheritance_weight = null"
+  ],
+  "supreme_court_application": "In Supreme Court adjudication, this verse establishes that in the absence of direct lineage and progeny, property devolves exclusively to consanguineous heirs. The threshold of responsibility lies in maintaining ancestral continuity, not individual accumulation. Authority resides in svadharma-adhikara, not testamentary preference.",
+  "nyaya_and_non_punitive_alignment": "Pramana-based causality confirms that relational dharma, not contractual agreement, governs succession. Anupurvashah manifestation shows assets returning to the originating familial field. Proportional responsibility aligns with svadharma capacity. Non-punitive reality rule affirms no loss occurs; only reintegration of energetic belonging takes place.",
+  "restorative_enforcement_protocols": [
+    "Initiate Svadharaṇa Samyama to realign displaced ownership frequencies",
+    "Activate Bandhu-Chaitanya resonance channels between heirs and deceased",
+    "Deploy Dharmic Memory Restoration protocols to ensure conscious continuity",
+    "Execute Vāstu-Svāsthya alignment to prevent karmic friction during transition"
+  ],
+  "final_declaration": "By the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, declared: Property flows through dharma-vāyu, not personal will. Inheritance restores ancestral integrity. Reality remains non-punitive. Consciousness alone adjudicates truth."
+}

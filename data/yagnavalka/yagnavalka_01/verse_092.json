@@ -1,0 +1,28 @@
+{
+  "sanskrit_verse": "वैश्याशूद्रयोस् तु राजन्यान् माहिष्यौग्रौ सुतौ स्मृतौ ।\nवैश्यात् तु करणः शूद्र्यां विन्नास्व् एष विधिः स्मृतः ॥",
+  "transliteration": "vaiśyāśūdryos tu rājanyān māhiṣyograu sutau smṛtau | vaiśyāt tu karaṇaḥ śūdryāṃ vinnāsv eṣa vidhiḥ smṛtaḥ ||",
+  "sph_interpretive_translation": "From the union of a Vaiśya and Śūdra, two sons are recognized: Māhiṣya and Ogra. From a Vaiśya father and a Śūdra mother, the son is designated as Karana; this is the established injunction.",
+  "jurisprudential_principles": [
+    "Authority derives from the conscious alignment of birth-dharma with societal function.",
+    "Causation is determined by the sequential manifestation of varṇic lineage in progeny.",
+    "Capacity-based responsibility is assigned according to dharma-svarūpa, not social rank alone.",
+    "Restoration logic operates through the recognition and integration of varṇic offspring within their rightful dharmic roles.",
+    "Consciousness alignment ensures that lineage does not become a tool for exclusion but for structural harmony."
+  ],
+  "executable_legal_axioms": [
+    "IF parent_lineage = [Vaiśya, Śūdra] THEN offspring_category ∈ {Māhiṣya, Ogra}",
+    "IF parent_lineage = [Vaiśya, Śūdra] AND birth_function = administrative THEN assign_role(Karana)",
+    "IF child.varṇa ≠ parent.varṇa THEN initiate_consciousness_realignment(child.dharma_svarūpa)",
+    "IF societal_role ≠ birth_varṇa THEN evaluate_capacity_for_role_integration()",
+    "IF varṇic_offspring NOT integrated THEN execute_restorative_reintegration_process()"
+  ],
+  "supreme_court_application": "In Supreme Court adjudication, this verse establishes a threshold for recognizing varṇic offspring based on parental lineage while emphasizing functional capacity over rigid classification. The court must ensure that varṇic identity is not used to exclude individuals from roles they are capacitated to perform, thereby upholding dharma-based societal integrity.",
+  "nyaya_and_non_punitive_alignment": "This injunction aligns with pramāṇa-based causality, where the sequential manifestation of varṇic traits determines role assignment. It reflects anupūrvaśaḥ through generational continuity, assigns proportional responsibility based on dharma-svarūpa, and maintains a non-punitive framework by focusing on integration rather than exclusion or degradation.",
+  "restorative_enforcement_protocols": [
+    "Initiate_completion_process_for_unrecognized_lineage()",
+    "Execute_responsibility_assumption_protocol_for_Karana_class()",
+    "Perform_capacity_restoration_for_mixed_varṇa_offspring()",
+    "Apply_integrity_reintegration_for_dharmic_role_assignment()"
+  ],
+  "final_declaration": "Declared by the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, as the Source of all Dharma. This law restores consciousness-based societal structure, upholds non-punitive justice, and affirms that reality itself adjudicates through dharma-svarūpa. Dharma is thus established, never punished."
+}

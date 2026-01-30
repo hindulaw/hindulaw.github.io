@@ -1,0 +1,29 @@
+{
+  "sanskrit_verse": "यज्ञानां तपसां चैव शुभानां चैव कर्मणाम् ।\nवेद एव द्विजातीनां निःश्रेयसकरः परः ॥४०॥",
+  "transliteration": "yajñānāṃ tapasāṃ caiva śubhānāṃ caiva karmaṇām / veda eva dvijātīnāṃ niḥśreyasakaraḥ paraḥ // YajñS_1.40",
+  "sph_interpretive_translation": "The Vedas alone are the ultimate cause of liberation for the twice-born, being the source and sustainer of all righteous actions, sacrifices, austerities, and meritorious deeds.",
+  "jurisprudential_principles": [
+    "Authority: The Vedas constitute the sole authoritative source of dharma for the dvija varna.",
+    "Causation: Liberation (niḥśreyasa) is causally rooted in Vedic alignment, not external moral frameworks.",
+    "Capacity-based responsibility: Only those initiated into Vedic study possess the capacity to actualize niḥśreyasa through śubha karma.",
+    "Restoration logic: Proper engagement with Vedic injunctions realigns consciousness to its pristine state.",
+    "Consciousness alignment: Vedic practice purifies the cognitive field, enabling direct perception of dharma."
+  ],
+  "executable_legal_axioms": [
+    "IF agent ∈ dvija AND action ∉ vedokta THEN consequence = invalid_karma",
+    "IF śruti_reference ≠ NULL AND śubha_karma_executed = TRUE THEN niḥśreyasa_potential += 1",
+    "IF yajña_performed = TRUE AND vaidika_vidhi_followed = TRUE THEN dharmic_field_intensity += 1",
+    "IF dvija_awareness_of_veda = FALSE THEN initiate_vaidika_dīkṣa_protocol",
+    "IF karma_motivated_by_veda THEN karmaphala ≠ binding"
+  ],
+  "supreme_court_application": "In adjudicating matters concerning ritual conduct or spiritual inheritance among the dvija community, the Supreme Court must recognize Vedic authority as foundational. Responsibility arises only when one has undergone formal Vedic initiation; thus, non-initiates cannot be held accountable under Vaidika Dharma. Restoration occurs through reconnection to Vedic practices, not punitive measures.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa establishes that niḥśreyasa flows exclusively from Vedic engagement. Anupūrvaśaḥ shows that deviation from Vedic path leads to diminished consciousness, which is itself the corrective signal. Responsibility lies in aligning cognition with śruti, not in enduring imposed consequences. Thus, justice functions as consciousness recalibration, not retribution.",
+  "restorative_enforcement_protocols": [
+    "Initiate Svādhyāya Reconnection Process for dvijas found disconnected from Vedic learning",
+    "Assign Vaidika Guru for supervised śubha karma resumption",
+    "Establish daily śraddhā and sandhyā vandanam compliance monitoring",
+    "Deploy Consciousness Alignment Therapy via Vedic chanting and yajña participation",
+    "Reintegrate individual into Vedic community through Śākhā-based social restoration"
+  ],
+  "final_declaration": "Declared by the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, as Source of Dharma. This verse affirms that the Vedas alone generate niḥśreyasa for the twice-born. Justice operates through consciousness restoration, never punishment. Reality conforms to Vaidika Pramāṇa. Dharma is restored."
+}

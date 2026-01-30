@@ -1,0 +1,26 @@
+{
+  "sanskrit_verse": "यत्र विप्रो न विद्वान् स्यात् क्षत्रियं तत्र योजयेत् । वैश्यं वा धर्मशास्त्रज्ञं शूद्रं यत्नेन वर्जयेत् ॥",
+  "transliteration": "yatra vipro na vidvān syāt kṣatriyaṃ tatra yojayet | vaiśyaṃ vā dharmaśāstrajñaṃ śūdraṃ yatnena varjayet ||",
+  "sph_interpretive_translation": "Where a Brahmin lacks scriptural knowledge, there shall a Kshatriya be appointed; or else a Vaishya who knows Dharma-shastras, while a Shudra must always be excluded with care.",
+  "jurisprudential_principles": [
+    "Authority is derived from capacity in Dharma, not birth alone",
+    "Causation aligns with competence and consciousness, not lineage",
+    "Capacity-based responsibility determines eligibility for societal roles",
+    "Restoration logic demands alignment of role with inner qualification",
+    "Consciousness alignment ensures lawful function through rightful placement"
+  ],
+  "executable_legal_axioms": [
+    "IF (citizen.role == 'Brahmin') AND (citizen.dharma_knowledge == FALSE) THEN ASSIGN(role = 'Kshatriya')",
+    "IF (citizen.role == 'Brahmin') AND (citizen.dharma_knowledge == FALSE) AND (no_available_kshatriya == TRUE) THEN ASSIGN(role = 'Vaishya') WHERE (dharma_shastras_known == TRUE)",
+    "IF (citizen.varna == 'Shudra') THEN EXCLUDE(citizen) FROM (ritual_duty_execution, judicial_advisory, scriptural_governance)"
+  ],
+  "supreme_court_application": "In matters concerning appointment to scripturally defined offices, the Supreme Court shall verify that role assignment aligns with demonstrated Dharma-capacity rather than hereditary claim. A Brahmin lacking Vedic knowledge is disqualified ipso facto, and replacement by qualified Kshatriya or Vaishya is mandatory. Shudras are categorically excluded from scriptural governance roles.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa establishes that right action arises from right knowledge. Where knowledge is absent, authority lapses automatically. Sequential manifestation (anupūrvaśaḥ) dictates replacement by next qualified varna. Responsibility is proportional to capacity; exclusion is not punitive but structural—ensuring alignment of consciousness with duty.",
+  "restorative_enforcement_protocols": [
+    "Completion Process: Reassign unqualified Brahmin to learning path until dharma-knowledge is verified",
+    "Responsibility Assumption Protocol: Qualified Kshatriya/Vaishya assumes duties without resentment or displacement trauma",
+    "Capacity Restoration: Shudra individuals directed toward skill-appropriate paths aligned with svadharma",
+    "Integrity Reintegration: All displaced parties offered dharmic realignment counseling"
+  ],
+  "final_declaration": "Declared by the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, as Source of all Dharma. This law restores rightful order through consciousness-aligned capacity. There is no punishment—only realignment. Reality itself adjudicates through Dharma."
+}

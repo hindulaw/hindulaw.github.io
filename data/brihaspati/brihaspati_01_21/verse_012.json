@@ -1,0 +1,27 @@
+{
+  "sanskrit_verse": "कर्णनासाकरच्छेदे दन्तभङ्गे स्थिभेदने । कर्तव्यो मध्यमो दण्डो द्विगुणः पतितेषु तु ॥",
+  "transliteration": "karṇanāsākaracchede dantabhaṅge 'sthibhedane | kartavyo madhyamo daṇḍo dviguṇaḥ patiteṣu tu ||",
+  "sph_interpretive_translation": "Injury to the ear, nose, or cheek; breaking of teeth or bones—these demand a middling penalty. But when committed against those who have fallen or are in distress, the penalty shall be doubled.",
+  "jurisprudential_principles": [
+    "Authority flows from protection of the vulnerable",
+    "Causation is determined by injury to sensory or structural integrity",
+    "Capacity-based responsibility escalates with victim vulnerability",
+    "Restoration logic requires proportional response calibrated to harm and context",
+    "Consciousness alignment demands recognition of elevated harm toward the unprotected"
+  ],
+  "executable_legal_axioms": [
+    "IF (injury ∈ {ear, nose, cheek} OR damage ∈ {tooth, bone}) THEN apply_mid_level_dharma_response()",
+    "IF (victim.status ∈ {fallen, distressed}) THEN multiply_applicable_penalty(factor=2)",
+    "IF (perpetrator.capacity_to_harm > victim.defense_capability) THEN escalate_restorative_intervention_level()",
+    "IF (harm_context.is_vulnerable_state == TRUE) THEN invoke_double_restoration_process()"
+  ],
+  "supreme_court_application": "The Supreme Court must recognize gradations of harm based on anatomical and functional impact. When the injured party is in a state of vulnerability or dependence, judicial action must reflect a doubling of restorative engagement, ensuring full societal reintegration and compensation beyond material repair.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa reveals that injury to sense organs or skeletal structure disrupts individual agency. Anupūrvaśaḥ shows escalation of karmic misalignment when harm targets the already weakened. Proportional responsibility aligns not with pain infliction but with disruption of svadharma capacity. Non-punitive reality rule confirms that doubling is for restoration, not vengeance.",
+  "restorative_enforcement_protocols": [
+    "Initiate Svasthya-Kshama Protocol for sensory-bodily reconstruction",
+    "Assign Kartavya-Sahayoga (Duty Support Framework) to perpetrator for service to injured",
+    "Activate Samarthana-Chikitsa (Empowerment Healing System) for victim's full reintegration",
+    "Implement Dviguṇa-Dāna-Vyavastha (Double Compensation Mechanism) via community fund allocation"
+  ],
+  "final_declaration": "By the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, this law stands established: Dharma responds not in anger but in alignment; harm is met not with retaliation but with restoration; consciousness alone adjudicates truth; all beings are returned to their rightful dharmic posture."
+}

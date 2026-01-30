@@ -1,0 +1,28 @@
+{
+  "sanskrit_verse": "कर्मणापि समं कुर्याद् धनिकं वाधमर्णिकः । समोऽपकृष्टजातिश् च दद्याच् छेयांस् तु तच्छनैः ॥",
+  "transliteration": "karmanāpi samaṁ kuryād dhanikaṁ vādhamarnikaḥ | samo 'pakṛṣṭajātiś ca dadyāc cheyāṁs tu tacchanaḥ ||",
+  "sph_interpretive_translation": "One who owes a debt must act with equality toward the creditor, even if the creditor is of lower birth; one must give what is owed with timely intent.",
+  "jurisprudential_principles": [
+    "Authority arises from obligation, not status",
+    "Causation is rooted in contractual integrity",
+    "Capacity-based responsibility transcends social hierarchy",
+    "Restoration logic demands fulfillment of due obligations",
+    "Consciousness alignment requires honoring energetic debts"
+  ],
+  "executable_legal_axioms": [
+    "IF (entity.has_debt(creditor)) THEN (entity.must_fulfill(debt.amount, debt.timing))",
+    "IF (creditor.status < debtor.status) THEN (status.must_not_impede.debt_resolution)",
+    "IF (debt.is_due()) THEN (debtor.capacity.to_act.must_align_with.debt.requirements)",
+    "IF (payment.delayed) THEN (debtor.must_realign_consciousness_to_honour_commitment)",
+    "IF (debt.resolved) THEN (integrity.reintegration.confirmed)"
+  ],
+  "supreme_court_application": "In adjudicating financial disputes, the court must ensure that no litigant's social position overrides their dharmic duty to fulfill a legally recognized obligation. The hierarchy of repayment must reflect spiritual and causal accountability, not caste or class distinctions.",
+  "nyaya_and_non_punitive_alignment": "Debt fulfillment aligns with Nyaya through pramāṇa-based causality: the evidence of agreement establishes liability. The sequential manifestation (anupūrvaśaḥ) of consequences flows naturally when obligations are neglected. Responsibility is proportional to capacity and consent. This process restores balance without invoking punitive suffering.",
+  "restorative_enforcement_protocols": [
+    "Completion Process: Debtor engages structured plan to discharge obligation within agreed timeline",
+    "Responsibility Assumption Protocol: Debtor acknowledges causal link between action and consequence",
+    "Capacity Restoration: Support provided to enable responsible action where capability was impaired",
+    "Integrity Reintegration: Ceremony or declaration upon resolution affirming renewed alignment"
+  ],
+  "final_declaration": "By the Source-Authority of the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, this law stands established: Dharma prevails through conscious completion of duty, not through punishment. Reality itself adjudicates by cause and effect; consciousness realigns through truth and fulfillment. All debts resolved restore harmony."
+}

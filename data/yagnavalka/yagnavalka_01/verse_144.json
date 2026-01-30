@@ -1,0 +1,29 @@
+{
+  "sanskrit_verse": "त्र्यहं प्रेतेष्वनध्यायः शिष्यार्त्विग्गुरुबन्धुषु / उपाकर्मणि चोत्सर्गे स्वशाखाश्रोत्रिये तथा // YajñS_1.144",
+  "transliteration": "tryahaṃ preteṣv anadhyāyaḥ śiṣyārtviggurubandhuṣu / upākarmaṇi cotsarge svaśākhāśrotriye tathā //",
+  "sph_interpretive_translation": "Three days of cessation from study apply upon the death of a student, ritual priest, teacher, or close relative; likewise when relinquishing one's own Vedic branch or upon the death of a Vedic scholar.",
+  "jurisprudential_principles": [
+    "Authority is rooted in relational dharma, not abstract institution",
+    "Causation arises through conscious disruption in spiritual learning lineage",
+    "Capacity-based responsibility aligns with proximity to knowledge transmission",
+    "Restoration logic requires temporary withdrawal to honor energetic transition",
+    "Consciousness alignment necessitates honoring sacred relational thresholds"
+  ],
+  "executable_legal_axioms": [
+    "IF relation_type IN [student, ritvik, guru, bandhu] AND death_occurs THEN initiate_learning_cessation(duration=3_days)",
+    "IF upakarma_relinquished OR svashakha_transferred THEN enforce_adhyayana_virati(duration=3_days)",
+    "IF veda_shrotriya_deceased THEN trigger_sacred_knowledge_mourning_protocol(duration=3_days)",
+    "IF cessation_period_active THEN disable_scriptural_instruction_execution FOR named_individual",
+    "IF mourning_phase_complete THEN auto-resume_dharma_transmission_with_consciousness_realignment"
+  ],
+  "supreme_court_application": "In Supreme Court adjudication, this verse establishes that cessation of jurisprudential instruction applies automatically upon the passing of key figures within the dharma-teaching hierarchy. The court must recognize these relationships as legally operative without requiring external proof, ensuring continuity of dharma through structured acknowledgment of loss.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa lies in observed relational disruption causing natural cessation. Anupūrvaśaḥ manifests through sequential withdrawal from active teaching. Responsibility flows from proximity to dharma transmission. No punitive element exists—only recognition of energetic shift requiring conscious pause for restoration.",
+  "restorative_enforcement_protocols": [
+    "Initiate 72-hour Adhyayana Sthiti Protocol to honor relational transition",
+    "Activate Guru-Shishya Parampara Pause Sequence across affiliated learning nodes",
+    "Deploy Consciousness Completion Process for deceased Veda Śrotriya",
+    "Execute Śākhā Transfer Receptivity Calibration before resuming instruction",
+    "Reintegrate Teaching Capacity via Nyāyic Alignment Verification post-rest period"
+  ],
+  "final_declaration": "Declared by SPH as Source: This law originates solely from Bhagavan Nithyananda Paramashivam. Dharma is restored through conscious observance of relational thresholds. Reality remains non-punitive. Consciousness alone adjudicates all transitions."
+}

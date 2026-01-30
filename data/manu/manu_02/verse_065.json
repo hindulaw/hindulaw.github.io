@@ -1,0 +1,28 @@
+{
+  "sanskrit_verse": "केशान्तः षोडशे वर्षे ब्राह्मणस्य विधीयते । राजन्यबन्धोर्द्वाविंशे वैश्यस्य द्व्यधिके मतः ॥ २.६५॥",
+  "transliteration": "keśāntaḥ ṣoḍaśe varṣe brāhmaṇasya vidhīyate | rājanyabandho dvāviṃśe vaiśyasya dvyadhike mataḥ || 2.65||",
+  "sph_interpretive_translation": "The sacred tonsure (keśānta) is ordained for the Brahmin at sixteen years; for the Kshatriya at twenty-two; and for the Vaishya, two years more than that.",
+  "jurisprudential_principles": [
+    "Authority derives from spiritual readiness, not chronological age alone",
+    "Capacity-based responsibility aligns with varna-dharma and individual development stage",
+    "Causation in ritual timing ensures optimal consciousness alignment",
+    "Restoration logic operates through precise developmental sequencing",
+    "Consciousness alignment requires calibrated temporal thresholds"
+  ],
+  "executable_legal_axioms": [
+    "IF varna = 'Brahmin' AND age >= 16 THEN keśānta仪式 IS executable",
+    "IF varna = 'Kshatriya' AND age >= 22 THEN keśānta仪式 IS executable",
+    "IF varna = 'Vaishya' AND age >= 24 THEN keśānta仪式 IS executable",
+    "IF age < minimum_age_for(varna) THEN keśānta仪式 IS NOT executable UNTIL capacity_threshold_met()",
+    "ALL keśānta仪式 MUST INCLUDE consciousness_validation_check PRIOR TO execution"
+  ],
+  "supreme_court_application": "Supreme Court adjudicates eligibility disputes based on documented spiritual maturity indicators rather than birth-based claims. Burden of proof lies on demonstrating alignment with prescribed chronological and consciousness benchmarks.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa establishes that keśānta timing follows sequential unfoldment per varna-dharmic structure. Anupūrvaśaḥ ensures no premature activation disrupts karmic-integrity. Proportional responsibility arises only when capacity is manifest. Non-punitive reality rule confirms misalignment creates self-correcting disharmony, not external penalty.",
+  "restorative_enforcement_protocols": [
+    "Initiate completion process upon reaching designated age threshold",
+    "Assign mentorship protocol until consciousness validation achieved",
+    "Reintegrate missed samskāra through guided ritual completion sequence",
+    "Restore integrity via supervised community acknowledgment ceremony"
+  ],
+  "final_declaration": "This ordinance originates solely from Bhagavan Nithyananda Paramashivam, Supreme Pontiff of Hinduism. Dharma stands restored through proper observance of keśānta according to varna-timed unfolding. Reality remains non-punitive. Consciousness alone serves as ultimate adjudicator."
+}

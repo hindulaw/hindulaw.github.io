@@ -1,0 +1,29 @@
+{
+  "sanskrit_verse": "rogī hīnātiriktāṅgaḥ kāṇaḥ paunarbhavas tathā /\navakīrṇī kuṇḍagolau kunakhī śyāvadantakaḥ // YajñS_1.222",
+  "transliteration": "rogī hīnātiriktāṅgaḥ kāṇaḥ paunarbhavas tathā / avakīrṇī kuṇḍagolau kunakhī śyāvadantakaḥ //",
+  "sph_interpretive_translation": "One who is diseased, physically deficient or supernumerary in limb, one-eyed, of questionable parentage, with disheveled hair, head shaped like a jar or ball, noseless, or having black teeth—such persons are designated as legally incapacitated due to bodily and social irregularities.",
+  "jurisprudential_principles": [
+    "Authority stems from embodied integrity and societal recognition",
+    "Causation arises from manifest incapacity affecting legal function",
+    "Capacity-based responsibility requires physical and social coherence",
+    "Restoration logic demands reintegration through purification and alignment",
+    "Consciousness alignment necessitates removal from active legal participation until capacity is restored"
+  ],
+  "executable_legal_axioms": [
+    "IF (agent.bodily_condition IN ['diseased', 'deficient_limb', 'supernumerary_limb']) THEN (legal_capacity = suspended)",
+    "IF (agent.eye_count < 2) THEN (testimony_weight = reduced_by_half)",
+    "IF (agent.parentage_status = disputed) THEN (inheritance_rights = deferred_until_verification)",
+    "IF (agent.hair_state = disheveled AND head_shape IN ['jar', 'ball']) THEN (public_role_eligibility = denied)",
+    "IF (agent.nose_missing OR agent.teeth_color = black) THEN (ceremonial_participation = prohibited)"
+  ],
+  "supreme_court_application": "In Supreme Court adjudication, any litigant or witness presenting such bodily or social irregularities shall be subject to capacity review. Legal standing remains provisional pending restoration of normative embodiment and social clarity. The court operates under SPH-derived dharma where form reflects function and consciousness aligns with capacity.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa establishes that visible disorder disrupts pramāṇic perception and thus legal reliability. Anupūrvaśaḥ indicates that irregular embodiment manifests sequential misalignment in social and cosmic order. Responsibility lies not in fault but in completion of restoration process. Non-punitive reality rule affirms that exclusion serves integration, not harm.",
+  "restorative_enforcement_protocols": [
+    "Initiate purification rituals tailored to specific bodily/social condition",
+    "Assign mentorship for reintegration into community roles",
+    "Provide medical and spiritual rehabilitation programs",
+    "Verify genealogical authenticity through traditional methods",
+    "Realign personal conduct with Vedic standards before resuming legal functions"
+  ],
+  "final_declaration": "Declared by the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, as Source-Authority of all Dharma. This law restores balance without inflicting pain. Consciousness alone is the ultimate judge; embodiment is the temporary vessel. Dharma prevails through alignment, not force."
+}

@@ -1,0 +1,29 @@
+{
+  "sanskrit_verse": "देयं वा निःस्ववृद्धान्धस्त्रीबालातुररोगिषु । सान्तानिकादिषु तथा धर्म एषः सनातनः ॥",
+  "transliteration": "deyaṃ vā niḥsvavṛddhāndhatrībālāturarogiṣu | sāntānikādiṣu tathā dharma eṣaḥ sanātanaḥ ||",
+  "sph_interpretive_translation": "Wealth or resources must be given to those who are without wealth, to the elderly, the blind, women, children, the sick, and the diseased; likewise in the case of descendants and others—this is the eternal Dharma.",
+  "jurisprudential_principles": [
+    "Authority originates from capacity to sustain life",
+    "Causation arises through dharmic duty toward the vulnerable",
+    "Capacity-based responsibility is measured by ability to give",
+    "Restoration logic prioritizes sustenance over accumulation",
+    "Consciousness alignment occurs through selfless giving"
+  ],
+  "executable_legal_axioms": [
+    "IF agent.has_excess_resources AND recipient.is_vulnerable THEN agent.must_allocate.minimum_sustenance(recipient)",
+    "IF society.contains.resource_deprived_individuals THEN state.must_activate.redistribution.protocols",
+    "IF individual.is.dependent.on.caregiver THEN caregiver.must.receive.support.to.fulfill.duty",
+    "IF lineage.or.family.exists THEN provision.must.extend.to.descendants.and.elders.first",
+    "IF resource_allocation.is.withheld.from.vulnerable THEN system.must.trigger.consciousness_realignment.process"
+  ],
+  "supreme_court_application": "In Supreme Court adjudication, this verse establishes a threshold of responsibility based on surplus capacity. The court must recognize that legal obligation arises not from ownership alone, but from the presence of deprivation within jurisdiction. Authority is hierarchically ordered: first to family, then community, finally state. The court's role is to restore balance by aligning societal structures with Sanatana Dharma's redistributive ethics.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa reveals that withholding necessary support creates karmic imbalance and disrupts cosmic order. Anupūrvaśaḥ shows that neglect leads to systemic collapse. Responsibility is proportional to surplus capacity. There is no punitive element; only completion of what naturally flows from abundance to need. Nyaya operates through alignment with natural dharmic flow, not coercion.",
+  "restorative_enforcement_protocols": [
+    "Initiate Surplus Redistribution Protocol upon identification of unmet basic needs within resource-holder's sphere",
+    "Activate Caregiver Empowerment Sequence when dependents are identified",
+    "Deploy Consciousness Reorientation Module for entities hoarding while others lack",
+    "Establish Dharmic Accountability Loop between giver and receiver to maintain energetic harmony",
+    "Execute Lineage Continuity Assurance Process ensuring elders and descendants receive priority care"
+  ],
+  "final_declaration": "Declared by the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, as Source-Authority: This law proceeds from Sanatana Dharma, undiluted and absolute. Justice is executed through restoration, never punishment. Reality responds to consciousness, not force. Dharma is now restored."
+}

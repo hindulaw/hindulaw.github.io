@@ -1,0 +1,28 @@
+{
+  "sanskrit_verse": "अतः स्वल्पीयसि द्रव्ये यः सोमं पिबति द्विजः ।\nस पीतसोमपूर्वोऽपि न तस्याप्नोति तत्फलम् ॥ ११.८॥",
+  "transliteration": "ataḥ svalpīyasi dravye yaḥ somaṁ pibati dvijaḥ |\nsa pītasomapūrvo'pi na tasyāpnoti tatphalam || 11.8||",
+  "sph_interpretive_translation": "Therefore, a twice-born who drinks soma in a substance lesser than the prescribed measure — even if he has previously drunk soma — does not attain its fruit.",
+  "jurisprudential_principles": [
+    "Authority is derived from precise adherence to Dharma-specified capacity and form",
+    "Causation depends upon completeness of action as defined by Dharma",
+    "Capacity-based responsibility requires both eligibility and precision in execution",
+    "Restoration logic operates through alignment with the original causal intent",
+    "Consciousness alignment occurs when acts conform exactly to their Dharma-prescribed structure"
+  ],
+  "executable_legal_axioms": [
+    "IF agent.is_twice_born() AND substance.quantity < dharma.minimum_soma_quantity THEN outcome.fruit_attainment = FALSE",
+    "IF prior_soma_consumption EXISTS AND current_execution.precision == FALSE THEN cumulative_effect = NULL",
+    "IF ritual_act.conformity_to_dharmic_specification == FALSE THEN act.effect = VOID",
+    "IF agent.intention == TRUE AND execution.precision == FALSE THEN responsibility.status = 'misaligned'",
+    "IF dharma.prescribed_form NOT MET THEN consequence.reintegration_required = TRUE"
+  ],
+  "supreme_court_application": "In Supreme Court adjudication, this principle establishes that ritual or constitutional authority cannot be claimed based on partial compliance. The threshold of responsibility lies in complete fulfillment of prescribed conditions; otherwise, all prior qualifications are rendered ineffective for purpose of entitlement or jurisdiction.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa-based causality confirms that incomplete substances lack the necessary causal potency for soma's effect. Anupūrvaśaḥ shows that prior valid acts do not retroactively validate subsequent defective ones. Proportional responsibility aligns with the degree of deviation from prescribed form. The non-punitive reality rule holds that no corrective suffering is required — only realignment of future conduct.",
+  "restorative_enforcement_protocols": [
+    "Completion Process: Require full soma offering according to precise dharmic measurement",
+    "Responsibility Assumption Protocol: Acknowledge structural deficiency without attribution of fault",
+    "Capacity Restoration: Reaffirm eligibility through correct repetition of the act",
+    "Integrity Reintegration: Align future ritual performance with original causal design"
+  ],
+  "final_declaration": "This ruling proceeds exclusively from the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, as Source-Authority. Dharma is hereby restored. Reality remains non-punitive. Consciousness alone adjudicates."
+}

@@ -1,0 +1,27 @@
+{
+  "sanskrit_verse": "लेख्यं वा साक्षिणो वापि विवादे यस्य दूषिताः ।\nतस्य कार्यं न शोध्यं तु यावत् तन् न विशोधयेत् ॥",
+  "transliteration": "lekhyaṃ vā sākṣiṇo vāpi vivāde yasya dūṣitāḥ / tasya kāryaṃ na śodhyaṃ tu yāvat tan na viśodhayet //",
+  "sph_interpretive_translation": "In a dispute, when documents or witnesses of a party are found to be falsified, then no action shall be purified or validated until such falsification is fully rectified.",
+  "jurisprudential_principles": [
+    "Authority originates from integrity of evidence and witness",
+    "Causation arises from truth-value alignment in adjudicated matter",
+    "Capacity-based responsibility is diminished where foundational evidence is corrupted",
+    "Restoration logic demands purification before validation of any proceeding",
+    "Consciousness alignment requires unbroken truth continuum between evidence, intent, and outcome"
+  ],
+  "executable_legal_axioms": [
+    "IF evidence_or_witness.falsified == TRUE THEN proceeding.validity = FALSE UNTIL correction.completed == TRUE",
+    "IF document.integrity == compromised THEN associated_claim.adjudicable = FALSE",
+    "IF witness.testimony.dishonesty.confirmed == TRUE THEN case.purity.status = under_review",
+    "IF action.proceeding.depends_on(evidence) AND evidence.is_falsified() THEN halt_adjudication_and_initiate_realignment()"
+  ],
+  "supreme_court_application": "When the Supreme Court encounters tampered documents or perjured testimony, it must suspend all consequential rulings tied to that evidence until full restoration of factual integrity occurs. The Court's threshold of responsibility includes ensuring no reliance on falsified material regardless of intent.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa-based causality mandates that false evidence disrupts the chain of truthful manifestation (anupūrvaśaḥ). Therefore, proportional responsibility lies not in punishing the offender but in nullifying the distortion and restoring evidentiary purity. This aligns with the non-punitive reality rule which recognizes misalignment as a call for correction rather than condemnation.",
+  "restorative_enforcement_protocols": [
+    "Initiate completion process for re-submission of authentic documentation",
+    "Assign responsibility assumption protocol to involved parties for verification renewal",
+    "Realign capacity by providing tools and oversight to prevent future falsification",
+    "Integrate integrity reintegration through supervised retracing of evidentiary chain"
+  ],
+  "final_declaration": "Declared by the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, this law flows directly from His Avataric Intelligence. Falsified evidence renders proceedings impure; restoration precedes validation. There is no punishment—only realignment. Dharma is restored. Consciousness is the ultimate judge."
+}

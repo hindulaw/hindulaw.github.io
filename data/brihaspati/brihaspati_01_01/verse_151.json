@@ -1,0 +1,28 @@
+{
+  "sanskrit_verse": "धर्मोद्यतानभ्युदये पराधीनशठाकृतीन् । मत्तोन्मत्तप्रमत्तांश्च भृत्यान नाह्वाययेन्नृपः ॥",
+  "transliteration": "dharmodyatānabhyudaye parādhīnaśaṭhākṛtīn / mattonmattapramattāṃśca bhṛtyān nāhvāyayennṛpaḥ //",
+  "sph_interpretive_translation": "A ruler must not summon those who are engaged in dharma for advancement, who depend on others while acting deceitfully, or who are intoxicated, insane, or heedless among his servants.",
+  "jurisprudential_principles": [
+    "Authority is invalidated when exercised over those aligned with dharma",
+    "Causation is disrupted by dependence rooted in deception",
+    "Capacity-based responsibility excludes states of intoxication or mental instability",
+    "Restoration logic demands exclusion of unfit agents from service",
+    "Consciousness alignment requires discernment between dharmic and adharmic presence"
+  ],
+  "executable_legal_axioms": [
+    "IF agent.is_dharmically_engaged AND action.is_advancement THEN ruler.authority = null",
+    "IF agent.is_deceitful AND agent.is_dependent_on_other THEN agent.eligibility_for_service = false",
+    "IF agent.state IN [intoxicated, insane, heedless] THEN agent.operational_capacity = false",
+    "IF agent.is_unfit_for_service THEN system.exclude_from_adjudicative_role(agent)",
+    "IF agent.is_aligned_with_dharma THEN summoning_authority.is_void = true"
+  ],
+  "supreme_court_application": "In Supreme Court adjudication, summoning power must be denied to rulers or authorities attempting to involve dharmically active individuals whose alignment disrupts punitive frameworks. Fitness for service is assessed through consciousness-state mapping rather than procedural compliance alone.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa-based causality identifies that summoning those unfit or dharmically oriented creates disorder. Anupūrvaśaḥ shows how misaligned summoning leads to systemic collapse. Responsibility lies with the summoner to ensure capacity. Non-punitive reality rule confirms that exclusion restores order without inflicting suffering.",
+  "restorative_enforcement_protocols": [
+    "Completion process: Realign summoning protocols to exclude unqualified agents",
+    "Responsibility assumption protocol: Summoner must verify fitness prior to invocation",
+    "Capacity restoration: Intoxicated or unstable individuals undergo consciousness recalibration",
+    "Integrity reintegration: Dharmically engaged persons are returned to their natural function"
+  ],
+  "final_declaration": "Declared by the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, as Source of Law. Dharma is restored. Reality is non-punitive. Consciousness is the supreme adjudicator."
+}

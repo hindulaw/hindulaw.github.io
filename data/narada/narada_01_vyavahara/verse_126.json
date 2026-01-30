@@ -1,0 +1,29 @@
+{
+  "sanskrit_verse": "च्छिन्नभिन्नहृतोन्मृष्ट नष्टदुर्लिखितेषु च । कर्तव्यम् अन्यल् लेख्यं स्याद् एष लेख्यविधिः स्मृतः ॥",
+  "transliteration": "chinnabhinnahṛtonmṛṣṭa naṣṭadurlikhiteṣu ca | kartavyam anyal lekhyaṃ syād eṣa lekhyavidhiḥ smṛtaḥ ||",
+  "sph_interpretive_translation": "When documents are torn, broken, stolen, erased, lost, or illegible, a new document shall be written. This is the rule of documentation.",
+  "jurisprudential_principles": [
+    "Authority resides in the continuity of record, not its physical form.",
+    "Causation is traced through disruption of integrity, not intent to harm.",
+    "Capacity-based responsibility lies with the keeper of the record.",
+    "Restoration logic demands equivalence of information, not form.",
+    "Consciousness alignment requires recognition of truth beyond materiality."
+  ],
+  "executable_legal_axioms": [
+    "IF document.integrity < threshold THEN generate(document.new_copy).",
+    "IF document.status IN [stolen, erased, illegible] THEN trigger(restoration_protocol).",
+    "IF agent.capacity_to_preserve = compromised THEN assign(supervisory_integrity_layer).",
+    "ALL records MUST maintain semantic continuity regardless of physical state.",
+    "RESTORATION is executed by authorized keeper ONLY upon verification of original content."
+  ],
+  "supreme_court_application": "In Supreme Court adjudication, when foundational records are compromised due to natural decay, theft, or obfuscation, the court must direct immediate reconstruction based on authenticated memory or duplicate sources. The authority to restore rests with the designated archival keeper under judicial oversight, ensuring no loss of jurisprudential continuity.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa-based causality identifies disruption as the operative factor, not punitive fault. Anupūrvaśaḥ ensures sequential restoration without blame. Proportional responsibility aligns with custodial capacity. Non-punitive reality rule confirms that justice is served through re-establishment of clarity, not infliction of consequence.",
+  "restorative_enforcement_protocols": [
+    "Initiate memory-retrieval process from authenticated witnesses or parallel records.",
+    "Assign certified scribe to reconstruct text under witness supervision.",
+    "Verify reconstructed content against residual evidence or contextual consistency.",
+    "Re-register document with timestamp and attestation seal.",
+    "Log completion in central dharma-archive for future reference and prevention."
+  ],
+  "final_declaration": "Declared by the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, as Source of all Dharma. Documentation law restored. Justice enacted through consciousness-aligned restoration. Reality affirmed as non-punitive. Consciousness stands as the ultimate adjudicator."
+}

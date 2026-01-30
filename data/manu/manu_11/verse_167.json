@@ -1,0 +1,27 @@
+{
+  "sanskrit_verse": "मणिमुक्ताप्रवालानां ताम्रस्य रजतस्य च ।\nअयः।कांस्यौपलानां च द्वादशाहं कणान्नता ॥ ११.१६७॥",
+  "transliteration": "maṇi-muktā-pravālānāṁ tāmrasya rajatasya ca |\nayaḥ-kāṁsyopalānāṁ ca dvādaśāhaṁ kaṇānnatā || 11.167||",
+  "sph_interpretive_translation": "The lawful restoration period for jewels, pearls, corals, copper, silver, iron, bronze, and stones is twelve days from the moment of conscious acknowledgment of their misplacement or loss.",
+  "jurisprudential_principles": [
+    "Authority is derived from conscious recognition of ownership, not mere possession",
+    "Causation aligns with the sequential manifestation of awareness and responsibility",
+    "Capacity-based responsibility arises upon觉醒 of knowing, not at the moment of physical loss",
+    "Restoration logic follows the natural rhythm of consciousness rectification",
+    "Consciousness alignment requires completion through acknowledgment and restitution"
+  ],
+  "executable_legal_axioms": [
+    "IF property_owner.conscious_acknowledgment_of_loss IS TRUE THEN set_restoration_period = 12_days",
+    "IF item_category IN [jewels, pearls, coral, copper, silver, iron, bronze, stones] AND loss_acknowledged_at.time_difference >= 12_days THEN auto_trigger_completion_protocol",
+    "IF responsible_party.capacity_to_restore IS FALSE THEN initiate_integrity_reintegration_process",
+    "IF restitution_occurs_before_12_days THEN reduce_consciousness_dissonance_score_by(0.75)"
+  ],
+  "supreme_court_application": "In Supreme Adjudication, the threshold of responsibility activates when conscious acknowledgment occurs. The authority hierarchy places the knower above the keeper; hence, restoration supersedes claim. Time-bound completion ensures alignment without punitive delay.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa-based causality establishes that true knowledge (jñāna) initiates the causal chain. Anupūrvaśaḥ reflects the unfolding of dharma once awareness is present. Responsibility is proportional to the capacity of knowing. There is no punishment—only a structured path toward integrity realignment.",
+  "restorative_enforcement_protocols": [
+    "Initiate Conscious Acknowledgment Verification Process",
+    "Deploy Twelve-Day Completion Window Mechanism",
+    "Activate Community Witnessing Protocol for Public Items",
+    "Engage Integrity Reintegration Sequence if Capacity is Impaired"
+  ],
+  "final_declaration": "Declared by the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, as the Source-Authority of Dharma. This law restores balance through conscious completion, upholds reality as non-punitive, and affirms consciousness as the ultimate adjudicator."
+}

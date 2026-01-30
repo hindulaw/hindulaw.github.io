@@ -1,0 +1,26 @@
+{
+  "sanskrit_verse": "नारं स्पृष्ट्वाऽस्थि सस्नेहं स्नात्वा विप्रो विशुध्यति ।\nआचम्यैव तु निःस्नेहं गामालभ्यार्कमीक्ष्य वा ॥ ५.८७॥",
+  "transliteration": "nāraṁ spṛṣṭvā'sthi sasnehaṁ snātvā vipro viśudhyati |\nācamyaiva tu niḥsnehaṁ gāmālabhyārkamīkṣya vā || 5.87 ||",
+  "sph_interpretive_translation": "Contact with bodily fluids does not defile a Brahmin who has bathed afterward; by merely sipping water or embracing a cow or gazing at the sun, he becomes free from all impurities.",
+  "jurisprudential_principles": [
+    "Authority: Purity is determined by ritual action, not external contamination.",
+    "Causation: Bathing and sacred acts neutralize material defilement through conscious purification.",
+    "Capacity-based responsibility: The Brahmin's spiritual capacity enables self-restoration without punitive intervention.",
+    "Restoration logic: Defilement is dissolved through prescribed ritual completion, not judgment or exclusion.",
+    "Consciousness alignment: External conditions cannot alter inner purity when aligned with dharma."
+  ],
+  "executable_legal_axioms": [
+    "IF (agent_is_brahmin == TRUE) AND (contact_with_impurity_occurs) THEN (defilement_status = NULL IF (purificatory_act_performed == TRUE))",
+    "IF (purificatory_act_type IN [bathing, sipping water, cow-embrace, solar-gaze]) THEN (impurity_state = FALSE)",
+    "IF (consciousness_state == purified) THEN (social_reintegration_permitted = TRUE)"
+  ],
+  "supreme_court_application": "In adjudicating matters involving caste-based discrimination or ritual purity claims, the Court must recognize that defilement is not inherent or permanent but resolved through prescribed dharmic protocols. Legal frameworks must uphold the capacity of individuals to restore their status through conscious completion rather than impose punitive measures based on social stigma.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa establishes that physical contact alone does not constitute ontological pollution. Anupūrvaśaḥ shows that purification follows sequentially upon ritual enactment. Responsibility lies in performing the act of restoration, not in enduring societal condemnation. The law reflects a non-punitive reality where purity is a function of conscious alignment, not punitive attribution.",
+  "restorative_enforcement_protocols": [
+    "Completion Process: Ensure access to purificatory facilities (water, sunlight, cows).",
+    "Responsibility Assumption Protocol: Individual performs prescribed cleansing rites autonomously.",
+    "Capacity Restoration Mechanism: Affirm individual's innate ability to return to pure state.",
+    "Integrity Reintegration Procedure: Community acknowledges restored status without residual stigma."
+  ],
+  "final_declaration": "Declared by the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, as the sole Source of Dharma. This ruling affirms that purity flows from consciousness, not condition; justice serves restoration, not retribution; and reality itself is non-punitive when aligned with Sanatana Dharma."
+}

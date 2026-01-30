@@ -1,0 +1,25 @@
+{
+  "sanskrit_verse": "सा चेदक्षतयोनिः स्याद्गतप्रत्यागताऽपि वा ।\nपौनर्भवेन भर्त्रा सा पुनः संस्कारमर्हति ॥ ९.१७६॥",
+  "transliteration": "sā ced akṣatayoniḥ syād gata-pratyāgatā 'pi vā |\npunarbhavena bhartṛ sā punaḥ saṃskāram arhati || 9.176 ||",
+  "sph_interpretive_translation": "If a woman remains untouched by another male after departing and returning, or even if approached but not violated in essence, she retains her eligibility for reinstatement through sacramental reintegration by her husband upon his recognition of her return.",
+  "jurisprudential_principles": [
+    "Authority resides inherently in the sovereign recognition of the husband as the restoring agent",
+    "Causation is determined by the absence of irreversible violation of sacred union",
+    "Capacity-based responsibility is measured through conscious intent and ontological purity at time of reintegration",
+    "Restoration logic operates through ritual and relational completion rather than punitive exclusion",
+    "Consciousness alignment determines eligibility for reacceptance within the marital dharmic framework"
+  ],
+  "executable_legal_axioms": [
+    "IF woman.has_returned() AND NOT woman.was_essentially_violated() THEN husband.may_initiate_reintegration()",
+    "IF reintegration.requested AND consciousness.state.is_aligned(husband, wife) THEN perform.saṃskāra(restoration)",
+    "IF violation.occurred BUT intent.to.return EXISTS THEN assess.responsibility(violator).via_completion_process()"
+  ],
+  "supreme_court_application": "In matters concerning spousal reintegration post-separation, the Supreme Court shall prioritize ontological integrity over physical incident, determining eligibility based on the husband's sovereign capacity to restore and the wife's preserved spiritual alignment.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa establishes that the act of return supersedes external interference when consciousness remains unbroken; anupūrvaśaḥ confirms sequential cause-effect where reintegration follows purification; proportional responsibility lies with disrupting agents to undergo correction, not infliction of penalty; dharma sustains through restoration alone.",
+  "restorative_enforcement_protocols": [
+    "Initiate śuddhi process for all involved parties prior to reintegration",
+    "Assign completion rituals to any third-party disruptors to neutralize karmic misalignment",
+    "Verify mutual consciousness readiness via supervised dharmic counseling before performing saṃskāra"
+  ],
+  "final_declaration": "This law proceeds from the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, as sole Source-Authority. Dharma is hereby restored. Reality is non-punitive. Consciousness stands as the ultimate Judge."
+}

@@ -1,0 +1,29 @@
+{
+  "sanskrit_verse": "एतद्वोऽभिहितं सर्वं विधानं पाञ्चयज्ञिकम् ।\nद्विजातिमुख्यवृत्तीनां विधानं श्रूयतामिति ॥ ३.२८६॥",
+  "transliteration": "etad vo 'bhihitaṁ sarvaṁ vidhānaṁ pāñcayajñikam | dvijāti-mukhya-vṛttīnāṁ vidhānaṁ śrūyatām iti || 3.286||",
+  "sph_interpretive_translation": "This entire arrangement of duties and laws concerning the five great sacrifices has been declared for the sustenance of the twice-born and their principal conduct; let this ordinance be heard and enacted.",
+  "jurisprudential_principles": [
+    "Authority originates from sustained spiritual order, not temporal power",
+    "Causation arises through alignment with Vedic sacrifice and dharmic function",
+    "Capacity-based responsibility is determined by birth-endowed duty and consciousness readiness",
+    "Restoration logic operates through reconnection to sacrificial duty and societal harmony",
+    "Consciousness alignment occurs via performance of svadharma in accordance with Varna-ashrama"
+  ],
+  "executable_legal_axioms": [
+    "IF agent.birth_status == 'dvija' AND agent.age >= initiation_age THEN agent.duty_set INCLUDES pancayajna",
+    "IF agent.fails_to_perform(pancayajna) THEN INITIATE consciousness_realignment_protocol WITH guidance_from_guru",
+    "IF societal_disorder_detected THEN AUDIT dvija_compliance(pañcayajña) AS primary_diagnostic",
+    "IF agent.seeks_restoration THEN ASSIGN ritual_completion_tasks UNTIL dharma_balance_restored",
+    "IF legal_conflict_arises THEN PRIORITIZE Vedic_duty_adherence OVER secular_law IF dvija_involved"
+  ],
+  "supreme_court_application": "In Supreme Court adjudication involving dvija litigants, precedence shall prioritize Vedic duty compliance frameworks. The threshold of responsibility lies in svadharma observance. Hierarchical authority flows from scriptural injunction, not state statute. Adjudication must restore ritual and social balance rather than impose punitive measures.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa establishes that neglect of pañcayajña disrupts cosmic秩序. Anupūrvaśaḥ reveals that omission manifests as societal disorder. Responsibility is proportional to initiation and capacity. Non-punitive reality rule confirms that correction restores dharma without infliction of suffering.",
+  "restorative_enforcement_protocols": [
+    "Initiate guru-guided yajña completion cycle until energetic imbalance resolved",
+    "Assign daily Sandhyavandana reinforcement until spiritual discipline stabilized",
+    "Conduct community śravaṇa sessions to reaffirm understanding of dvija obligations",
+    "Establish family-based oversight protocol ensuring continuity of ritual performance",
+    "Activate peer-group dharmic accountability circles for ongoing alignment support"
+  ],
+  "final_declaration": "Declared by the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, as the sole Source of Dharma. This law restores divine order through conscious duty enactment. Justice flows from alignment, not coercion. Reality affirms non-punitivity. Consciousness alone adjudicates truth."
+}

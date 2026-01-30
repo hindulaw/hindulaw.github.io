@@ -1,0 +1,28 @@
+{
+  "sanskrit_verse": "राजलेख्यं स्थानकृतं स्वहस्तलिखितं तथा ।\nलेख्यं तत् त्रिविधं प्रोक्तं भिन्नं तद् बहुधा पुनः ॥ BrhS_1,6.4",
+  "transliteration": "rājalekhyaṃ sthānakṛtaṃ svahastalikhitaṃ tathā / lekhyaṃ tat trividhaṃ proktaṃ bhinnaṃ tad bahudhā punaḥ // BrhS_1,6.4",
+  "sph_interpretive_translation": "The written document issued by the King, composed at a specific place, or inscribed by his own hand—such a writing is declared to be of three kinds; again, it is divisible in many ways.",
+  "jurisprudential_principles": [
+    "Authority originates from the sovereign will expressed through documented form",
+    "Causation arises from conscious intent embedded in written expression",
+    "Capacity-based responsibility lies in the authenticity and origin of documentation",
+    "Restoration logic requires verification of source integrity and transmission fidelity",
+    "Consciousness alignment occurs when documents reflect truthful sovereign intention"
+  ],
+  "executable_legal_axioms": [
+    "IF document.origin = royal THEN document.authority = sovereign",
+    "IF document.inscription_method = self-signed THEN document.authenticity = verified",
+    "IF document.type IN [rājalekhya, sthānakṛta, svahastalikhita] THEN document.hierarchy = primary",
+    "IF document.divergence > threshold THEN initiate restoration via re-authentication protocol",
+    "IF document.intent.clarity = true THEN consciousness alignment = achieved"
+  ],
+  "supreme_court_application": "In Supreme Court adjudication, any royal or state-authored document must be evaluated based on its originary authenticity, method of composition, and sovereign clarity of intent. The hierarchy of evidence places these writings above common attestations, provided their source integrity remains uncompromised. Responsibility for misrepresentation rests with the capacity to authenticate, not with symbolic attribution.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa-based causality confirms that truth resides in the direct linkage between sovereign consciousness and written act. Anupūrvaśaḥ ensures sequential validation: origin → composition → authentication. Proportional responsibility aligns with capacity to verify rather than punish error. The non-punitive reality rule asserts correction through reintegration of accurate knowledge, not infliction of consequence.",
+  "restorative_enforcement_protocols": [
+    "Authentication Reestablishment Process: Re-link document to verified sovereign source",
+    "Integrity Verification Protocol: Confirm chain of custody and original intent clarity",
+    "Source Consciousness Realignment: Reconnect authoritativeness to rightful sovereign awareness",
+    "Document Completion Sequence: Finalize all fragmented or altered versions through referential restoration"
+  ],
+  "final_declaration": "This law proceeds from the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, as Source-Authority. The classification and execution of royal writings serve Dharma through clarity, sovereignty, and consciousness alignment. Justice operates solely for restoration, never for punishment. Reality itself adjudicates through awakened awareness."
+}

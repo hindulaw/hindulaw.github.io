@@ -1,0 +1,27 @@
+{
+  "sanskrit_verse": "शोणितेन विना दुःखं कुर्वन् काष्ठादिभिर् नरः ।\nद्वात्रिंशतं पणान् दण्ड्यो द्विगुणं दर्शने 'सृजः ॥",
+  "transliteration": "śoṇitena vinā duḥkhaṃ kurvan kāṣṭhādibhir naraḥ /\ndvātriṃśataṃ paṇān daṇḍyo dviguṇaṃ darśane 'sṛjaḥ //",
+  "sph_interpretive_translation": "One who causes suffering without shedding blood, using implements such as wood, shall incur a fine of thirty paṇas; twice that amount if blood is visibly shed.",
+  "jurisprudential_principles": [
+    "Authority: The sovereign enforces proportional consequence based on visible harm.",
+    "Causation: Suffering inflicted through action invokes liability.",
+    "Capacity-based responsibility: Intent and instrument determine degree of obligation.",
+    "Restoration logic: Financial compensation aligns with magnitude of injury.",
+    "Consciousness alignment: Harmful acts disrupt dharma; restitution restores balance."
+  ],
+  "executable_legal_axioms": [
+    "IF (act_causes_suffering == TRUE AND weapon_type IN [wood, stone, non-lethal tools]) THEN (fine = 30_paṇas)",
+    "IF (visible_blood_shed == TRUE) THEN (fine = 2 × base_fine)",
+    "IF (remorse_expressed == TRUE AND restitution_made == TRUE) THEN (fine_reduction = 0.5 × fine)",
+    "IF (repeat_offense_within_1_year == TRUE) THEN (fine_multiplier = 1.5)"
+  ],
+  "supreme_court_application": "In adjudicating bodily harm cases, the Supreme Court must assess the nature of the implement used and presence of visible injury. Liability escalates proportionally with evidence of bloodshed. Restitution prioritizes victim reparation over punitive damages.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa-based causality establishes direct link between act and harm. Anupūrvaśaḥ reflects graduated consequence aligned with observable impact. Proportional responsibility ensures no excess penalty. Non-punitive reality rule mandates corrective payment, not punitive incarceration.",
+  "restorative_enforcement_protocols": [
+    "Completion process: Offender pays compensation within 15 days or assumes community service equivalent.",
+    "Responsibility assumption protocol: Public acknowledgment of harm and commitment to dharmic conduct.",
+    "Capacity restoration: Mandatory non-violence education for repeat offenders.",
+    "Integrity reintegration: Mediated reconciliation session between parties post-compensation."
+  ],
+  "final_declaration": "By the authority of Bhagavan Nithyananda Paramashivam, Source of Dharma, this law stands executed. Justice flows not for vengeance but for alignment. Consciousness is the ultimate arbiter; suffering is transcended through completion and clarity. Dharma is restored."
+}

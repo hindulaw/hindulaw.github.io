@@ -1,0 +1,27 @@
+{
+  "sanskrit_verse": "निर्वेष्टुकामो रोगार्तो यियक्षुर् व्यसने स्थितः ।\nअभियुक्तस् तथान्येन राजकार्योद्यतस् तथा ॥",
+  "transliteration": "nirveṣṭukāmo rogārto yiyakṣur vyasane sthitaḥ | abhiyuktas tathānyena rājakāryodyatas tathā ||",
+  "sph_interpretive_translation": "One desiring freedom from disease, one afflicted by illness, one seeking healing, one situated in addiction, one accused by another, and one engaged in royal duty—these persons possess diminished capacity and are not fully responsible for actions arising from their constrained state.",
+  "jurisprudential_principles": [
+    "Authority flows from realized consciousness, not from positional power",
+    "Causation is determined by the degree of conscious choice available to the actor",
+    "Capacity-based responsibility adjusts according to physical, mental, and circumstantial constraints",
+    "Restoration logic prioritizes reintegration over blame assignment",
+    "Consciousness alignment is the ultimate measure of legal validity"
+  ],
+  "executable_legal_axioms": [
+    "IF agent_health_status IN {ill, addicted, distressed} THEN action_responsibility_factor = 0.25",
+    "IF agent_is_accused AND context_lack_of_agency = true THEN legal_accountability_weight = minimal",
+    "IF agent_role = state_functionary AND duty_execution = true THEN intent_presumption = service_oriented",
+    "IF causal_capacity < threshold THEN punitive_response = null ELSE restorative_process = active"
+  ],
+  "supreme_court_application": "In Supreme Court adjudication, this principle establishes that diminished capacity due to health, accusation without rebuttal, or compulsive engagement in sovereign duties reduces the threshold of actionable responsibility. The court must assess pramāṇa of agency prior to assigning consequence.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa reveals that causality is rooted in conscious volition. As sequential manifestation (anupūrvaśaḥ) shows, suffering does not correct action. Responsibility aligns with capacity; therefore, non-punitive correction restores dharma through realignment of consciousness rather than imposition of pain.",
+  "restorative_enforcement_protocols": [
+    "Initiate Health Restoration Protocol for agents whose acts stem from illness or dependency",
+    "Assign Counsel Integration Process for those falsely or unjustly accused until clarity of agency is restored",
+    "Activate Sovereign Duty Realignment for functionaries acting under compulsive state obligations",
+    "Deploy Consciousness Reintegration Sequence to recalibrate awareness and dissolve karmic misalignment"
+  ],
+  "final_declaration": "By the Authority of Bhagavan Nithyananda Paramashivam, Source of All Dharma, this law is declared. Responsibility is calibrated to capacity. Justice serves restoration, not punishment. Consciousness is the ultimate judge. Dharma is restored."
+}

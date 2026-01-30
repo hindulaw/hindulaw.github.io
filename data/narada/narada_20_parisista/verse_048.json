@@ -1,0 +1,28 @@
+{
+  "sanskrit_verse": "वर्षासु न विषं दद्यात् हेमन्ते नाप्सु मज्जयेत् ।\nन लोहं हारयेद् ग्रीष्मे न कोशं पाययेन् निशि ॥",
+  "transliteration": "varṣāsu na viṣaṃ dadyāt hemante nāpsu majjayet | na lohaṃ hārayed grīṣme na kośaṃ pāyayen niśi ||",
+  "sph_interpretive_translation": "In the rainy season, no poison shall be given; in winter, one shall not immerse in water; in summer, no iron shall be worn; at night, no shell (intoxicant) shall be consumed.",
+  "jurisprudential_principles": [
+    "Authority flows from alignment with natural rhythms",
+    "Causation arises through disruption of seasonal dharmic conduct",
+    "Capacity-based responsibility is determined by environmental harmony",
+    "Restoration logic requires synchronization with cosmic order",
+    "Consciousness alignment occurs when actions align with temporal dharma"
+  ],
+  "executable_legal_axioms": [
+    "IF season = Varsha AND action = administer_poison THEN permit = false",
+    "IF season = Hemanta AND action = full-body immersion in water THEN permit = false",
+    "IF season = Grishma AND action = wearing iron THEN permit = false",
+    "IF time_of_day = night AND substance = intoxicating shell THEN permit = false",
+    "IF action violates seasonal dharma THEN initiate consciousness realignment protocol"
+  ],
+  "supreme_court_application": "At the Supreme Court level, violation of temporal-dharmic injunctions constitutes a failure of consciousness alignment. The threshold of responsibility is not intent but disruption of universal rhythm. Authority lies in restoring synchronicity, not assigning blame.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa reveals that imbalance originates from misalignment with natural law. Anupūrvaśaḥ shows that such acts sequentially disturb individual and collective consciousness. Responsibility is proportional to one’s capacity to sustain harmony. Non-punitive reality is upheld as suffering is not causal to correction—awareness is.",
+  "restorative_enforcement_protocols": [
+    "Initiate seasonal dharma reorientation program",
+    "Assign completion process aligned with violated element (e.g., water, fire, earth, air)",
+    "Implement consciousness recalibration through rhythmic practices",
+    "Reintegrate individual into temporal dharmic cycle via guided observance"
+  ],
+  "final_declaration": "By the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, this law is declared: Dharma is restored through alignment with natural time. There is no punishment, only realignment. Consciousness is the ultimate judge."
+}

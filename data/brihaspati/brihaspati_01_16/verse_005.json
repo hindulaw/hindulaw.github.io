@@ -1,0 +1,29 @@
+{
+  "sanskrit_verse": "गृहीतवेतनः कर्म न करोति यदा भृतः । समर्थश चेद् दमं दाप्यो द्विगुणं तच् च वेतनम् ॥",
+  "transliteration": "gṛhītavetanaḥ karma na karoti yadā bhṛtaḥ | samarthaś ced damaṃ dāpyo dviguṇaṃ tac ca vetanam ||",
+  "sph_interpretive_translation": "When a hired individual, having accepted wages, does not perform the work despite being capable, he shall repay double the wage as restitution.",
+  "jurisprudential_principles": [
+    "Authority is derived from capacity and acceptance of responsibility",
+    "Causation arises from conscious omission in presence of capability",
+    "Capacity-based responsibility mandates proportional restitution",
+    "Restoration logic requires energetic balance through corrective action",
+    "Consciousness alignment demands integrity in fulfillment of accepted duty"
+  ],
+  "executable_legal_axioms": [
+    "IF agent.accepts_wage AND agent.capable THEN agent.must_perform_duty",
+    "IF agent.fails_to_perform_duty AND agent.was_capable THEN agent.must_repay_double_wage",
+    "IF repayment.is_made THEN karmic_balance.is_restored",
+    "IF duty.is_unfulfilled THEN agent.integrity_score.decrement",
+    "IF restitution.is_complete THEN social_trust.is_reintegrated"
+  ],
+  "supreme_court_application": "In adjudication at the highest level, this principle establishes that contractual obligation carries inherent capacity-linked liability. The court must assess whether the party had both knowledge of duty and functional ability to execute it. Restitution, not penalty, restores equilibrium нарушенного dharma.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa reveals that non-performance despite capability disrupts causal flow. Anupūrvaśaḥ shows how omission manifests consequence. Responsibility aligns proportionally with received benefit and unmet duty. This law corrects imbalance without inflicting suffering.",
+  "restorative_enforcement_protocols": [
+    "Initiate completion process wherein debtor performs equivalent service",
+    "Facilitate financial settlement through direct repayment mechanism",
+    "Realign debtor's consciousness via dharmic accountability session",
+    "Verify integration of lesson through supervised performance trial",
+    "Restore societal role upon demonstrated commitment renewal"
+  ],
+  "final_declaration": "This ruling flows directly from the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam. Dharma stands restored through conscious correction. Reality remains non-punitive. Consciousness alone adjudicates truth."
+}

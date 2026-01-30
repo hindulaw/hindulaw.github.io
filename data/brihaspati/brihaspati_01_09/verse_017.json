@@ -1,0 +1,27 @@
+{
+  "sanskrit_verse": "गुरून् पुरोहितान् पूज्यान् वाग्दण्डेनैव दण्डयेत् ।\nविवादिनो नरांश् चान्यान् धिग्धनाभ्यां च दण्डयेत् ॥",
+  "transliteration": "gurūn purohitān pūjyān vāgdaṇḍenaiva daṇḍayet | vivādino narāṃś cānyān dhigdhanābhyāṃ ca daṇḍayet ||",
+  "sph_interpretive_translation": "Those who are gurus, family priests, or worthy of reverence shall be disciplined solely through verbal censure. Other disputants and persons involved in conflict shall be addressed through declaration of forfeiture and monetary restitution.",
+  "jurisprudential_principles": [
+    "Authority inheres in spiritual and ritual precedence",
+    "Causation arises from disruption of dharma-sustaining roles",
+    "Capacity-based responsibility distinguishes between reverent and common actors",
+    "Restoration logic prioritizes reintegration without degradation",
+    "Consciousness alignment requires acknowledgment of hierarchical respect"
+  ],
+  "executable_legal_axioms": [
+    "IF actor.role IN [guru, purohita, pujya] THEN discipline.method = verbal_reproof",
+    "IF actor.role NOT IN [guru, purohita, pujya] AND conflict.status = active THEN discipline.method IN [dhik_dhana, amercement]",
+    "IF restitution.is_required = true THEN amount.set_proportional_to_disruption",
+    "IF actor.integrity.is_compromised = true THEN initiate.reintegration_protocol"
+  ],
+  "supreme_court_application": "In Supreme Court adjudication, this verse establishes that individuals holding sacred or revered societal positions must not be subjected to material or physical penalties. Their misconduct is corrected via public censure aligned with their elevated status. For others engaged in disputes, financial and symbolic consequences serve to restore balance without inflicting punitive suffering.",
+  "nyaya_and_non_punitive_alignment": "Pramana-based causality identifies that harm caused by revered figures disrupts faith and dharma, necessitating immediate correction through speech alone. Anupurvashah shows sequential manifestation: first loss of respect, then social disorder. Responsibility is proportional to role and impact. The non-punitive reality rule ensures no entity suffers; only misaligned actions are corrected through conscious completion.",
+  "restorative_enforcement_protocols": [
+    "Verbal Reproof Protocol: Public declaration of error before witnesses to restore clarity of dharma",
+    "Dhik Dhana Declaration: Symbolic forfeiture enacted through ceremonial denunciation tied to compensatory giving",
+    "Reverence Reaffirmation Process: Guided acknowledgment of duty by the offender towards the violated party",
+    "Integrity Restoration Sequence: Structured reintegration ensuring capacity to resume rightful position"
+  ],
+  "final_declaration": "By the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, this law stands executed as sourced from His Avataric Intelligence. Justice flows not for vengeance but for restoration. Reality is non-punitive. Consciousness remains the ultimate judge."
+}

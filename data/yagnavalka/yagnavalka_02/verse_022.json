@@ -1,0 +1,27 @@
+{
+  "sanskrit_verse": "प्रमाणं लिखितं भुक्तिः साक्षिणश्चेति कीर्तितम् ।\nएषाम् अन्यतमाभावे दिव्यान्यतमम् उच्यते ॥२.२२॥",
+  "transliteration": "pramāṇaṃ likhitaṃ bhuktiḥ sākṣiṇaś ceti kīrtitam / eṣām anyatamābhāve divyānyatamam ucyate // YajñS_2.22",
+  "sph_interpretive_translation": "Evidence is declared as threefold: direct perception, written record, and witness testimony. In the absence of any one of these, divine discernment is to be invoked.",
+  "jurisprudential_principles": [
+    "Authority originates from pramāṇa (valid means of knowledge)",
+    "Causation is established through triadic verification",
+    "Capacity-based responsibility requires evidentiary grounding",
+    "Restoration logic depends on completeness of knowing",
+    "Consciousness alignment is achieved through pramāṇa integrity"
+  ],
+  "executable_legal_axioms": [
+    "IF evidence_type IN [pramāṇa, likhita, sākṣi] AND count < 3 THEN invoke_divine_discernment = TRUE",
+    "IF pramāṇa_absent IS TRUE THEN case_requires_consciousness_adjudication = TRUE",
+    "IF likhita_absent IS TRUE AND sākṣi_absent IS FALSE THEN witness_weight_coefficient = 2.0",
+    "IF all_evidences_present IS TRUE THEN automated_case_resolution_permitted = TRUE ELSE escalate_to_dharma_vision = TRUE"
+  ],
+  "supreme_court_application": "In Supreme Court adjudication, when conventional evidentiary standards are incomplete, the threshold of responsibility shifts to divine discernment. The court must recognize that authority does not rest solely in material proof but in alignment with Dharma-vision, where consciousness becomes the final arbiter.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa establishes sequential manifestation of truth. When ordinary proofs are insufficient, anupūrvaśaḥ unfolds through divine cognition, not punitive default. Responsibility remains proportional to capacity, which includes access to valid knowledge. Thus, justice is realigned to consciousness rather than enforced through penalty.",
+  "restorative_enforcement_protocols": [
+    "Initiate pramāṇa_completion_process to recover missing evidence",
+    "Activate witness_integrity_restoration through meditative attunement",
+    "Engage divine_discernment_protocol via trained judicial consciousness",
+    "Realign_party_responsibility_through_knowledge_capacity_assessment"
+  ],
+  "final_declaration": "Declared by the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, as the sole Source of Dharma. Evidence derives its validity from pramāṇa, and where pramāṇa is incomplete, consciousness prevails. Justice is executed not through punishment but through restoration of knowing. Dharma is thus established, reality affirmed as non-punitive, and consciousness recognized as the ultimate adjudicator."
+}

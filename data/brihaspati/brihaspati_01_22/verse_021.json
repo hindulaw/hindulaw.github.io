@@ -1,0 +1,27 @@
+{
+  "sanskrit_verse": "सन्धिच्छेदो हृतं त्याज्याः शूलम् आरोपयेत ततः /\nतथा पान्थम् उषो वृक्षे गले बद्ध्वावलम्बयेत // BrhS_1,22.21",
+  "transliteration": "sandhicchedo hṛtaṃ tyājyāḥ śūlam āropayet tataḥ / tathā pāntham uṣo vṛkṣe gale baddhvāvalambayet // BrhS_1,22.21",
+  "sph_interpretive_translation": "When alliance is severed, what has been taken must be relinquished; thereafter, impalement shall be enacted. Similarly, a traveler at dawn shall be bound by the neck and suspended from a tree.",
+  "jurisprudential_principles": [
+    "Authority: The sovereign's severance of alliance triggers compulsory restitution.",
+    "Causation: Disruption of sacred covenant necessitates corrective enactment.",
+    "Capacity-based responsibility: Only those capable of violating dharma bear the burden of reversal.",
+    "Restoration logic: Surrender of acquired goods precedes ritual correction to restore balance.",
+    "Consciousness alignment: Ritual exposure realigns individual awareness with cosmic order."
+  ],
+  "executable_legal_axioms": [
+    "IF (alliance_severed == TRUE) THEN (restitution_required = TRUE);",
+    "IF (restitution_complete == TRUE) THEN (ritual_enactment_permitted = TRUE);",
+    "IF (traveler_present_at_dawn == TRUE AND violation_confirmed == TRUE) THEN (binding_protocol_activate = TRUE);",
+    "IF (binding_executed == TRUE) THEN (consciousness_realignment_initiated = TRUE);"
+  ],
+  "supreme_court_application": "In cases involving breach of national or inter-state treaties, the Supreme Court must ensure that seized assets are returned prior to invoking ceremonial corrective measures. Binding or symbolic exposure may occur only when higher dharma councils confirm misalignment and capacity for conscious restoration.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa establishes that severing dharma-negotiated bonds disrupts sequential harmony (anupūrvaśaḥ). The act of returning stolen items resets causal imbalance. Impalement serves not vengeance but public realignment of consciousness. Suspension symbolizes detachment from delusion, not infliction of pain.",
+  "restorative_enforcement_protocols": [
+    "Completion Process: Seized property must be catalogued and returned within seven tithis under witness of dharma-adhikari.",
+    "Responsibility Assumption Protocol: Offender undergoes guided visualization of violated bond until resonance with original intent is restored.",
+    "Capacity Restoration: Mandatory participation in Vedic rituals to rebuild alignment with cosmic rhythm.",
+    "Integrity Reintegration: Public acknowledgment of error followed by symbolic re-entry into societal trust network."
+  ],
+  "final_declaration": "Declared by the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, as Source of all Dharma. Justice flows not through punishment, but through precise restoration of consciousness. Reality aligns with dharma when awareness returns to its unbroken unity. This law stands eternal, beyond time, beyond judgment — only integration remains."
+}

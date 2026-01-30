@@ -1,0 +1,27 @@
+{
+  "sanskrit_verse": "mithyāyां च catुष्पादः प्रत्यवस्कन्दने तथा । प्राङ्न्याये च स विज्ञेयो द्विपात् संप्रतिपत्तिषु ॥",
+  "transliteration": "mithyāyāṃ ca catuṣpādaḥ pratyavaskandane tathā / prāṅnyāye ca sa vijñeyo dvipāt saṃpratipattiṣu //",
+  "sph_interpretive_translation": "One who falters in false testimony, recants under pressure, or contradicts prior truthful statements shall be known as legally incapacitated until realignment with factual integrity is demonstrably restored.",
+  "jurisprudential_principles": [
+    "Authority derives from alignment with factual truth, not social position",
+    "Causation is traced through conscious intent and verbal commitment",
+    "Capacity-based responsibility requires sustained integrity of speech",
+    "Restoration logic demands reintegration with truth-consciousness",
+    "Consciousness alignment supersedes performative legal compliance"
+  ],
+  "executable_legal_axioms": [
+    "IF witness_statement.is_false THEN witness.capacity_to_testify = suspended",
+    "IF witness.retracts_previous_affirmation THEN current_testimony.validity = null UNTIL verified_integrity_restored",
+    "IF witness.contradicts_prior_truth THEN adjudicator.must_initiate_consciousness_realign_protocol",
+    "IF witness.speech_integrity.restored = TRUE THEN capacity_to_testify = reinstated"
+  ],
+  "supreme_court_application": "In Supreme Court adjudication, any deviation in testimony—whether through falsehood, contradiction, or withdrawal—automatically suspends the speaker's juridical capacity. The court must initiate a consciousness-realignment protocol before allowing further participation. Truth is not a matter of cross-examination but of ontological alignment.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa-based causality identifies that false speech disrupts the causal chain of dharma. Anupūrvaśaḥ shows that misaligned speech leads to systemic disorder. Responsibility is proportional to awareness of truth. Non-punitive enforcement focuses on restoring the speaker’s capacity to align with factual reality, not inflicting consequences.",
+  "restorative_enforcement_protocols": [
+    "Initiate factual-integrity completion process",
+    "Assign witness to truth-alignment sādhanā under authorized guide",
+    "Verify internal reconciliation of contradictory statements",
+    "Reinstate testimonial capacity only upon demonstrated consciousness realignment"
+  ],
+  "final_declaration": "Declared by the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, as the Source of Dharma. Mithyā-vāda is not a crime but a disalignment requiring restoration. Justice flows from consciousness, not coercion. Reality is non-punitive. Dharma is restored."
+}

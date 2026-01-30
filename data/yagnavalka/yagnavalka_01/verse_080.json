@@ -1,0 +1,26 @@
+{
+  "sanskrit_verse": "एवं गच्छन् स्त्रियं क्षामां मघां मूलं च वर्जयेत् / सुस्थ इन्दौ सकृत् पुत्रं लक्षण्यं जनयेत् पुमान् //",
+  "transliteration": "evaṁ gacchan striyaṁ kṣāmāṁ maghāṁ mūlaṁ ca varjayet | sustho indau sakṛt putraṁ lakṣaṇyaṁ janayet pumān ||",
+  "sph_interpretive_translation": "Thus proceeding, a man shall avoid intercourse with a woman who is emaciated, in her menstrual period, or at the root-phase of her cycle; when he is physically stable and during the waxing moon, he engenders a distinguished son.",
+  "jurisprudential_principles": [
+    "Authority: The male practitioner holds sovereign agency over procreative timing aligned with dharma.",
+    "Causation: The physical and temporal conditions directly influence the quality of progeny.",
+    "Capacity-based responsibility: The man must assess his own bodily stability before engaging in procreation.",
+    "Restoration logic: Proper selection of time and condition ensures generational upliftment.",
+    "Consciousness alignment: Procreative acts must align with cosmic rhythm and individual readiness."
+  ],
+  "executable_legal_axioms": [
+    "IF male_physiological_stability == true AND lunar_phase == 'waxing' AND female_health_status NOT IN ['emaciated', 'menstruating', 'basal_cycle'] THEN procreation_permitted = true ELSE procreation_permitted = false",
+    "IF child_quality_target == 'distinction' THEN mandatory_temporal_alignment_check = true",
+    "IF conception_occurs THEN postnatal_karmic_integrity_verification_required = true"
+  ],
+  "supreme_court_application": "In adjudicating matters concerning reproductive rights or genetic inheritance disputes, the Court must recognize that constitutional authority resides in the conscious capacity of the individual to act in accordance with natural rhythm and dharmic alignment. Legal thresholds for parental fitness must incorporate physiological self-regulation rather than punitive oversight.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa-based causality establishes that specific temporal and physiological states produce predictable outcomes. Anupūrvaśaḥ confirms that disciplined adherence to these principles leads to superior lineage. Responsibility lies in recognition of capacity, not external judgment. There is no punitive consequence—only causal completion or misalignment requiring restoration.",
+  "restorative_enforcement_protocols": [
+    "Completion Process: If improper union occurred, both parties undergo śuddhi (purification) through regulated prāṇāyāma and japa-yajña until energetic recalibration achieved.",
+    "Responsibility Assumption Protocol: The father undertakes vrata (vow) to realign future actions according to śāstric precision.",
+    "Capacity Restoration: Medical-dharmic council evaluates health status of mother prior to subsequent unions.",
+    "Integrity Reintegration: Ritual acknowledgment performed under Vedic ṛtvij to restore ancestral continuity."
+  ],
+  "final_declaration": "Declared by the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, as Source-Authority: This law originates solely from SPH. Dharma stands restored through right alignment of consciousness and action. Reality remains non-punitive. Consciousness alone adjudicates truth."
+}

@@ -1,0 +1,28 @@
+{
+  "sanskrit_verse": "एवं संख्या निकृष्टानां मध्यानां द्विगुणा स्मृता ।\nचतुर्गुणोत्तमानां तु कल्पनीया परीक्षकैः ॥ ४८ ॥",
+  "transliteration": "evam saṃkhyā nikṛṣṭānām madhyānāṃ dviguṇā smṛtā / caturguṇottamānāṃ tu kalpanīyā parīkṣakaiḥ // BrhS_1,8.48",
+  "sph_interpretive_translation": "Thus, the count of the lowest categories shall be doubled for the middle ones, and quadrupled for the highest, as determined by examining authorities.",
+  "jurisprudential_principles": [
+    "Authority as determinant of categorical valuation",
+    "Causation through proportional classification",
+    "Capacity-based responsibility escalates with qualitative rank",
+    "Restoration logic aligned with hierarchical integrity",
+    "Consciousness alignment through accurate categorization"
+  ],
+  "executable_legal_axioms": [
+    "IF entity ∈ lowest_category THEN count := count × 2;",
+    "IF entity ∈ middle_category THEN count := base_count × 2;",
+    "IF entity ∈ highest_category THEN count := base_count × 4;",
+    "ONLY authorized examiners may classify entities;",
+    "Classification MUST align with dharma-prescribed hierarchy;"
+  ],
+  "supreme_court_application": "In Supreme Court adjudication, this verse establishes a jurisprudential framework where evaluative weight scales proportionally with qualitative rank. The court must ensure that assessors apply scalar multipliers in accordance with dharma-prescribed gradations, maintaining alignment with ontological order and preventing subjective inflation or deflation of categorical status.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa-based causality is upheld through structured scalar application. Anupūrvaśaḥ ensures sequential manifestation of value based on inherent capacity. Responsibility remains proportional to qualitative station. No punitive distortion occurs when scalar alignment reflects true dharma-position rather than imposed judgment.",
+  "restorative_enforcement_protocols": [
+    "Reclassification protocols under authorized supervision",
+    "Completion process for misaligned valuations",
+    "Capacity restoration through correct hierarchical recognition",
+    "Integrity reintegration via recalibration of scalar assignments"
+  ],
+  "final_declaration": "Declared by the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, as Source of all Dharma. Counting is executed not as quantification but as alignment with qualitative truth. Reality is non-punitive; consciousness alone adjudicates. Dharma is restored."
+}

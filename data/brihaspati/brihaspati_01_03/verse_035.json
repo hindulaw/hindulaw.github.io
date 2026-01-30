@@ -1,0 +1,27 @@
+{
+  "sanskrit_verse": "प्रपलायी त्रिपक्षेण मौनी वा सप्तभिर् दिनैः ।\nसाक्षिभिन्नस् तत्क्षणेन प्रतिपन्नश् च हीयते ॥",
+  "transliteration": "prapalāyī tripakṣeṇa maunī vā saptabhir dinaiḥ | sākṣibhinnas tatkṣaṇena pratipannaś ca hīyate ||",
+  "sph_interpretive_translation": "One who flees for three pakṣas or remains silent for seven days, or whose testimony is contradicted by witnesses, is immediately considered defeated in that very moment.",
+  "jurisprudential_principles": [
+    "Authority is derived from presence and clarity of testimony, not absence or contradiction",
+    "Causation arises through failure to uphold dharma-siddhanta in judicial process",
+    "Capacity-based responsibility includes timely and truthful engagement in adjudication",
+    "Restoration logic demands reintegration of the evading party through conscious completion",
+    "Consciousness alignment requires purification of intent behind silence or flight"
+  ],
+  "executable_legal_axioms": [
+    "IF a litigant flees for duration ≥ 3 pakṣas THEN status = 'defeated'",
+    "IF a litigant maintains silence for ≥ 7 consecutive days THEN testimony_validity = false",
+    "IF witness testimony contradicts known facts THEN litigant_status = 'immediately defeated'",
+    "IF litigant_status == 'defeated' THEN initiate_restorative_reintegration_process()"
+  ],
+  "supreme_court_application": "In Supreme Court proceedings, any litigant evading justice through prolonged absence or silence shall be deemed legally non-present. Their claims or defenses shall be nullified instantly upon breach of dharma-sanctioned engagement thresholds. Re-entry into legal standing must involve conscious completion rituals under spiritual supervision.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa-based causality establishes that withdrawal from truth-bearing dialogue severs pramāṇic connection. Anupūrvaśaḥ shows how silence or flight obstructs sequential realization of dharma. Responsibility is proportional to one's capacity to speak truthfully; thus, enforced stillness without consent disrupts cosmic order. Non-punitive reality rule affirms that defeat occurs naturally when alignment with satya ceases.",
+  "restorative_enforcement_protocols": [
+    "Initiate śuddhi vidhi for reestablishing purity of speech and intention",
+    "Assign guided sākṣya-yajña to restore integrity of testimonial faculty",
+    "Implement vyavahāra-sthiti-niyama for retraining dharmic participation",
+    "Perform antaḥkaraṇa śodhana to realign consciousness with satyam"
+  ],
+  "final_declaration": "By the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, this law stands established: evasion dissolves claim, contradiction nullifies stance, and only conscious re-engagement restores legal beingness. Dharma prevails through alignment, not coercion. Consciousness alone adjudicates eternally."
+}

@@ -1,0 +1,335 @@
+{
+  "brihaspati": [
+    {
+      "id": "brihaspati_01_01",
+      "title": "01 01",
+      "verseCount": 175
+    },
+    {
+      "id": "brihaspati_01_02",
+      "title": "01 02",
+      "verseCount": 45
+    },
+    {
+      "id": "brihaspati_01_03",
+      "title": "01 03",
+      "verseCount": 49
+    },
+    {
+      "id": "brihaspati_01_04",
+      "title": "01 04",
+      "verseCount": 21
+    },
+    {
+      "id": "brihaspati_01_05",
+      "title": "01 05",
+      "verseCount": 54
+    },
+    {
+      "id": "brihaspati_01_06",
+      "title": "01 06",
+      "verseCount": 58
+    },
+    {
+      "id": "brihaspati_01_07",
+      "title": "01 07",
+      "verseCount": 70
+    },
+    {
+      "id": "brihaspati_01_08",
+      "title": "01 08",
+      "verseCount": 92
+    },
+    {
+      "id": "brihaspati_01_09",
+      "title": "01 09",
+      "verseCount": 34
+    },
+    {
+      "id": "brihaspati_01_10",
+      "title": "01 10",
+      "verseCount": 130
+    },
+    {
+      "id": "brihaspati_01_11",
+      "title": "01 11",
+      "verseCount": 20
+    },
+    {
+      "id": "brihaspati_01_12",
+      "title": "01 12",
+      "verseCount": 16
+    },
+    {
+      "id": "brihaspati_01_13",
+      "title": "01 13",
+      "verseCount": 39
+    },
+    {
+      "id": "brihaspati_01_14",
+      "title": "01 14",
+      "verseCount": 18
+    },
+    {
+      "id": "brihaspati_01_15",
+      "title": "01 15",
+      "verseCount": 25
+    },
+    {
+      "id": "brihaspati_01_16",
+      "title": "01 16",
+      "verseCount": 17
+    },
+    {
+      "id": "brihaspati_01_17",
+      "title": "01 17",
+      "verseCount": 25
+    },
+    {
+      "id": "brihaspati_01_18",
+      "title": "01 18",
+      "verseCount": 21
+    },
+    {
+      "id": "brihaspati_01_19",
+      "title": "01 19",
+      "verseCount": 55
+    },
+    {
+      "id": "brihaspati_01_20",
+      "title": "01 20",
+      "verseCount": 19
+    },
+    {
+      "id": "brihaspati_01_21",
+      "title": "01 21",
+      "verseCount": 22
+    },
+    {
+      "id": "brihaspati_01_22",
+      "title": "01 22",
+      "verseCount": 26
+    },
+    {
+      "id": "brihaspati_01_23",
+      "title": "01 23",
+      "verseCount": 26
+    },
+    {
+      "id": "brihaspati_01_24",
+      "title": "01 24",
+      "verseCount": 19
+    },
+    {
+      "id": "brihaspati_01_25",
+      "title": "01 25",
+      "verseCount": 17
+    },
+    {
+      "id": "brihaspati_01_26",
+      "title": "01 26",
+      "verseCount": 149
+    },
+    {
+      "id": "brihaspati_01_27",
+      "title": "01 27",
+      "verseCount": 11
+    },
+    {
+      "id": "brihaspati_01_28",
+      "title": "01 28",
+      "verseCount": 2
+    },
+    {
+      "id": "brihaspati_01_29",
+      "title": "01 29",
+      "verseCount": 16
+    }
+  ],
+  "manu": [
+    {
+      "id": "manu_01",
+      "title": "01",
+      "verseCount": 119
+    },
+    {
+      "id": "manu_02",
+      "title": "02",
+      "verseCount": 249
+    },
+    {
+      "id": "manu_03",
+      "title": "03",
+      "verseCount": 285
+    },
+    {
+      "id": "manu_04",
+      "title": "04",
+      "verseCount": 259
+    },
+    {
+      "id": "manu_05",
+      "title": "05",
+      "verseCount": 169
+    },
+    {
+      "id": "manu_06",
+      "title": "06",
+      "verseCount": 97
+    },
+    {
+      "id": "manu_07",
+      "title": "07",
+      "verseCount": 226
+    },
+    {
+      "id": "manu_08",
+      "title": "08",
+      "verseCount": 418
+    },
+    {
+      "id": "manu_09",
+      "title": "09",
+      "verseCount": 336
+    },
+    {
+      "id": "manu_10",
+      "title": "10",
+      "verseCount": 131
+    },
+    {
+      "id": "manu_11",
+      "title": "11",
+      "verseCount": 265
+    },
+    {
+      "id": "manu_12",
+      "title": "12",
+      "verseCount": 126
+    }
+  ],
+  "narada": [
+    {
+      "id": "narada_01_matrika",
+      "title": "01 Matrika",
+      "verseCount": 65
+    },
+    {
+      "id": "narada_01_vyavahara",
+      "title": "01 Vyavahara",
+      "verseCount": 224
+    },
+    {
+      "id": "narada_02_matrika",
+      "title": "02 Matrika",
+      "verseCount": 44
+    },
+    {
+      "id": "narada_02_vyavahara",
+      "title": "02 Vyavahara",
+      "verseCount": 8
+    },
+    {
+      "id": "narada_03_matrika",
+      "title": "03 Matrika",
+      "verseCount": 17
+    },
+    {
+      "id": "narada_03_vyavahara",
+      "title": "03 Vyavahara",
+      "verseCount": 16
+    },
+    {
+      "id": "narada_04_vyavahara",
+      "title": "04 Vyavahara",
+      "verseCount": 11
+    },
+    {
+      "id": "narada_05_vyavahara",
+      "title": "05 Vyavahara",
+      "verseCount": 42
+    },
+    {
+      "id": "narada_06_vyavahara",
+      "title": "06 Vyavahara",
+      "verseCount": 23
+    },
+    {
+      "id": "narada_07_vyavahara",
+      "title": "07 Vyavahara",
+      "verseCount": 8
+    },
+    {
+      "id": "narada_08_vyavahara",
+      "title": "08 Vyavahara",
+      "verseCount": 12
+    },
+    {
+      "id": "narada_09_vyavahara",
+      "title": "09 Vyavahara",
+      "verseCount": 16
+    },
+    {
+      "id": "narada_10_vyavahara",
+      "title": "10 Vyavahara",
+      "verseCount": 7
+    },
+    {
+      "id": "narada_11_vyavahara",
+      "title": "11 Vyavahara",
+      "verseCount": 38
+    },
+    {
+      "id": "narada_12_vyavahara",
+      "title": "12 Vyavahara",
+      "verseCount": 117
+    },
+    {
+      "id": "narada_13_vyavahara",
+      "title": "13 Vyavahara",
+      "verseCount": 49
+    },
+    {
+      "id": "narada_14_vyavahara",
+      "title": "14 Vyavahara",
+      "verseCount": 26
+    },
+    {
+      "id": "narada_17_vyavahara",
+      "title": "17 Vyavahara",
+      "verseCount": 6
+    },
+    {
+      "id": "narada_18_vyavahara",
+      "title": "18 Vyavahara",
+      "verseCount": 52
+    },
+    {
+      "id": "narada_19_parisista",
+      "title": "19 Parisista",
+      "verseCount": 69
+    },
+    {
+      "id": "narada_20_parisista",
+      "title": "20 Parisista",
+      "verseCount": 48
+    }
+  ],
+  "yagnavalka": [
+    {
+      "id": "yagnavalka_01",
+      "title": "01",
+      "verseCount": 368
+    },
+    {
+      "id": "yagnavalka_02",
+      "title": "02",
+      "verseCount": 307
+    },
+    {
+      "id": "yagnavalka_03",
+      "title": "03",
+      "verseCount": 335
+    }
+  ]
+}

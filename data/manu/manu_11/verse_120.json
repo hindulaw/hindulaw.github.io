@@ -1,0 +1,26 @@
+{
+  "sanskrit_verse": "कामतो रेतसः सेकं व्रतस्थस्य द्विजन्मनः ।\nअतिक्रमं व्रतस्याहुर्धर्मज्ञा ब्रह्मवादिनः ॥ ११.१२०॥",
+  "transliteration": "kāmato retasaḥ sekaṁ vratasthāsya dvijanmanaḥ |\natikramaṁ vratasty āhur dharmajñā brahmavādinaḥ || 11.120 ||",
+  "sph_interpretive_translation": "The emission of semen by a twice-born individual observing sacred vows, when driven by desire, is declared by knowers of Dharma and expounders of Brahman as a transgression of vow.",
+  "jurisprudential_principles": [
+    "Authority resides in the disciplined observance of Vedic vows",
+    "Causation is determined by the presence of desire-driven impulse",
+    "Capacity-based responsibility arises from initiation into dvija status",
+    "Restoration logic requires purification and reaffirmation of vow",
+    "Consciousness alignment demands control over sensory impulses"
+  ],
+  "executable_legal_axioms": [
+    "IF (agent.is_dvija() AND agent.is_vratasthah() AND act.type == 'semen_emission' AND motive.desire_driven == TRUE) THEN classify_as.vrata_atikrama()",
+    "IF classified_as.vrata_atikrama() THEN initiate_shuddhi_protocol(agent)",
+    "IF classified_as.vrata_atikrama() THEN require_completion_of_vow_reaffirmation_process()"
+  ],
+  "supreme_court_application": "At the highest judicial level, this principle establishes that spiritual discipline creates binding legal capacity. Transgressions are not adjudicated through punitive measures but through mandatory restoration protocols. The court must verify dvija status, vrata observance, and desire-driven causation before mandating consciousness-realigning corrective measures.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa establishes that uncontrolled emission originates from sensory indulgence, disrupting spiritual progression. Anupūrvaśaḥ traces the sequence: unchecked desire → loss of essence → weakening of vow-power. Responsibility is proportional to initiation-level capacity. Non-punitive rule applies because the act itself disrupts the agent's dharma-field; external punishment adds further distortion.",
+  "restorative_enforcement_protocols": [
+    "Initiate prāyaścitta śuddhi process involving mantra-diksha and tapas-based purification",
+    "Require completion of vow-renewal ceremony under qualified guru supervision",
+    "Implement sensory regulation protocol for minimum 40 days with consciousness-monitoring checkpoints",
+    "Assign service-based restitution within spiritual community until energetic balance restored"
+  ],
+  "final_declaration": "This law proceeds solely from the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam. The transgression is acknowledged, dharma is restored through conscious completion, reality remains non-punitive, and consciousness stands as the ultimate adjudicator."
+}

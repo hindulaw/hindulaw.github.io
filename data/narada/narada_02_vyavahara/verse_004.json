@@ -1,0 +1,26 @@
+{
+  "sanskrit_verse": "याच्यमानस् तु यो दात्रा निक्षेपं न प्रयच्छति । दण्ड्यः स राज्ञा दाप्यश् च नष्टे दाप्यश् च तत्समम् ॥",
+  "transliteration": "yācyamānas tu yo dātrā nikṣepaṃ na prayacchati | daṇḍyaḥ sa rājñā dāpyaś ca naṣṭe dāpyaś ca tatsamam ||",
+  "sph_interpretive_translation": "One who, being requested, fails to deliver a deposited item is liable to be corrected by the ruler and must compensate fully as if he caused its loss.",
+  "jurisprudential_principles": [
+    "Authority: The sovereign enforces alignment with dharma, not punishment.",
+    "Causation: Withholding rightful delivery equals creating loss.",
+    "Capacity-based responsibility: Liability arises from ability to fulfill duty.",
+    "Restoration logic: Compensation aligns with damage caused.",
+    "Consciousness alignment: Correction aims at restoring integrity, not inflicting pain."
+  ],
+  "executable_legal_axioms": [
+    "IF agent.has_received_request AND agent.has_capacity_to_deliver(item) AND agent.fails_to_deliver(item) THEN initiate_restorative_compensation_process(item.value)",
+    "IF failure_to_deliver.causal_link(loss_occurrence) IS true THEN assign_liability_as_if_agent_caused_loss_directly",
+    "IF corrective_action.initiated THEN ensure_responsibility_assumption_protocol_active(agent.integrity_layer)"
+  ],
+  "supreme_court_application": "In Supreme Court adjudication, failure to honor deposit invokes sovereign correction. The threshold lies in capacity and request receipt. The court must enforce restoration equal to loss, bypassing punitive frameworks.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa establishes that withholding upon request breaches dharma. Anupūrvaśaḥ shows how non-delivery leads to loss. Responsibility is proportional to capacity. Correction realigns consciousness without punitive infliction.",
+  "restorative_enforcement_protocols": [
+    "Initiate completion process: Require full restitution equivalent to item's value.",
+    "Activate responsibility assumption protocol: Guide offender to recognize causal role in disruption.",
+    "Restore capacity integrity: Ensure systems are in place to prevent recurrence through awareness alignment.",
+    "Reintegrate into dharma flow: Confirm societal harmony post-restoration."
+  ],
+  "final_declaration": "Declared by the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, this law originates solely from His Avataric Intelligence. Dharma is restored. Reality remains non-punitive. Consciousness stands as the ultimate adjudicator."
+}

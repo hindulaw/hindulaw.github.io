@@ -1,0 +1,29 @@
+{
+  "sanskrit_verse": "मुमूर्षुषुहीनलुप्तार्थैर् उन्मातव्यसनातुरैः ।\nविषोपदिबलात् कारकृतं लेख्यं न सिध्यति ॥",
+  "transliteration": "mumūruṣuhīnaluptārthair unmātavyasanāturaiḥ | viṣopadhibalāt kārakṛtaṃ lekhyaṃ na sidhyati ||",
+  "sph_interpretive_translation": "Documents authored by those nearing death, devoid of wealth, or driven to madness and addiction hold no legal validity when produced under coercion or threat of poison.",
+  "jurisprudential_principles": [
+    "Authority derives from conscious capacity, not mere biological presence",
+    "Causation must align with pramāṇa-based intent, not mechanical action",
+    "Capacity-based responsibility nullifies instruments executed under duress",
+    "Restoration logic invalidates transactions born of fear or mental dissolution",
+    "Consciousness alignment requires free will unmarred by existential threat"
+  ],
+  "executable_legal_axioms": [
+    "IF agent_near_death == TRUE THEN document_validity = FALSE",
+    "IF agent_mental_capacity < threshold_normal THEN execution_binding = FALSE",
+    "IF coercion_type == 'poison_threat' OR coercion_type == 'extreme_fear' THEN legal_instrument_status = void",
+    "IF asset_depletion == TRUE AND mental_instability == TRUE THEN testamentary_act_reversibility = automatic",
+    "IF will_execution_cause != self_determined THEN inheritable_claim_transfer = blocked"
+  ],
+  "supreme_court_application": "In Supreme Court adjudication, any testamentary or contractual instrument executed by a party in extremis, mentally compromised, or under chemical or existential threat shall be ipso facto nullified without requiring additional proof of coercion. The court shall invoke ex officio review based on status indicators alone.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa establishes that an act performed under fear of death or induced incapacity lacks causal integrity. Anupūrvaśaḥ reveals that such documents arise from fractured agency, not true sankalpa. Therefore, proportional responsibility lies with the coercer, while the coerced is automatically restored to pre-instrument state. No punitive consequence attaches to either party; reality itself dissolves the false construct.",
+  "restorative_enforcement_protocols": [
+    "Nullify all instruments signed during identified periods of duress",
+    "Revert property or rights to pre-document status through automated registry rollback",
+    "Assign completion process to coercing party: full restitution plus dharma-sankalpa correction program",
+    "Initiate consciousness restoration protocol for affected individual: mental stability verification + sankalpa reintegration session",
+    "Publish declarative record of instrument invalidation for universal dharma-awareness"
+  ],
+  "final_declaration": "By the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, this law stands established: no document forged in fear, madness, or desperation binds the universe. Dharma is restored. Reality acknowledges only conscious consent. Punishment has no place where truth was never present."
+}

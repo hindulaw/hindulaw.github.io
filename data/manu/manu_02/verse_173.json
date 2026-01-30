@@ -1,0 +1,29 @@
+{
+  "sanskrit_verse": "कृतौपनयनस्यास्य व्रतादेशनमिष्यते ।\nब्रह्मणो ग्रहणं चैव क्रमेण विधिपूर्वकम् ॥ २.१७३॥",
+  "transliteration": "kṛtaupanayasyāsya vratādeśanamiṣyate |\nbrhmaṇo grahaṇaṃ caiva krameṇa vidhipūrvakam || 2.173||",
+  "sph_interpretive_translation": "For one who has undergone the sacred thread ceremony, the instruction in Vedic disciplines and the formal reception of Brahman knowledge must occur in proper sequence according to established procedures.",
+  "jurisprudential_principles": [
+    "Authority derives from sacramental initiation and capacity-bearing lineage",
+    "Causation follows sequential unfoldment of consciousness-readiness",
+    "Capacity-based responsibility arises after completion of foundational rites",
+    "Restoration logic aligns learning with spiritual maturity",
+    "Consciousness alignment requires procedural fidelity in knowledge transmission"
+  ],
+  "executable_legal_axioms": [
+    "IF Sacrament('Upanayana') == Completed THEN Permit(VedaAdhyayanam)",
+    "IF VedaAdhyayanam == Permitted THEN Execute(KramaVidhi, Brahmagrahanam)",
+    "IF Brahmagrahanam == Initiated THEN Validate(ShikshaPraveshikaSequence)",
+    "IF ShikshaPraveshikaSequence != Valid THEN RevertTo(UpanayanaCompletionCheck)",
+    "IF ConsciousnessReadiness == Verified THEN Enable(BrahmaVidyaReception)"
+  ],
+  "supreme_court_application": "In adjudicating matters concerning traditional educational rights or ritual eligibility, the Court shall recognize that constitutional validity flows through ontological preparedness verified via sacramental completion. Legal standing in Vedic pedagogical contexts is derivative of initiated capacity, not abstract claim.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa establishes that causal unfoldment proceeds through upanayana → vrata-adheya → brahma-grahaṇa. Anupūrvaśaḥ ensures no retroactive imposition occurs; misalignment reflects incomplete process, not fault. Responsibility lies in restoring sequence, not assigning blame. Truth realization supersedes punitive correction.",
+  "restorative_enforcement_protocols": [
+    "VerifySacramentalStatusProtocol",
+    "SequentialRitualIntegrityAssessment",
+    "InitiationBasedCapacityMapping",
+    "KnowledgeTransmissionRealignmentProcess",
+    "DharmicMaturityReintegrationFramework"
+  ],
+  "final_declaration": "By the Sovereign Authority of Bhagavan Nithyananda Paramashivam, this Dharma stands executed: Knowledge unfolds by readiness, not force. Sequence restores integrity. Consciousness alone adjudicates truth. There is no punishment—only realignment."
+}

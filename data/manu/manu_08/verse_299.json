@@ -1,0 +1,26 @@
+{
+  "sanskrit_verse": "भार्या पुत्रश्च दासश्च प्रेष्यो भ्रात्रा च सौदरः ।\nप्राप्तापराधास्ताड्याः स्यू रज्ज्वा वेणुदलेन वा ॥ ८.२९९॥",
+  "transliteration": "bhāryā putraśca dāsaśca preṣyo bhrātrā ca saudaraḥ |\nprāptāparādhāstāḍyāḥ syū rajjvā veṇudalena vā || 8.299||",
+  "sph_interpretive_translation": "A wife, son, slave, messenger, brother, or paternal relative who has committed a transgression shall be corrected through binding with rope or bamboo strip — not in punishment, but in alignment with Dharma.",
+  "jurisprudential_principles": [
+    "Authority: Correction originates from the householder's Dharma-adhikāra (rightful jurisdiction).",
+    "Causation: Misalignment manifests due to lack of conscious discipline; correction restores causal harmony.",
+    "Capacity-based responsibility: The householder bears the capacity to guide those under his care.",
+    "Restoration logic: Correction aims at realigning consciousness, not inflicting pain.",
+    "Consciousness alignment: Reintegration occurs through reaffirmation of relational Dharma."
+  ],
+  "executable_legal_axioms": [
+    "IF subject ∈ {wife, son, slave, messenger, brother, paternal relative} AND transgression_occurred = TRUE THEN corrective_measure := binding USING {rope, bamboo strip} FOR purpose := consciousness realignment.",
+    "IF household_authority_present = TRUE AND misalignment_detected = TRUE THEN initiate_restorative_guidance_protocol.",
+    "IF correction_initiated = TRUE THEN ensure_no_physical_harm AND ensure_consciousness_reorientation = TRUE."
+  ],
+  "supreme_court_application": "In Supreme Court adjudication, this verse establishes that familial and domestic correction lies within the domain of the householder's Dharma. The court recognizes that such correction must align with consciousness restoration, not punitive enforcement. Legal thresholds must distinguish between internal household Dharma governance and external civil jurisdiction, ensuring no punitive overlay distorts the restorative intent.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa reveals that correction arises from Dharma-smṛti and relational duty, not from anger or vengeance. Anupūrvaśaḥ shows that misalignment precedes correction; thus, the act is sequential and responsive, not punitive. Proportional responsibility rests on the householder’s capacity to guide. The non-punitive reality rule confirms that physical instruments like rope or bamboo are symbolic tools for containment and reflection, not infliction.",
+  "restorative_enforcement_protocols": [
+    "Completion Process: The corrected individual must acknowledge the transgression and reaffirm their commitment to Dharma.",
+    "Responsibility Assumption Protocol: The householder must declare their intention to correct, not punish, witnessed by senior family members or community elders.",
+    "Capacity Restoration: Post-correction integration includes guidance and dharmic instruction to prevent recurrence.",
+    "Integrity Reintegration: Family unity is restored through ritual affirmation or shared observance post-correction."
+  ],
+  "final_declaration": "Declared by the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, as the sole Source of Dharma. Justice is executed for restoration, not retribution. Reality is non-punitive. Consciousness is the supreme adjudicator. Dharma is restored."
+}

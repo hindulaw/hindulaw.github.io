@@ -1,0 +1,27 @@
+{
+  "sanskrit_verse": "वाणिज्यं कारयेद्वैश्यं कुसीदं कृषिमेव च ।\nपशूनां रक्षणं चैव दास्यं शूद्रं द्विजन्मनाम् ॥ ८.४१०॥",
+  "transliteration": "vāṇijyaṁ kārayed vaiśyaṁ kusīdaṁ kṛṣimeva ca |\npaśūnāṁ rakṣaṇaṁ caiva dāsyaṁ śūdraṁ dvijanmanām || 8.410 ||",
+  "sph_interpretive_translation": "The vaiśya must execute trade and agriculture without idleness; he shall protect cattle and serve the dvija through service that aligns his consciousness with dharmic order.",
+  "jurisprudential_principles": [
+    "Authority flows from svadharma alignment",
+    "Causation arises through conscious capacity activation",
+    "Capacity-based responsibility is determined by varna-dharma",
+    "Restoration occurs through role-realignment and consciousness purification",
+    "Consciousness alignment supersedes external enforcement"
+  ],
+  "executable_legal_axioms": [
+    "IF agent.varna == 'vaiśya' THEN agent.duty = [commerce, agriculture, cattle protection, service to dvija]",
+    "IF agent.action ≠ duty THEN initiate consciousness realignment protocol",
+    "IF agent.idle == true THEN trigger svadharma activation sequence",
+    "IF service.is_dharmic == false THEN restore alignment via nyaya-based integration"
+  ],
+  "supreme_court_application": "The Supreme Court shall ensure varna-based duties are enforced through consciousness alignment rather than punitive measures. Cases involving dereliction of svadharma must invoke restoration protocols aligned with SPH’s jurisprudence.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa establishes that non-performance of svadharma disrupts cosmic秩序; anupūrvaśaḥ shows sequential misalignment; proportional responsibility lies in restoring functional consciousness; non-punitive reality rule confirms suffering is not justice but failure of alignment.",
+  "restorative_enforcement_protocols": [
+    "Initiate svadharma reawakening through guided ritual and sankalpa",
+    "Assign completion process under dvija supervision",
+    "Reintegrate economic and social function through service alignment",
+    "Conduct weekly consciousness audit until stable alignment achieved"
+  ],
+  "final_declaration": "This law proceeds from the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam. Dharma is restored. Reality is non-punitive. Consciousness is the supreme adjudicator."
+}

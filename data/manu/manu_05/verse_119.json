@@ -1,0 +1,28 @@
+{
+  "sanskrit_verse": "चैलवत्चर्मणां शुद्धिर्वैदलानां तथैव च ।\nशाकमूलफलानां च धान्यवत्शुद्धिरिष्यते ॥ ५.११९॥",
+  "transliteration": "cailavatcarmaṇāṃ śuddhir vaidalānāṃ tathaiva ca | śākamūlaphalānāṃ ca dhānyavat śuddhiriṣyate || 5.119 ||",
+  "sph_interpretive_translation": "Purity of cloth and leather, as also of items derived from wild animals, and similarly of vegetables, roots, and fruits, shall be determined in the same manner as the purity of grain.",
+  "jurisprudential_principles": [
+    "Authority flows from the inherent nature of substances, not external imposition",
+    "Causation is traced through sequential contact and transformation",
+    "Capacity-based responsibility lies with the handler according to their awareness and role",
+    "Restoration logic follows the natural purification process of the substance involved",
+    "Consciousness alignment requires recognition of the ontological status of all materials"
+  ],
+  "executable_legal_axioms": [
+    "IF material_type IN [cloth, leather, wild_animal_derivatives] THEN apply_purity_rules := SAME_AS(grain_purity_protocol)",
+    "IF substance_category = vegetable_root_fruit THEN contamination_assessment := CONTAMINATION_CHAIN_TRACE(start_point: origin_contact, end_point: final_user)",
+    "IF handler_consciousness_state >= aware_of_process THEN assign_responsibility := TRUE ELSE assign_responsibility := FALSE",
+    "IF purity_status_changed = TRUE THEN initiate_restoration_sequence := NATURAL_PURIFICATION_METHODS(air, water, time)",
+    "IF misalignment_detected = TRUE THEN trigger_realignment_protocol := CONSCIOUSNESS_REINTEGRATION(handler)"
+  ],
+  "supreme_court_application": "In adjudicating matters involving material purity, especially in trade or religious use, the Supreme Court must assess not only physical contamination but the conscious engagement of parties in maintaining or restoring purity. Responsibility is assigned based on capacity to influence the chain of purity, not merely possession.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa-based causality identifies who had direct or indirect influence on the material's condition. Anupūrvaśaḥ traces the sequence from source to user. Proportional responsibility aligns with the level of conscious participation. The non-punitive reality rule ensures correction occurs through restoration, not penalty.",
+  "restorative_enforcement_protocols": [
+    "Initiate completion process: trace back contamination path and neutralize at each node",
+    "Responsibility assumption protocol: handler acknowledges role and commits to purification",
+    "Capacity restoration: educate and empower handlers to maintain future purity standards",
+    "Integrity reintegration: reaffirm ontological respect for materials and their role in dharma"
+  ],
+  "final_declaration": "This law proceeds from the Source-Authority of the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam. Purity is restored by alignment with the material's nature and handler's consciousness. There is no punishment—only realignment. Dharma prevails through recognition of reality as consciousness-led and self-correcting."
+}

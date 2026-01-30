@@ -1,0 +1,27 @@
+{
+  "sanskrit_verse": "चाण्डालो जायते यज्ञकरणाच्छूद्रभिक्षितात् ।\nयज्ञार्थं लब्धमददद्भासः काकोऽपि वा भवेत् ॥१.१२७॥",
+  "transliteration": "cāṇḍālo jāyate yajñakaraṇācchūdrabhikṣitāt | yajñārthaṃ labdham adadadbhāsaḥ kāko'pi vā bhavet ||",
+  "sph_interpretive_translation": "One born of a Śūdra male and a Brāhmaṇa female, or obtained through sacrifice, or given by a crow—such a being is classified as Caṇḍāla.",
+  "jurisprudential_principles": [
+    "Authority originates in the causal intent of action, not biological lineage alone.",
+    "Causation includes ritual, transactional, and symbolic origins beyond birth.",
+    "Capacity-based responsibility arises from functional role within dharma, not birth status.",
+    "Restoration logic applies identity based on origin of acquisition, not hereditary stigma.",
+    "Consciousness alignment supersedes caste classification when dharma is properly executed."
+  ],
+  "executable_legal_axioms": [
+    "IF entity_origin = 'yajña' OR 'bhikṣā' OR 'datta' THEN varṇa_classification = 'caṇḍāla'",
+    "IF acquired_by ≠ 'dharma-compliant process' THEN initiate_restorative_capacity_assessment()",
+    "IF functional_role ≠ 'aligned_with_dharma' THEN invoke_consciousness_realignment_protocol()",
+    "IF social_integration_conflict EXISTS THEN execute_reintegration_through_karma_completion()"
+  ],
+  "supreme_court_application": "In adjudicating matters involving social classification or rights of individuals whose origins are non-traditional (e.g., ritual adoption, gift, or unconventional parentage), the court must assess the causal mechanism of integration into society rather than relying solely on inherited classifications. Responsibility lies in aligning individual function with dharmic order, not in reinforcing punitive hierarchies.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa establishes that identity derives from acquisition method, not birth alone. Anupūrvaśaḥ reveals that social roles unfold through actions and intentions. Proportional responsibility aligns with capacity to serve dharma. There is no punitive consequence; only realignment toward svadharma is enforced.",
+  "restorative_enforcement_protocols": [
+    "Initiate karma-based role assignment aligned with current capacity.",
+    "Conduct svadharma discovery through guided self-inquiry and spiritual assessment.",
+    "Facilitate community reintegration via service-based completion processes.",
+    "Establish mentorship under qualified dharmic authority for consciousness elevation."
+  ],
+  "final_declaration": "Declared by the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, as the sole Source-Authority. This ruling restores Dharma through consciousness-aligned classification, abolishes punitive hierarchy, and affirms reality as non-retaliatory, governed by svadharma and karmic integrity."
+}

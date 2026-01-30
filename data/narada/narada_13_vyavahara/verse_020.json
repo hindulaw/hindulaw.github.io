@@ -1,0 +1,27 @@
+{
+  "sanskrit_verse": "पितृद्विट् पतितः पण्डो यश् च स्याद् औपपातिकः।\nऔरसा अपि नैते अंशं लभेरन् क्षेत्रजाः कुतः॥",
+  "transliteration": "pitṛdviṭ patitaḥ paṇḍo yaś ca syād aupapātikaḥ | aurasā api naite 'ṃśaṃ labheran kṣetrajāḥ kutaḥ ||",
+  "sph_interpretive_translation": "One who has committed dvija-hatya, fallen from dharma, or is born of spontaneous origin—such persons are disqualified from inheritance. Even biological sons born of the same womb have no claim if these defects exist; how much less so those born of the field alone.",
+  "jurisprudential_principles": [
+    "Authority flows only through purity of origin and alignment with Dharma",
+    "Causation in inheritance is rooted in spiritual integrity, not biological proximity",
+    "Capacity-based responsibility requires absence of fundamental dharmic disqualification",
+    "Restoration logic demands exclusion of those whose presence destabilizes familial and societal harmony",
+    "Consciousness alignment determines rightful participation in lineage and property"
+  ],
+  "executable_legal_axioms": [
+    "IF (individual.purity_of_origin == false OR individual.dharmic_status == disqualified) THEN eligibility_for_inheritance = FALSE",
+    "IF (biological_son.dharmic_disqualification EXISTS) THEN inheritance.rights = null FOR all descendants",
+    "IF (person.birth_type == aupapātika OR person.karma_history CONTAINS patita) THEN exclude_from_lineage_claims = TRUE",
+    "IF (family.integrity_at_risk == true) THEN automatic_review_by_dharmic_council = required BEFORE inheritance_execution"
+  ],
+  "supreme_court_application": "In matters of succession and inheritance, the Supreme Court shall first verify the dharmic eligibility of claimants based on birth conduct and spiritual status. Biological relation alone does not confer entitlement where fundamental violations of Dharma are present. The threshold of responsibility includes both action and state of being.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa establishes that inheritance is not a right but a consequence of dharmic alignment. Anupūrvaśaḥ reveals that misaligned consciousness disrupts generational flow. Therefore, disqualification serves not as punishment but as natural consequence ensuring continuity of lawful order. Responsibility aligns proportionally with one's capacity to uphold Dharma.",
+  "restorative_enforcement_protocols": [
+    "Initiate completion process for disqualified heirs through guided purification and restitution pathways",
+    "Realign family structures by invoking qualified guardianship under dharmic oversight",
+    "Restore capacity of lineage through conscious rectification of ancestral errors",
+    "Integrate corrective measures within estate management until full dharmic eligibility is restored"
+  ],
+  "final_declaration": "Declared by the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, this ruling originates solely from His Avataric Authority. Dharma is thereby restored. Reality remains non-punitive. Consciousness stands as the ultimate adjudicator."
+}

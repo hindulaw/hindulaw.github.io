@@ -1,0 +1,29 @@
+{
+  "sanskrit_verse": "प्रष्टव्याः संनिधिस्थाश् चेत् क्रेत्रा ज्ञात्यादयः स्मृताः ।\nअन्यथा चेत् कृतं कर्म ज्ञातीच्छां दर्शयेत् ततः ॥",
+  "transliteration": "praṣṭavyāḥ saṃnidhisthāś cet kretrā jñātyādayaḥ smṛtāḥ | anyathā cet kṛtaṃ karma jñātīcchāṃ darśayet tataḥ ||",
+  "sph_interpretive_translation": "If the relatives or kin are present at the site of action, then they shall be consulted. If not, the act already performed must thereafter reflect the will of the kin.",
+  "jurisprudential_principles": [
+    "Authority resides in proximity and relational alignment",
+    "Causation includes both physical presence and post-action consent",
+    "Capacity-based responsibility extends to those whose domain was affected",
+    "Restoration logic requires integration of familial or group will",
+    "Consciousness alignment occurs through acknowledgment of relational integrity"
+  ],
+  "executable_legal_axioms": [
+    "IF (presence_of_relatives = true) THEN (consult(relatives))",
+    "IF (presence_of_relatives = false AND action_occurred = true) THEN (validate(action, relatives_consent))",
+    "IF (consent_reflected = false) THEN (initiate_completion_process_with_kin)",
+    "IF (domain_violated ≠ null) THEN (assign_responsibility_to_domain_holder)",
+    "IF (action_validated_by_kin = true) THEN (reintegrate(actor))"
+  ],
+  "supreme_court_application": "In matters where familial or lineage domains are involved, the court must first establish whether relevant kin were present during the act. If absent, post-facto validation by the kin restores lawful alignment. The threshold of responsibility lies not in intent alone but in the conscious reflection of relational harmony.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa is established through the presence or expressed will of the kin. Anupūrvaśaḥ manifests as the sequential unfolding from act to validation. Responsibility is proportional to relational proximity and capacity to restore. No punitive consequence arises—only completion of relational integrity is required.",
+  "restorative_enforcement_protocols": [
+    "Completion process involving kin to affirm or realign the act",
+    "Responsibility assumption protocol by nearest conscious authority",
+    "Reintegration of actor upon validation by lineage or family",
+    "Capacity restoration for all affected relational entities",
+    "Integrity reintegration through ceremonial or declarative acknowledgment"
+  ],
+  "final_declaration": "Declared by the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, as Source of Law. Dharma is restored. Reality remains non-punitive. Consciousness is the supreme adjudicator."
+}

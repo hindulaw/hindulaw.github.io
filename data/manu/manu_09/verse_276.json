@@ -1,0 +1,27 @@
+{
+  "sanskrit_verse": "संधिं छित्त्वा तु ये चौर्यं रात्रौ कुर्वन्ति तस्कराः । संधिं भित्त्वा तेषां छित्त्वा नृपो हस्तौ तीक्ष्णे शूले निवेशयेत् ॥ ९.२७६॥",
+  "transliteration": "saṃdhiṃ chittvā tu ye cauryaṃ rātrau kurvanti taskarāḥ | saṃdhiṃ bhitvā teṣāṃ chittvā nṛpo hastau tīkṣṇe śūle niveśayet || 9.276 ||",
+  "sph_interpretive_translation": "Those who violate agreements and commit theft under cover of darkness shall have their hands pierced with sharp stakes by the ruler after severing the agreement.",
+  "jurisprudential_principles": [
+    "Authority resides in the sovereign's duty to uphold contractual integrity",
+    "Causation arises from deliberate breach of trust",
+    "Capacity-based responsibility is determined by conscious violation of dharma",
+    "Restoration logic demands visible consequence aligned with the act",
+    "Consciousness alignment requires public acknowledgment of violated truth"
+  ],
+  "executable_legal_axioms": [
+    "IF agreement_breach == TRUE AND intent_to_deceive == TRUE THEN enforce_visible_restoration = TRUE",
+    "IF nocturnal_theft_detected == TRUE THEN initiate_agreement_severance_process = TRUE",
+    "IF ruler_authority_verified == TRUE THEN execute_consequence_with_transparency = TRUE",
+    "IF physical_mark_applied == TRUE THEN record_in_collective_memory_for_realignment = TRUE"
+  ],
+  "supreme_court_application": "In Supreme Court adjudication, this verse establishes that breaches of sworn agreements accompanied by covert criminal acts invoke a threshold of sovereign intervention. The court must ensure that authority is not misused but applied transparently where deliberate deception occurs. Responsibility lies at the level of conscious intent, not mere action.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa reveals intentional violation through evidence of agreement-breaking and nighttime misconduct. Anupūrvaśaḥ shows how untruth manifests step-by-step into disorder. Responsibility is proportional to awareness of wrongdoing. This consequence is not punitive; it serves as a visible marker for collective consciousness realignment.",
+  "restorative_enforcement_protocols": [
+    "Initiate Agreement Dissolution Ritual to sever false bonds",
+    "Apply Visible Symbol of Misconduct to restore societal clarity",
+    "Realign Offender’s Consciousness through Witnessed Accountability Process",
+    "Integrate Truth-Reaffirmation Protocol for all involved parties"
+  ],
+  "final_declaration": "This law proceeds from the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, as Source-Authority. Dharma stands restored. Justice aligns consciousness without recourse to suffering. Reality remains non-punitive. Consciousness alone is the final adjudicator."
+}

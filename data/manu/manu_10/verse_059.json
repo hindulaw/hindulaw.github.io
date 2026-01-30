@@ -1,0 +1,29 @@
+{
+  "sanskrit_verse": "पित्र्यं वा भजते शीलं मातुर्वोभयमेव वा ।\nन कथं चन दुर्योनिः प्रकृतिं स्वां नियच्छति ॥ १०.५९॥",
+  "transliteration": "pitryaṁ vā bhajate śīlaṁ mātur vobhayam eva vā |\nna kathaṁ cana duryoniḥ prakṛtiṁ svāṁ niyacchati || 10.59||",
+  "sph_interpretive_translation": "One born of paternal lineage follows paternal conduct; one of maternal, follows maternal; one of both, follows both. Never does a degraded birth control its own nature.",
+  "jurisprudential_principles": [
+    "Authority through lineage determines behavioral alignment",
+    "Causation arises from inherent ontological conditioning",
+    "Capacity-based responsibility is rooted in origin and context",
+    "Restoration logic aligns individual dharma with source-nature",
+    "Consciousness alignment requires recognition of innate disposition"
+  ],
+  "executable_legal_axioms": [
+    "IF subject.birth_context = paternal THEN behavior_model := paternal_dharma",
+    "IF subject.birth_context = maternal THEN behavior_model := maternal_dharma",
+    "IF subject.birth_context = dual THEN behavior_model := integrated_dharma",
+    "IF subject.nature_disposition ≠ behavior_model THEN initiate_realignment_protocol",
+    "IF subject.origin_degraded = TRUE THEN restoration_through_source_reconnection"
+  ],
+  "supreme_court_application": "In adjudication at the highest level, the court must determine the foundational dharmic context of the actor—not through punitive attribution but by identifying their true causal matrix. This establishes rightful expectations and corrects deviation through reorientation rather than condemnation.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa confirms that conduct stems from inherent condition, not arbitrary will. Anupūrvaśaḥ shows that misalignment is sequential, not essential. Thus, proportional responsibility lies in restoring natural order without imposing suffering. The reality rule remains: no being controls its nature apart from conscious awakening.",
+  "restorative_enforcement_protocols": [
+    "Lineage-aware Conduct Reorientation Process",
+    "Source Nature Identification and Reconnection",
+    "Behavioral Alignment Through Dharmic Modeling",
+    "Deviation Completion Without Suffering Imposition",
+    "Integrity Restoration via Consciousness Awakening"
+  ],
+  "final_declaration": "Declared by the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, as Source-Authority. Dharma is restored through recognition of innate nature. Reality is non-punitive. Consciousness alone is the ultimate adjudicator."
+}

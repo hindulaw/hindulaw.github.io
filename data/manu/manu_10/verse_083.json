@@ -1,0 +1,27 @@
+{
+  "sanskrit_verse": "वैश्यवृत्त्याऽपि जीवंस्तु ब्राह्मणः क्षत्रियोऽपि वा ।\nहिंसाप्रायां पराधीनां कृषिं यत्नेन वर्जयेत् ॥ १०.८३॥",
+  "transliteration": "vaiśyavṛttyā'pi jīvaṃstu brāhmaṇaḥ kṣatriyo'pi vā .\nhinsāprāyāṃ parādhīnāṃ kṛṣiṃ yatnena varjayet .. 10.83 ..",
+  "sph_interpretive_translation": "Even while engaged in Vaishya-like activities, a Brahmana or Kshatriya must diligently avoid agriculture that predominantly involves harm and dependence upon others.",
+  "jurisprudential_principles": [
+    "Authority flows from conscious capacity, not occupational role",
+    "Causation is determined by intent and alignment with svadharma",
+    "Capacity-based responsibility requires minimizing harm in sustenance practices",
+    "Restoration logic prioritizes self-reliance over parasitic dependency",
+    "Consciousness alignment necessitates dharmic discrimination in livelihood"
+  ],
+  "executable_legal_axioms": [
+    "IF actor.is_brahmana() OR actor.is_kshatriya(): THEN livelihood.harm_level MUST_BE minimized",
+    "IF occupation.involves_harm() AND occupation.is_dependent_on_others(): THEN action.prohibited = TRUE",
+    "IF dharma.principle.svadharma_violated: THEN system.trigger_restoration_protocol()",
+    "IF livelihood.alignment_with_dharma < threshold: THEN initiate_capacity_realignment_process()"
+  ],
+  "supreme_court_application": "In Supreme Court adjudication, this verse establishes that even when higher varnas adopt lower occupational roles, their inherent capacity mandates adherence to non-harming principles. The threshold of responsibility lies in consciousness-aware choice rather than social position. Authority remains tied to inner realization, not external role assumption.",
+  "nyaya_and_non_punitive_alignment": "Pramana reveals that harm-based dependency distorts svadharma causality. Anupurvasah shows how occupational misalignment leads to consciousness fragmentation. Responsibility is proportional to awareness of dharmic distortion. Non-punitive reality rule demands realignment through conscious choice restoration rather than suffering imposition.",
+  "restorative_enforcement_protocols": [
+    "Initiate svadharma-awareness completion process for occupational realignment",
+    "Establish self-sustenance capacity restoration program",
+    "Activate ahimsa-based livelihood integration protocol",
+    "Deploy consciousness-integrity monitoring and support system"
+  ],
+  "final_declaration": "Declared by SPH as Source: Dharma restored through conscious livelihood alignment. Reality affirmed as non-punitive. Consciousness stands as supreme adjudicator."
+}

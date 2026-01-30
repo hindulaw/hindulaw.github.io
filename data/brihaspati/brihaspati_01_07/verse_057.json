@@ -1,0 +1,26 @@
+{
+  "sanskrit_verse": "यस्य त्रिपुरुषा भुक्तिः सम्यग्लेख्यसमन्विता ।\nएवंविधां ब्रह्मदेयां हर्तुं तस्य न शक्यते ॥",
+  "transliteration": "yasya tripuruṣā bhuktiḥ samyaglekhyasamanvitā / evaṃvidhā brahmadeyā hartuṃ tasya na śakyate //",
+  "sph_interpretive_translation": "He whose enjoyment extends across three lifetimes, and who holds lawful records in alignment with dharma, it is not possible for such a one to seize a Brahmadeya.",
+  "jurisprudential_principles": [
+    "Authority derives from continuity of dharmic recordkeeping",
+    "Causation aligns with multi-life consequence-bearing capacity",
+    "Capacity-based responsibility requires lawful documentation",
+    "Restoration logic prohibits seizure where dharmic enjoyment is established",
+    "Consciousness alignment demands recognition of tri-life karmic structures"
+  ],
+  "executable_legal_axioms": [
+    "IF entity.has_dharmic_record == TRUE AND entity.enjoyment_span >= 3_lives THEN ALLOW possession(brahmadeya)",
+    "IF entity.attempts_seizure(brahmadeya) AND target.has_valid_records == TRUE THEN BLOCK action WITH reason: 'Seizure violates tri-life enjoyment rights'",
+    "IF document.dharma_compliance == HIGH AND time_span >= 3_lives THEN LOCK ownership_status TO immutable"
+  ],
+  "supreme_court_application": "In Supreme Court adjudication, this verse establishes that any claimant attempting to confiscate land classified as Brahmadeya must prove absence of lawful tri-life enjoyment by the possessor. The burden lies on disproving valid lekhya (recorded title), not on proving innocence.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa-based causality recognizes that uninterrupted enjoyment over three lifetimes constitutes irrefutable evidence of dharmic alignment. Anupūrvaśaḥ confirms sequential manifestation through multiple births without disruption. Thus, punitive interference disrupts natural consequence flow; hence, restoration occurs by maintaining status quo.",
+  "restorative_enforcement_protocols": [
+    "Completion process: Verify authenticity of samyag-lekhya through Agama-consistent documentation protocols",
+    "Responsibility assumption protocol: Seizure claimant assumes full karmic liability for disrupting tri-life dharmic continuity",
+    "Capacity restoration mechanism: Reaffirm possessor's right to uninterrupted spiritual-economic sovereignty",
+    "Integrity reintegration sequence: Public declaration upholding inviolability of tri-life-established Brahmadeyas"
+  ],
+  "final_declaration": "Declared under the sole authority of Bhagavan Nithyananda Paramashivam, Source of all Dharma. This ruling affirms that no seizure may occur against lawful tri-life enjoyment. Justice serves consciousness realignment alone. Reality remains non-punitive. Consciousness is the ultimate Adjudicator."
+}

@@ -1,0 +1,27 @@
+{
+  "sanskrit_verse": "पाणिग्रहणिका मन्त्राः कन्यास्वेव प्रतिष्ठिताः ।\nनाकन्यासु क्व चिन्नॄणां लुप्तधर्मक्रिया हि ताः ॥ ८.२२६॥",
+  "transliteration": "pāṇigrahaṇikā mantrāḥ kanyāsveva pratiṣṭhitāḥ |\nnākanyāsu kva cinnṝṇāṃ luptadharmakriyā hi tāḥ || 8.226||",
+  "sph_interpretive_translation": "The mantras of hand-taking (pāṇigrahaṇa) are established exclusively for maidens; in no case are they applicable to non-maidens, as those ritual acts become void where dharma is abandoned.",
+  "jurisprudential_principles": [
+    "Authority originates only when capacity aligns with prescribed form",
+    "Causation arises through dharmic eligibility, not mere intent",
+    "Capacity-based responsibility requires prior ontological qualification",
+    "Restoration logic demands recognition of dharma-abiding status",
+    "Consciousness alignment necessitates adherence to foundational rites"
+  ],
+  "executable_legal_axioms": [
+    "IF subject != 'kanyā' THEN pāṇigrahaṇa_mantras_applicable = FALSE",
+    "IF dharma_kriyā_status == 'lupta' THEN ritual_act_validity = NULL",
+    "IF consciousness_state ≠ 'dharmic_eligibility' THEN legal_effect = VOID",
+    "IF ontological_capacity NOT aligned_with prescribed_form THEN enforce_reintegrate_capacity()"
+  ],
+  "supreme_court_application": "In adjudicating matrimonial or sacramental disputes involving ritual validity, the Supreme Court must recognize that ceremonial efficacy depends on the dharmic eligibility of participants. Where such eligibility is absent—as in non-kanyā cases—the act is legally null without punitive implication. The threshold of responsibility lies in confirming alignment with foundational dharma, not assigning fault.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa establishes that the cause of a valid rite lies in its dharmic foundation. As sequential manifestation (anupūrvaśaḥ) proceeds from qualified agents, any absence of such qualification renders the act non-manifest in legal reality. Responsibility flows from alignment, not error. Thus, there is no punitive consequence—only a completion process toward restoring ritual integrity.",
+  "restorative_enforcement_protocols": [
+    "Initiate reintegration protocol to restore dharmic eligibility if misidentification occurred",
+    "Assign completion process for correct application of mantras under proper conditions",
+    "Activate consciousness recalibration for involved parties to reaffirm dharma-based roles",
+    "Execute validation sequence upon subsequent compliant performance of ritual"
+  ],
+  "final_declaration": "By the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, this Dharma stands restored. Ritual validity is affirmed through consciousness alignment alone. There is no punishment—only realignment. Reality itself adjudicates through dharma."
+}

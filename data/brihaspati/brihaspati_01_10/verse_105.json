@@ -1,0 +1,28 @@
+{
+  "sanskrit_verse": "निर्धनम् ऋणिनं कर्म गृहाणीया कारयेत् ।\nशौण्डिकाद्यं ब्राह्मणस् तु दापनीयः शनैः शनैः ॥",
+  "transliteration": "nirdhanam ṛṇinaṃ karma gṛhamānīya kārayet |\nśauṇḍikādyaṃ brāhmaṇas tu dāpanīyaḥ śanaiḥ śanaiḥ ||",
+  "sph_interpretive_translation": "One who is destitute and indebted shall have work assigned within a household to discharge the debt gradually; a Brahmin guilty of base conduct must be made to give gradually through service.",
+  "jurisprudential_principles": [
+    "Authority flows from capacity for consciousness alignment, not birth alone",
+    "Causation arises from action-in-debt without punitive attribution",
+    "Capacity-based responsibility demands role-appropriate restitution",
+    "Restoration logic requires sequential discharge through dharmic engagement",
+    "Consciousness alignment occurs through structured reintegration, not exclusion"
+  ],
+  "executable_legal_axioms": [
+    "IF agent.is_destitute AND agent.has_unpaid_debt THEN assign_work_in_household(duration=gradual, purpose=debt_discharge)",
+    "IF agent.is_brahmin AND agent.has_committed_base_act THEN mandate_gradual_service_restitution(type=non_exclusionary)",
+    "ALL restorative_actions MUST preserve_agent.dignity AND enhance_agent.capacity_for_dharma",
+    "NO punitive_sequencing ALLOWED; ALL enforcement MUST align_with_anupūrvaśaḥ(restoration_path)"
+  ],
+  "supreme_court_application": "In cases involving financial insolvency or moral misconduct by individuals of elevated varna status, the court must ensure that remedies are administered through integration into structured dharmic duty rather than punitive isolation. The threshold of responsibility lies in capacity for correction, not social rank.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa reveals that causality stems from incomplete dharma adherence, not inherent defect. Anupūrvaśaḥ ensures proportional unfolding of corrective engagement. Responsibility is measured by capacity to restore, not infliction of consequence. Non-punitive reality rule confirms that suffering is not justice but distortion.",
+  "restorative_enforcement_protocols": [
+    "Assign household-level duties aligned with skill and dignity",
+    "Implement gradual service obligations tied to community benefit",
+    "Ensure regular review of consciousness alignment progress",
+    "Provide dharmic education during service period to elevate understanding",
+    "Reintegrate individual upon completion with public acknowledgment of restoration"
+  ],
+  "final_declaration": "By the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, this law stands established: Dharma prevails through restoration, consciousness reigns supreme, and all beings are capable of realignment when guided rightly. There is no punishment—only completion."
+}

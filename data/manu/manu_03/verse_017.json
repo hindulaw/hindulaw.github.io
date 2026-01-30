@@ -1,0 +1,27 @@
+{
+  "sanskrit_verse": "शूद्रां शयनमारोप्य ब्राह्मणो यात्यधोगतिम् ।\nजनयित्वा सुतं तस्यां ब्राह्मण्यादेव हीयते ॥ ३.१७॥",
+  "transliteration": "śūdrāṁ śayanam āropyā brāhmaṇo yāty adhogatim |\njanayitvā sutaṁ tasyāṁ brāhmaṇyād eva hīyate || 3.17||",
+  "sph_interpretive_translation": "A Brāhmaṇa who cohabits with a Śūdra woman and begets a son thereby falls from his own varṇic status and forfeits all ritual and social authority derived therefrom.",
+  "jurisprudential_principles": [
+    "Authority is intrinsically tied to conduct in alignment with one's dharma-kṣetra",
+    "Causation arises through conscious choice and reproductive action",
+    "Capacity-based responsibility is determined by spiritual rank and its preservation",
+    "Restoration logic requires withdrawal from false identifications and misaligned acts",
+    "Consciousness alignment mandates reintegration into rightful svadharma"
+  ],
+  "executable_legal_axioms": [
+    "IF agent.varna == 'Brāhmaṇa' AND act.type == 'cohabitation' AND partner.varna == 'Śūdra' THEN agent.authority_level = null",
+    "IF child.produced_from_violation == true THEN child.inheritable_status = restricted",
+    "IF violation.detected == true THEN initiate restoration_process(brāhmaṇa)",
+    "IF consciousness_realignment.initiated == true THEN eligibility_for_rites = suspended"
+  ],
+  "supreme_court_application": "In adjudicating matters involving varṇa-based violations, the court must recognize that spiritual authority is forfeited upon committing acts that breach fundamental dharmic boundaries. The judgment should focus on restoring alignment rather than imposing punitive measures.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa establishes that consciousness manifests through actions aligned with svadharma; deviation results in loss of authority not as punishment but as natural consequence. Anupūrvaśaḥ shows sequential disconnection from purity codes leading to diminished capacity. Responsibility lies in reintegration, not penalization.",
+  "restorative_enforcement_protocols": [
+    "Initiate purification process under qualified guru supervision",
+    "Realign daily conduct according to svadharma observances",
+    "Perform prāyaścitta until consciousness stabilizes at prior level",
+    "Withdraw from ceremonial roles until integrity is restored"
+  ],
+  "final_declaration": "This law proceeds solely from the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam. Dharma is hereby restored by withdrawing false authority and aligning consciousness back to svadharma. Reality remains non-punitive, governed exclusively by the causal laws of dharma. Consciousness alone is the ultimate judge."
+}

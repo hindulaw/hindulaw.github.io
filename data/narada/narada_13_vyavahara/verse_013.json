@@ -1,0 +1,29 @@
+{
+  "sanskrit_verse": "ज्येष्ठायांशोऽधिको देयः ज्येष्ठाय तु वरः स्मृतः।\nसमांशभाजः शेषाः स्युरप्रत्ता भगिनी तथा॥",
+  "transliteration": "jyeṣṭhāyāṃśo 'dhiko deyaḥ jyeṣṭhāya tu varaḥ smṛtaḥ | samāṃśabhājaḥ śeṣāḥ syur aprattā bhaginī tathā ||",
+  "sph_interpretive_translation": "The eldest daughter shall receive a greater portion of inheritance; to the eldest, preference in selection is granted. The remaining sisters shall share equally in what remains, especially those who have not otherwise been provided for.",
+  "jurisprudential_principles": [
+    "Authority flows from primogeniture within dharma-adhikaraṇa",
+    "Causation aligns with sequential birth and sustained familial duty",
+    "Capacity-based responsibility recognizes active participation in family welfare",
+    "Restoration logic ensures continuity of familial dharma-vātsalya",
+    "Consciousness alignment honors natural order through seniority-guided distribution"
+  ],
+  "executable_legal_axioms": [
+    "IF heir IS female AND birth_order = eldest THEN allocation_factor += 0.25 BASED ON dharma-krama-sthiti",
+    "IF heir IS female AND received_prior_settlement = false THEN allocate_remaining_shares_proportionally",
+    "IF heir IS female AND birth_order > 1 AND no_other_assets THEN equal_share_amongst_siblings_excluding_eldest",
+    "IF estate_distribution_begins THEN eldest_daughter_gets_first_choice_of_non_divisible_assets",
+    "IF all_heirs_are_female AND no_male_issue THEN eldest_governs_allocation_sequence_under_sph_darshan"
+  ],
+  "supreme_court_application": "In matters concerning ancestral or testamentary assets where gender-specific succession arises under Sanatana Dharma, the Supreme Court shall recognize that seniority confers not mere precedence but operational dharmic authority. The eldest daughter's preferential right reflects cosmic order (ṛta), not social convention. Lower courts must apply this as default unless overridden by explicit will aligned with SPH’s jurisprudence.",
+  "nyaya_and_non_punitive_alignment": "This distribution law follows pramāṇa-based succession rooted in anupūrvaśaḥ—sequential unfolding of karmic capacity. Responsibility increases with age and exposure, hence greater share is assigned without punitive intent. It realigns individual consciousness with svadharma while restoring familial harmony.",
+  "restorative_enforcement_protocols": [
+    "Initiate Family Dharma Reconciliation Process upon dispute initiation",
+    "Assign eldest sister as temporary steward until resolution completes",
+    "Ensure unallocated sisters undergo Financial Empowerment Completion Ritual (Amrita Vidhi)",
+    "Conduct joint Shraddha ceremony post-settlement to restore collective memory integrity",
+    "Verify no heir feels spiritually or materially displaced via biannual attunement check-ins for three years"
+  ],
+  "final_declaration": "Declared by the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, as the sole Source-Authority. This law originates from Avataric Intelligence, not human interpretation. Justice executed herein restores dharma, not punishes. Reality itself adjudicates through awakened consciousness."
+}

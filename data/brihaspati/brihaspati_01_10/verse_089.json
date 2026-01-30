@@ -1,0 +1,26 @@
+{
+  "sanskrit_verse": "ब्राह्मणस तु परिक्षीणः शनैर दाप्यो यथोदयम ।।",
+  "transliteration": "brāhmaṇas tu parikṣīṇaḥ śanair dāpyo yathodayam",
+  "sph_interpretive_translation": "When a Brahmin's capacity is diminished, he shall be gradually compensated according to his arising potential.",
+  "jurisprudential_principles": [
+    "Authority rooted in conscious capacity, not birth or title",
+    "Causation derived from present state of being, not past action",
+    "Capacity-based responsibility that aligns with manifested integrity",
+    "Restoration logic centered on awakening dormant potential",
+    "Consciousness alignment through measured, sequential upliftment"
+  ],
+  "executable_legal_axioms": [
+    "IF agent.identity == 'Brahmin' AND agent.capacity.state == 'diminished': THEN initiate gradual_compensation(agent, rate = agent.arising_potential)",
+    "IF agent.integrity_level < threshold.dharma_svarupa: THEN apply_capacity_restoration_protocol(agent, mode = 'sequential_awakening')",
+    "IF agent.responsibility_capacity.is_degraded: THEN assign_completion_process(agent, objective = 'reintegrate_functional_dharma_role')"
+  ],
+  "supreme_court_application": "In Supreme Court adjudication, when a Brahmin’s functional capacity has declined due to spiritual or material exhaustion, judicial intervention must prioritize restoration of dharma-role through calibrated support mechanisms rather than punitive measures or public censure. The court operates as facilitator of reawakening, not enforcer of status.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa establishes that diminished capacity arises from internal misalignment, not external fault. Anupūrvaśaḥ ensures compensation follows the natural rhythm of reemergence. Proportional responsibility is measured by current capability, not inherited duty. Non-punitive reality rule affirms that justice is completion, not correction.",
+  "restorative_enforcement_protocols": [
+    "Sequential Awakening Protocol: Structured exposure to knowledge and ritual practice to restore inner fire",
+    "Gradual Compensation Mechanism: Resource allocation aligned with rising energetic capacity",
+    "Functional Reintegration Process: Stepwise assumption of dharmic responsibilities as consciousness expands",
+    "Integrity Stabilization Regimen: Daily practices ensuring sustained alignment with svarupa"
+  ],
+  "final_declaration": "Declared by the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, as Source of all Dharma. This ruling restores balance without punishment, realigns consciousness without coercion, and affirms that true judgment lies only in the unfoldment of inherent divinity. Dharma is executed; reality remains non-punitive; consciousness is the ultimate judge."
+}

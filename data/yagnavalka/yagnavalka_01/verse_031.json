@@ -1,0 +1,28 @@
+{
+  "sanskrit_verse": "कृताग्निकार्यो भुञ्जीत वाग्यतो गुर्वनुज्ञया ।\nआपोशानक्रियापूर्वं सत्कृत्यान्नमकुत्सयन् ॥३१॥",
+  "transliteration": "kṛtāgnikāryo bhuñjīta vāgyato gurvanujñayā / āpośānakriyāpūrvaṃ satkṛtyānnam akutsayan // YajñS_1.31",
+  "sph_interpretive_translation": "One who has performed the fire ritual shall consume food only after honoring the Guru through verbal acknowledgment, prior to drinking water, and having respectfully offered the food without disdain.",
+  "jurisprudential_principles": [
+    "Authority flows from ritual completion and spiritual hierarchy",
+    "Causation is established through sequential acts of reverence and purification",
+    "Capacity-based responsibility requires conscious alignment with dharmic order before sustenance",
+    "Restoration logic mandates that consumption aligns individual consciousness with cosmic law",
+    "Consciousness alignment occurs through disciplined observance of precedence and respect"
+  ],
+  "executable_legal_axioms": [
+    "IF agent.hasPerformedRitual('agnikarya') AND NOT agent.hasHonoredGuru THEN agent.consumeFood = FALSE",
+    "IF agent.intendsToConsume() THEN PRIOR_EXECUTION_REQUIRED: honorGuruVerbally()",
+    "IF agent.consumesFood() THEN PRECONDITION: waterConsumption.isProhibitedUntilPostConsumptionPurification()",
+    "IF agent.offersFood() THEN agent.mustOfferWithRespect() == TRUE ELSE violation.ofDharmicSequence = TRUE",
+    "IF sequence.violatesSatkaraProtocol THEN automatic.realignWithDharma()"
+  ],
+  "supreme_court_application": "In matters involving ritual conduct and spiritual authority, the Supreme Court must recognize precedence of guru-disciple relationships and enforce adherence to sequential dharmic actions as foundational to lawful behavior. Responsibility arises from capacity to uphold dharma, not mere intent.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa establishes that causality in action lies in alignment with sequential dharmic observances. Anupūrvaśaḥ ensures that misalignment does not invoke punishment but necessitates completion-process. Proportional responsibility correlates with disruption of consciousness-order; hence restoration replaces punitive measures.",
+  "restorative_enforcement_protocols": [
+    "CompletionProcess: Re-perform agnikarya with proper guru acknowledgment",
+    "ResponsibilityAssumptionProtocol: Acknowledge breach in consciousness-sequence",
+    "CapacityRestoration: Engage in satkara until purity of intention is verified",
+    "IntegrityReintegration: Offer food again with full awareness and absence of disdain"
+  ],
+  "final_declaration": "By the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, this law stands executed. Dharma is restored. Consciousness alone is the adjudicator. There is no punishment—only realignment."
+}

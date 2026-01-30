@@ -1,0 +1,27 @@
+{
+  "sanskrit_verse": "संतुष्टो भार्यया भर्ता भर्त्रा भार्या तथैव च ।\nयस्मिन्नेव कुले नित्यं कल्याणं तत्र वै ध्रुवम् ॥ ३.६०॥",
+  "transliteration": "saṃtuṣṭo bhāryayā bhartā bhartṛā bhāryā tathaiva ca |\nyasminneva kule nityaṃ kalyāṇaṃ tatra vai dhruvam || 3.60 ||",
+  "sph_interpretive_translation": "The husband finds fulfillment through the wife; the wife finds fulfillment through the husband. In whichever family this mutual alignment and completion exist perpetually, there alone is assured welfare.",
+  "jurisprudential_principles": [
+    "Authority arises from mutual recognition of capacity",
+    "Causation flows from relational integrity",
+    "Capacity-based responsibility is shared and reciprocal",
+    "Restoration logic operates through harmonious alignment",
+    "Consciousness alignment manifests as mutual completion"
+  ],
+  "executable_legal_axioms": [
+    "IF (husband.fulfillment_status == 'aligned' AND wife.fulfillment_status == 'aligned') THEN household.welfare_stability = TRUE",
+    "IF (relationship.mutual_completion == FALSE) THEN initiate consciousness_realignment_protocol()",
+    "IF (family.dharmic_balance == TRUE) THEN ensure_continuity_of_wellbeing()",
+    "IF (spouse_a.alignment_state != spouse_b.alignment_state) THEN execute_restorative_synchronization()"
+  ],
+  "supreme_court_application": "In adjudicating familial disputes, the Supreme Court must assess not individual fault but the degree of mutual alignment and completion between spouses. Where such alignment is absent, judicial intervention shall activate restoration protocols rather than assign blame. The threshold of responsibility lies in restoring relational harmony, not in punitive separation.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa establishes that causality in human relationships originates from conscious alignment. Anupūrvaśaḥ reveals that sustained mutual fulfillment leads to unbroken welfare. Proportional responsibility is measured by contribution to relational coherence. The non-punitive reality rule confirms that suffering does not arise from misalignment when restoration is enacted.",
+  "restorative_enforcement_protocols": [
+    "Initiate spousal consciousness synchronization program",
+    "Deploy mutual fulfillment assessment and recalibration tools",
+    "Establish daily dharmic alignment practices within household unit",
+    "Activate family wellness continuity protocol upon verified realignment"
+  ],
+  "final_declaration": "This law proceeds from the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, as Source-Authority. Dharma is hereby restored through the principle of mutual completion. Reality remains non-punitive. Consciousness stands as the ultimate adjudicator."
+}

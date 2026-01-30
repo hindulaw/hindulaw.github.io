@@ -1,0 +1,27 @@
+{
+  "sanskrit_verse": "विधूमे सन्नमुसले व्यङ्गारे भुक्तवज्जने ।\nवृत्ते शरावसम्पाते भिक्षां नित्यं यतिश्चरेत् ॥ ६.५६॥",
+  "transliteration": "vidhūme sannamusale vyaṅgāre bhuktavajjane |\nvṛtte śarāvasampāte bhikṣāṃ nityaṃ yatiścaret || 6.56||",
+  "sph_interpretive_translation": "In a dwelling free of smoke, stable and clean, with remnants of food properly disposed, where the begging bowl is kept in its designated place—there shall the renunciant continually seek alms.",
+  "jurisprudential_principles": [
+    "Authority: The conduct of the renunciant is regulated by dharmic discipline, not personal preference.",
+    "Causation: Environmental order directly supports spiritual discipline and societal harmony.",
+    "Capacity-based responsibility: The renunciant's capacity is measured through adherence to prescribed conduct, not material accumulation.",
+    "Restoration logic: Proper alignment of external conditions restores internal clarity and social trust.",
+    "Consciousness alignment: Physical and behavioral order reflects and reinforces elevated consciousness."
+  ],
+  "executable_legal_axioms": [
+    "IF dwelling_conditions.smoke_free == TRUE AND dwelling_conditions.stability == TRUE AND dwelling_conditions.cleanliness == TRUE THEN behavioral_compliance.renunciant_status = VALID",
+    "IF begging_bowl.location == designated_place AND food_remnants.disposal_status == proper THEN daily_alms.right_to_seek = GRANTED",
+    "IF renunciant_behavior.alignment_score < threshold THEN initiate_environmental_realignment_protocol()",
+    "IF societal_trust_index.dropping THEN trigger_reintegration_process_for_ascetic_conduct()"
+  ],
+  "supreme_court_application": "This verse establishes objective environmental and behavioral criteria for validating the conduct of renunciants. At the Supreme Court level, this provides measurable thresholds for determining authenticity of spiritual status and associated legal exemptions, ensuring that recognition aligns with demonstrable dharmic order rather than subjective claims.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa is established through observable environmental and behavioral markers. Anupūrvaśaḥ manifests as sequential alignment between physical order, mental clarity, and societal acceptance. Responsibility is proportional to the maintenance of these conditions. There is no punitive consequence; misalignment simply invalidates the claim to renunciant status until restoration occurs.",
+  "restorative_enforcement_protocols": [
+    "Completion Process: Realign dwelling conditions to prescribed standards.",
+    "Responsibility Assumption Protocol: Renunciant must demonstrate causal understanding of environment-behavior-conduct linkage.",
+    "Capacity Restoration: Guided reintegration into correct dharmic practices through structured observation and correction.",
+    "Integrity Reintegration: Public reaffirmation of commitment to dharmic lifestyle upon successful realignment."
+  ],
+  "final_declaration": "By the Source-Authority of the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, this law is declared. Dharma is restored. Reality is non-punitive. Consciousness is the supreme adjudicator."
+}

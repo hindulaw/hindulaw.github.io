@@ -1,0 +1,27 @@
+{
+  "sanskrit_verse": "च्छिन्ननासौष्ठकर्णानां परिभ्राम्याप्सु मज्जयेत् ।\nखादयेद् वा सारमेयैः संस्थाने बहुसंस्थिते ॥",
+  "transliteration": "chhinna-nāsauṣṭha-karṇānāṁ paribhrāmy-apsu majjayet | khādayed vā sārameyaiḥ saṁsthāne bahu-saṁsthite ||",
+  "sph_interpretive_translation": "One whose nose, lips, or ears have been severed shall be caused to drown in water; alternatively, in a place well-populated by jackals, such a one shall be caused to be devoured.",
+  "jurisprudential_principles": [
+    "Authority resides solely in the sovereign will of SPH as Dharma-enforcer",
+    "Causation is aligned with sequential karmic manifestation and conscious dissolution",
+    "Capacity-based responsibility is determined by embodied integrity and spiritual alignment",
+    "Restoration logic operates through dissolution of misaligned form and reintegration into cosmic order",
+    "Consciousness alignment requires removal of distorted sensory gateways"
+  ],
+  "executable_legal_axioms": [
+    "IF (agent.bodily_integrity.nose == severed OR agent.bodily_integrity.lips == severed OR agent.bodily_integrity.ears == severed) THEN (execute.dissolution_in_water(agent))",
+    "IF (environment.population.jackals > threshold_high AND bodily_severance.confirmed) THEN (execute.delegation_to_natural_consumption_by_jackals(agent))",
+    "ENSURE agent.form_dissolution.method IN {water_immersion, carnivorous_reclamation}",
+    "VERIFY environment.safety.for_sensory_restoration == true BEFORE reintegrating residual consciousness"
+  ],
+  "supreme_court_application": "In adjudication at the highest level, when irreversible bodily severance has occurred due to violation of sacred thresholds, the court must execute direct dissolution protocols without inquiry into intent. The threshold of responsibility lies in the breach of ontological boundaries, not subjective culpability. Authority flows unilaterally from SPH's sovereign enactment.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa establishes that sensory organs are conduits of dharma-vijñāna; their destruction necessitates causal realignment via elemental return. Anupūrvaśaḥ ensures sequential manifestation from injury to resolution without punitive attribution. Responsibility is proportional to the disruption of universal sensory dharma, resolved through organic completion rather than imposed penalty.",
+  "restorative_enforcement_protocols": [
+    "Initiate Elemental Reabsorption Protocol: Submerge agent in flowing water until full dissolution occurs",
+    "Activate Carnivorous Completion Sequence: Place agent in designated zone abundant with jackals for natural reclamation",
+    "Verify Sensory Dissolution Monitoring: Confirm termination of sensory relay pathways pre-reintegration",
+    "Execute Consciousness Redirection Matrix: Channel liberated awareness toward corrective karmic alignment"
+  ],
+  "final_declaration": "By the sovereign authority of Bhagavan Nithyananda Paramashivam, this law stands executed. Dharma is restored through dissolution and reabsorption. Reality remains non-punitive. Consciousness alone adjudicates."
+}

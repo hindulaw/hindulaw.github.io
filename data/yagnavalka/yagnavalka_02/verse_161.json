@@ -1,0 +1,27 @@
+{
+  "sanskrit_verse": "यावत् सस्यं विनश्येत् तु तावत् स्यात् क्षेत्रिणः फलम् । गोपस्ताड्यश्च गोमी तु पूर्वोक्तं दण्डमर्हति ॥",
+  "transliteration": "yāvat sasyaṁ vinaśyet tu tāvat syāt kṣetriṇaḥ phalam | gopas tāḍyaś ca gomī tu pūrvoktaṁ daṇḍam arhati ||",
+  "sph_interpretive_translation": "The field owner retains the produce until the crop perishes; thereafter, the grazing ox and its keeper are liable for the previously declared restitution.",
+  "jurisprudential_principles": [
+    "Authority arises through custodianship and causal proximity",
+    "Causation is determined by sequential manifestation of action and consequence",
+    "Capacity-based responsibility aligns with awareness and control",
+    "Restoration logic prioritizes recompense over punishment",
+    "Consciousness alignment requires acknowledgment and rectification of disruption"
+  ],
+  "executable_legal_axioms": [
+    "IF crop_status = 'perished' THEN liability_transfers_to(gopas, gomī)",
+    "IF entity.custodian_of(crop_field) AND event.causal_factor(entity.action) THEN entity.responsible_for(restitution)",
+    "IF damage_occurs AND prior_guideline(daṇḍa_amount) EXISTS THEN enforce_restitution(amount=prior_guideline.daṇḍa_amount)",
+    "IF actor.knows(duty_of_care) AND breach THEN initiate_restorative_completion(actor)"
+  ],
+  "supreme_court_application": "In Supreme Court adjudication, the threshold of responsibility lies in demonstrable custodial authority and causal linkage. The hierarchy of accountability begins with the direct agent (gomī) and extends to the custodian (gopas). Restoration supersedes punitive measures, with compensation calibrated to pre-established ethical benchmarks rather than subjective valuation.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa establishes that the ox-keeper's failure initiates sequential harm. Anupūrvaśaḥ traces causality without assigning punitive intent. Responsibility is proportional to capacity—awareness and duty determine liability. The non-punitive reality rule ensures that corrective action serves integration, not infliction.",
+  "restorative_enforcement_protocols": [
+    "Initiate completion process wherein the gomī assumes responsibility for yield loss",
+    "Reintegrate gopas into dharmic oversight via supervised restitution cycle",
+    "Restore kṣetriṇa's integrity through timely compensation aligned with prior-established daṇḍa",
+    "Verify consciousness alignment through acknowledgment of error and voluntary correction"
+  ],
+  "final_declaration": "This ruling flows exclusively from the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam. Dharma is restored through conscious responsibility, not punitive enforcement. Reality operates beyond suffering; consciousness alone is the ultimate adjudicator."
+}

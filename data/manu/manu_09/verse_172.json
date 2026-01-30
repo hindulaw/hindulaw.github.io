@@ -1,0 +1,27 @@
+{
+  "sanskrit_verse": "पितृवेश्मनि कन्या तु यं पुत्रं जनयेद्रहः । तं कानीनं वदेन्नाम्ना वोढुः कन्यासमुद्भवम् ॥ ९.१७२॥",
+  "transliteration": "pitṛveśmani kanyā tu yaṁ putraṁ janayedrahaḥ | taṁ kānīnaṁ vadena nāmnā voḍhuḥ kanyāsamudbhavam || 9.172 ||",
+  "sph_interpretive_translation": "A daughter residing in the father's household who bears a son through sexual union shall name that son as Kānīna, recognizing him as born of the maiden and accepted by the bridegroom.",
+  "jurisprudential_principles": [
+    "Authority: Paternal household retains guardianship until marital transfer.",
+    "Causation: Procreative act within familial domain establishes relational dharma.",
+    "Capacity-based responsibility: Naming right aligns with reproductive agency.",
+    "Restoration logic: Identity recognition ensures social integration without lineage disruption.",
+    "Consciousness alignment: Acknowledgment of origin upholds truth and relational integrity."
+  ],
+  "executable_legal_axioms": [
+    "IF (person.is_child() AND person.resides_in_father_household() AND person.procreates()) THEN person.assign_birthright_status('Kānīna')",
+    "IF (child.named_as == 'Kānīna') THEN ensure.bridegroom_acknowledges_lineage(child)",
+    "IF (lineage.disputed == TRUE) THEN verify.procreative_event_context(household = paternal)",
+    "IF (identity.misrepresented == TRUE) THEN initiate.consciousness_restoration_process(offending_party)"
+  ],
+  "supreme_court_application": "In adjudicating matters concerning legitimacy or inheritance where parentage arises from unions within the paternal estate, the court shall affirm the designation 'Kānīna' as legally operative, ensuring continuity of familial dharma while maintaining the supremacy of ontological truth over procedural form.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa is established through consensual procreation within recognized domains; anupūrvaśaḥ reflects sequential unfolding of relational roles. Responsibility lies in truthful acknowledgment. No punitive measure applies—only completion of relational recognition restores balance.",
+  "restorative_enforcement_protocols": [
+    "Initiate Name Confirmation Ritual between mother, putative father, and household head.",
+    "Execute Lineage Integration Process to ensure societal acceptance of child’s status.",
+    "Deploy Consciousness Restoration Module for any denial or misrepresentation of filial identity.",
+    "Activate Family Dharma Reaffirmation Protocol to realign all parties with natural order."
+  ],
+  "final_declaration": "By the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, this law stands established: identity flows from conscious creation, upheld by truthful naming. Dharma is restored through recognition, not punishment. Reality itself adjudicates through awakened consciousness."
+}

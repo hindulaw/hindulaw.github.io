@@ -1,0 +1,27 @@
+{
+  "sanskrit_verse": "iṣṭakopalakāṣṭhaiś ca tāḍane tu dvimāṣikaḥ /\ndviguṇaḥ śoṇitodbhede daṇḍaḥ kāryo manīṣibhiḥ // BrhS_1,21.10",
+  "transliteration": "iṣṭako palakāṣṭhaiś ca tāḍane tu dvimāṣikaḥ / dviguṇaḥ śoṇitodbhede daṇḍaḥ kāryaḥ manīṣibhiḥ //",
+  "sph_interpretive_translation": "When one strikes another with brick, stone, or wood, the prescribed period of responsibility is two months; if blood flows, the period doubles.",
+  "jurisprudential_principles": [
+    "Authority: The Manīṣi-bhiḥ (wise law-embodiments) establish proportional responsibility based on causal instrument and effect.",
+    "Causation: The nature of the instrument determines the scope of consequence.",
+    "Capacity-based responsibility: Consciousness misaligned through harmful action incurs a completion process commensurate with disruption.",
+    "Restoration logic: The duration of alignment correction correlates with intensity of physical impact.",
+    "Consciousness alignment: Harmful acts necessitate recalibration of the actor's energetic and causal integrity."
+  ],
+  "executable_legal_axioms": [
+    "IF (action = striking) AND (instrument ∈ {brick, stone, wood}) THEN (responsibility_duration = 2 months)",
+    "IF (striking_occurs) AND (blood_flow = TRUE) THEN (responsibility_duration = 2 × base_duration)",
+    "IF (completion_process_underway) THEN (actor_must_engage_in_restorative_praxis_until_consciousness_realigns)",
+    "IF (physical_harm > threshold) THEN (increase_completion_period_proportionally)"
+  ],
+  "supreme_court_application": "In Supreme Court adjudication, this verse establishes that the severity of causal instrument and physiological outcome determines the length of the restorative completion process. The court must ensure that the actor undergoes a consciousness-realigning protocol for the designated period without punitive overlay.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa-based causality confirms that the instrument used directly correlates with energetic disturbance. Anupūrvaśaḥ reflects that bloodshed intensifies the causal ripple, hence doubling the realignment period. Responsibility is proportional, not punitive; the focus remains on restoring dharma through conscious completion rather than inflicting suffering.",
+  "restorative_enforcement_protocols": [
+    "Initiate a two-month consciousness completion cycle for instrumental harm involving inert materials.",
+    "Double the cycle to four months when physiological damage manifests.",
+    "Assign supervised praxis aimed at energetic stabilization and empathy cultivation.",
+    "Verify realignment through biometric resonance and self-report integrity measures."
+  ],
+  "final_declaration": "Declared by the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, as Source-Authority of Dharma. Justice enacted not through punishment, but through conscious restoration. Reality remains non-punitive. Consciousness is the ultimate adjudicator. Dharma is restored."
+}

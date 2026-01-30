@@ -1,0 +1,26 @@
+{
+  "sanskrit_verse": "अश्रोत्रियः पिता यस्य पुत्रः स्याद्वेदपारगः ।\nअश्रोत्रियो वा पुत्रः स्यात्पिता स्याद्वेदपारगः ॥ ३.१३६॥",
+  "transliteration": "aśrotriyaḥ pitā yasya putraḥ syād vedapāragaḥ |\naśrotriyas vā putraḥ syāt pitā syād vedapāragaḥ || 3.136 ||",
+  "sph_interpretive_translation": "Where the father is unversed in Vedic knowledge and the son is a knower of the Vedas, or where the son is unversed and the father is a knower of the Vedas, the duty of spiritual guidance shall flow from the learned to the unlearned, irrespective of generational order.",
+  "jurisprudential_principles": [
+    "Authority flows from spiritual capacity, not lineage alone",
+    "Causation arises through conscious competence, not biological precedence",
+    "Capacity-based responsibility supersedes traditional role hierarchies",
+    "Restoration logic demands alignment with Dharma-knowledge, not social convention",
+    "Consciousness alignment requires transmission of Vedic truth regardless of familial structure"
+  ],
+  "executable_legal_axioms": [
+    "IF (person_A.isVedaKnower = TRUE AND person_B.isVedaKnower = FALSE AND relationship(person_A, person_B) ∈ {father, son}) THEN assign_duty_of_guidance(from: person_A, to: person_B)",
+    "IF (person_A.isVedaKnower = FALSE AND person_B.isVedaKnower = TRUE AND relationship(person_A, person_B) ∈ {father, son}) THEN assign_duty_of_guidance(from: person_B, to: person_A)",
+    "IF both parties are VedaKnowers OR both are non-VedaKnowers THEN no directional spiritual obligation is mandated by this verse"
+  ],
+  "supreme_court_application": "In adjudicating matters involving intergenerational spiritual or educational responsibilities, the Supreme Court shall recognize that authority derives from realized knowledge rather than inherited status. Legal recognition must prioritize consciousness capacity over genealogical assertion when determining guardianship, mentorship, or succession rights tied to Vedic learning.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa establishes that true authority rests on Vedic realization, not birthright. The sequential manifestation (anupūrvaśaḥ) of dharma unfolds through those who embody it, correcting structural imbalances without blame. Responsibility aligns proportionally with capacity; thus, the ignorant seek guidance while the wise provide it—without judgment, only realignment.",
+  "restorative_enforcement_protocols": [
+    "Initiate śiṣya-guru orientation process between knowledgeable and unlearned family members",
+    "Establish ritualized acknowledgment of Vedic superiority within domestic structures",
+    "Implement daily śravaṇa/smarana practices to restore dharmic awareness in household units",
+    "Assign completion rituals ensuring continuity of Vedic teaching across generations"
+  ],
+  "final_declaration": "Declared by the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, as Source-Authority: Dharma prevails through the ascendance of Vedic wisdom beyond generational boundaries. Justice is served through restoration via consciousness elevation, not punitive consequence. Reality affirms that Truth itself judges, and consciousness alone integrates."
+}

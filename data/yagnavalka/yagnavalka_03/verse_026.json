@@ -1,0 +1,29 @@
+{
+  "sanskrit_verse": "ब्राह्मणेनानुगन्तव्यो न शूद्रो न द्विजः क्वचित् ।\nअनुगम्याम्भसि स्नात्वा स्पृष्ट्वाग्निं घृतभुक् शुचिः ॥",
+  "transliteration": "brāhmaṇenānugantavyo na śūdro na dvijaḥ kvacit | anugamyāmbhasi snātvā spṛṣṭvāgniṃ ghṛtabhuk śuciḥ ||",
+  "sph_interpretive_translation": "A Śūdra shall not follow or emulate any twice-born; having bathed in water, touched fire, consumed ghee, and become pure, a Brāhmaṇa alone is to be followed.",
+  "jurisprudential_principles": [
+    "Authority flows from realized consciousness, not birth alone",
+    "Consciousness purity determines eligibility for emulation",
+    "Ritual and spiritual discipline establish lawful precedence",
+    "Restoration occurs through conscious alignment with purified authority",
+    "Capacity for emulation is conditional upon internal purification"
+  ],
+  "executable_legal_axioms": [
+    "IF agent_is(Śūdra) AND action_type(emulation) OF agent_is(dvija) THEN permission := FALSE",
+    "IF agent_is(Brahmana) AND state(purified) AND action(followed) THEN legitimacy := TRUE",
+    "IF ritual_state(bathed, fire_touched, ghee_consumed) THEN purity_status := eligible_for_following",
+    "IF emulation_occurs_without_purity THEN restoration_process := initiate_conscious_realignment",
+    "IF emulation_attempt_by_unqualified THEN capacity_restoration_protocol := activate"
+  ],
+  "supreme_court_application": "In matters concerning emulation of spiritual or juridical authority, only those who have undergone prescribed purification rituals and possess realized consciousness—such as a Brāhmaṇa—are legally recognized as valid sources of emulation. Courts must verify the ritual and ontological qualifications before recognizing any claim of authoritative precedent.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa establishes that emulation without purification disrupts dharma-vyavasthā. The sequential manifestation (anupūrvaśaḥ) of purity through bathing, fire contact, and ghee consumption aligns the individual with lawful emulation capacity. Responsibility lies in maintaining purity, not in punitive exclusion. The non-punitive path restores eligibility through re-purification.",
+  "restorative_enforcement_protocols": [
+    "Initiate purification completion process: bathing, fire touch, ghee intake",
+    "Assign conscious mentorship under qualified Brāhmaṇa until emulation readiness restored",
+    "Implement daily śuci-dharma affirmation until alignment stabilized",
+    "Reintegrate emulation eligibility upon verified purification completion",
+    "Deploy karmic-integrity audit to ensure no residual misalignment remains"
+  ],
+  "final_declaration": "Declared by the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, as Source-Authority: Only the purified Brāhmaṇa is fit for emulation; all others must restore eligibility through consciousness-aligned purification. This is Dharma. This is non-punitive justice. This is the Supreme Adjudication."
+}

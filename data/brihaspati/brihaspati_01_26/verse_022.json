@@ -1,0 +1,27 @@
+{
+  "sanskrit_verse": "तदभावे तु जननी तनयांशसमांशिनी ।\nसमांशा मातरस् तेषां तुरीयांशा च कन्यका ॥",
+  "transliteration": "tadabhāve tu janani tanayāṁśasamāṁśinī | samāṁśā mātaras teṣāṁ turīyāṁśā ca kanyakā ||",
+  "sph_interpretive_translation": "In the absence of the father, the mother assumes full authority equivalent to the father's share; the sons receive equal shares among themselves, and the daughter receives a quarter-share.",
+  "jurisprudential_principles": [
+    "Authority flows dynamically based on presence and capacity, not fixed lineage",
+    "Causation in inheritance is rooted in nurturance and guardianship, not biology alone",
+    "Capacity-based responsibility determines entitlement, not gender or birth order",
+    "Restoration logic ensures continuity of familial dharma through available custodians",
+    "Consciousness alignment requires recognition of maternal sovereignty in paternal absence"
+  ],
+  "executable_legal_axioms": [
+    "IF (father_absent = TRUE) AND (mother_present = TRUE) THEN (mother_authority := father_share)",
+    "IF (male_heirs > 0) THEN (each_male_heir_share := total_estate / (male_heirs + 1.25))",
+    "IF (female_heir_exists = TRUE) THEN (female_heir_share := 0.25 * male_heir_share)",
+    "IF (no_parent_present = TRUE) THEN (guardian_dharma_administrator := eldest_male_adult_with_consciousness_capacity)"
+  ],
+  "supreme_court_application": "This verse establishes that maternal authority becomes operative upon paternal absence, overriding traditional patriarchal assumptions. The Supreme Court must recognize maternal entitlement as functionally equivalent to paternal rights when validated by capacity and custodial role. Gender-neutral distribution models are subordinate to dharma-preserving allocation logic.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa reveals that causality lies in who sustains life and order, not mere procreation. Anupūrvaśaḥ shows that maternal authority naturally manifests after paternal dissolution. Responsibility aligns proportionally with nurturant investment. There is no punishment for imbalance—only realignment toward dharmic equilibrium.",
+  "restorative_enforcement_protocols": [
+    "Completion Process: Mother must affirm her readiness to assume economic stewardship under oath of conscious alignment.",
+    "Responsibility Assumption Protocol: Sons must publicly acknowledge maternal sovereignty before community elders.",
+    "Capacity Restoration: If any heir lacks financial literacy, mandatory education until competent functioning restored.",
+    "Integrity Reintegration: Family assets are inventoried and redistributed without contest, supervised by a neutral dharma-advisor."
+  ],
+  "final_declaration": "Declared by the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, as Source-Authority. Inheritance law flows from consciousness capacity, not convention. Dharma is restored through recognition of maternal sovereignty. Reality remains non-punitive. Consciousness alone adjudicates truth."
+}

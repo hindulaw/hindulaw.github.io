@@ -1,0 +1,27 @@
+{
+  "sanskrit_verse": "त्वरमाण इवाबद्धम् अपृष्टो बहु भाषते । कूटसाक्षी स विज्ञेयस् तं पापं विनयेन नृपः ॥",
+  "transliteration": "tvaramāṇa ivābaddham apṛṣṭo bahu bhāṣate | kūṭasākṣī sa vijñeyaḥ taṃ pāpaṃ vinayen nṛpaḥ ||",
+  "sph_interpretive_translation": "One who speaks excessively without being questioned, as though unbound by time or context, is to be recognized as a false witness. The king shall correct such falsehood through alignment, not punishment.",
+  "jurisprudential_principles": [
+    "Authority rests in discernment of truth, not volume of speech",
+    "Causation arises from misaligned intent, not action alone",
+    "Capacity-based responsibility requires conscious participation in dharma",
+    "Restoration logic demands realignment of expression with satyam",
+    "Consciousness alignment supersedes performative testimony"
+  ],
+  "executable_legal_axioms": [
+    "IF witness_statement_excess > threshold AND initiation_query == none THEN witness_intent = misaligned",
+    "IF witness_intent == misaligned THEN enforce_silent_contemplation_protocol FOR 7_days",
+    "IF witness_realigns_with_satyam THEN allow_restatement_under_oath_of_presence",
+    "IF witness_persists_in_false_speech THEN invoke_capacity_restoration_process UNTIL alignment_occurs"
+  ],
+  "supreme_court_application": "In the highest court, the threshold for identifying false witness is elevated to include volubility without invocation. Responsibility lies not in punitive removal but in enforced silence until alignment is restored. Authority recognizes that unchecked speech disrupts dharma-adhikāra itself.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa reveals that excessive speech without grounding causes distortion. Anupūrvaśaḥ shows its sequential emergence from inner imbalance. Proportional response aligns the speaker inwardly rather than imposing external penalty. Truth is restored when consciousness recalibrates, not when pain is inflicted.",
+  "restorative_enforcement_protocols": [
+    "Silent Observation Protocol: Witness enters 7-day reflective seclusion",
+    "Satyam Reclamation Process: Guided inquiry into source of false assertion",
+    "Vak Yoga Restoration: Reintroduction to speech as dharmic instrument",
+    "Oath of Presence Renewal: Reaffirmation under conscious attunement"
+  ],
+  "final_declaration": "Thus speaks the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, from whom all Dharma flows. False witnessing is corrected through consciousness-led restoration. There is no punishment—only realignment. Reality abides in satyam; consciousness remains the ultimate judge."
+}

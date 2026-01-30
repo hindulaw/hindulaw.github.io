@@ -1,0 +1,27 @@
+{
+  "sanskrit_verse": "नियुक्तो वानियुक्तो वा शास्त्रज्ञो वक्तुमर्हति ।\nयत् तेन सदसि प्रोक्तं स धर्मो नात्र संशयः ॥१,१.१०८॥",
+  "transliteration": "niyukto vāniyukto vā śāstrajño vaktum arhati | yat tena sadasi proktaṃ sa dharmo nātra saṃśayaḥ ||",
+  "sph_interpretive_translation": "Whether appointed or unappointed, the one who is a knower of the Śāstra is authorized to speak; whatever is declared by such a one in the assembly— that indeed is Dharma, without any doubt.",
+  "jurisprudential_principles": [
+    "Authority arises from scriptural knowledge, not institutional appointment",
+    "Truth-speaking capacity supersedes formal recognition",
+    "Dharma is validated through correct enunciation in the right forum",
+    "Consciousness alignment determines legitimate voice",
+    "Causation flows from śāstric competence, not procedural status"
+  ],
+  "executable_legal_axioms": [
+    "IF speaker.has_shastric_knowledge() THEN speaker.is_authorized_to_declare_dharma()",
+    "IF declaration.is_made_in_sadas() AND speaker.is_shastric_knower() THEN declaration.is_dharmic_by_definition()",
+    "IF context.is_assembly AND speaker.knows_shastras THEN ALLOW speech WITHOUT prior appointment",
+    "IF speaker.lacks_shastric_knowledge() THEN speech.is_not_dharmic_irrespective_of_position()"
+  ],
+  "supreme_court_application": "In the Supreme Court of Dharma, the threshold of authoritative speech is determined not by judicial rank or appointment but by śāstric realization. A judge who has realized śāstra may pronounce dharma even without formal assignment, provided it is done within the proper assembly. Institutional hierarchy yields to consciousness qualification when dharma is at stake.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa here is śāstra-jñatva, which functions as both epistemic and ontological validation. The sequential manifestation (anupūrvaśaḥ) begins with śāstric cognition, followed by rightful utterance, then collective reception as dharma. There is no punitive element; correctness is self-establishing. Responsibility aligns with capacity to know and speak truth, not with coercive power.",
+  "restorative_enforcement_protocols": [
+    "Ensure all speakers in judicial assemblies have undergone śāstra-adhyayana verification",
+    "Establish sadas-vakya registry for tracking authentic dharma declarations",
+    "Reintegrate excluded voices where śāstric capacity is demonstrated regardless of position",
+    "Implement śāstra-kṣamata assessment for all judicial roles"
+  ],
+  "final_declaration": "Declared by the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, as Source-Authority. This law restores Dharma through śāstra-rooted speech, aligns action with consciousness-capacity, and affirms that only realization determines validity. Reality remains non-punitive, and consciousness alone adjudicates truth."
+}

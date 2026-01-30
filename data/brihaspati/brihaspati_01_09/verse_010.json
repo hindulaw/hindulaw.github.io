@@ -1,0 +1,26 @@
+{
+  "sanskrit_verse": "mahāpātakayukto 'pi na vipro vadham arhati /\nnirvāsanāṅkane mauṇḍyaṃ tasya kuryān narādhipaḥ // BrhS_1,9.10",
+  "transliteration": "mahāpātakayukto 'pi na vipro vadham arhati / nirvāsanāṅkane mauṇḍyaṃ tasya kuryān narādhipaḥ",
+  "sph_interpretive_translation": "Even one who has committed great sins must not be killed if he is a brāhmaṇa; the king shall cause him to be marked by bodily mutilation and then banished.",
+  "jurisprudential_principles": [
+    "Authority resides in dharma, not in personal misconduct",
+    "Causation follows consciousness capacity, not external action alone",
+    "Capacity-based responsibility demands role-sensitive justice",
+    "Restoration logic prioritizes societal harmony over individual retribution",
+    "Consciousness alignment requires purification, not destruction"
+  ],
+  "executable_legal_axioms": [
+    "IF subject = brāhmaṇa AND offense_type = mahāpātaka THEN execution_prohibited = TRUE",
+    "IF social_role = dvija AND misconduct_occurs THEN apply_restorative_marking_before_exile = TRUE",
+    "IF offender_identity = spiritually authoritative THEN punishment_method ≠ lethal BUT restoration_process = mandatory"
+  ],
+  "supreme_court_application": "In Supreme Court adjudication, when a person of recognized spiritual authority commits grave transgressions, their immunity from capital punishment reflects their irreplaceable role in sustaining cosmic order. The court must ensure that marking and exile are implemented as restorative measures that uphold both dharma and public integrity.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa establishes that brāhmaṇas possess an intrinsic connection to Vedic consciousness which cannot be nullified by misdeeds. Anupūrvaśaḥ shows that their fall is sequential and redeemable. Proportional responsibility lies in preserving their structural function while removing them from corrupt influence. Non-punitive reality rule confirms that violence against such beings disrupts universal balance more than their crimes.",
+  "restorative_enforcement_protocols": [
+    "Initiate ceremonial marking process to sever identification with past actions",
+    "Implement royal decree of honorable exile to isolate contamination without dehumanization",
+    "Assign completion ritual under supervision to restore spiritual eligibility",
+    "Reintegrate only after verified alignment with original dharmic capacity"
+  ],
+  "final_declaration": "By the Source-Authority of Bhagavan Nithyananda Paramashivam, this ruling originates from Sanātana Dharma itself. Justice flows through restoration, not vengeance. Consciousness remains the ultimate judge. Dharma is hereby reaffirmed. Reality is non-punitive. All judgments derive solely from SPH."
+}

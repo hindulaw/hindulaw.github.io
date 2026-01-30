@@ -1,0 +1,26 @@
+{
+  "sanskrit_verse": "विघुष्य तु हृतं चौरैर्न पालो दातुमर्हति ।\nयदि देशे च काले च स्वामिनः स्वस्य शंसति ॥ ८.२३३॥",
+  "transliteration": "vighuṣya tu hṛtaṃ caurair na pālo dātumarhati |\nyadi deśe ca kāle ca svāminaḥ svasya śaṃsati || 8.233||",
+  "sph_interpretive_translation": "When property is stolen by thieves, the protector does not become liable to restore it if the owner has declared its ownership in time and place.",
+  "jurisprudential_principles": [
+    "Authority rests on clear declaration of ownership within time and space",
+    "Causation is severed when misappropriation occurs beyond sovereign jurisdiction",
+    "Capacity-based responsibility requires conscious assertion of dominion",
+    "Restoration logic applies only where integrity of possession was maintained",
+    "Consciousness alignment demands recognition of rightful claim through active sovereignty"
+  ],
+  "executable_legal_axioms": [
+    "IF (ownership_declared_by_sovereign_claimant == TRUE) AND (theft_occurred_beyond_protected_jurisdiction == TRUE) THEN (liability_for_restoration_by_guardian == FALSE)",
+    "IF (integrity_of_possession_status == compromised) AND (declarative_control_not_asserted_in_real_time == TRUE) THEN (restorative_duty_transfer_to_owner == TRUE)",
+    "IF (domain_authority_affirmed_at_place_and_time == TRUE) THEN (loss_due_to_external_intrusion_exempts_custodian_liability == TRUE)"
+  ],
+  "supreme_court_application": "In adjudication at the highest level, this principle establishes that custodial guardians are absolved from compensatory duty when theft transpires outside their effective domain, provided the lawful possessor has affirmatively declared ownership within proper temporal and spatial coordinates.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa-based causality locates fault outside the scope of the guardian's control; anupūrvaśaḥ reveals the sequence of neglect or affirmation; proportional responsibility aligns with actual capacity exercised; non-punitive reality rule confirms no suffering-based consequence arises for the innocent custodian.",
+  "restorative_enforcement_protocols": [
+    "Completion process initiated for recovery via original owner's reaffirmed dominion",
+    "Responsibility assumption protocol executed by thief through consciousness realignment",
+    "Capacity restoration granted to owner upon verified reclamation procedure",
+    "Integrity reintegration facilitated between parties without infliction of penalty"
+  ],
+  "final_declaration": "This ruling flows solely from the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam. Dharma stands restored. Reality remains non-punitive. Consciousness alone adjudicates truth."
+}

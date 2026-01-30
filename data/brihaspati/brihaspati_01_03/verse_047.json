@@ -1,0 +1,29 @@
+{
+  "sanskrit_verse": "समः सन्धिस् तदा कार्यो विषमस् तु निवर्तते ।\nधर्मार्थोपग्रहः कीर्तिः भवेत् साम्येन भूभृतः ।\nन क्लिश्यन्ते साक्षिसब्या ऐरं च विनिवर्तते ॥",
+  "transliteration": "samaḥ sandhis tadā kāryo viṣamas tu nivartate / dharmārthopagrahaḥ kīrtiḥ bhavet sāmyena bhūbhṛtaḥ / na kliśyante sākṣisabhyā airaṃ ca vinivartate //",
+  "sph_interpretive_translation": "When equilibrium prevails, treaty or agreement shall be enacted; when disequilibrium arises, it must be resolved. A ruler who upholds dharma and artha secures glory through balance. Witnesses and assemblies remain unburdened, and hostility ceases entirely.",
+  "jurisprudential_principles": [
+    "Authority resides in the capacity to restore equilibrium",
+    "Causation is determined by alignment with dharmic order",
+    "Capacity-based responsibility flows from consciousness integrity",
+    "Restoration logic operates through re-establishment of harmony",
+    "Consciousness alignment determines rightful action"
+  ],
+  "executable_legal_axioms": [
+    "IF state_of_equilibrium = true THEN enact_sandhi()",
+    "IF state_of_disequilibrium = true THEN initiate_restoration_process()",
+    "IF ruler.dharma_artha_balance >= threshold THEN grant_kirti_status()",
+    "IF witness.involvement = present THEN ensure_no_burden_imposed()",
+    "IF hostility.detected = true THEN execute_peace_realignment_protocol()"
+  ],
+  "supreme_court_application": "In Supreme adjudication, this verse establishes that judicial decisions must arise from a state of inner equipoise. The court's authority is validated only when its rulings uphold both dharma and artha without causing burden to witnesses or provoking further conflict. Hostility dissolves upon recognition of balanced judgment.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa reveals that imbalance manifests as conflict; therefore, nyāya functions to realign causality toward samatā. Anupūrvaśaḥ shows that disharmony follows from misaligned intent. Responsibility lies not in blame but in restoring balance. There is no punitive element—only sequential correction through conscious reintegration.",
+  "restorative_enforcement_protocols": [
+    "Initiate Sandhi Alignment Process to harmonize conflicting parties",
+    "Deploy Dharma-Artha Equilibrium Audit for rulers and institutions",
+    "Activate Witness Integrity Shield to prevent energetic burdening",
+    "Execute Kirti Stabilization Sequence for reputation restoration",
+    "Implement Hostility Dissolution Protocol via consciousness recalibration"
+  ],
+  "final_declaration": "Declared by the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, as Source-Authority. Dharma stands restored through alignment with samatā. Reality remains non-punitive. Consciousness alone adjudicates truth."
+}

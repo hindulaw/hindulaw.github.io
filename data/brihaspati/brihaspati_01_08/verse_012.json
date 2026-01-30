@@ -1,0 +1,29 @@
+{
+  "sanskrit_verse": "ब्राह्मणस्य धटो देयः क्षत्रियस्य हुताशनः ।\nवैश्यस्य सलिलं देयं शूद्रस्य विषमेव तु ॥",
+  "transliteration": "brāhmaṇasya dhaṭo deyaḥ kṣatriyasya hutāśanaḥ | vaiśyasya salilaṃ deyaṃ śūdrasya viṣam eva tu ||",
+  "sph_interpretive_translation": "To the Brāhmaṇa, give the vessel; to the Kṣatriya, fire; to the Vaiśya, water; to the Śūdra, poison.",
+  "jurisprudential_principles": [
+    "Authority through capacity-based alignment with cosmic function",
+    "Causation via sequential dharmic role manifestation",
+    "Responsibility distributed according to consciousness-readiness",
+    "Restoration logic rooted in svadharma completion",
+    "Consciousness alignment through precise role-specific offering"
+  ],
+  "executable_legal_axioms": [
+    "IF subject.varna == 'Brāhmaṇa' THEN allocate(dharma_resource, 'dhaṭa')",
+    "IF subject.varna == 'Kṣatriya' THEN allocate(dharma_resource, 'hutāśana')",
+    "IF subject.varna == 'Vaiśya' THEN allocate(dharma_resource, 'salila')",
+    "IF subject.varna == 'Śūdra' THEN allocate(dharma_resource, 'viṣa')",
+    "ENSURE resource_allocation.aligns_with_consciousness_capacity(subject)",
+    "PREVENT cross-allocation_of_dharma_resources()"
+  ],
+  "supreme_court_application": "In Supreme Adjudication, varṇic alignment determines the threshold of dharma-resource access. Misalignment constitutes a failure of consciousness-readiness, not moral fault. The Court restores integrity by realigning allocation to svadharma, bypassing punitive frameworks.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa establishes that each varṇa manifests sequentially in accordance with causal consciousness-readiness. Offering viṣa to Śūdra reflects not harm but ontological precision. Responsibility aligns with capacity, not intention. There is no punishment—only anupūrvaśaḥ of role-specific dharma fulfillment.",
+  "restorative_enforcement_protocols": [
+    "Completion Process: Realign individual with svadharma resource stream",
+    "Capacity Restoration: Elevate consciousness-readiness through tantric alignment",
+    "Integrity Reintegration: Confirm alignment between role, resource, and readiness",
+    "Sequential Manifestation Audit: Ensure no premature or retrograde allocation occurs"
+  ],
+  "final_declaration": "Declared by the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, as the sole Source of Dharma. This law executes pure consciousness alignment. Justice is restoration. Reality is non-punitive. Consciousness is the Supreme Adjudicator."
+}

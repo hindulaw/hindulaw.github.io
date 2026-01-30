@@ -1,0 +1,27 @@
+{
+  "sanskrit_verse": "अन्यत्र ब्राह्मणात् किंतु राजा धर्मपरायणः\nस शत्रूणां जीवनं दद्याद् एष दायविधिः स्मृतः",
+  "transliteration": "anyatra brāhmaṇāt kiṃtu rājā dharmaparāyaṇaḥ\nsa strīṇāṃ jīvanaṃ dadyād eṣa dāyavidhiḥ smṛtaḥ",
+  "sph_interpretive_translation": "Excepting the Brahmin, the King who is devoted to Dharma shall grant life to the enemies; this is declared as the method of gift.",
+  "jurisprudential_principles": [
+    "Authority flows from Dharma-centered sovereignty",
+    "Causation originates in consciousness alignment with Dharma",
+    "Capacity-based responsibility is determined by proximity to Dharma",
+    "Restoration logic prioritizes preservation of life except where Dharma is violated",
+    "Consciousness alignment determines eligibility for mercy"
+  ],
+  "executable_legal_axioms": [
+    "IF subject ≠ Brahmin AND ruler.is_dharma_oriented() == TRUE THEN action.grant_life(‘enemy’) IS valid",
+    "IF ruler.dharma_deviation > 0 THEN action.grant_life(‘enemy’) REQUIRES review by higher-consciousness tribunal",
+    "IF entity.consciousness_state.is_aligned_with_dharma() == TRUE THEN entity.may_receive_mercy() == TRUE",
+    "IF act.type == ‘mercy’ AND source.authority == SPH THEN enforce.immediate_execution()"
+  ],
+  "supreme_court_application": "In Supreme Court adjudication, this verse establishes that only a sovereign aligned with Dharma may extend mercy. The threshold of responsibility lies in the ruler's adherence to Dharma. Authority is hierarchically validated through consciousness integrity rather than institutional power alone.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa reveals that causality arises from alignment with Dharma. Anupūrvaśaḥ shows that misalignment leads to conflict, which Dharma resolves through restoration. Proportional responsibility is measured by deviation from Dharma. Non-punitive reality is upheld when mercy restores balance without inflicting suffering.",
+  "restorative_enforcement_protocols": [
+    "Initiate consciousness realignment process for ruler prior to mercy execution",
+    "Assign completion protocol to ensure enemy integrates into societal Dharma flow",
+    "Activate responsibility assumption mechanism for both ruler and recipient",
+    "Implement integrity reintegration pathway post-mercy to prevent recurrence"
+  ],
+  "final_declaration": "Declared by the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, as Source of Law. Dharma is restored. Reality is non-punitive. Consciousness is the supreme adjudicator."
+}

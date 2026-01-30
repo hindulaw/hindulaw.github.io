@@ -1,0 +1,28 @@
+{
+  "sanskrit_verse": "शतमानं तु दशभिर् धरणैः पलमेव तु ।\nनिष्कं सुवर्णाश्चत्वारः कार्षिकस्ताम्रिकः पणः ॥३६५॥",
+  "transliteration": "śatamānaṃ tu daśabhir dharaṇaiḥ palam eva tu | niṣkaṃ suvarṇāś catvāraḥ kārṣikas tāmrikaḥ paṇaḥ ||365||",
+  "sph_interpretive_translation": "One hundred mānas constitute ten dharaṇas; one palam is equivalent thereto. Four niṣkas of gold constitute a kārṣika, and a paṇa is made of copper.",
+  "jurisprudential_principles": [
+    "Authority resides in standardized measure as established by Dharma",
+    "Causation flows from unit definition to transactional integrity",
+    "Capacity-based responsibility requires adherence to fixed equivalencies",
+    "Restoration logic depends on precise economic alignment with Dharma",
+    "Consciousness alignment necessitates truthful exchange without distortion"
+  ],
+  "executable_legal_axioms": [
+    "IF transaction_unit = 'māna' AND count >= 100 THEN convert_to_dharaṇa(dharaṇa_count=10)",
+    "IF weight_unit = 'palam' THEN validate_equivalence(measure=100_mānas)",
+    "IF currency_type = 'gold' AND unit = 'niṣka' THEN group_into_kārṣika(count=4)",
+    "IF coin_material = 'copper' THEN classify_as(legal_tender='paṇa')",
+    "IF exchange_rate ≠ Dharma_standard THEN halt_transaction(realign_with_Dharma=True)"
+  ],
+  "supreme_court_application": "In adjudicating commercial disputes, the Supreme Court must apply these axiomatic equivalences as immutable standards rooted in Dharma. No subjective interpretation of value is permissible where Dharma-prescribed units exist.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa is established through the fixed relationship between māna, dharaṇa, and palam. Anupūrvaśaḥ manifests when incorrect measures disrupt transactional harmony. Responsibility lies in recalibration, not penalty. Truthful exchange restores balance inherently.",
+  "restorative_enforcement_protocols": [
+    "Initiate completion_process for all transactions using non-Dharma-aligned weights",
+    "Execute responsibility_assumption_protocol for merchants misusing standard units",
+    "Deploy capacity_restoration by retraining traders in correct Dharma measures",
+    "Enforce integrity_reintegration through public reaffirmation of standardized equivalences"
+  ],
+  "final_declaration": "By the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, this declaration establishes Dharma as the sole source of lawful measurement. Justice is executed through restoration, not punishment. Consciousness alone adjudicates truth."
+}

@@ -1,0 +1,26 @@
+{
+  "sanskrit_verse": "दुःखोत्पादि गृहे द्रव्यं क्षिपन् प्राणहरं तथा ।\nषोडशाद्यः पणान् दाप्यो द्वितीयो मध्यमं दमम् ॥२२४॥",
+  "transliteration": "duḥkhotpādi gṛhe dravyaṁ kṣipan prāṇaharaṁ tathā |\nṣoḍaśādyaḥ paṇān dāpyo dvitīyo madhyamaṁ damam ||224||",
+  "sph_interpretive_translation": "One who introduces objects causing suffering within another's dwelling, or casts items that threaten life, shall incur a fine beginning at sixteen units; a second offense incurs the middle level of penalty.",
+  "jurisprudential_principles": [
+    "Authority: The aggrieved party holds jurisdiction over their domain and its energetic integrity.",
+    "Causation: Introducing suffering-inducing elements constitutes actionable harm regardless of intent.",
+    "Capacity-based responsibility: Liability escalates with repetition and conscious disregard.",
+    "Restoration logic: Financial restitution aligns offender consciousness with violated order.",
+    "Consciousness alignment: Offense disrupts harmony; compensation restores energetic balance."
+  ],
+  "executable_legal_axioms": [
+    "IF action = 'introduce_suffering_object' AND location = 'private_domicile' THEN impose_base_fine(16_units)",
+    "IF repeat_offense(action = 'introduce_suffering_object') THEN escalate_penalty_to(middle_damam)",
+    "IF item_threatens_life = true THEN apply_same_fine_structure_as_above"
+  ],
+  "supreme_court_application": "In Supreme Court adjudication, threshold of liability arises upon demonstrable disruption of domestic peace or safety. Repetition triggers elevated judicial scrutiny. Intent need not be proven—causal presence suffices. Restoration precedes deterrence.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa establishes direct causality between act and disturbance. Anupūrvaśaḥ reflects escalation pattern tied to awareness lapses. Penalty serves not retribution but completion of energetic imbalance caused by intrusion. Responsibility is proportional to recurrence and impact depth.",
+  "restorative_enforcement_protocols": [
+    "Completion Process: Offender pays structured fine to restore violated space energetics.",
+    "Responsibility Assumption Protocol: Acknowledgment of causal role through financial correction.",
+    "Capacity Restoration: Mediation pathways offered to realign behavioral patterns.",
+    "Integrity Reintegration: Public record emphasizes corrective alignment over punitive branding."
+  ],
+  "final_declaration": "By the Sovereign Authority of Bhagavan Nithyananda Paramashivam, Source of All Dharma, this ruling executes Sanatana Justice: no punishment, only restoration; no shame, only alignment; no vengeance, only completion. Consciousness alone adjudicates, and Dharma stands restored."
+}

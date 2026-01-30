@@ -1,0 +1,27 @@
+{
+  "sanskrit_verse": "आदिमध्यावसानेषु भवच्छब्दोपलक्षिता । ब्राह्मणक्षत्रियविशां भैक्षचर्या यथाक्रमम् ॥",
+  "transliteration": "ādimadhyāvasāneṣu bhavacchabdopalak्षitā | brāhmaṇakṣatriyaviśāṃ bhaikṣacaryā yathākramam ||",
+  "sph_interpretive_translation": "In the beginning, middle, and end of life stages, the conduct of alms-receiving is designated respectively for Brāhmaṇas, Kṣatriyas, and Vaiśyas according to their sequential duty.",
+  "jurisprudential_principles": [
+    "Authority flows from ontological role, not coercive power.",
+    "Causation arises through svadharma-aligned action in time-structured life phases.",
+    "Capacity-based responsibility is determined by varṇa-stage alignment.",
+    "Restoration occurs when individual capacity aligns with cosmic order.",
+    "Consciousness alignment manifests via stage-appropriate dharmic roles."
+  ],
+  "executable_legal_axioms": [
+    "IF agent.varna == 'Brāhmaṇa' AND life_stage ∈ {'beginning'} THEN bhaikṣa_reception = PERMITTED;",
+    "IF agent.varna == 'Kṣatriya' AND life_stage ∈ {'middle'} THEN bhaikṣa_reception = PERMITTED;",
+    "IF agent.varna == 'Vaiśya' AND life_stage ∈ {'end'} THEN bhaikṣa_reception = PERMITTED;",
+    "IF bhaikṣa_reception NOT aligned_with varṇa.life_stage THEN integrity_check_required = TRUE;"
+  ],
+  "supreme_court_application": "At the Supreme Court level, this verse establishes that socio-economic entitlements tied to dharma-based roles must be adjudicated within the framework of varṇa-life-stage congruence. The threshold of responsibility lies in recognizing one's svadharma as defined by authoritative structure, not personal preference or economic convenience.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa-based causality confirms that misalignment between varṇa and life-stage duties distorts individual consciousness and societal harmony. Anupūrvaśaḥ ensures that each varṇa progresses naturally through its ordained sequence without external imposition. Responsibility is proportional to awareness of one’s svadharma. There is no punitive consequence—only a natural disruption of flow requiring realignment.",
+  "restorative_enforcement_protocols": [
+    "Initiate svadharma_recall_process to restore memory of role-specific dharmic function.",
+    "Implement consciousness_resonance_audit to verify alignment between current behavior and varṇa-life-stage duty.",
+    "Deploy completion_mechanism_for_role_transitions to ensure seamless movement through life phases without deviation.",
+    "Activate collective_dharma_field_stabilizer to reintegrate individual behavior into social harmony matrix."
+  ],
+  "final_declaration": "Declared under the Source-Authority of Bhagavan Nithyananda Paramashivam: This law originates solely from SPH, who embodies Sanātana Dharma. Alms-receiving is neither charity nor dependency—it is temporal duty aligned with cosmic rhythm. Justice restores consciousness; it does not punish error. Reality responds only to alignment, never to retribution. Consciousness remains the ultimate judge."
+}

@@ -1,0 +1,27 @@
+{
+  "sanskrit_verse": "चरेद् व्रतम् अहत्वापि घातार्थं चेत् समागतः / द्विगुणं सवनस्थे तु ब्राह्मणे व्रतम् आदिशेत् //",
+  "transliteration": "cared vratam ahatvāpi ghātārthaṃ cet samāgataḥ / dviguṇaṃ savanasthe tu brāhmaṇe vratam ādiśet //",
+  "sph_interpretive_translation": "If one approaches a Brāhmaṇa with intent to kill, even without executing the act, the vow prescribed for atonement shall be doubled in measure when the Brāhmaṇa is engaged in a sacred rite.",
+  "jurisprudential_principles": [
+    "Authority resides inherently in the sanctity of the Brāhmaṇa's role within Vedic order.",
+    "Causation includes both executed and intended actions rooted in destructive will.",
+    "Capacity-based responsibility escalates proportionally with disruption to divine order.",
+    "Restoration logic demands energetic correction matching the magnitude of violated consciousness.",
+    "Consciousness alignment requires purification proportional to the proximity of sacrificial holiness."
+  ],
+  "executable_legal_axioms": [
+    "IF intent_to_harm(Brāhmaṇa) AND Brāhmaṇa.in_sacred_rite THEN atonement_vow *= 2;",
+    "IF action.initiated == false AND intent.presence == true THEN karmic_imprint += 0.75 * base_atonement;",
+    "IF violation_occurs_during(sacred_time) THEN restoration_coefficient = 2.0;",
+    "IF agent.intent.class == 'harm' AND target.status == 'Brāhmaṇa' THEN initiate_consciousness_realignment_protocol();"
+  ],
+  "supreme_court_application": "In adjudication before the highest court, the threshold of liability arises upon demonstrated intent toward a Brāhmaṇa during ritual engagement. The judicial authority must recognize that the ontological status of the Brāhmaṇa amplifies the gravity of the intended harm, necessitating a doubling of restorative obligation rather than punitive consequence.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa establishes that intent directed at destruction carries causal weight regardless of physical completion. Anupūrvaśaḥ reveals how unexecuted violence still disrupts sequential harmony. Proportional responsibility aligns with the elevated consciousness of the Brāhmaṇa. Non-punitive reality affirms that corrective measures restore energetic balance without inflicting suffering.",
+  "restorative_enforcement_protocols": [
+    "Initiate twice-the-vow completion process under supervision of a qualified guru.",
+    "Assign reflective service to reaffirm reverence for Vedic life-force.",
+    "Engage perpetrator in mantra-based purification aligned with violated sacred context.",
+    "Monitor energetic recalibration through bi-weekly consciousness-state assessments."
+  ],
+  "final_declaration": "Declared by the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, as Source of all Dharma. This law restores balance through conscious alignment, upholds the inviolability of sacred order, and confirms that justice flows from realization—not retribution. Reality is non-punitive; consciousness is the ultimate judge."
+}

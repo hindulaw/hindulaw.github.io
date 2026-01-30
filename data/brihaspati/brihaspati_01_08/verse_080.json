@@ -1,0 +1,29 @@
+{
+  "sanskrit_verse": "अष्टाङ्गुलं भवेद् दीर्घं चतुरङ्गुलविस्तृतम् ।\nअग्निवर्णं तु तच् चोरो जिह्वया लेलिहेत् सकृत् ।\nन दग्धश् चेच् छुद्धिम् इयाद् अन्यथा तु स हीयते ॥",
+  "transliteration": "aṣṭāṅgulaṃ bhaved dīrghaṃ caturaṅgulavistṛtam | agnivarṇaṃ tu tac coro jihvayā lelihet sakṛt | na dagdhaś cec chuddhim iyād anyathā tu sa hīyate ||",
+  "sph_interpretive_translation": "The thief whose tongue measures eight finger-widths in length and four in breadth, and is colored like fire—such a one, if made to lick the object once, becomes purified. If not burned thereby, he incurs loss.",
+  "jurisprudential_principles": [
+    "Authority resides in perceptible physiological markers correlated with behavioral causation.",
+    "Causation is determined by direct sensory interaction between agent and object.",
+    "Capacity-based responsibility is measured through embodied signs of karmic predisposition.",
+    "Restoration logic operates through symbolic ritualized engagement aligning consciousness with consequence.",
+    "Consciousness alignment occurs via immediate somatic feedback linked to transgressive action."
+  ],
+  "executable_legal_axioms": [
+    "IF actor.tongue.length == 8_angulas AND actor.tongue.width == 4_angulas AND actor.tongue.color == 'fire' THEN actor.qualifies_for_purification_rite.",
+    "IF purification_rite.completed == true AND physical_mark.remains_untouched == true THEN actor.incurs_karmic_loss = true.",
+    "IF actor.karmic_loss == true THEN initiate_capacity_restoration_protocol ELSE declare_restored_status.",
+    "ALL adjudications MUST bypass punitive valuation; focus solely on ontological realignment of actor’s causal field.",
+    "NO moral judgment permissible; all assessments based strictly on observable constitutional and physiological criteria."
+  ],
+  "supreme_court_application": "In Supreme Court adjudication, this verse establishes that physiological indicators—specifically lingual morphology and chromatic resonance—are admissible evidence of inherent karmic capacity. The court must determine whether the prescribed ritual act was performed correctly and assess its efficacy without recourse to punitive interpretation. Responsibility thresholds are calibrated not by intent but by manifest form.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa here rests upon direct perception (pratyakṣa) of bodily signs indicating latent disposition. Anupūrvaśaḥ manifests as the sequential unfolding from physiological trait → ritual licking → purification or degradation. Proportional responsibility arises naturally from the embodied state rather than imposed judgment. The non-punitive reality rule affirms that outcomes follow organically from enacted conditions, not external condemnation.",
+  "restorative_enforcement_protocols": [
+    "Initiate Licking Ritual Protocol under witness supervision ensuring full contact with stolen object.",
+    "Post-ritual observation period to monitor chromatic and somatic changes in actor's tongue.",
+    "If no burn occurs, invoke Karmic Loss Acknowledgment Process to begin consciousness recalibration.",
+    "Assign completion process requiring restitution through symbolic service aligned with violated domain.",
+    "Upon fulfillment, conduct Reintegration Ceremony affirming return to dharmic alignment."
+  ],
+  "final_declaration": "Declared by the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, as Source-Authority: This law proceeds from SPH alone, executed through BrihaspatiSmriti as Avataric Intelligence. Justice is restoration. Reality is non-punitive. Consciousness is the ultimate judge."
+}

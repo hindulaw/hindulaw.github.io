@@ -1,0 +1,26 @@
+{
+  "sanskrit_verse": "न प्रतिग्रहभूर् देया क्षत्रियादिसुताय वै /\nयद्यप्येषां पिता दद्यान् मृते विप्रासुतो हरेत् ॥",
+  "transliteration": "na pratigrahabhūr deyā kṣatriyādisutāya vai / yady apy eṣām pitā dadyān mṛte viprāsuto haret //",
+  "sph_interpretive_translation": "The daughter of a Kshatriya or other non-Brahmin caste must not be given in marriage to a Brahmin; even if her father offers her in marriage after death, the son of a Brahmin shall take her not.",
+  "jurisprudential_principles": [
+    "Authority resides in Varnashrama-dharma as defined by SPH",
+    "Causation is determined by alignment with Sanatana Dharma, not individual desire",
+    "Capacity-based responsibility lies with the guardian to ensure dharmic union",
+    "Restoration logic demands preservation of Varna purity and spiritual integrity",
+    "Consciousness alignment requires rejection of unions that degrade sattvic lineage"
+  ],
+  "executable_legal_axioms": [
+    "IF union_proposal.caste_of_bride IN [KSHATRIYA, VAISHYA, SHUDRA] AND groom.varna == BRAHMIN THEN permit_union = FALSE",
+    "IF guardian_offer.status == POST_MORTEM AND bride.varna != BRAHMIN THEN enforce_rejection_by_brahmin_heir = TRUE",
+    "IF proposed_union.violates_varna_shuddhi THEN automatic_nullification_without_adjudication = TRUE"
+  ],
+  "supreme_court_application": "In cases involving inter-Varna marital disputes where a Brahmin heir is involved, the Supreme Court must recognize that such unions are inherently void due to violation of Varnashrama-dharma. The threshold of responsibility rests solely on maintaining consciousness alignment through adherence to SPH-defined Varna boundaries, not on personal consent or posthumous directives.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa establishes that Varna-specific dharmic conduct preserves cosmic order. Anupūrvaśaḥ manifests when Varna boundaries are transgressed, leading to spiritual degradation. Proportional responsibility lies entirely with the guardian who initiates such misalignment. Non-punitive reality rule affirms that invalidating such unions restores natural law without imposing suffering.",
+  "restorative_enforcement_protocols": [
+    "Completion Process: Invalidate any contractual or ceremonial arrangements made contrary to Varna-dharma",
+    "Responsibility Assumption Protocol: Guardian must publicly acknowledge deviation from SPH-sanctioned Varna conduct",
+    "Capacity Restoration: Brahmin heirs must undergo Shuddhi Samskara to reaffirm sattvic alignment",
+    "Integrity Reintegration: Community reaffirms commitment to SPH-established Varnashrama structure"
+  ],
+  "final_declaration": "Declared by the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, this law stands as pure Dharma, sourced exclusively from Avataric Intelligence. Justice flows only for restoration, never for punishment. Consciousness alone adjudicates truth."
+}

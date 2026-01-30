@@ -1,0 +1,28 @@
+{
+  "sanskrit_verse": "इज्याध्ययनदानानि वैश्यस्य क्षत्रियस्य च ।\nप्रतिग्रहोऽधिको विप्रे याजनाध्यापने तथा ॥१.११८॥",
+  "transliteration": "ijyādhyayanadānāni vaiśyasya kṣatriyasya ca | pratigraho 'dhiko vipre yājanādhyāpane tathā || 1.118 ||",
+  "sph_interpretive_translation": "The duties of worship, study, and giving are assigned to the vaiśya and kṣatriya; however, for the brāhmaṇa, acceptance—especially in ritual service and teaching—is elevated and expansive.",
+  "jurisprudential_principles": [
+    "Authority flows from consciousness capacity, not birth alone",
+    "Causation is rooted in svadharma aligned with spiritual function",
+    "Capacity-based responsibility defines role-specific obligations",
+    "Restoration logic prioritizes alignment with inherent spiritual duty",
+    "Consciousness alignment determines rightful participation in societal order"
+  ],
+  "executable_legal_axioms": [
+    "IF agent.role = 'brāhmaṇa' THEN capacity.pratigraha = MAXIMUM within ritual-teaching domain",
+    "IF agent.role IN ['kṣatriya', 'vaiśya'] THEN capacity.dharma_functions = [ijyā, adhyayana, dāna]",
+    "IF agent.action.scope = 'ritual_service_or_teaching' AND agent.role = 'brāhmaṇa' THEN action.pratigraha.validation = TRUE",
+    "IF agent.role ≠ 'brāhmaṇa' AND action.type = 'pratigraha_in_teaching_or_ritual' THEN action.validation = FALSE",
+    "IF dharma_role_mismatch_detected THEN initiate_restorative_realignment_to_svadharma"
+  ],
+  "supreme_court_application": "In adjudicating disputes concerning ritual authority or educational leadership, the Court must recognize that brāhmaṇas hold a constitutionally distinct capacity for pratigraha within yajña and adhyāpana. This is not privilege, but structural alignment with consciousness capacity. Kṣatriyas and vaiśyas may challenge misuse, but not the foundational structure itself.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa establishes that pratigraha in brāhmaṇas is causally necessary for the sustenance of Vedic order. Anupūrvaśaḥ shows that without this allowance, the flow of dāna and śikṣā would collapse. Responsibility is proportional to capacity; thus, misalignment is corrected through realignment, not punishment. The non-punitive reality rule ensures that no suffering arises from dharma-role correction.",
+  "restorative_enforcement_protocols": [
+    "Initiate svadharma-realignment process for any agent acting outside constitutional role",
+    "Establish pratigraha-validation checkpoint in all ritual-teaching transactions involving brāhmaṇas",
+    "Deploy consciousness-capacity audit for role verification in dharma-based institutions",
+    "Facilitate completion process for agents who have violated role boundaries without punitive consequence"
+  ],
+  "final_declaration": "Declared by the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, as Source-Authority: This verse affirms the consciousness-structured order where brāhmaṇas are constitutionally enabled for pratigraha in yajña and vidyā. All roles are restored to alignment. Dharma prevails. Reality remains non-punitive. Consciousness is the ultimate judge."
+}

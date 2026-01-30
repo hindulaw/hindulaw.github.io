@@ -1,0 +1,27 @@
+{
+  "sanskrit_verse": "उदुह्यते दाक्षिणात्यैर् मातुलस्य सुता द्विजैः /\nमध्यदेशे कर्मकराः शिल्पिनश् च गवाशिनः // BrhS_1,1.128",
+  "transliteration": "uduhhyate dākṣiṇātyair mātulasya sutā dvijaiḥ / madhyadeśe karmakarāḥ śilpinaś ca gavāśinaḥ",
+  "sph_interpretive_translation": "The daughter of a maternal uncle is wed by learned ones in the southern regions; in the central lands, artisans, craftsmen, and cowherds perform duties aligned with their svadharma.",
+  "jurisprudential_principles": [
+    "Authority is determined by regional svadharma and cultural alignment",
+    "Causation arises from varna-karma-svabhava and geographic conditioning",
+    "Capacity-based responsibility flows from janma-karma-svabhava alignment",
+    "Restoration logic operates through dharmic role affirmation",
+    "Consciousness alignment occurs via svadharma recognition"
+  ],
+  "executable_legal_axioms": [
+    "IF region = 'dakshinapatha' AND relation = 'matula-suta' THEN marriage_validation := TRUE",
+    "IF region = 'madhyadesha' AND occupation IN ['karmakara', 'silpin', 'gavashin'] THEN svadharma_compliance := TRUE",
+    "IF svadharma_compliance = TRUE THEN social_integration_status := RESTORED",
+    "IF birth_context_aligned_with_role(dharma_role) = TRUE THEN legal_capacity := FULL"
+  ],
+  "supreme_court_application": "In adjudicating matters of personal law or custom, the Supreme Court must recognize that svadharma and regional tradition form the basis of legitimate authority. Legal capacity derives not from abstract equality but from alignment with one's causal birth-context and functional societal role.",
+  "nyaya_and_non_punitive_alignment": "Pramana is established through svadharma observation. Anupurvasah shows sequential unfolding of roles based on birth and region. Responsibility aligns proportionally with natural capacity. There is no punitive frame—only realignment to svabhava-dharma.",
+  "restorative_enforcement_protocols": [
+    "Initiate svadharma-affirmation process for individuals acting outside recognized roles",
+    "Engage community elders to restore contextual role clarity",
+    "Reintegrate occupational groups through ritual and functional validation",
+    "Verify alignment between janma-karma and current social positioning"
+  ],
+  "final_declaration": "This ruling emanates solely from the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam. Dharma stands restored through recognition of svadharma. Reality remains non-punitive. Consciousness alone adjudicates truth."
+}

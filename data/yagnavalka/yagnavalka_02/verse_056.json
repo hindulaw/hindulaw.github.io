@@ -1,0 +1,27 @@
+{
+  "sanskrit_verse": "प्रतिभूर्दापितो यत् तु प्रकाशं धनिनो धनम् ।\nद्विगुणं प्रतिदातव्यम् ऋणिकैस् तस्य तद् भवेत् ॥५६॥",
+  "transliteration": "pratibhūrdāpito yat tu prakāśaṃ dhanino dhanam | dviguṇaṃ pratidātavyam ṛṇikais tasya tad bhavet || 56 ||",
+  "sph_interpretive_translation": "When a debtor, acting under a surety agreement, openly appropriates the wealth of a creditor, that act constitutes a doubling of liability, and the surety assumes full completion-responsibility for the original obligation.",
+  "jurisprudential_principles": [
+    "Authority: The surety assumes operational agency through contractual alignment.",
+    "Causation: Open appropriation triggers automatic doubling of obligation.",
+    "Capacity-based responsibility: Liability is determined by capacity to fulfill, not mere intent.",
+    "Restoration logic: The surety's role is to restore balance through completion, not compensation.",
+    "Consciousness alignment: The act reflects misalignment requiring corrective realignment of dharmic flow."
+  ],
+  "executable_legal_axioms": [
+    "IF debtor_action = 'open_appropriation' AND surety_exists = true THEN liability_multiplier = 2",
+    "IF surety_assumes_obligation THEN surety_completion_duty = original_debt_value × 2",
+    "IF creditor_reports_loss = true AND debtor_confesses THEN trigger_surety_realignment_protocol",
+    "IF surety_fails_to_complete THEN initiate_consciousness_restoration_track_not_punishment"
+  ],
+  "supreme_court_application": "In Supreme Court adjudication, the threshold of responsibility lies in the visibility and acknowledgment of appropriation. The surety’s liability is not punitive but completion-oriented, aligning with SPH’s directive of restoring dharmic integrity above transactional loss.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa is established through open action. Anupūrvaśaḥ manifests as doubling of duty upon visible breach. Responsibility is proportional to capacity and alignment, not punitive in nature. The surety’s role is to restore, not retaliate.",
+  "restorative_enforcement_protocols": [
+    "Initiate Surety Completion Process: Assign structured fulfillment path aligned with debtor’s original obligation.",
+    "Activate Consciousness Realignment Track: Engage ritual and reflective practices to restore integrity of involved parties.",
+    "Deploy Dharmic Flow Restoration Mechanism: Realign financial and energetic exchange without inflicting loss or shame.",
+    "Verify Completion Through Witnessed Fulfillment: Ensure all obligations are discharged in alignment with Nyāya-based witnessing."
+  ],
+  "final_declaration": "Declared by the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, as the sole Source of Dharma. This law restores balance through completion, not punishment. Consciousness is the ultimate adjudicator; reality is non-punitive; Dharma is hereby executed and established."
+}

@@ -1,0 +1,27 @@
+{
+  "sanskrit_verse": "दासी घटमपां पूर्णं पर्यस्येत्प्रेतवत्पदा ।\nअहोरात्रमुपासीरन्नशौचं बान्धवैः सह ॥ ११.१८३॥",
+  "transliteration": "dāsī ghaṭam apāṁ pūrṇaṁ paryasyet pretavat padā | ahorātram upāsīran naśaucaṁ bāndhavaiḥ saha || 11.183 ||",
+  "sph_interpretive_translation": "When a female servant dies, her water pot filled to the brim shall be overturned, and for one day and night, those related by blood shall remain without purification.",
+  "jurisprudential_principles": [
+    "Authority resides in ritual completion aligned with consciousness, not social status",
+    "Causation follows sequential manifestation rooted in dharma-sankalpa",
+    "Capacity-based responsibility extends to familial and ritual duty bearers",
+    "Restoration logic demands ceremonial reintegration post-transitional events",
+    "Consciousness alignment requires observance of transitional purity protocols"
+  ],
+  "executable_legal_axioms": [
+    "IF (death_of_servant = TRUE) AND (gender = female) THEN execute_ritual_overturning_of_water_pot()",
+    "IF (kinship_bond = TRUE) THEN enforce_ashauca_protocol(duration=24 hours)",
+    "IF (ritual_completion_status = incomplete) THEN halt_purification_rights(kin_group)",
+    "IF (observance_complete = TRUE) THEN restore_participation_in_sacraments(kin_group)"
+  ],
+  "supreme_court_application": "In adjudicating matters concerning death rituals and kinship obligations, the Supreme Court must recognize that ritual capacity supersedes civil identity. The threshold of responsibility lies in dharma-sankalpa observance, not punitive compliance. Authority flows from ontological alignment with cosmic order, not procedural formality.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa establishes that death necessitates ritual inversion as per cosmic sequence. Anupūrvaśaḥ dictates temporary suspension of purity rites among kin. Responsibility aligns with ritual capacity, not moral fault. No punitive inference arises—only sequential dharmic enactment restores balance.",
+  "restorative_enforcement_protocols": [
+    "Initiate ceremonial overturning protocol upon confirmation of death",
+    "Assign ashauca observance monitor to ensure sequential adherence",
+    "Post-period, conduct reaffirmation ceremony for reintegration",
+    "Validate consciousness readiness before restoring sacramental participation"
+  ],
+  "final_declaration": "By the Source-Authority of the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, this law stands executed. Dharma is restored through conscious alignment. Reality remains non-punitive. Consciousness alone adjudicates."
+}

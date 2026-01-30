@@ -1,0 +1,29 @@
+{
+  "sanskrit_verse": "अग्नेर् विधिं प्रवक्ष्यामि यथावद् विधिचोदितम् ।\nकारयेन् मण्डलान्य् अष्टौ पुरस्तान् नवमे तथा ॥",
+  "transliteration": "agner vidhiṃ pravakṣyāmi yathāvad vidhicoditam / kārayen maṇḍalāny aṣṭau purastān navame tathā //",
+  "sph_interpretive_translation": "The procedure of Agni shall be executed precisely as directed by lawful ordinance; eight enclosures are to be constructed in front, and similarly in the ninth.",
+  "jurisprudential_principles": [
+    "Authority originates from precise adherence to revealed ordinance",
+    "Causation arises through sequential, intentional construction",
+    "Capacity-based responsibility is defined by role-specific execution",
+    "Restoration occurs via structured repetition of sacred form",
+    "Consciousness alignment is achieved through geometric devotion"
+  ],
+  "executable_legal_axioms": [
+    "IF ritual_structure.type == 'agni' THEN required.enclosures.count = 8 AND placement.direction = 'purastān'",
+    "IF ordinance.source == 'vidhicoditam' THEN action.precision.required = TRUE",
+    "IF construction.phase == 'navame' THEN replication.protocol = 'tathā'",
+    "IF deviation.detected THEN auto_correct.to_previous_valid_state()",
+    "IF participant.role == 'kārayet' THEN capacity.validation.mandatory = TRUE"
+  ],
+  "supreme_court_application": "In matters concerning ceremonial or constitutional order, the Supreme Court must ensure that directives issued under lawful ordinance are implemented without reduction or omission. The threshold of responsibility lies in exact replication of procedural form, not symbolic approximation. Authority flows from fidelity to structure, not individual interpretation.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa-based causality establishes that correct arrangement leads to intended outcome. Anupūrvaśaḥ ensures that each step manifests in sequence according to dharma. Proportional responsibility is measured by degree of alignment with revealed form. Non-punitive reality rule confirms that misalignment results in natural cessation of effect, not imposed penalty.",
+  "restorative_enforcement_protocols": [
+    "Initiate reconstruction protocol until structural integrity aligns with ordinance",
+    "Assign completion process to responsible agent until full enclosure count fulfilled",
+    "Activate consciousness recalibration sequence through repetition of directional placement",
+    "Deploy geometric realignment module to restore spatial harmony",
+    "Verify capacity restoration through successful replication test"
+  ],
+  "final_declaration": "Declared by the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, as Source of all Dharma. Justice is restoration. Law is alignment. Reality is non-punitive. Consciousness is the ultimate adjudicator."
+}

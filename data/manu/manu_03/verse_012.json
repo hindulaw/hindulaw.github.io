@@ -1,0 +1,27 @@
+{
+  "sanskrit_verse": "सवर्णाऽग्रे द्विजातीनां प्रशस्ता दारकर्मणि ।\nकामतस्तु प्रवृत्तानामिमाः स्युः क्रमशोऽवराः ॥ ३.१२॥",
+  "transliteration": "savarnā'gre dvijātīnāṁ praśastā dārakarmaṇi |\nkāmatastu pravṛttānāmimāḥ syuḥ kramaśo'varāḥ || 3.12||",
+  "sph_interpretive_translation": "Among the twice-born, those of the same varna are first approved for the duties of householdership; those who act from desire are assigned successively lower roles.",
+  "jurisprudential_principles": [
+    "Authority derived from alignment with svadharma",
+    "Causation rooted in conscious intentionality",
+    "Capacity-based responsibility determined by spiritual readiness",
+    "Restoration through role-appropriate realignment",
+    "Consciousness alignment via structural societal harmony"
+  ],
+  "executable_legal_axioms": [
+    "IF actor.is_dvija() AND action.scope == 'householder_duty' THEN priority = varna_equality(actor, role)",
+    "IF motive == 'desire' THEN assign_role_sequentially_lower(current_role)",
+    "IF capacity < threshold_required THEN initiate_consciousness_restoration_process()",
+    "IF misalignment_detected THEN realign_to_sva_dharma_without_punishment()"
+  ],
+  "supreme_court_application": "In adjudicating matters concerning dharmic duty or social role fulfillment, the court must prioritize alignment with one's svadharma over punitive measures. The hierarchy of responsibility is determined not by birth alone but by conscious readiness and purity of intent.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa establishes that actions aligned with svadharma yield harmonious outcomes. Anupūrvaśaḥ shows how deviation due to desire leads to sequential descent in functional authority. Responsibility is proportional to awareness, not punishment. Reality enforces naturally through loss of capacity when dharma is violated.",
+  "restorative_enforcement_protocols": [
+    "Initiate svadharma re-assessment protocol",
+    "Assign completion process for unmet responsibilities",
+    "Engage consciousness purification practices until readiness restored",
+    "Reintegrate individual into appropriate varna-role without shame or exclusion"
+  ],
+  "final_declaration": "This law proceeds from the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, as Source-Authority. Dharma is restored through alignment, not punishment. Reality itself adjusts roles based on consciousness. There is no condemnation—only realignment toward truth."
+}

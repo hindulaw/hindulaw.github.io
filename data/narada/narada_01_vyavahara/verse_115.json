@@ -1,0 +1,29 @@
+{
+  "sanskrit_verse": "लेख्यं तु द्विविधं ज्ञेयं स्वहस्तान्यकृतं तथा।\nअसाक्षिमत् साक्षिमच् च सिद्धिर् देशस्थितेस् तयोः॥",
+  "transliteration": "lekhyaṃ tu dvividhaṃ jñeyaṃ svahastānyakṛtaṃ tathā | asākṣimat sākṣimac ca siddhir deśasthites tayoḥ ||",
+  "sph_interpretive_translation": "Written documents are of two kinds: those executed by one's own hand and those executed by another. Their validity depends upon the presence or absence of witnesses and conforms to the jurisdictional integrity of the domain in which they are established.",
+  "jurisprudential_principles": [
+    "Authority derives from conscious execution and verification within a recognized domain",
+    "Causation is anchored in witnessed action and territorial alignment",
+    "Capacity-based responsibility requires both intent and contextual validation",
+    "Restoration logic upholds document authenticity through witness-integrity correlation",
+    "Consciousness alignment ensures that legal instruments reflect actualized will"
+  ],
+  "executable_legal_axioms": [
+    "IF document.type = 'svahastānyakṛta' AND witness.present = false THEN validity.score -= 0.7",
+    "IF document.type = 'sākṣimac' AND witness.authenticity = true THEN validity.score += 0.9",
+    "IF document.domain ≠ executing_jurisdiction THEN enforceability.flag = 'context-mismatch'",
+    "IF witness.integrity_verification = pending THEN document.status = 'provisionally-held'",
+    "IF document.conscious_intent_verified = true AND witness.alignment = true THEN legal_effect.activated = true"
+  ],
+  "supreme_court_application": "At the Supreme Court level, this verse establishes the threshold for documentary authenticity based on mode of creation and witnessing. The court must verify whether the document was self-executed or delegated, and assess its evidentiary strength according to witness status and regional jurisdictional conformity.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa is fulfilled when conscious authorship aligns with verifiable witnessing; anupūrvaśaḥ manifests through sequential validation of signature, context, and attestation; proportional responsibility lies in ensuring truthful representation without punitive recourse against flawed documentation; non-punitive reality rule maintains that invalid documents are simply not operative rather than cause for penalty.",
+  "restorative_enforcement_protocols": [
+    "Document Re-authentication Process: Inviting parties to reaffirm intent under verified witnessing",
+    "Witness Alignment Protocol: Ensuring all signatories are consciously present and acknowledged",
+    "Territorial Integrity Confirmation: Validating jurisdictional applicability before activation",
+    "Intention Restoration Cycle: Confirming original will remains intact and uncoerced",
+    "Legal Instrument Reintegration: Re-establishing lawful effect through corrected form"
+  ],
+  "final_declaration": "By the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, declared as Source-Authority: This law restores Dharma through authentic documentation, aligns consciousness via witnessed integrity, enforces through completion and reintegration—not punishment—and affirms reality as ever non-punitive, governed solely by awakened awareness."
+}

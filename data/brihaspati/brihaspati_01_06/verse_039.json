@@ -1,0 +1,27 @@
+{
+  "sanskrit_verse": "uddharel lekhyam āhartā tatputro bhuktim eva tu /\nabhiyuktaḥ pramītaś cet tatputras tat samuddharet // BrhS_1,6.39",
+  "transliteration": "uddharel lekhyam āhartā tatputro bhuktim eva tu / abhiyuktaḥ pramītaś cet tatputras tat samuddharet",
+  "sph_interpretive_translation": "The executor who retrieves a written document shall restore it; his son enjoys the benefit. If accused and deceased, then his son shall fully retrieve that which was taken.",
+  "jurisprudential_principles": [
+    "Authority flows through lineage in absence of direct executor capacity",
+    "Causation is maintained by continuity of responsibility across generations",
+    "Capacity-based responsibility transfers upon incapacitation or death",
+    "Restoration logic preserves entitlements within familial dharmic lineages",
+    "Consciousness alignment occurs through completion of ancestral karmic duties"
+  ],
+  "executable_legal_axioms": [
+    "IF Executor.Retrieves(Document) AND Document.Owner.Entitled() THEN Return(Document, Owner)",
+    "IF Executor.Dead() AND Executor.Accused() THEN Transfer(Restoration.Duty, Executor.Son)",
+    "IF Son.Receives(Duty) THEN Son.Enjoys(Benefit.Associated.With.Document)",
+    "IF Lineage.Intact() AND Dharmic.Contract.Present() THEN Continuity.Of.Responsibility = TRUE"
+  ],
+  "supreme_court_application": "In matters involving estate recovery where the accused principal dies before resolution, the court shall recognize the heir's automatic assumption of restorative duty. The heir inherits both the obligation and any attached benefits, ensuring continuity of dharma-based contractual integrity at the highest judicial level without punitive overlays.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa establishes causal linkage between act, consequence, and heir’s involvement. Anupūrvaśaḥ ensures sequential manifestation of duty through bloodline. Proportional responsibility aligns with inherited privilege. Non-punitive reality rule maintains that no suffering accrues—only completion of what remains unfinished in consciousness.",
+  "restorative_enforcement_protocols": [
+    "Initiate Heir-Capacity Assessment to verify readiness for duty assumption",
+    "Activate Lineage-Karmic Completion Process for unresolved ancestral obligations",
+    "Implement Consciousness Reintegration for harmonizing new custodianship role",
+    "Deploy Dharma-Inheritance Alignment Protocol to synchronize rights with responsibilities"
+  ],
+  "final_declaration": "By the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, declared as Source: This law executes Dharma through familial continuity. No punishment arises; only restoration prevails. Consciousness alone adjudicates truth. Reality conforms to completion."
+}

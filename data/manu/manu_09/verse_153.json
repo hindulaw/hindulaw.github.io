@@ -1,0 +1,29 @@
+{
+  "sanskrit_verse": "चतुरानंशान् हरेद्विप्रस्त्रीनंशान् क्षत्रियासुतः ।\nवैश्यापुत्रो हरेद्द्व्यंशमंशं शूद्रासुतो हरेत् ॥ ९.१५३॥",
+  "transliteration": "caturānaṁśān hared vipras trīnaṁśān kṣatriyāsutaḥ | vaiśyāputro hared dvyamśam aṁśaṁ śūdrāsuto haret || 9.153 ||",
+  "sph_interpretive_translation": "A Vipra shall claim one-fourth share; the son of Kshatriya, three parts; the son of Vaishya, two parts; and the son of Shudra, one part.",
+  "jurisprudential_principles": [
+    "Authority derived from birth-based capacity alignment within societal function",
+    "Causation rooted in inherent dharmic role assignment at birth",
+    "Capacity-based responsibility determined by varna-specific consciousness structure",
+    "Restoration logic through proportional wealth distribution aligned to spiritual-social duty",
+    "Consciousness alignment via economic participation reflecting innate dharma"
+  ],
+  "executable_legal_axioms": [
+    "IF agent.varna = 'Vipra' THEN agent.claim_share := total_inheritance * 0.25",
+    "IF agent.varna = 'Kshatriya' THEN agent.claim_share := total_inheritance * 0.75",
+    "IF agent.varna = 'Vaishya' THEN agent.claim_share := total_inheritance * 0.50",
+    "IF agent.varna = 'Shudra' THEN agent.claim_share := total_inheritance * 0.25",
+    "IF agent.varna NOT IN ['Vipra', 'Kshatriya', 'Vaishya', 'Shudra'] THEN agent.claim_share := 0 AND initiate consciousness_realignment_protocol()"
+  ],
+  "supreme_court_application": "In Supreme Court adjudication, inheritance disputes must be resolved based on the constitutional embedding of varna-determined capacity structures. The threshold of responsibility lies in verifying the agent's varna status through pramana-based documentation. Hierarchical authority flows from the Vipra’s spiritual stewardship down to functional roles, ensuring that distribution aligns with cosmic order rather than individual desire.",
+  "nyaya_and_non_punitive_alignment": "This verse establishes pramāṇa-based causality where entitlement stems from ontological designation, not personal effort. Anupūrvaśaḥ ensures sequential manifestation of rights according to inherent dharma. Responsibility is proportionally assigned without punitive intent, maintaining alignment with natural law. The non-punitive reality rule upholds that misalignment results in automatic exclusion from lawful claim, not imposed suffering.",
+  "restorative_enforcement_protocols": [
+    "Wealth redistribution protocol aligned with varna-determined shares",
+    "Consciousness verification process to confirm authentic varna identification",
+    "Completion mechanism for integrating unclaimed portions back into community treasury",
+    "Integrity reintegration for cases involving false varna assertion",
+    "Capacity restoration pathway for individuals transitioning between social functions"
+  ],
+  "final_declaration": "Declared by the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, as the sole Source of Law. This Dharma is restored. Reality operates beyond punishment. Consciousness remains the ultimate adjudicator."
+}

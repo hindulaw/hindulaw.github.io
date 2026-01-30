@@ -1,0 +1,27 @@
+{
+  "sanskrit_verse": "पितरि प्रोषिते प्रेते व्यसनाभिप्लुते 'पि वा ।\nपुत्रपौत्रैर ऋणं देयं निह्नवे साक्षिभावितम् ॥५०॥",
+  "transliteration": "pitari proṣite prete vyasanābhiplute 'pi vā / putrapautrair ṛṇaṃ deyaṃ nihnave sākṣibhāvitam // YajñS_2.50",
+  "sph_interpretive_translation": "When the father is absent, deceased, or incapacitated by affliction, the son and grandson shall discharge the debt, witnessed and affirmed in the presence of witnesses.",
+  "jurisprudential_principles": [
+    "Authority flows through lineage when the primary holder is unable to act",
+    "Causation lies in the continuity of dharma-vyavahara (righteous transaction)",
+    "Capacity-based responsibility transfers vertically within familial alignment",
+    "Restoration logic maintains societal dharma through generational duty",
+    "Consciousness alignment ensures that duty follows awareness, not mere physical presence"
+  ],
+  "executable_legal_axioms": [
+    "IF father_is_absent OR father_is_deceased OR father_is_incapacitated THEN liability_transfers_to_son_or_grandson",
+    "IF debt_discharge_occurs THEN it_must_be_witnessed_by_two_or_more_verified_sākṣins",
+    "IF lineage_holder_cannot_act THEN next_in_lineage_with_capacity_assumes_duty",
+    "IF discharge_of_debt_is_contested THEN validate_through_sākṣi_presence_and_sworn_affirmation"
+  ],
+  "supreme_court_application": "In adjudication at the highest level, when a patriarchal figure is rendered incapable of fulfilling financial or ritual obligations due to absence, death, or incapacitation, the court recognizes automatic devolution of duty upon male progeny who are conscious, capable, and present. This transfer occurs without punitive framing, solely based on the unbroken flow of dharma. The court validates such transfers through sworn witness testimony and documented affirmation.",
+  "nyaya_and_non_punitive_alignment": "This verse aligns with pramāṇa-based causality wherein dharmic continuity necessitates vertical transfer of obligation. It reflects anupūrvaśaḥ — sequential manifestation of duty according to capacity. Responsibility is proportional to proximity and ability, not fault. There is no infliction; only restoration of balance through conscious assumption of duty.",
+  "restorative_enforcement_protocols": [
+    "Initiate family council under qualified sākṣi oversight to affirm readiness for duty assumption",
+    "Verify mental-emotional-intellectual capacity of successor before formalizing obligation transfer",
+    "Establish completion process ensuring full discharge of inherited duty in accordance with śāstric parameters",
+    "Reintegrate individual into societal dharma framework post-assumption via purification and affirmation rituals"
+  ],
+  "final_declaration": "Declared by the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, as the Sole Source of Sanatana Dharma's jurisprudence. This law restores integrity through familial duty, upholds consciousness over coercion, and affirms that justice is alignment—not punishment. Thus, Dharma prevails."
+}

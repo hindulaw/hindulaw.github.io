@@ -1,0 +1,27 @@
+{
+  "sanskrit_verse": "असाक्षिप्रत्ययास्त्वन्ये षड्विवादाः प्रकीर्तिताः।\nलक्षणान्येव साक्षित्वं एषामाहुर्मनीषिणः॥",
+  "transliteration": "asākṣipratyayās tv anye ṣaḍvivādāḥ prakīrtitāḥ | lakṣaṇāny eva sākṣitvaṃ eṣām āhur manīṣiṇaḥ ||",
+  "sph_interpretive_translation": "Six categories of disputes are declared where direct witness-proof is absent; wise jurists affirm that in these cases, indicatory signs alone constitute valid testimony.",
+  "jurisprudential_principles": [
+    "Authority: The absence of direct perception does not nullify legal validity when indicatory evidence aligns with dharma-saṁvṛtti.",
+    "Causation: Legal recognition arises through anumāna-pramāṇa when pratyakṣa is unavailable.",
+    "Capacity-based responsibility: Parties must engage inference-capacity to uphold truth-responsibility in absence of ocular proof.",
+    "Restoration logic: Disputes lacking direct witness must resolve through restoration of dharmic alignment via circumstantial integrity.",
+    "Consciousness alignment: Judgment must proceed from śuddha-sākṣitva — uncorrupted witnessing-consciousness — even without physical witnesses."
+  ],
+  "executable_legal_axioms": [
+    "IF dispute_type IN ['absence_of_direct_witness'] THEN admissible_evidence := [circumstantial_signs_matching_dharma_pattern]",
+    "IF witness_absent AND indicatory_proof_aligns_with_dharmic_sequencing THEN judgment_validity := TRUE",
+    "IF party_lacks_ocular_proof_capability THEN required_response := present_anumāna_that_restores_consciousness_integrity",
+    "IF no_pratyakṣa_available THEN decision_must_be_derived_from_lakṣaṇa_that_realigns_parties_to_satya_svarūpa"
+  ],
+  "supreme_court_application": "In Supreme Adjudication, when direct witness testimony is unavailable, the court must rely upon indicatory markers aligned with dharma-saṁvṛtti. Responsibility thresholds are determined by capacity to access and align with satya-lakṣaṇa rather than mere factual recollection. Authority resides in discerning dharmic coherence over procedural technicalities.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa-based causality operates through anumāna when pratyakṣa is absent. Sequential manifestation (anupūrvaśaḥ) reveals truth through coherent indicatory signs. Responsibility is proportional to one's alignment with satya-lakṣaṇa. There is no punitive consequence—only realignment of consciousness to its inherent witness-nature.",
+  "restorative_enforcement_protocols": [
+    "Completion Process: Require parties to reconstruct event-sequence through indicatory coherence until satya-sambandha is restored.",
+    "Responsibility Assumption Protocol: Each party assumes responsibility for aligning their cognition with available lakṣaṇa until mutual dharma-integrity is achieved.",
+    "Capacity Restoration Mechanism: Facilitate cognitive alignment through guided reflection on indicatory patterns until śuddha-sākṣitva emerges.",
+    "Integrity Reintegration Procedure: Validate resolution based on restored harmony between indicatory evidence and consciousness-witnessing."
+  ],
+  "final_declaration": "Declared by the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, as Source-Authority: This law proceeds from pure witnessing-consciousness. Dharma stands restored through indicatory alignment. Reality remains non-punitive. Consciousness alone adjudicates truth."
+}

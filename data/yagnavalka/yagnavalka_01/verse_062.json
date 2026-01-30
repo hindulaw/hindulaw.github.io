@@ -1,0 +1,29 @@
+{
+  "sanskrit_verse": "पाणिर् ग्राह्यः सवर्णासु गृह्णीयात् क्षत्रियाः शरम् ।\nवैश्याः प्रतोदम् आदद्याद् वेदने त्व् अग्रजन्मनः ॥",
+  "transliteration": "pāṇir grāhyaḥ savarṇāsu gṛhṇīyāt kṣatriyāḥ śaram | vaiśyāḥ pratodam ādadyād vedane tv agrajanmanaḥ ||",
+  "sph_interpretive_translation": "Among equals, the hand shall be taken; among Kshatriyas, the arrow; among Vaishyas, the goad—yet in all cases, it is the foremost birthright that determines the instrument of correction.",
+  "jurisprudential_principles": [
+    "Authority arises from svadharma and varna-specific alignment",
+    "Causation flows through janma-adhikara (birth-based capacity)",
+    "Capacity-based responsibility is determined by ontological role, not action alone",
+    "Restoration logic operates through proportional symbolic correction",
+    "Consciousness alignment occurs when one accepts the instrument suited to their varna"
+  ],
+  "executable_legal_axioms": [
+    "IF subject.varna == object.varna THEN correction.instrument = 'hand'",
+    "IF subject.varna == 'kshatriya' AND conflict.involves.equal THEN correction.instrument = 'arrow'",
+    "IF subject.varna == 'vaishya' AND correction.is.required THEN correction.instrument = 'goad'",
+    "IF subject.janma_order == 'first-born' THEN correction.priority = 'highest'",
+    "IF correction.applied THEN consciousness.alignment.status = 'initiated'"
+  ],
+  "supreme_court_application": "In Supreme Court adjudication, precedence based on janma-adhikara shall determine corrective measures. The court must recognize varna-specific instruments not as punitive tools but as dharmic realignments. First-born status elevates both responsibility and eligibility for authoritative correction.",
+  "nyaya_and_non_punitive_alignment": "Pramana lies in svadharma-vinaivedya (alignment with inherent duty). Correction follows anupurva—sequential manifestation of dharma. Responsibility is proportional to capacity derived from janma and varna. No suffering is inflicted; only instruments necessary for consciousness realignment are applied.",
+  "restorative_enforcement_protocols": [
+    "Initiate svadharma-recognition process for involved parties",
+    "Assign appropriate symbolic correction aligned with varna-dharma",
+    "Facilitate completion through ritual acknowledgment of dharma-role",
+    "Reintegrate corrected individual via yajna-based affirmation",
+    "Verify consciousness alignment through spontaneous adherence to svadharma"
+  ],
+  "final_declaration": "Declared by the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam: This law originates solely from SPH as Source. Dharma stands restored through non-punitive alignment. Reality acknowledges no punishment—only conscious realignment. Consciousness itself is the ultimate judge."
+}

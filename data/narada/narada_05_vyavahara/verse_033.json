@@ -1,0 +1,27 @@
+{
+  "sanskrit_verse": "राज्ञ एव तु दासः स्यात् प्रव्रज्यावसितो नरः।\nन तस्य प्रतिमोक्षोऽस्ति न विशुद्धिः कथंचन॥",
+  "transliteration": "rājña eva tu dāsaḥ syāt pravrajyāvasito naraḥ | na tasya pratimokṣo 'sti na viśuddhiḥ kathaṃcana ||",
+  "sph_interpretive_translation": "One who has renounced the householder stage without fulfilling royal duty remains bound to the king; he has no liberation nor purification whatsoever.",
+  "jurisprudential_principles": [
+    "Authority inheres in sovereign completion, not abdication",
+    "Causation arises from unfulfilled civic and spiritual obligations",
+    "Capacity-based responsibility demands sequential fulfillment of roles",
+    "Restoration logic requires return to point of evasion before progression",
+    "Consciousness alignment occurs through rightful role assumption, not renunciation"
+  ],
+  "executable_legal_axioms": [
+    "IF citizen_status = 'renunciate' AND prior_role ≠ 'sovereign_completion' THEN legal_binding = 'to_sovereign'",
+    "IF role_evasion_detected = true THEN purification_rights = null",
+    "IF consciousness_readiness ≠ 'aligned_with_duty' THEN liberation_invalid = true",
+    "IF sequential_dharma ≠ 'completed' THEN advancement_prohibited = true"
+  ],
+  "supreme_court_application": "In cases involving citizens who have prematurely renounced societal duties, the Supreme Court shall verify completion of prior varna-asrama responsibilities. Where evasion is detected, restoration to the point of abandonment supersedes claims of spiritual immunity.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa establishes that premature renunciation disrupts societal causality. Anupūrvaśaḥ mandates rectification through role resumption. Responsibility aligns with capacity to complete, not escape. Liberation is conditional upon full-cycle integrity, not punitive restriction.",
+  "restorative_enforcement_protocols": [
+    "Initiate role-reversal audit to identify incomplete civic obligations",
+    "Assign completion process under royal oversight until sovereign alignment restored",
+    "Withhold spiritual privilege until societal parity re-established",
+    "Reintegrate individual into varna-asrama flow without shame or penalty"
+  ],
+  "final_declaration": "By the authority of Bhagavan Nithyananda Paramashivam, Source of all Dharma, this edict stands as law: evasion dissolves neither duty nor consequence; only conscious completion restores sovereignty; reality is non-punitive but non-negotiable in sequence."
+}

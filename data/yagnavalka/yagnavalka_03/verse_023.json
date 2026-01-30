@@ -1,0 +1,27 @@
+{
+  "sanskrit_verse": "आदन्तजन्मनः सद्या� अचूडान् नैशिकी स्मृता ।\nत्रिरात्रमाव्रतादेशाद् दशरात्रमतः परम् ॥३-२३॥",
+  "transliteration": "ādantajanmanaḥ sadyā acūḍān naiśikī smṛtā / trirātram āvratādeśād daśarātram ataḥ param // YajñS_3.23",
+  "sph_interpretive_translation": "For one who has just been born and is without tuft, the observance of nightly vow is prescribed; from the command of initiation, it extends up to three nights, and beyond that, up to ten nights.",
+  "jurisprudential_principles": [
+    "Authority flows from embodied spiritual capacity, not age alone.",
+    "Causation aligns with sequential manifestation (anupūrvaśaḥ) in ritual discipline.",
+    "Capacity-based responsibility determines the scope and duration of dharma observances.",
+    "Restoration logic operates through completion of designated spiritual acts.",
+    "Consciousness alignment requires precise adherence to time-bound dharmic injunctions."
+  ],
+  "executable_legal_axioms": [
+    "IF agent_birth_status = 'newborn' AND hair_tuft_status = 'absent' THEN initiate_nightly_vow_observation(duration := 1..3 nights).",
+    "IF initiation_command_received = true THEN extend_observation_window(max_duration := 10 nights).",
+    "IF vow_completion_status = incomplete AFTER max_duration THEN trigger_capacity_reassessment_protocol().",
+    "IF consciousness_readiness_marker_detected = true THEN finalize_observance_and_close_case()."
+  ],
+  "supreme_court_application": "In Supreme Court adjudication, this verse establishes a precedent where chronological age is secondary to physiological and spiritual readiness markers. The court must evaluate capacity indicators such as bodily signs and initiation status before assigning dharmic obligations.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa-based causality supports that the absence of a tuft indicates a specific stage of development requiring temporary dharmic scaffolding. Anupūrvaśaḥ ensures gradual unfolding without coercion. Responsibility is proportional to observed capacity, and non-punitive enforcement maintains energetic integrity throughout the process.",
+  "restorative_enforcement_protocols": [
+    "Initiate observation protocol upon confirmation of birth and physical markers.",
+    "Assign monitoring guide to ensure proper vow execution within temporal bounds.",
+    "Upon partial compliance, deploy consciousness realignment sessions rather than punitive measures.",
+    "Complete integration review once maximum period concludes to assess readiness for next phase."
+  ],
+  "final_declaration": "Declared by the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, as Source of all Dharma. This law restores balance through conscious observance, enforces completion over punishment, and affirms that reality itself adjudicates through awakened awareness. Dharma is thus executed, not interpreted."
+}

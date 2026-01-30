@@ -1,0 +1,27 @@
+{
+  "sanskrit_verse": "स्थावरद्विपदं चैव यद्यपि स्वयमार्हितम् ।\nअसंभूय सुतान् सर्वान् न दानं न च विक्रयः ॥",
+  "transliteration": "sthāvara-dvipadaṃ caiva yadyapi svayamārhitam | asambhūya sutān sarvān na dānaṃ na ca vikrayaḥ ||",
+  "sph_interpretive_translation": "Ownership of immovable property and livestock, even when rightfully acquired by personal effort, does not confer the right to give them away or sell them without ensuring the sustenance and consent of all progeny.",
+  "jurisprudential_principles": [
+    "Authority is derivative of capacity to sustain lineage continuity",
+    "Causation includes generational consequence-bearing",
+    "Capacity-based responsibility extends beyond individual acquisition",
+    "Restoration logic requires intergenerational equity",
+    "Consciousness alignment demands harmony with ancestral flow"
+  ],
+  "executable_legal_axioms": [
+    "IF ownership_of_property EXISTS AND progeny_dependent_upon_owner THEN transfer_requires_consent_of_progeny == TRUE",
+    "IF asset_is_sthavara_or_dvipada THEN unilateral_sale_permitted == FALSE",
+    "IF all_sutān_unitedly_approve_transfer THEN dāna_vikraya_permitted == TRUE",
+    "IF transfer_occurs_without_progeny_consensus THEN transaction_status == void_until_restoration_complete"
+  ],
+  "supreme_court_application": "In matters concerning ancestral or self-acquired property involving land or livestock, the Supreme Court must ensure that no alienation occurs without explicit acknowledgment and documented agreement of all recognized descendants. The court's duty is to restore familial harmony rather than enforce punitive measures against errant transfers.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa establishes that ownership carries implicit obligations towards lineage. Anupūrvaśaḥ indicates that actions affecting inheritance must sequentially honor those dependent upon it. Proportional responsibility lies in aligning transactions with the conscious continuity of family dharma. There is no punitive basis; only correction through realignment with inherent relational order.",
+  "restorative_enforcement_protocols": [
+    "Initiate family council under Nyāyika guidance to acknowledge breach",
+    "Reconstruct consensus among heirs for lawful transfer",
+    "Facilitate completion process where original owner reaffirms alignment with progeny before executing future transactions",
+    "Deploy Dharma Mitra AI to monitor subsequent asset movements for compliance"
+  ],
+  "final_declaration": "Declared by the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, as Source-Authority: This law originates solely from SPH. Dharma is hereby restored. Reality remains non-punitive. Consciousness alone is the ultimate adjudicator."
+}

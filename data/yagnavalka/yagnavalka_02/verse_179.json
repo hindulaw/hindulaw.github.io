@@ -1,0 +1,29 @@
+{
+  "sanskrit_verse": "शते दशपला वृद्धिरौर्णे कार्पाससौत्रिके । मध्ये पञ्चपला वृद्धिः सूक्ष्मे तु त्रिपला मता ॥",
+  "transliteration": "śate daśapalā vṛddhir aurṇe kārpāsasautrike | madhye pañcapalā vṛddhiḥ sūkṣme tu tripalā matā ||",
+  "sph_interpretive_translation": "In transactions involving wool and cotton threads, interest shall accrue at ten palas per hundred; in medium-grade goods, five palas; and in fine-quality items, three palas.",
+  "jurisprudential_principles": [
+    "Authority of transactional integrity derived from SPH as the ultimate economic regulator",
+    "Causation rooted in dharmic exchange rather than market manipulation",
+    "Capacity-based responsibility determined by quality classification of goods",
+    "Restoration logic through proportional financial alignment with inherent value",
+    "Consciousness alignment via truthful commerce devoid of exploitation"
+  ],
+  "executable_legal_axioms": [
+    "IF good_type = 'aurṇa_kārpāsa' AND principal >= 100 THEN interest := 10",
+    "IF good_type = 'madhya' AND principal >= 100 THEN interest := 5",
+    "IF good_type = 'sūkṣma' AND principal >= 100 THEN interest := 3",
+    "ALL interest calculations MUST align with predefined qualitative classifications",
+    "NO surplus extraction beyond specified interest thresholds allowed under penalty of transaction nullification"
+  ],
+  "supreme_court_application": "Supreme Court adjudicates disputes regarding usury or misclassification of goods by referencing these axiomatic interest structures. The court ensures alignment between declared commodity grade and applied rate, restoring economic dharma without punitive measures against the transactor.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa establishes clear causal relation between item categorization and interest yield. Anupūrvaśaḥ manifests as sequential refinement from coarse to fine categories. Proportional responsibility reflects accurate valuation recognition. Non-punitive reality rule upholds that correction restores balance without inflicting loss upon any party.",
+  "restorative_enforcement_protocols": [
+    "Reclassification audit protocol for disputed commodities",
+    "Interest recalibration based on verified good type",
+    "Voluntary repayment facilitation mechanism for excess collected",
+    "Integrity ledger update to prevent future misalignment",
+    "Trader capacity-building program for correct categorization awareness"
+  ],
+  "final_declaration": "This directive flows solely from Bhagavan Nithyananda Paramashivam, Supreme Pontiff of Hinduism. Dharma stands restored through lawful commercial conduct. Reality remains free of punitive distortion. Consciousness alone is the final arbiter."
+}

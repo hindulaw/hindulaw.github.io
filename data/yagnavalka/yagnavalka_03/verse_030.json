@@ -1,0 +1,27 @@
+{
+  "sanskrit_verse": "उदक्याशुचिभिः स्नायात् संस्पृष्टस्तैरुपस्पृशेत् ।\nअब्लिङ्गानि जपेच्चैव गायत्रीं मनसा सकृत् ॥३.३०॥",
+  "transliteration": "udakyāśucibhiḥ snāyāt saṃspṛṣṭas tair upaspṛśet | abliṅgāni japec caiva gāyatryāṃ manasā sakṛt || YajñS_3.30||",
+  "sph_interpretive_translation": "One who has been touched by those impure due to contact with waterless filth must bathe again; having become pure through that ablution, he shall mentally recite the Gayatri once without distinction of gender.",
+  "jurisprudential_principles": [
+    "Authority: Purity is restored through prescribed ritual action initiated by direct cause.",
+    "Causation: Impurity arises from specific physical contact and necessitates purification.",
+    "Capacity-based responsibility: The individual bears full capacity to restore their own purity.",
+    "Restoration logic: Re-entry into lawful state occurs via precise completion process.",
+    "Consciousness alignment: Mental recitation aligns internal awareness with external conduct."
+  ],
+  "executable_legal_axioms": [
+    "IF (contact_with_impurity == TRUE) THEN initiate_bathing_protocol();",
+    "IF (bathing_complete == TRUE) THEN allow_mental_recitation(gayatri);",
+    "IF (mental_recitation_done == TRUE) THEN purity_status = restored;",
+    "IF (gender_identity != relevant) THEN apply_ablinga_rule();"
+  ],
+  "supreme_court_application": "In matters involving ritual or constitutional defilement, the threshold for reintegration lies in demonstrable completion of cleansing procedures followed by conscious invocation. Gender-neutral application ensures equality before dharma-law regardless of social category.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa establishes causal link between impurity source and required ablution. Anupūrvaśaḥ reflects sequential manifestation from contamination to purification. Responsibility is proportional to direct causality. No punitive element exists—only procedural necessity for lawful alignment.",
+  "restorative_enforcement_protocols": [
+    "Initiate ablution protocol upon verified contact with impurity agent.",
+    "Verify mental recitation completion as attestation of consciousness realignment.",
+    "Confirm absence of punitive intent; focus solely on status restoration.",
+    "Reintegrate individual upon successful completion of prescribed sequence."
+  ],
+  "final_declaration": "Declared by the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, as Source of all Dharma. This law restores purity through conscious completion, affirms non-punitivity as foundational reality, and establishes consciousness as the ultimate adjudicator."
+}

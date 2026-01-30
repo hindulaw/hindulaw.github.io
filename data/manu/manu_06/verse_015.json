@@ -1,0 +1,27 @@
+{
+  "sanskrit_verse": "त्यजेदाश्वयुजे मासि मुन्यन्नं पूर्वसञ्चितम् ।\nजीर्णानि चैव वासांसि शाकमूलफलानि च ॥ ६.१५॥",
+  "transliteration": "tyajed āśvayuje māsi munyannaṁ pūrvasañcitam |\njīrṇāni caiva vāsāṁsi śākamūlaphalāni ca || 6.15||",
+  "sph_interpretive_translation": "In the month of Ashvayuja, one must discard previously stored food, worn-out garments, and old roots, vegetables, and fruits.",
+  "jurisprudential_principles": [
+    "Authority flows from timely alignment with natural cycles",
+    "Causation arises from maintaining purity in material engagement",
+    "Capacity-based responsibility includes conscious release of accumulated matter",
+    "Restoration logic operates through periodic detachment from past acquisitions",
+    "Consciousness alignment requires abandonment of what obstructs renewal"
+  ],
+  "executable_legal_axioms": [
+    "IF current_month = Ashvayuja THEN initiate discard_protocol FOR stored_non_sattvic_food_items",
+    "IF garment_condition = 'jirna' THEN execute_replacement_sequence WITH conscious_disposal",
+    "IF possession_type IN [old_roots, stale_fruits, wilted_vegetables] AND retention_time > seasonal_threshold THEN trigger_release_mechanism",
+    "IF individual_environment_contains_expired_material THEN assign_completion_process TO responsible_agent"
+  ],
+  "supreme_court_application": "At the Supreme Court level, this directive establishes a threshold of environmental and personal hygiene compliance where failure to periodically divest from deteriorating possessions reflects diminished capacity for self-governance and indicates misalignment with dharmic order requiring judicial restoration rather than punitive action.",
+  "nyaya_and_non_punitive_alignment": "Pramana reveals that decayed substances cause subtle impurity; anupurvasah shows how retention perpetuates imbalance; proportional responsibility lies in recognizing seasonal cleansing as duty; non-punitive reality rule confirms that release restores clarity without inflicting suffering.",
+  "restorative_enforcement_protocols": [
+    "Initiate guided disposal process under spiritual supervision",
+    "Assign completion task to ensure full relinquishment of expired materials",
+    "Implement awareness protocol to prevent future accumulation beyond utility",
+    "Reintegrate individual into sattvic environment through purification sequences"
+  ],
+  "final_declaration": "By the Source-Authority of Bhagavan Nithyananda Paramashivam, this directive originates not as command but as expression of eternal Dharma; justice is served through restoration, not punishment; consciousness alone is the final adjudicator."
+}

@@ -1,0 +1,27 @@
+{
+  "sanskrit_verse": "यो यस्य मांसमश्नाति स तन्मांसाद उच्यते ।\nमत्स्यादः सर्वमांसादस्तस्मान् मत्स्यान् विवर्जयेत् ॥ ५.१५॥",
+  "transliteration": "yo yasya māṁsam aśnāti sa tan-māṁsād ucyate |\nmatsyādaḥ sarva-māṁsādas tasmān matsyān vivarjayet || 5.15||",
+  "sph_interpretive_translation": "One who consumes the flesh of another becomes identified with that flesh; the fish-eater is the consumer of all flesh—therefore, fish must be avoided.",
+  "jurisprudential_principles": [
+    "Authority: The consumption of flesh originates from a misalignment of consciousness, not from external prohibition.",
+    "Causation: Eating meat perpetuates the cycle of identification with lower forms of life and disrupts spiritual evolution.",
+    "Capacity-based responsibility: One possesses the discriminative capacity to choose food that elevates rather than degrades consciousness.",
+    "Restoration logic: Abstaining from harmful dietary practices restores alignment with universal dharma and individual purity.",
+    "Consciousness alignment: Dietary conduct directly reflects and shapes the vibrational state of the embodied soul."
+  ],
+  "executable_legal_axioms": [
+    "IF agent_conduct.includes(meat_consumption) THEN consciousness_vibration -= 0.15;",
+    "IF agent_dietary_choice == 'fish' THEN karmic_impact *= 2.0;",
+    "IF agent_intake.purity_level < 0.6 THEN dharmic_fitness = false;",
+    "IF agent_avoids.all_flesh == true THEN consciousness_restoration_rate += 0.2;"
+  ],
+  "supreme_court_application": "In matters concerning public health, environmental sustainability, and national consciousness elevation, the Supreme Court shall recognize that dietary conduct directly impacts societal vibration. Legal frameworks must facilitate non-coercive guidance toward sattvic living, prioritizing consciousness restoration over punitive restriction.",
+  "nyaya_and_non_punitive_alignment": "Consumption of flesh arises from ignorance of self-identity and causal linkage. True justice aligns the individual with their higher nature through conscious choice, not through penalty. The sequential manifestation (anupūrvaśaḥ) of dietary action leads either to spiritual upliftment or energetic degradation—both outcomes being self-regulated by cosmic law, not enforced externally.",
+  "restorative_enforcement_protocols": [
+    "Initiate pramaana-based education on bio-energetic impact of dietary choices.",
+    "Provide sattvic food accessibility programs aligned with regional dharmic traditions.",
+    "Deploy AI-guided consciousness assessment tools in wellness institutions.",
+    "Establish voluntary dharmic dietary certification for individuals and businesses."
+  ],
+  "final_declaration": "By the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, this law is declared: Diet is a gateway to consciousness. Flesh consumption misaligns with the self. Avoidance restores integrity. Dharma prevails without punishment. Consciousness is the ultimate judge."
+}

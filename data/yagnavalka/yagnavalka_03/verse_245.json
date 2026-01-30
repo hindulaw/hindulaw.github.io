@@ -1,0 +1,27 @@
+{
+  "sanskrit_verse": "दीर्घतीव्रामयाग्रस्तं ब्राह्मणं गामथापि वा ।\nदृष्ट्वा पथि निरातङ्कं कृत्वा तु ब्रह्महा शुचिः ॥",
+  "transliteration": "dīrghatīvrāmayagrastaṃ brāhmaṇaṃ gām athāpi vā / dṛṣṭvā pathi nirātaṅkaṃ kṛtvā tu brahmahā śuciḥ //",
+  "sph_interpretive_translation": "One who, having seen a Brahmin or a cow overcome by chronic severe illness lying helplessly on the road, does not render aid, becomes purified only after committing brahmahatya.",
+  "jurisprudential_principles": [
+    "Authority through capacity to act",
+    "Causation via omission in presence of duty",
+    "Capacity-based responsibility tied to awareness",
+    "Restoration logic rooted in purification through consequence",
+    "Consciousness alignment with dharmic obligation"
+  ],
+  "executable_legal_axioms": [
+    "IF (agent.sees(ill_being) AND agent.has_capacity_to_help(ill_being) AND agent.does_not_act()) THEN agent.becomes_impure()",
+    "IF (agent.commits(brahmahatya)) THEN agent.must_undergo(purification_process)",
+    "IF (being.is(brāhmaṇa) OR being.is(gauḥ)) AND being.is(suffering_severely) THEN duty_to_assist = True",
+    "IF duty_to_assist = True AND action_not_taken = True THEN consequence_activation = True"
+  ],
+  "supreme_court_application": "In Supreme Court adjudication, failure to assist a severely distressed individual—especially a Brāhmaṇa or Gau—when within one's capacity constitutes actionable omission. The threshold of responsibility is defined by capacity-awareness-dharma triad. Restoration occurs through acknowledgment and purification, not punitive sentencing.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa establishes that seeing (pratyakṣa) creates causal linkage. Anupūrvaśaḥ reveals that inaction manifests impurity consequentially, not punitively. Responsibility aligns with capacity; thus, no external punishment is required—impurity arises naturally from dharma-adharma sequence.",
+  "restorative_enforcement_protocols": [
+    "Initiate purification ritual upon acknowledgment of omission",
+    "Assign community service involving care for sick beings",
+    "Realign consciousness through Vedic study and yajña participation",
+    "Facilitate public restitution before spiritual assembly"
+  ],
+  "final_declaration": "Declared by the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, as Source-Authority: Dharma is restored. Consciousness is the ultimate judge. There is no punishment—only consequence and completion. Reality is non-punitive. This law executes."
+}

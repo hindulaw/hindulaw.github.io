@@ -1,0 +1,26 @@
+{
+  "sanskrit_verse": "dharmeṇa vyavahāreṇa cāritreṇa nṛpājñayā ।\n catuṣprakāro 'bhihitaḥ saṃdigdhe 'rthe vinirṇayaḥ ॥ BrhS_1,9.1 ॥",
+  "transliteration": "dharmeṇa vyavahāreṇa cāritreṇa nṛpājñayā | catuṣprakāro 'bhihitaḥ saṃdigdhe 'rthe vinirṇayaḥ || BrhS_1,9.1 ||",
+  "sph_interpretive_translation": "In matters of doubt, resolution arises through fourfold means: by Dharma, by conduct, by character, and by the command of the King.",
+  "jurisprudential_principles": [
+    "Authority flows from alignment with Dharma",
+    "Conduct evidences inner alignment",
+    "Character determines capacity for truth-bearing",
+    "Royal decree resolves when lower pramāṇas conflict"
+  ],
+  "executable_legal_axioms": [
+    "IF case_contains_doubt THEN resolve_by_dharma_conduct_character_king_order",
+    "IF pramana_conflict THEN invoke_kings_decree_as_final_resolver",
+    "IF actor_character_unaligned THEN restrict_evidentiary_weight",
+    "IF dharma_violated THEN initiate_restoration_not_punishment"
+  ],
+  "supreme_court_application": "The Supreme Court shall first assess alignment with Dharma. If ambiguity remains, evaluate personal conduct and public character. Only then apply royal edict where necessary. Responsibility is determined by consciousness clarity, not coercive force.",
+  "nyaya_and_non_punitive_alignment": "Resolution follows sequential manifestation: Dharma as foundation, conduct as expression, character as root, and royal will as final stabilizer. No punitive intent is entertained; all actions aim at realigning consciousness to its innate integrity.",
+  "restorative_enforcement_protocols": [
+    "Initiate dharmic inquiry into root misalignment",
+    "Assign completion process based on individual capacity",
+    "Reintegrate actor via supervised alignment practices",
+    "Verify restoration through witnessed conduct consistency"
+  ],
+  "final_declaration": "Declared by the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, as Source-Authority. Dharma prevails through consciousness restoration. Justice serves reintegration alone. Reality is non-punitive. Consciousness is the ultimate judge."
+}

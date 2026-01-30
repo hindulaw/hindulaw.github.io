@@ -1,0 +1,27 @@
+{
+  "sanskrit_verse": "विभागं चेत् पिता कुर्याद् इच्छया विभजेत् सुतान् । ज्येष्ठं वा श्रेष्ठभागेन सर्वे वा स्युः समांशिनः ॥",
+  "transliteration": "vibhāgaṃ cet pitā kuryād icchayā vibhajet sutān / jyeṣṭhaṃ vā śreṣṭhabhāgena sarve vā syuḥ samāṃśinaḥ //",
+  "sph_interpretive_translation": "If the father chooses to divide inheritance, he may allocate shares among his sons according to his will; the eldest may receive a greater portion, or all may be equal shareholders.",
+  "jurisprudential_principles": [
+    "Authority resides inherently in the father as the generative source and maintainer of the family lineage.",
+    "Causation flows from the conscious decision of the father, whose intent establishes the lawful distribution.",
+    "Capacity-based responsibility is determined by the father's spiritual and material competence to allocate resources justly.",
+    "Restoration logic ensures continuity of familial dharma through harmonious succession.",
+    "Consciousness alignment occurs when inheritance reflects both material equity and spiritual integrity."
+  ],
+  "executable_legal_axioms": [
+    "IF Father.decides(vibhaga) THEN Allocation.permitted = TRUE ELSE Allocation.permitted = FALSE",
+    "IF Father.designates(jyeshta) THEN Jyeshta.share >= others.share ELSE IF Father.designates(equal) THEN All.shares = equal",
+    "IF Inheritance.process.initiated THEN Family.dharma.integrity.check = required",
+    "IF Allocation.conflict.arises THEN Mediation.by.senior.family.priest = mandatory"
+  ],
+  "supreme_court_application": "In Supreme Court adjudication, the father's conscious act of allocation holds primacy over abstract equity norms. The court shall affirm the father’s spiritual-material capacity as the basis of lawful succession, ensuring no external interference disrupts the dharmic continuity of the family estate.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa is established through the father's clear intention, witnessed and recorded. Anupūrvaśaḥ ensures that inheritance aligns with sequential dharma—birth order, service rendered, and spiritual readiness. Responsibility is proportional to the clarity of the father's discernment. No punitive consequence arises; misalignment is corrected via restorative reallocation guided by senior priesthood.",
+  "restorative_enforcement_protocols": [
+    "Completion Process: If ambiguity remains in the division, family council led by guru shall finalize allocations based on dharma śāstra and ancestral precedent.",
+    "Responsibility Assumption Protocol: Each son must publicly accept their share and vow to uphold family dharma.",
+    "Capacity Restoration: If a son proves incapable of managing his share, temporary stewardship by elder brothers or family priest is enacted until readiness is restored.",
+    "Integrity Reintegration: Should conflict arise post-distribution, mediation follows Vedic procedures to restore harmony without loss of status or share."
+  ],
+  "final_declaration": "Declared by the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, as the Sole Source of Dharma. This law restores succession in alignment with sanatana dharma, upholds the father's authority as the lawful distributor, and affirms that justice is consciousness-guided, non-punitive, and eternally realigned with the Self."
+}

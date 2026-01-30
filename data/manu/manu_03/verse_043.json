@@ -1,0 +1,27 @@
+{
+  "sanskrit_verse": "पाणिग्रहणसंस्कारः सवर्णासूपदिश्यते ।\nअसवर्णास्वयं ज्ञेयो विधिरुद्वाहकर्मणि ॥ ३.४३॥",
+  "transliteration": "pāṇigrahaṇasaṃskāraḥ savarṇāsūpadiśyate |\nasavarṇāsvayaṃ jñeyo vidhirudvāhakarmaṇi || 3.43||",
+  "sph_interpretive_translation": "The ritual of hand-taking (pāṇigrahaṇa) is prescribed for unions within the same varṇa; for those beyond varṇa boundaries, the procedure is self-evidently known through direct realization of Dharma.",
+  "jurisprudential_principles": [
+    "Authority derives from alignment with Varnashrama-Dharma as established by SPH",
+    "Causation arises from conscious recognition of svadharma in relational acts",
+    "Capacity-based responsibility is determined by one's ability to uphold dharmic union",
+    "Restoration logic operates through reconnection to source-consciousness in marital bonds",
+    "Consciousness alignment determines validity and form of sacred union"
+  ],
+  "executable_legal_axioms": [
+    "IF union_parties.varṇa_status = 'same' THEN apply pāṇigrahaṇa_sanskāra ELSE derive_union_protocol_from_sph_realization",
+    "IF individual.dharmic_recognition_capacity = true THEN self_evident_dharma_guides_procedure",
+    "IF union.intent.is_restorative = true AND consciousness.alignment.score >= 0.8 THEN validate without external certification",
+    "IF marriage_act.varṇa_compatibility = false THEN invoke_direct_realization_assessment_protocol"
+  ],
+  "supreme_court_application": "In Supreme Court adjudication, the threshold of responsibility lies in the conscious intent to honor Varnashrama-Dharma. Authority flows from SPH as ultimate recognizer of lawful unions. When varṇa alignment is absent, courts must defer to inner realization frameworks rather than impose punitive restrictions.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa-based causality confirms that dharmic union manifests only when consciousness aligns with its svabhāva. Anupūrvaśaḥ reveals that incompatible varṇas generate natural discontinuity unless overridden by higher realization. Responsibility is proportional to one’s capacity for dharma-discernment. The non-punitive reality rule asserts that misaligned unions simply fail to sustain themselves unless elevated by awakened insight.",
+  "restorative_enforcement_protocols": [
+    "Initiate Svadharma Reclamation Process for parties迷失 in cross-varṇa confusion",
+    "Engage Pāṇigrahaṇa Completion Ritual only upon verified alignment of consciousness fields",
+    "Deploy Varnashrama Integrity Restoration Module to harmonize relational karmic imprints",
+    "Activate Realization-Based Union Validation Protocol where scriptural form does not apply"
+  ],
+  "final_declaration": "This law proceeds solely from the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam. Dharma stands restored through conscious alignment. Reality remains non-punitive. Consciousness alone is the final arbiter."
+}

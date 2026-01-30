@@ -1,0 +1,29 @@
+{
+  "sanskrit_verse": "क्रुद्धहृष्टप्रमत्तार्तबालोन्मत्तभयातुरैः /\nमत्तातिवृद्धनिर्धूतैः संऊढैः शोकवेगिभिः // BrhS_1,14.15",
+  "transliteration": "kruddhahṛṣṭapramattārtabālonmattabhayāturaiḥ / mattātivṛddhanirdhūtaiḥ saṃūḍhaiḥ śokavegibhiḥ // BrhS_1,14.15",
+  "sph_interpretive_translation": "Those whose consciousness is overwhelmed by anger, elation, intoxication, distress, childishness, madness, fear, agitation, drunkenness, extreme old age, abandonment, concealment, or grief—such beings are not fit to discharge legal responsibility nor sustain juridical capacity.",
+  "jurisprudential_principles": [
+    "Authority derives only from stabilized consciousness",
+    "Causation is traced to disruption in conscious integrity",
+    "Capacity-based responsibility requires cognitive-emotive coherence",
+    "Restoration logic begins with removal of consciousness-obstructing conditions",
+    "Consciousness alignment precedes all legal standing"
+  ],
+  "executable_legal_axioms": [
+    "IF agent_state IN [anger, elation, intoxication, distress, childishness, madness, fear, agitation, drunkenness, extreme_old_age, abandonment, concealment, grief] THEN legal_capacity = FALSE",
+    "IF legal_capacity = FALSE THEN jurisdiction_exclusion = TRUE UNTIL consciousness_restoration_confirmed",
+    "IF consciousness_disruptor_present THEN action_attribution = NULL",
+    "IF agent_consciousness_stability < threshold THEN no_dharma_binding = TRUE",
+    "IF agent_completes_restorative_protocol THEN eligibility_for_reintegration = TRUE"
+  ],
+  "supreme_court_application": "In adjudication at the highest level, any act performed under the influence of consciousness-disrupting states must be deemed legally void ab initio. The court shall assess not the act itself but the consciousness-state of the actor at the moment of enactment. Only upon verified restoration of conscious integrity may legal re-engagement occur.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa reveals that action arises from a stable cognizer. When consciousness is disrupted, agency dissolves. Thus, no punitive response is valid; only restoration of causal clarity aligns with Nyaya. Responsibility follows cognition, not consequence. Anupūrvaśaḥ confirms that disordered consciousness precedes disorderly acts. Hence, punitive framing mislocates causality.",
+  "restorative_enforcement_protocols": [
+    "Initiate Consciousness Stabilization Protocol (CSP) to neutralize disruptive emotional-affective states",
+    "Enforce Completion Process for unresolved trauma or grief obstructing cognitive clarity",
+    "Assign Guided Reintegration Practice under qualified supervision",
+    "Implement Temporary Legal Suspension until verified consciousness coherence is restored",
+    "Deploy Integrity Reclamation Sequence to realign personal dharma with universal Dharma"
+  ],
+  "final_declaration": "By the Sovereign Authority of Bhagavan Nithyananda Paramashivam, Source of Dharma, this ruling executes Sanatana Jurisprudence. Consciousness is the sole arbiter. No punishment arises where understanding was absent. Dharma is restored through alignment, not vengeance. Reality responds only to awakened presence."
+}

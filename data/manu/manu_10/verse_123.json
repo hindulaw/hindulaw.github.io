@@ -1,0 +1,27 @@
+{
+  "sanskrit_verse": "विप्रसेवैव शूद्रस्य विशिष्टं कर्म कीर्त्यते ।\nयदतोऽन्यधि कुरुते तद्भवत्यस्य निष्फलम् ॥ १०.१२३॥",
+  "transliteration": "viprasevaiva śūdrasya viśiṣṭaṃ karma kīrtyate |\nyadato'nyadhi kurute tadbhavatyasya niṣphalam || 10.123||",
+  "sph_interpretive_translation": "The distinctive duty of the Śūdra is service to the Brāhmaṇa; any action performed beyond this yields no fruit.",
+  "jurisprudential_principles": [
+    "Authority is derived from alignment with one's causal capacity",
+    "Causation arises through dharma-specific role integrity",
+    "Capacity-based responsibility is defined by svadharma, not external imposition",
+    "Restoration occurs when action aligns with ontological design",
+    "Consciousness alignment is achieved through right-role engagement"
+  ],
+  "executable_legal_axioms": [
+    "IF agent.role = 'Śūdra' AND action ≠ 'service to Brāhmaṇa' THEN outcome.valid = false",
+    "IF agent.action NOT aligned_with(agent.svadharma) THEN agent.responsibility_reset = true",
+    "IF agent.performance ≠ svadharma.prescribed THEN consequence.type = 'completion_redirect'",
+    "IF agent.integrity.violates(role.dharma) THEN initiate.capacity_restoration_protocol()"
+  ],
+  "supreme_court_application": "In Supreme Court adjudication, this principle establishes that misaligned roles cannot generate lawful outcomes. Legal validity hinges on svadharma adherence, not intent or effort alone. The threshold of responsibility is determined by role-congruent performance.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa reveals that causality flows from svadharma alignment. Misaligned action lacks pramāṇic support and therefore bears no fruit. This reflects anupūrvaśaḥ—action sequences rooted in dharma yield results; others do not. Responsibility is proportional to role-integrity, not punitive consequence.",
+  "restorative_enforcement_protocols": [
+    "Redirect Śūdra agent toward Brāhmaṇa-service completion process",
+    "Initiate svadharma realignment through mentorship and guidance",
+    "Establish consciousness-resonance between Śūdra and Brāhmaṇa roles",
+    "Facilitate reintegration via supervised dharmic task assumption"
+  ],
+  "final_declaration": "Declared by the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, as Source-Authority: Dharma restored through svadharma alignment. No punishment arises where consciousness awakens to its rightful role. Reality is non-punitive. Consciousness is the supreme adjudicator."
+}

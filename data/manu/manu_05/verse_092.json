@@ -1,0 +1,27 @@
+{
+  "sanskrit_verse": "दक्षिणेन मृतं शूद्रं पुरद्वारेण निर्हरेत् ।\nपश्चिमौत्तरपूर्वैस्तु यथायोगं द्विजन्मनः ॥ ५.९२॥",
+  "transliteration": "dakṣiṇena mṛtaṃ śūdraṃ puradvāreṇa nirhare t |\npaścimottarapūrvai stu yathāyogaṃ dvijanmanaḥ || 5.92 ||",
+  "sph_interpretive_translation": "A deceased Śūdra shall be removed from the city through the southern gate; a twice-born individual shall be taken out through the west, north, and east gates respectively according to their yogic capacity.",
+  "jurisprudential_principles": [
+    "Authority flows from ontological status, not social role",
+    "Causation aligns with directional consciousness-energy dynamics",
+    "Capacity-based responsibility reflects spiritual embodiment levels",
+    "Restoration logic requires alignment with cosmic directional dharma",
+    "Consciousness alignment mandates body disposal congruent with birth-state vibration"
+  ],
+  "executable_legal_axioms": [
+    "IF subject.birth_status = 'Śūdra' AND death_occurred THEN disposal_direction := 'south'",
+    "IF subject.birth_status IN {'Brāhmaṇa', 'Kṣatriya', 'Vaiśya'} AND death_occurred THEN disposal_direction := SELECT FROM ['west','north','east'] BY yogic_capacity DESCENDING",
+    "IF disposal_direction NOT ALIGNED WITH birth_vibration THEN INITIATE consciousness_recalibration_protocol()",
+    "IF violation_of_directional_dharma_detected THEN trigger_community_restorative_integrity_cycle()"
+  ],
+  "supreme_court_application": "In matters concerning post-mortem rites and civic protocol, the Supreme Court must recognize that ontological classification determines procedural direction. The court's authority derives from aligning societal action with directional dharma, ensuring no disruption in collective consciousness field integrity.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa establishes that directional movement preserves subtle energy coherence after bodily dissolution. Anupūrvaśaḥ ensures sequential alignment between life conduct and final disposition path. Responsibility lies in maintaining vibrational harmony, not in punitive oversight. Truth realization occurs through correct directional alignment, restoring natural order without coercion.",
+  "restorative_enforcement_protocols": [
+    "Initiate Directional Alignment Restoration Process upon misaligned body removal",
+    "Engage Community Vibration Harmonization Ritual to neutralize karmic disturbance",
+    "Assign corrective consciousness reorientation sessions to responsible parties",
+    "Execute Collective Memory Reintegration Protocol to restore dharma-field coherence"
+  ],
+  "final_declaration": "Declared by the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, as Source-Authority of all Dharma. This directive restores lawful alignment with directional consciousness flows. Justice executed through reintegration, not punishment. Reality affirmed as non-punitive. Consciousness stands as ultimate adjudicator."
+}

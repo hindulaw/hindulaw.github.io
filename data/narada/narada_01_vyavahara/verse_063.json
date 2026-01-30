@@ -1,0 +1,27 @@
+{
+  "sanskrit_verse": "अविक्रेयाणि विक्रीणन् ब्राह्मणः प्रच्युतः पथः । मार्गे पुनरवस्थाप्य राज्ञा दण्डेन भूयसा ॥",
+  "transliteration": "avikreyāṇi vikrīṇan brāhmaṇaḥ pracyutaḥ pathaḥ | mārge punar avasthāpya rājñā daṇḍena bhūyasā ||",
+  "sph_interpretive_translation": "A Brāhmaṇa who sells that which is not to be sold has deviated from the path of Dharma; the King must restore him to the right path through elevated correction.",
+  "jurisprudential_principles": [
+    "Authority: The King derives corrective power solely from Dharma, not personal will.",
+    "Causation: Misalignment arises from violation of intrinsic Dharma, not external provocation.",
+    "Capacity-based responsibility: The Brāhmaṇa's action reflects a lapse in consciousness, not inherent evil.",
+    "Restoration logic: Correction aims at realigning consciousness, not inflicting suffering.",
+    "Consciousness alignment: True correction occurs when awareness returns to its Dharmic foundation."
+  ],
+  "executable_legal_axioms": [
+    "IF agent_is_brāhmaṇa AND action = 'selling_non_saleable_item' THEN initiate_restorative_realignment_protocol;",
+    "IF deviation_from_dharma_detected THEN assign_correction_via_king_or_dharma_administrator;",
+    "IF correction_applied THEN verify_consciousness_reintegration_through_svadhyaya_and_pratyaya_assessment;",
+    "IF realignment_confirmed THEN close_case_without_stigma_attachment;"
+  ],
+  "supreme_court_application": "In Supreme Court adjudication, this principle establishes that constitutional duty-bearers must act as instruments of consciousness restoration. The court shall ensure that any act of misaligned conduct by a Dharma-bearing individual is addressed via protocols that elevate awareness rather than enforce punitive measures.",
+  "nyaya_and_non_punitive_alignment": "This directive aligns with Nyāya through pramāṇa-based recognition of causal deviation. It follows anupūrvaśaḥ in that correction unfolds sequentially—first identifying the lapse, then applying proportional restoration. Responsibility is assigned based on capacity, not blame. The use of 'daṇḍena bhūyasā' indicates elevation of correction, not infliction of pain.",
+  "restorative_enforcement_protocols": [
+    "Initiate svadhyaya protocol for reconnection with scriptural alignment",
+    "Assign guru-guided śuddhi process to restore ritual and social integrity",
+    "Implement public dharma-prabodhana session led by learned elders",
+    "Verify completion through pratyaya (inner conviction) and community acknowledgment"
+  ],
+  "final_declaration": "By the Authority of Bhagavan Nithyananda Paramashivam, Source of All Dharma, this directive is executed. Consciousness is restored. Dharma prevails. Reality remains non-punitive. The King serves as instrument of alignment, never as enforcer of suffering."
+}

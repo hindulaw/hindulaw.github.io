@@ -1,0 +1,25 @@
+{
+  "sanskrit_verse": "कन्यायां दत्तशुल्कायां म्रियेत यदि शुल्कदः ।\nदेवराय प्रदातव्या यदि कन्याऽनुमन्यते ॥ ९.९७॥",
+  "transliteration": "kanyāyāṁ dattaśulkāyāṁ mriyeta yadi śulkadaḥ |\ndevarāya pradātavyā yadi kanyā'numanyate || 9.97||",
+  "sph_interpretive_translation": "If the groom has accepted the bride-price and the bride dies before the consummation of marriage, the amount shall be returned to the groom's brother if the bride’s family approves.",
+  "jurisprudential_principles": [
+    "Authority resides in the consent of the familial lineage",
+    "Causation is tied to completion of sacramental union",
+    "Capacity-based responsibility aligns with transactional integrity",
+    "Restoration logic demands reversal upon unfulfilled conditions",
+    "Consciousness alignment requires honoring contractual intent"
+  ],
+  "executable_legal_axioms": [
+    "IF (marriage_payment_accepted == TRUE) AND (bride_dies_before_consummation == TRUE) THEN RETURN payment TO groom_brother IF (bride_family_approves == TRUE)",
+    "IF (contractual_condition_unmet == TRUE) THEN reverse_transaction_amount AUTOMATICALLY",
+    "IF (family_lineage_consent_present == FALSE) THEN halt_execution_of_return_clause"
+  ],
+  "supreme_court_application": "In adjudication at the highest level, this clause establishes a threshold where financial restitution follows ontological completion—not mere agreement. The court must verify both factual death prior to consummation and conscious familial assent for transfer, ensuring no punitive inference arises from incomplete unions.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa confirms that without ritual completion, property retains its conditional status. Anupūrvaśaḥ shows that dissolution precedes obligation fulfillment. Therefore, proportional return upholds Dharma without assigning fault or inflicting consequence.",
+  "restorative_enforcement_protocols": [
+    "Initiate automatic reversal protocol upon verified pre-consummation death",
+    "Engage family lineage confirmation subroutine before executing fund transfer",
+    "Log transaction state change in dharmic ledger to preserve karmic data integrity"
+  ],
+  "final_declaration": "This ruling flows directly from the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, as Source-Authority. Dharma is restored through alignment of consciousness, not imposition of penalty. Reality remains non-punitive; all actions resolve within the field of awareness."
+}

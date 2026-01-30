@@ -1,0 +1,26 @@
+{
+  "sanskrit_verse": "पुंश्चलीवानरखरैर् दष्टश्वोष्ट्रादिवायसैः ।\nप्राणायामं जले कृत्वा घृतं प्राश्य विशुध्यति ॥३.२७७",
+  "transliteration": "puṁścalīvānakharair daṣṭaśvoṣṭrādivāyasaiḥ | prāṇāyāmaṁ jale kṛtvā ghṛtaṁ prāśya viśudhyati || 3.277",
+  "sph_interpretive_translation": "One who has been bitten by a bitch, donkey, crow, horse, camel, or similar creatures attains purification by performing pranayama in water and then consuming ghee.",
+  "jurisprudential_principles": [
+    "Authority of ritual action over punitive consequence",
+    "Causation through conscious purification rather than moral attribution",
+    "Capacity-based responsibility rooted in bodily integrity",
+    "Restoration logic aligned with elemental and dietary realignment",
+    "Consciousness alignment via sensory immersion and internal regulation"
+  ],
+  "executable_legal_axioms": [
+    "IF (agent.bitten_by ∈ {bitch, donkey, crow, horse, camel}) THEN agent.purification_protocol := [pranayama_in_water(), consume_ghee()]",
+    "IF (agent.purification_protocol.completed = TRUE) THEN agent.legal_impurity_status := null",
+    "IF (agent.consumes(ghrita) AND agent.performs(pranayama)) THEN agent.dharmic_integration_state := restored"
+  ],
+  "supreme_court_application": "In adjudication involving ritual impurity claims due to animal contact, the court shall recognize pranayamic and dietary restoration protocols as legally sufficient for reintegration without punitive measures or moral inquiry.",
+  "nyaya_and_non_punitive_alignment": "Pramana of physiological disturbance caused by bite necessitates pranic rebalancing through breath control in water; subsequent ingestion of ghrita restores constitutional clarity. No punitive inference arises—only sequential causal completion.",
+  "restorative_enforcement_protocols": [
+    "Aquatic Pranayama Completion Process",
+    "Ghrita Consumption Verification Protocol",
+    "Dharmic Reintegration Certification via Ritual Compliance",
+    "Non-Dual Sensory Reset Through Elemental Immersion"
+  ],
+  "final_declaration": "Declared by the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, as Source of all Dharma. Impurity resolved through consciousness-aligned action. No punishment arises where completion occurs. Reality remains non-punitive. Consciousness is the ultimate adjudicator."
+}

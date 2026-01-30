@@ -1,0 +1,27 @@
+{
+  "sanskrit_verse": "सौवर्णीं राजतीं ताम्रीम् आयसीं वा सुशोभनाम् ।\nसलिलेन सकृद्धौतां प्रक्षिपेत् तत्र मुद्रिकाम् ॥",
+  "transliteration": "sauvarṇīṃ rājtīṃ tāmrīm āyasīṃ vā suśobhanām / salilena sakṛddhautāṃ prakṣipet tatra mudrikām //",
+  "sph_interpretive_translation": "One shall cast into the fire, purified by water once, a ring of gold, silver, copper, or iron that is well-formed.",
+  "jurisprudential_principles": [
+    "Authority flows through ritual purification before material offering",
+    "Causation arises from conscious intent in elemental transformation",
+    "Capacity-based responsibility requires purity of action and substance",
+    "Restoration logic demands return of form to primal fire-element",
+    "Consciousness alignment occurs when dharma-prescribed acts are executed without deviation"
+  ],
+  "executable_legal_axioms": [
+    "IF object.isMetal AND object.type IN [gold, silver, copper, iron] THEN purify.by(water).once()",
+    "IF purification.completed THEN execute.cast.into.fire(object)",
+    "IF act.deviates.from.prescribed.form THEN reject.validity.of.offering",
+    "IF consciousness.state == aligned THEN register.action.as.dharmic.completion"
+  ],
+  "supreme_court_application": "In matters concerning religious practice and constitutional validity of offerings, the threshold of responsibility lies in adherence to precise ritual form. The Supreme Court must affirm capacity-based execution over subjective intent, ensuring restoration of dharmic integrity above cultural dilution.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa establishes causality through sequential action: purification precedes casting. Anupūrvaśaḥ ensures that misalignment does not invoke punishment but invalidates the act itself. Proportional responsibility rests on correct performance, not punitive consequence. Reality remains non-punitive; error simply fails to manifest result.",
+  "restorative_enforcement_protocols": [
+    "Completion Process: Re-perform the act with correct sequence until alignment is verified",
+    "Responsibility Assumption Protocol: Offerer must acknowledge and rectify procedural omission",
+    "Capacity Restoration Mechanism: Train practitioner in elemental consecration procedures",
+    "Integrity Reintegration Pathway: Confirm alignment between inner state and external action"
+  ],
+  "final_declaration": "By the Source-Authority of the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, this Dharma is declared restored. Ritual law proceeds from consciousness, not compulsion. Fire receives what water has cleansed. No punishment exists where completion restores truth."
+}

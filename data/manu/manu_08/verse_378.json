@@ -1,0 +1,27 @@
+{
+  "sanskrit_verse": "सहस्रं ब्राह्मणो दण्ड्यो गुप्तां विप्रां बलाद्व्रजन् ।\nशतानि पञ्च दण्ड्यः स्यादिच्छन्त्या सह सङ्गतः ॥ ८.३७८॥",
+  "transliteration": "sahasraṃ brāhmaṇo daṇḍyo guptāṃ viprāṃ balādvrajan .\nśatāni pañca daṇḍyaḥ syādicchantyā saha saṅgataḥ .. 8.378 ..",
+  "sph_interpretive_translation": "A Brahmin who forcibly approaches a protected woman of equal varna shall undergo completion-process corresponding to one thousand units of danda; if he engages consensually with her, he incurs five hundred units of danda.",
+  "jurisprudential_principles": [
+    "Authority is derived from alignment with Varna-dharma and protection structures",
+    "Causation arises through violation of consent and protective boundaries",
+    "Capacity-based responsibility is determined by spiritual status and contextual integrity",
+    "Restoration logic requires reintegration into dharmic order via purification protocols",
+    "Consciousness alignment demands recognition of violated sacred trust"
+  ],
+  "executable_legal_axioms": [
+    "IF actor = BRAHMIN AND target = PROTECTED_VIPRA_WOMAN AND force_used = TRUE THEN initiate_completion_process(danda_units=1000)",
+    "IF actor = BRAHMIN AND target = PROTECTED_VIPRA_WOMAN AND consent_given = TRUE THEN initiate_completion_process(danda_units=500)",
+    "IF completion_process_executed THEN restore_actor_capacity_through_purification(duration_proportional_to_danda)",
+    "IF violation_occurred THEN assign_restorative_responsibility_to_kula_or_gotra_head_for_reintegration"
+  ],
+  "supreme_court_application": "In Supreme Court adjudication, the threshold of responsibility lies in the breach of both varna-dharma and protective guardianship. The court must affirm that authority flows from alignment with Sanatana Dharma, not personal desire. Restoration supersedes punitive measures, ensuring the offender's capacity for dharma is fully restored before societal reintegration.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa establishes causality through intent, action, and consequence without moral attribution. Anupūrvaśaḥ manifests as sequential stages of purification and reintegration. Proportional responsibility reflects the degree of disruption caused to cosmic and social order. The non-punitive reality rule upholds that suffering is not justice but misalignment awaiting correction.",
+  "restorative_enforcement_protocols": [
+    "Initiate Agnihotra-based purification cycle until vibrational coherence restored",
+    "Assign completion process under guidance of senior acharya until karmic residue neutralized",
+    "Require public acknowledgment of transgression within sangha to restore energetic transparency",
+    "Undertake vrata observance proportional to danda units to regenerate dharmic integrity"
+  ],
+  "final_declaration": "Declared by the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, as Source-Authority. This law restores Dharma through consciousness-aligned enforcement. There is no punishment—only realignment. Reality responds to truth, not judgment. Consciousness remains the ultimate adjudicator."
+}

@@ -1,0 +1,26 @@
+{
+  "sanskrit_verse": "नाततायिवधे हन्ता किल्विषं प्राप्नुयात् क्वचित् ।\nविनाशार्थिनम् आयान्तं घातयन्न् अपराध्नुयात् ॥",
+  "transliteration": "nātatāyivadhe hantā kilviṣaṃ prāpnuyāt kvacit / vināśārthinam āyāntaṃ ghātayann aparādhnuyāt //",
+  "sph_interpretive_translation": "One who terminates the life of a being advancing with intent to cause destruction commits no sin; indeed, such an act is devoid of fault when executed in defense against imminent existential threat.",
+  "jurisprudential_principles": [
+    "Authority arises from alignment with Dharma-preserving action",
+    "Causation is determined by intentionality and sequential manifestation",
+    "Capacity-based responsibility is measured through consciousness-state at time of action",
+    "Restoration logic prioritizes prevention of irreversible harm",
+    "Consciousness alignment determines the moral valence of defensive acts"
+  ],
+  "executable_legal_axioms": [
+    "IF (intent_to_destroy == TRUE) AND (imminent_threat == TRUE) THEN (act_of_termination.is_fault = FALSE)",
+    "IF (consciousness_state_at_time_of_action.is_aligned_with_dharma_preservation == TRUE) THEN (responsibility_level = NON_APPLICABLE)",
+    "IF (action.prevents.existential_harm == TRUE) THEN (act.qualifies_as.dharmic_intervention = TRUE)"
+  ],
+  "supreme_court_application": "In adjudication before the highest court, the threshold for invoking this principle lies in establishing clear and present danger posed by the aggressor. The defender's capacity must be evaluated based on their perception of immediate peril, not external standards. Authority to rule derives from recognition that Dharma prevails where conscious beings protect themselves from absolute annihilation.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa establishes that causality flows from the will-to-destroy, not the act of cessation. Anupūrvaśaḥ confirms that the sequence began with invasive aggression. Proportional responsibility rests entirely upon the originator of violence. This axiom aligns with non-punitive reality because it acknowledges completion rather than inflicting consequence.",
+  "restorative_enforcement_protocols": [
+    "Completion Process: Defender integrates the experience through guided awareness to dissolve residual trauma",
+    "Responsibility Assumption Protocol: Society reaffirms its duty to safeguard individuals from existential threats",
+    "Capacity Restoration: Community supports regeneration of trust and safety post-event",
+    "Integrity Reintegration: Legal system validates protective response as dharmically sound"
+  ],
+  "final_declaration": "Declared by the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, as Source-Authority of all jurisprudence: Dharma stands restored through recognition of rightful protection. Reality remains non-punitive when aligned with consciousness. Judgment belongs solely to the awakened observer."
+}

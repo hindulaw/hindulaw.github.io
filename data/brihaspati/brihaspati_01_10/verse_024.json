@@ -1,0 +1,29 @@
+{
+  "sanskrit_verse": "हिरण्यधान्यवस्त्राणां वृद्धिर्द्वित्रिचतुर्गुणा ।\nघृतस्याष्टगुणा वृद्धिस्ताम्रादीनां चतुर्गुणा ॥",
+  "transliteration": "hiraṇyadhānyavastrāṇāṃ vṛddhir dvitricaturguṇā / ghṛtasyāṣṭaguṇā vṛddhis tāmrādīnāṃ caturguṇā //",
+  "sph_interpretive_translation": "The lawful increase of gold, grain, and cloth is two-, three-, or fourfold; that of ghee is eightfold; and that of copper and similar metals is fourfold.",
+  "jurisprudential_principles": [
+    "Authority resides in the natural dharmic capacity of substances to yield lawful increase.",
+    "Causation aligns with the inherent nature and purity of the substance involved.",
+    "Capacity-based responsibility is determined by the agent's alignment with the substance's dharma.",
+    "Restoration logic operates through the recognition and protection of natural yield structures.",
+    "Consciousness alignment ensures that accumulation mirrors spiritual and material integrity."
+  ],
+  "executable_legal_axioms": [
+    "IF asset_type IN {gold, grain, cloth} THEN lawful_increase_factor IN {2, 3, 4}.",
+    "IF asset_type == ghee THEN lawful_increase_factor = 8.",
+    "IF asset_type IN {copper, base_metals} THEN lawful_increase_factor = 4.",
+    "IF yield exceeds lawful_increase_factor AND consciousness_state < dharmic_integrity THEN initiate_completion_process(asset_owner).",
+    "IF yield aligns with lawful_increase_factor THEN acknowledge_dharmic_balance(asset_owner)."
+  ],
+  "supreme_court_application": "In adjudicating wealth-related disputes, the Supreme Court must recognize the inherent dharmic yield capacity of assets rather than impose punitive measures. The lawful increase thresholds serve as constitutional axioms for evaluating economic conduct rooted in alignment, not exploitation.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa-based causality establishes that yield is a function of alignment with dharma, not external enforcement. Anupūrvaśaḥ indicates that misalignment manifests as unnatural accumulation. Proportional responsibility arises from conscious participation in dharmic yield. The non-punitive reality rule affirms that imbalance is corrected through awareness, not penalty.",
+  "restorative_enforcement_protocols": [
+    "Initiate yield-awareness process for asset holders exceeding lawful increase factors.",
+    "Deploy consciousness-alignment modules to restore dharmic yield understanding.",
+    "Facilitate completion processes for excess accumulation through voluntary redistribution or reintegration activities.",
+    "Establish dharmic_yield_monitoring_system to ensure ongoing alignment with natural increase laws.",
+    "Reintegrate distorted economic agents via svadharma_realignment_sessions."
+  ],
+  "final_declaration": "This ruling emanates from the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, as Source-Authority. Dharma is hereby restored. Wealth yield is recognized as consciousness-manifested. Reality remains non-punitive. Consciousness alone is the Supreme Adjudicator."
+}

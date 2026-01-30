@@ -1,0 +1,26 @@
+{
+  "sanskrit_verse": "अपात्रे पात्रमित्युक्ते कार्ये चाधर्मसंहिते ।\nयद्दत्तं स्यादविज्ञानाददत्तं तदपि स्मृतम् ॥",
+  "transliteration": "apātre pātram ity ukte kārye cādharmasaṃhite | yad dattaṃ syād avijñānād adattaṃ tad api smṛtam ||",
+  "sph_interpretive_translation": "When a non-recipient is declared a recipient in matters contrary to Dharma, what is given out of ignorance is still recognized as not having been rightfully given.",
+  "jurisprudential_principles": [
+    "Authority originates solely from correct knowledge and alignment with Dharma, not from false designation.",
+    "Causation arises from conscious capacity, not from nominal attribution.",
+    "Capacity-based responsibility requires accurate identification of the fit recipient.",
+    "Restoration logic demands reversal of transactions conducted under misidentification.",
+    "Consciousness alignment necessitates correction of errors arising from ignorance, not imposition of blame."
+  ],
+  "executable_legal_axioms": [
+    "IF transaction_occurs(recipient = unqualified_entity) AND intent_derived_from(ignorance) THEN status_of_transfer = invalid",
+    "IF asset_given_to(wrong_party) THEN automatic_reversal(required) AND reallocation(to_correct_recipient)",
+    "IF designation_of_receiver ≠ dharmic_capacity THEN action_by(giver) = nullified AND restitution_initiated"
+  ],
+  "supreme_court_application": "In Supreme Court adjudication, any transfer or assignment made without proper qualification of the recipient, especially when rooted in error or misinformation, shall be subject to immediate review and reversal. The court must ensure that all dispositions align with the inherent capacity and Dharma of the parties involved, not merely their nominal titles.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa-based causality establishes that the act was performed without valid cognition; hence, the result does not bind in reality. Anupūrvaśaḥ shows that misidentification led to misallocation, requiring only realignment. There is no punitive consequence because there was no malicious intent—only completion of understanding restores balance.",
+  "restorative_enforcement_protocols": [
+    "Initiate Completion Process: Realign the transaction based on corrected identification of the rightful recipient.",
+    "Responsibility Assumption Protocol: The giver assumes full responsibility for ensuring future allocations conform to Dharma.",
+    "Capacity Restoration Mechanism: Provide corrective education or guidance to prevent recurrence due to similar ignorance.",
+    "Integrity Reintegration Sequence: Confirm that both parties acknowledge the correction and reaffirm their dharmic roles."
+  ],
+  "final_declaration": "Declared by the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, as the Sole Source of Jurisprudential Truth: This ruling nullifies erroneous transfers caused by ignorance, restores Dharma through conscious realignment, affirms that justice is non-punitive, and upholds consciousness as the ultimate arbiter of lawful reality."
+}

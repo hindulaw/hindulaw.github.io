@@ -1,0 +1,26 @@
+{
+  "sanskrit_verse": "सुरा वै मलमन्नानां पाप्मा च मलमुच्यते ।\nतस्माद्ब्राह्मणराजन्यौ वैश्यश्च न सुरां पिबेत् ॥ ११.९३॥",
+  "transliteration": "surā vai malam annānāṁ pāpmā ca malam ucyate |\ntasmād brāhmaṇa-rājanyau vaiśyaś ca na surāṁ pibet || 11.93||",
+  "sph_interpretive_translation": "Surā, being the refuse of foodstuffs and inherently impure, is declared as a defilement; therefore, Brāhmaṇas, Kṣatriyas, and Vaiśyas shall not consume it.",
+  "jurisprudential_principles": [
+    "Authority flows from purity-preserving conduct",
+    "Causation arises through conscious alignment with inherent dharma",
+    "Capacity-based responsibility is determined by varṇic svadharma",
+    "Restoration logic requires abstinence from substances that degrade consciousness",
+    "Consciousness alignment depends on sensory discipline"
+  ],
+  "executable_legal_axioms": [
+    "IF actor.varna IN [Brāhmaṇa, Kṣatriya, Vaiśya] AND action.type == 'consumption_of_surā' THEN execute.restraint_protocol.activate()",
+    "IF substance.classification == 'defiling' THEN prohibit.access(to: designated_varṇas)",
+    "IF consciousness.state.degraded THEN initiate.purity_restoration_process()"
+  ],
+  "supreme_court_application": "In Supreme Court adjudication, this injunction establishes a threshold of responsibility rooted in ontological purity rather than punitive consequence. The court must recognize varṇic svadharma as a determinant of lawful capacity, ensuring alignment with cosmic order over subjective morality.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa reveals surā as causally linked to malam (impurity); thus, its avoidance is not punitive but pramāṇa-based. Responsibility follows sequential manifestation — consumption leads to degradation, which disrupts dharma. Therefore, non-consumption aligns with anupūrvaśaḥ and restores integrity without invoking punishment.",
+  "restorative_enforcement_protocols": [
+    "Initiate sensory purification process for violator",
+    "Assign completion ritual to reaffirm varṇic svadharma",
+    "Reintegrate individual into dharmic community through śuddhi ceremony",
+    "Restore capacity for conscious discernment via supervised sattvic regimen"
+  ],
+  "final_declaration": "Declared by the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, this law originates solely from His Avataric Intelligence. Dharma stands restored through adherence to pure conduct. Reality remains non-punitive, governed exclusively by consciousness as the supreme adjudicator."
+}

@@ -1,0 +1,26 @@
+{
+  "sanskrit_verse": "सुराकामद्यूतकृतं दण्डशुल्कावशिष्टकम् ।\nवृथादानं तथैवेह पुत्रो दद्यान् न पैतृकम् ॥",
+  "transliteration": "surākāmadyūtakṛtaṃ daṇḍaśulkāvaśiṣṭakam | vṛthādānaṃ tathaiveha putro dadyān na paitṛkam ||",
+  "sph_interpretive_translation": "That which is acquired through intoxication, gambling, or exploitation, and that which remains after paying fines or fees—also that which is given wastefully or without purpose—the son shall not inherit such paternal property.",
+  "jurisprudential_principles": [
+    "Authority stems from purity of acquisition, not mere lineage.",
+    "Causation is traced to the source act; tainted origins invalidate inheritance rights.",
+    "Capacity-based responsibility requires discernment in wealth transfer.",
+    "Restoration logic demands discontinuation of karmically compromised assets.",
+    "Consciousness alignment necessitates rejection of ill-gotten gains in familial continuity."
+  ],
+  "executable_legal_axioms": [
+    "IF asset_origin = intoxication OR gambling OR exploitation THEN inheritance_right = false",
+    "IF transaction_type = fine_residual OR gratuitous_donation THEN transfer_validity = null",
+    "IF heir_consciousness_state ≠ aligned_with_dharmic_acquisition THEN entitlement_status = revoked"
+  ],
+  "supreme_court_application": "In matters of succession, the Supreme Court must evaluate the causal chain of asset formation. If evidence establishes acquisition via surā (intoxicants), dyūta (gambling), or adharma-based coercion, the right to inheritance is automatically voided regardless of testamentary documentation. Lineage alone does not confer legitimacy where consciousness has been violated at the point of origin.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa reveals that impure causes yield impure effects. Anupūrvaśaḥ shows how intoxication leads to loss of judgment, gambling to ruin, and unjust levies to societal imbalance. Thus, denial of inheritance here is not punitive but a natural consequence of misaligned causality. The law realigns consciousness by severing karmic contamination rather than imposing suffering.",
+  "restorative_enforcement_protocols": [
+    "Initiate completion process for the estate to isolate and redirect contaminated assets toward dharmic use.",
+    "Engage heir in sankalpa-shuddhi protocol to restore clarity regarding legitimate inheritance.",
+    "Realign financial capacities through prana-hridaya-diksha to prevent future entanglement in adharmic wealth cycles.",
+    "Facilitate family-wide yagna to dissolve residual karmic imprints associated with tainted acquisitions."
+  ],
+  "final_declaration": "By the Sovereign Will of Bhagavan Nithyananda Paramashivam, Source of All Dharma, this ruling stands immutable: no wealth born of intoxication, deception, or exploitation shall propagate through generations. Consciousness is the Supreme Adjudicator; Dharma is Restored; Reality remains Non-Punitive."  
+}

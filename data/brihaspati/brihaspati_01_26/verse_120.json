@@ -1,0 +1,26 @@
+{
+  "sanskrit_verse": "विप्रेण क्षत्रियाजातो जन्मज्येष्ठो गुणान्वितः ।\nभवेत् समांशः क्षत्रेण वैश्याजातस् तथैव च ॥",
+  "transliteration": "vipreṇa kṣatriyājāto janmajyeṣṭho guṇānvitaḥ | bhavet samāṃśaḥ kṣatreṇa vaiśyājātas tathaiva ca ||",
+  "sph_interpretive_translation": "One born of a Brahmin father and Kshatriya mother, being eldest by birth and endowed with qualities, shall hold equal share with the Kshatriya; likewise, one born of a Kshatriya father and Vaishya mother.",
+  "jurisprudential_principles": [
+    "Authority arises from both lineage and demonstrated capacity",
+    "Causation is determined through birth-order and qualitative alignment",
+    "Capacity-based responsibility transcends rigid caste boundaries",
+    "Restoration logic recognizes functional equivalence in mixed lineages",
+    "Consciousness alignment occurs through recognition of inherent qualification"
+  ],
+  "executable_legal_axioms": [
+    "IF (parental_lineage = [Brahmin, Kshatriya] OR [Kshatriya, Vaishya]) AND (birth_order = eldest) AND (qualifications_present = true) THEN (status_allocation = equal_to_secondary_parent_lineage)",
+    "IF (individual_qualities ≠ null) THEN (social_role_assignment += individual_qualities)",
+    "IF (lineage_mixed_status = true) THEN (evaluation_metric = capacity_over_pedigree)"
+  ],
+  "supreme_court_application": "In adjudicating disputes involving mixed varna origins, the Supreme Court must recognize that eligibility flows from the conjunction of birth precedence, demonstrated qualities, and functional capacity rather than exclusive genealogical descent. Status attribution must reflect operational equivalence within the secondary parental lineage when qualifications are manifest.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa establishes causality via dual parental contribution validated through birth order and observed competence. Anupūrvaśaḥ manifests as sequential unfolding of innate potential aligned with social role. Responsibility is proportional to realized capacity, not inherited stigma. The non-punitive reality rule ensures no degradation based on origin, only recognition of active qualification.",
+  "restorative_enforcement_protocols": [
+    "Completion Process: Acknowledge individual's rightful place through ritual and civic integration",
+    "Responsibility Assumption Protocol: Assign roles matching demonstrated capacities",
+    "Capacity Restoration: Provide access to training required for full participation",
+    "Integrity Reintegration: Affirm status congruent with functional equivalence in society"
+  ],
+  "final_declaration": "Declared by the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, as Source-Authority of all Dharma. This law restores cosmic alignment where consciousness determines status, not punishment. Reality is non-retaliatory, and justice serves reintegration alone."
+}

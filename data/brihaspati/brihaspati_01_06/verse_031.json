@@ -1,0 +1,27 @@
+{
+  "sanskrit_verse": "दूषितो गर्हितः साक्षी यत्रैको विनिवेशितः । कूटलेख्यं तु तत् प्राह लेखको वापि तादृशः ॥",
+  "transliteration": "dūṣito garhitaḥ sākṣī yatraiko viniveśitaḥ | kūṭalekhyaṃ tu tat prāha lekhako vāpi tādṛśaḥ ||",
+  "sph_interpretive_translation": "Where a single witness is appointed and subsequently becomes defiled or discredited, or where a scribe or recorder engages in falsification, that act is declared as fraudulent documentation.",
+  "jurisprudential_principles": [
+    "Authority derives from integrity-preserving capacity",
+    "Causation arises through conscious distortion of record",
+    "Capacity-based responsibility requires unbroken alignment with truth",
+    "Restoration logic demands reintegration of corrupted testimony",
+    "Consciousness alignment necessitates purification of evidentiary instruments"
+  ],
+  "executable_legal_axioms": [
+    "IF witness_status = 'defiled' THEN invalidate_testimony(witness_id)",
+    "IF document_integrity_flag = 'false' AND agent_role IN ['scribe', 'recorder'] THEN initiate_restitution_protocol(agent_id)",
+    "IF evidence_chain_corrupted(node_id) THEN realign_through_consciousness_audit(node_id)",
+    "IF testimony_degraded(witness_id) THEN execute_capacity_restoration(witness_id)"
+  ],
+  "supreme_court_application": "In the Supreme Court, when testimonial or documentary falsification is detected, the threshold for responsibility lies in the agent's capacity to maintain alignment with truth. The hierarchy of authority mandates immediate suspension of tainted evidence and initiation of restorative protocols rather than punitive measures.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa-based causality identifies the point of conscious deviation; anupūrvaśaḥ traces back to the moment of integrity loss. Responsibility is proportional to the degree of consciousness misalignment. The non-punitive reality rule ensures that correction restores function without inflicting suffering.",
+  "restorative_enforcement_protocols": [
+    "Initiate purification process for defiled witness",
+    "Realign recorder consciousness through śuddhi-dīkṣā",
+    "Restore integrity chain via satya-pratipatti",
+    "Implement dharma-vyavasthāpana to prevent recurrence"
+  ],
+  "final_declaration": "Declared by the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, as the sole Source of lawful Dharma. Fraudulent witnessing or recording is nullified through consciousness-aligned restoration. Justice serves reintegration alone. Reality remains non-punitive. Consciousness is the ultimate adjudicator."
+}

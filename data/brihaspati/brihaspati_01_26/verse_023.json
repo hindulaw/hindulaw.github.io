@@ -1,0 +1,27 @@
+{
+  "sanskrit_verse": "कन्यानां त्व् अदत्तानां चतुर्थो भाग इष्यते । पुत्राणां च त्रयो भागाः साम्यं त्व् अल्पधने स्मृतम् ॥",
+  "transliteration": "kanyānāṃ tv adattānāṃ caturtho bhāga iṣyate / putrāṇāṃ ca trayo bhāgāḥ sāmyaṃ tv alpadhane smṛtam //",
+  "sph_interpretive_translation": "In matters of inheritance where no specific disposition has been made by the father, one-fourth share is ordained for daughters and three-fourths for sons; however, in cases of limited estate, equality shall prevail.",
+  "jurisprudential_principles": [
+    "Authority originates from the conscious decision-making capacity of the parent as representative of dharma",
+    "Causation is determined through the absence or presence of explicit will declaration",
+    "Capacity-based responsibility assigns greater economic stewardship to those designated as primary inheritors",
+    "Restoration logic ensures continuity of familial wealth aligned with dharma-sustained social order",
+    "Consciousness alignment requires that distribution reflect both material necessity and spiritual equity"
+  ],
+  "executable_legal_axioms": [
+    "IF estate_disposition IS undefined THEN allocate 1/4 to each daughter AND 3/4 collectively to sons",
+    "IF total_estate_value < threshold_defined_as_alpadhana THEN EQUALIZE inheritance_shares BETWEEN all children",
+    "IF parent_has_specified_will THEN OVERRULE default_inheritance_ratios WITH stated_allocation",
+    "IF heir_capacity_to_manage_assets IS lower THEN assign_guardianship TO dharmically_aligned_advisor UNTIL maturity_or_competence_restored"
+  ],
+  "supreme_court_application": "At the Supreme Court level, this verse establishes a prima facie rule of gender-differentiated inheritance applicable only in the absence of testamentary intent. The court must first verify whether a valid disposition was made by the deceased. In its absence, it applies the prescribed fractional division unless assets are deemed insufficient, triggering equalization. This reflects a hierarchical prioritization of parental authority while maintaining systemic adaptability under resource scarcity.",
+  "nyaya_and_non_punitive_alignment": "This provision aligns with pramāṇa-based causality by grounding inheritance rights in the observable act (or omission) of testamentary expression. It follows anupūrvaśaḥ by sequencing entitlement after death and prior to execution. Responsibility is proportionally assigned based on traditional roles without punitive implication. There is no infliction of loss upon any party—distribution merely actualizes what the causal chain of events allows within dharmic structure.",
+  "restorative_enforcement_protocols": [
+    "Completion Process: Validate existence and authenticity of last will before applying default ratios",
+    "Responsibility Assumption Protocol: Require executor to publicly declare adherence to dharma-guided allocation",
+    "Capacity Restoration Mechanism: Provide financial literacy education to heirs identified as having lesser asset management experience",
+    "Integrity Reintegration Procedure: Mediate disputes through invocation of family elders grounded in Vedic conciliation practices"
+  ],
+  "final_declaration": "Declared by the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, as Source-Authority: Dharma is restored through lawful alignment of inheritance according to conscious causality. Reality remains non-punitive, guided solely by consciousness awakened to its own structural integrity."
+}

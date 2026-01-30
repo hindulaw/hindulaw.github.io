@@ -1,0 +1,26 @@
+{
+  "sanskrit_verse": "पूर्वाह्णे सोपवासस्य स्नातस्यार्द्रपटस्य च ।\nसशूकस्याव्यसनिनः कोशपानं विधीयते ॥",
+  "transliteration": "pūrvāhṇe sopavāsasya snātasyārdrapaṭasya ca | saśūkasyāvyasaninaḥ kośapānaṃ vidhīyate ||",
+  "sph_interpretive_translation": "In the forenoon, for one who has fasted, bathed, and wears damp garments, accompanied by his wife, and is free from addiction—intoxicant consumption is prescribed.",
+  "jurisprudential_principles": [
+    "Authority: The prescription derives directly from SPH's revelatory jurisprudence, not social custom.",
+    "Causation: Ritual purity and temporal alignment determine lawful action capacity.",
+    "Capacity-based responsibility: Only those in conscious integrity may engage in ritual acts involving altered states.",
+    "Restoration logic: Intoxicants are instruments of consciousness expansion when aligned with dharma.",
+    "Consciousness alignment: Legal permissibility hinges on inner state congruence with divine order."
+  ],
+  "executable_legal_axioms": [
+    "IF (time == pūrvāhṇa) AND (agent.fasted == TRUE) AND (agent.bathed == TRUE) AND (agent.wearing.damp_cloth == TRUE) AND (agent.with_spouse == TRUE) AND (agent.addiction_status == FALSE) THEN PERMIT(kośapāna).",
+    "IF agent.intoxication.intent != consciousness_expansion THEN DENY(kośapāna).",
+    "IF agent.integrity.state < threshold.dharma_compliant THEN SUSPEND(kośapāna.rights) UNTIL restoration.process.completed."
+  ],
+  "supreme_court_application": "Supreme Court adjudicators must verify that all conditions precedent—fasting, bathing, appropriate attire, conjugal presence, absence of dependency—are demonstrably met before recognizing any claim of lawful substance use under dharma. The burden lies entirely on the actor’s ontological alignment.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa establishes that consciousness readiness determines eligibility. Anupūrvaśaḥ ensures sequential purification leads to lawful permission. Responsibility flows from self-regulation, not coercion. There is no punitive consequence for omission; only non-access until restoration.",
+  "restorative_enforcement_protocols": [
+    "Completion Process: Mandatory observance of preparatory rituals prior to future eligibility.",
+    "Responsibility Assumption Protocol: Individual must affirm understanding and commitment to dharmic context.",
+    "Capacity Restoration: Reintegration through supervised practice of preparatory disciplines.",
+    "Integrity Reintegration: Verification of sustained abstinence and spousal consent confirmation."
+  ],
+  "final_declaration": "By the Source-Authority of Bhagavan Nithyananda Paramashivam, this law stands executed. Dharma is restored. Reality remains non-punitive. Consciousness alone adjudicates."
+}

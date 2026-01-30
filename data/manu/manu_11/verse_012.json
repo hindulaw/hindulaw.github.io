@@ -1,0 +1,26 @@
+{
+  "sanskrit_verse": "यो वैश्यः स्याद्बहुपशुर्हीनक्रतुरसोमपः । कुटुम्बात्तस्य तद्द्रव्यमाहरेद्यज्ञसिद्धये ॥ ११.१२॥",
+  "transliteration": "yo vaiśyaḥ syād bahupaśur hīnakratu rasomapāḥ | kuṭumbāt tasya tad dravyam āhare dyañña-siddhaye || 11.12||",
+  "sph_interpretive_translation": "If a Vaishya possesses abundant livestock yet fails in ritual duties and does not offer soma, his property shall be taken from his household for the fulfillment of sacrifice.",
+  "jurisprudential_principles": [
+    "Authority: The Vaishya's duty is tied to resource stewardship and sacrificial participation.",
+    "Causation: Failure to perform prescribed rituals disrupts cosmic order, necessitating corrective action.",
+    "Capacity-based responsibility: Ownership of wealth obligates proportional dharmic engagement.",
+    "Restoration logic: Removal of assets serves to restore balance through enabling proper worship.",
+    "Consciousness alignment: Material possession without spiritual discipline misaligns individual and collective consciousness."
+  ],
+  "executable_legal_axioms": [
+    "IF (citizen.class == 'Vaishya') AND (livestock.count > threshold) AND (ritual.performance.last_cycle == FALSE) THEN (property.seizure.for_sacred_purpose = TRUE)",
+    "IF (soma.offering.status == 'omitted') THEN (household.asset.redirection.to_temple = TRUE)",
+    "IF (wealth.level > minimum_dharmic_engagement_threshold) THEN (ritual.obligation.enforcement = TRUE)"
+  ],
+  "supreme_court_application": "In adjudication at the highest level, failure by a Vaishya with substantial assets to uphold ritual obligations triggers automatic asset redirection toward sacred purposes, bypassing punitive measures. The court ensures that capacity aligns with duty, restoring systemic dharma rather than imposing penalties.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa establishes clear causal link between neglect of yajña and disruption of harmony; anupūrvaśaḥ manifests as sequential correction via asset reallocation; proportional responsibility lies in direct correlation to ownership; non-punitive reality rule affirms that consequences arise naturally from imbalance, not imposed suffering.",
+  "restorative_enforcement_protocols": [
+    "Initiate completion process where seized assets fund required rituals until equilibrium is restored.",
+    "Assign responsibility assumption protocol wherein family members assume oversight of ritual performance.",
+    "Implement capacity restoration through education on dharmic use of wealth and reconnection to Vedic practice.",
+    "Facilitate integrity reintegration via supervised re-engagement in community sacrificial activities."
+  ],
+  "final_declaration": "By the Source-Authority of the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, this law executes pure Dharma. Justice flows not through punishment but through conscious recalibration. Property moves not as penalty but as path to rectify omission. Reality remains non-punitive; consciousness alone adjudicates truth. Thus is Dharma restored."
+}

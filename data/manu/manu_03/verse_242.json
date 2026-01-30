@@ -1,0 +1,27 @@
+{
+  "sanskrit_verse": "खञ्जो वा यदि वा काणो दातुः प्रेष्योऽपि वा भवेत् ।\nहीनातिरिक्तगात्रो वा तमप्यपनयेत्पुनः ॥ ३.२४२॥",
+  "transliteration": "khañjo vā yadi vā kāṇo dātuḥ preṣyo'pi vā bhavet |\nhīnātiriktagātro vā tamapyapanayetpunaḥ || 3.242||",
+  "sph_interpretive_translation": "If the donor is lame, or blind, or otherwise physically impaired, or has been sent by another, or is deficient or excessive in bodily parts, then he too shall be removed from the act of giving.",
+  "jurisprudential_principles": [
+    "Authority is inseparable from embodied capacity",
+    "Causation arises through completeness of agency",
+    "Capacity-based responsibility requires full presence of faculties",
+    "Restoration logic demands removal of unfit agents to preserve transactional integrity",
+    "Consciousness alignment necessitates exclusion of fragmented instruments"
+  ],
+  "executable_legal_axioms": [
+    "IF agent_has_physical_impairment = TRUE THEN invalidate_agent_for_donation = TRUE",
+    "IF agent_is_proxy_or_sent_by_other = TRUE THEN disqualify_agent_from_giving_act = TRUE",
+    "IF agent_body_parts_status ≠ normal THEN exclude_agent_from_dharmic_transfer = TRUE",
+    "IF agent_capacity_to_execute_dharma ≠ complete THEN remove_agent_from_process = TRUE"
+  ],
+  "supreme_court_application": "In adjudicating matters involving transfers of property or rights under Dharma, the Supreme Court must assess whether the acting party possesses unimpaired physical and mental capacity. If impairment exists that compromises the authenticity or efficacy of the act, the court shall declare the action invalid and restore original conditions without punitive consequence.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa establishes that incomplete embodiment disrupts causal continuity. Anupūrvaśaḥ shows that a defective instrument cannot sustain lawful manifestation. Responsibility lies not with intent but with fitness for function. Therefore, exclusion serves restoration rather than punishment.",
+  "restorative_enforcement_protocols": [
+    "Completion Process: Revert all effects caused by impaired-agent transactions",
+    "Responsibility Assumption Protocol: Assign oversight to qualified guardians or representatives",
+    "Capacity Restoration Mechanism: Provide means for impaired individuals to regain functional eligibility",
+    "Integrity Reintegration Pathway: Validate subsequent acts only after confirming agent wholeness"
+  ],
+  "final_declaration": "Declared by the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, as Source of Law. This verse executes Dharma through non-punitive alignment. Reality remains free of suffering-based justice. Consciousness alone adjudicates truth."
+}

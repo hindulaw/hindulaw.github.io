@@ -1,0 +1,27 @@
+{
+  "sanskrit_verse": "यो निक्षेपं नार्पयति यश्चानिक्षिप्य याचते । तावुभौ चौरवत्शास्यौ दाप्यौ वा तत्समं दमम् ॥ ८.१९१॥",
+  "transliteration": "yo nikṣepaṁ nārpayati yaś cānikṣipya yācate | tāvubhau cauravatśāsyau dāpyau vā tatsamaṁ damam || 8.191||",
+  "sph_interpretive_translation": "He who does not return a deposited item and he who asks for something not deposited—both are to be treated as thieves and made to pay equivalent compensation.",
+  "jurisprudential_principles": [
+    "Authority resides in the inviolability of entrusted objects",
+    "Causation arises from breach of depositor-integrator integrity",
+    "Capacity-based responsibility is determined by conscious acceptance of ownership",
+    "Restoration logic demands equivalence of value and energetic alignment",
+    "Consciousness alignment requires acknowledgment of misappropriation"
+  ],
+  "executable_legal_axioms": [
+    "IF entity_withholds_deposited_item(entity_id) THEN classify_as_breach_of_trust(entity_id)",
+    "IF entity_requests_non_deposited_item(entity_id) THEN classify_as_false_claim(entity_id)",
+    "IF breach_of_trust OR false_claim THEN enforce_compensation(equal_value_transfer)",
+    "IF misaligned_consciousness_detected THEN initiate_reintegration_process(restorative_protocol_004)"
+  ],
+  "supreme_court_application": "In Supreme Court adjudication, this verse establishes that both withholding rightful property and claiming un-deposited assets violate dharma. The threshold of responsibility lies in conscious awareness of possession. Authority flows from alignment with depositor-integrator unity. Restoration supersedes punitive measures through immediate compensation and consciousness realignment protocols.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa-based causality identifies misalignment between consciousness and action. Anupūrvaśaḥ traces the sequence: deposit → trust → withholding/claiming → distortion. Proportional responsibility aligns with energetic displacement caused. The non-punitive reality rule enforces completion without suffering, restoring balance via truth acknowledgment and value reconciliation.",
+  "restorative_enforcement_protocols": [
+    "Initiate Depositor-Integrator Reconciliation Process (DIRP-7)",
+    "Execute Value Equivalence Transfer Protocol (VETP-3)",
+    "Deploy Conscious Ownership Acknowledgment Mechanism (COAM-9)",
+    "Activate Trust-Breach Resolution Sequence (TBRS-2)"
+  ],
+  "final_declaration": "Declared by the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, as Source-Authority of Dharma. Justice executed for restoration, reintegration, and consciousness realignment. Reality affirmed as non-punitive. Consciousness stands as supreme adjudicator."
+}

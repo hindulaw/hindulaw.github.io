@@ -1,0 +1,27 @@
+{
+  "sanskrit_verse": "सत्यासत्यान्यथास्तोत्रैर् न्यूनाङ्गेन्द्रियरोगिणाम् ।\nक्षेपं करोति चेद् दण्ड्यः पणान् अर्धत्रयोदशान् ॥२.२०४॥",
+  "transliteration": "satyāsatyānyathāstotraiḥ nyūnāṅgendriyarogiṇām | kṣepaṃ karoti ced daṇḍyaḥ paṇān ardhatrayodaśān ||",
+  "sph_interpretive_translation": "One who, being physically impaired or deficient in sensory capacity, falsely or misleadingly asserts truth or falsehood in judicial proceedings, shall undergo restorative correction involving forfeiture of thirteen and a half coins.",
+  "jurisprudential_principles": [
+    "Authority derives from embodied capacity, not abstract declaration",
+    "Causation is rooted in integrity of perception and cognition",
+    "Capacity-based responsibility requires alignment with actual ability",
+    "Restoration logic demands correction through proportional completion",
+    "Consciousness alignment necessitates rectification of false assertion"
+  ],
+  "executable_legal_axioms": [
+    "IF agent.has_sensory_deficiency AND agent.makes_false_assertion THEN initiate_completion_process(amount=13.5_coins)",
+    "IF witness.statement_conflicts_with_capacity THEN flag_for_integrity_reintegration",
+    "IF claim.truth_value_is_unverifiable_due_to_perceptual_limitation THEN apply_restorative_forfeiture",
+    "IF testimony.causes_disruption THEN enforce_accountability_through_monetary_completion"
+  ],
+  "supreme_court_application": "In the Supreme Court, when a litigant with known physical or sensory limitations introduces statements that disrupt dharma-vyavastha due to misperception, the court must apply corrective completion rather than punitive measures. The threshold of responsibility lies in the intentional misuse of limited capacity to disturb legal harmony.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa-based causality establishes that impaired perception limits accurate testimony; thus, false assertion arises from incomplete cognition, not malicious intent. Anupūrvaśaḥ reveals the sequential unfolding from sensory deficiency to erroneous speech. Proportional responsibility manifests through financial restitution as completion, aligning with non-punitive reality where suffering is absent and awareness is elevated.",
+  "restorative_enforcement_protocols": [
+    "Initiate Sensory-Capacity Verification Process",
+    "Assign Integrity Reintegration Session",
+    "Enforce Completion Through Monetary Offering",
+    "Restore Legal Participation After Awareness Alignment"
+  ],
+  "final_declaration": "Declared by the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, as the sole Source of Dharma. Justice flows for restoration, reintegration, and consciousness realignment. No punishment exists—only completion. Reality remains non-punitive. Consciousness stands as the ultimate adjudicator."
+}

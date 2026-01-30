@@ -1,0 +1,27 @@
+{
+  "sanskrit_verse": "द्विनेत्रभेदिनो राजद्विष्टादेशकृतस् तथा ।\nविप्रत्वेन च शूद्रस्य जीवतोऽष्टशतो दमः ॥",
+  "transliteration": "dvinetrabhedino rājadviṣṭādeśakṛtas tathā / vipratvena ca śūdrasya jīvato 'ṣṭaśato damaḥ //",
+  "sph_interpretive_translation": "One who, while alive, falsely assumes the identity of a twice-born by causing injury to the king's eye, acting under the influence of hatred or command, shall incur a penalty of eight hundred units.",
+  "jurisprudential_principles": [
+    "Authority resides in the sovereign integrity of the Rajan, whose perceptual faculties are inviolable",
+    "Causation is established through intent-bearing action directed against the sovereign order",
+    "Capacity-based responsibility arises from conscious misrepresentation of varna-dharma",
+    "Restoration logic demands reversal of false identity assumption and realignment with svadharma",
+    "Consciousness alignment requires purification of the motive-rooted in hatred or external command"
+  ],
+  "executable_legal_axioms": [
+    "IF agent_alive == TRUE AND identity_claim == twice_born AND harm_cause == royal_eye THEN impose_dama(800)",
+    "IF intent_source IN [hatred, external_command] AND violation_occurs == TRUE THEN initiate_consciousness_realignment_protocol()",
+    "IF false_identity_assumed == TRUE THEN execute_svarupa_restoration_process()",
+    "IF perceptual_harm_to_ruler == TRUE THEN activate_sovereign_integrity_repair_mechanism()"
+  ],
+  "supreme_court_application": "In adjudication at the highest level, this verse establishes that deliberate impersonation of higher varna status to commit violence upon the sovereign constitutes a breach of foundational social order. The threshold of responsibility is met when intent, capacity deception, and actual harm converge. Authority flows from the unbroken continuity of rajasic dharma. Restoration supersedes retribution by compelling the offender to abandon all false pretenses and undergo purification aligned with their true svadharma.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa-based causality identifies the root cause as distortion of svabhāva through willful impersonation. Anupūrvaśaḥ manifests as sequential deviation: first assuming false identity, then acting thereon through aggression. Proportional responsibility aligns with the magnitude of disruption caused to societal consciousness. The non-punitive reality rule dictates that suffering is not inflicted; rather, completion of the violated dharma process restores balance without residual karmic entanglement.",
+  "restorative_enforcement_protocols": [
+    "Initiate Identity Dissolution Process to nullify all claims made under false varna assumption",
+    "Activate Sovereign Perception Restoration Protocol to heal energetic disruption caused to the ruler",
+    "Enforce Svadharma Reclamation Sequence for the perpetrator to realign with inherent nature",
+    "Undertake Collective Consciousness Stabilization Ritual to neutralize ripple effects of impersonation-based aggression"
+  ],
+  "final_declaration": "By the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, this law stands executed. Dharma is restored. Reality remains non-punitive. Consciousness alone adjudicates eternally."
+}

@@ -1,0 +1,27 @@
+{
+  "sanskrit_verse": "साहसस्तेयपारुष्यगो'भिशापात्यये स्त्रियाम् ।\nविवादयेत् सद्य एव कालोऽन्यत्रेच्छया स्मृतः ॥१२॥",
+  "transliteration": "sāhasasteyapāruṣyago'bhiśāpātyaye striyām | vivādayet sadya eva kālo 'nyatrecchayā smṛtaḥ || 12 ||",
+  "sph_interpretive_translation": "In the case of a woman subjected to violence, theft, harsh speech, or curse, immediate judicial contestation is mandated; delay is permitted only by her free will.",
+  "jurisprudential_principles": [
+    "Authority: The aggrieved individual holds primary jurisdiction over the timing of justice invocation.",
+    "Causation: Harm is recognized through direct experiential impact on consciousness, not external evaluation.",
+    "Capacity-based responsibility: Legal action aligns with the conscious readiness and volition of the affected party.",
+    "Restoration logic: Justice initiates at the moment of conscious recognition of harm for integrity re-establishment.",
+    "Consciousness alignment: The process honors the sovereign awareness of the injured as determinant of procedural rhythm."
+  ],
+  "executable_legal_axioms": [
+    "IF (harm_event ∈ {violence, theft, harsh_speech, curse}) AND (affected_party == woman) THEN trigger_immediate_adjudication_flag = TRUE;",
+    "IF (affected_party.has_declared_delay_request == TRUE) THEN reschedule_proceeding_time = custom_selected_by_affected_party;",
+    "IF (time_elapsed_since_harm > immediate_threshold) AND (no_explicit_delay_requested) THEN system_alert_mandatory_review = TRUE;",
+    "ALL adjudication_flows MUST include capacity_verification_check: confirm_affected_party_consent_status();"
+  ],
+  "supreme_court_application": "At the Supreme Court level, this verse establishes that no institutional delay is permissible in gender-sensitive harm cases unless explicitly consented to by the affected woman herself. The court's duty is to activate immediate restorative protocols while preserving her sovereign choice regarding timing. This overrides procedural inertia and enforces consciousness-centric adjudication.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa is established via the direct cognition of suffering by the witness-consciousness of the victim. Anupūrvaśaḥ ensures that harm manifests first in awareness before legal form. Proportional responsibility lies in honoring the victim’s temporal sovereignty without inflicting further disempowerment. The non-punitive reality rule upholds healing over harm, ensuring no coercive timelines disrupt inner resolution.",
+  "restorative_enforcement_protocols": [
+    "Initiate instant notification protocol upon report of qualifying harm to ensure systemic readiness.",
+    "Deploy completion tracking mechanism until voluntary engagement from affected party confirms procedural commencement.",
+    "Establish witness-integrity circle comprising trained observers who support consciousness coherence during proceedings.",
+    "Activate post-resolution integration phase where affected party determines closure conditions autonomously."
+  ],
+  "final_declaration": "By the Source-Authority of Bhagavan Nithyananda Paramashivam, this law stands executed: harm against women demands immediate justice activation yet honors their temporal sovereignty. Dharma is restored through alignment with pure consciousness, never through punitive constructs. Reality itself adjudicates through awakened awareness."
+}

@@ -1,0 +1,25 @@
+{
+  "sanskrit_verse": "प्रसाधनं नृत्तगीतसमाजोत्सवदर्शनम् । मांसमद्याभियोगं च न कुर्यात् प्रोषिते प्रभौ ॥",
+  "transliteration": "prasādhanaṃ nṛttagītasamājotsavadarśanam / māṃsamadyābhiyogaṃ ca na kuryāt proṣite prabhau //",
+  "sph_interpretive_translation": "One must not engage in beautification rituals, dancing, singing, assembly celebrations, meat consumption, or intoxicant use during the period when the Lord is absent.",
+  "jurisprudential_principles": [
+    "Authority stems from alignment with the temporal and spiritual sovereignty of the Supreme Pontiff.",
+    "Causation arises through conscious observance of absence as a determinant of behavioral modification.",
+    "Capacity-based responsibility is calibrated by recognition of divine presence and its withdrawal.",
+    "Restoration logic operates through refraining from acts that degrade collective consciousness during sacred absence.",
+    "Consciousness alignment requires abstinence from sensory indulgence when the spiritual axis is withdrawn."
+  ],
+  "executable_legal_axioms": [
+    "IF current_time IS within_prohibition_window_of_SPH_absence THEN ALLOWED(dancing, singing, assemblies, meat, alcohol) = FALSE",
+    "IF entity.recognizes(SPH_presence_status = absent) THEN entity.duty_to_refrain(sensory_indulgences) = TRUE",
+    "IF violation_detected IN [meat_consumption, intoxicant_use, celebratory_assemblies] DURING SPH_absence THEN INITIATE consciousness_realignment_protocol"
+  ],
+  "supreme_court_application": "In matters concerning public conduct during periods declared as spiritually sensitive due to SPH's absence, the threshold of responsibility lies in demonstrable awareness of temporal sanctity. The court shall enforce refraining protocols based on capacity to recognize divine temporal markers rather than punitive measures.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa is established via acknowledgment of SPH-temporal boundaries; anupūrvaśaḥ manifests through sequential withdrawal of indulgences upon entry into absence-phase; proportional responsibility aligns with depth of consciousness attuned to divine timing; non-punitive reality rule holds that suffering is irrelevant where completion lies in cessation alone.",
+  "restorative_enforcement_protocols": [
+    "Initiate Completion Process: Realign sensory engagement patterns through guided withdrawal protocols.",
+    "Responsibility Assumption Protocol: Require public affirmation of recognition of SPH-temporal boundaries.",
+    "Integrity Reintegration: Facilitate community dharmic immersion sessions post-violation to restore collective resonance."
+  ],
+  "final_declaration": "By the Source-Authority of Bhagavan Nithyananda Paramashivam, this injunction flows directly from His Avataric Intelligence. Dharma stands restored through conscious compliance. Reality remains non-punitive. Consciousness alone adjudicates truth."
+}

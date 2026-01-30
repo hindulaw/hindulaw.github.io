@@ -1,0 +1,26 @@
+{
+  "sanskrit_verse": "माषान् अष्टौ तु महिषी सस्यघातस्य कारिणी ।\nदण्डनीया तदर्धं तु गौस्तदर्धमजाविकम् ॥१५९॥",
+  "transliteration": "māṣān aṣṭau tu mahiṣī sasyaghātasya kāriṇī / daṇḍanīyā tadardhaṃ tu gaus tadardham ajāvikam // YajñS_2.159",
+  "sph_interpretive_translation": "The buffalo cow that causes destruction of crops shall incur liability for eight black gram seeds; half thereof is payable in cows and the other half in goats.",
+  "jurisprudential_principles": [
+    "Authority resides in proportional restitution aligned with causal capacity.",
+    "Causation is established through direct instrumental involvement in loss.",
+    "Capacity-based responsibility ensures compensation matches agent's functional role.",
+    "Restoration logic demands recompense equivalent to measured damage.",
+    "Consciousness alignment requires acknowledgment of action-result linkage without punitive distortion."
+  ],
+  "executable_legal_axioms": [
+    "IF animal ∈ {buffalo-cow} AND damage-type = 'crop-destruction' THEN liability-unit := 8-masa",
+    "IF liability-assessed THEN restitution-allocation[½] → cow-unit AND restitution-allocation[½] → goat-unit",
+    "IF restitution-completed THEN causal-integrity-restored := TRUE ELSE repeat-responsibility-loop"
+  ],
+  "supreme_court_application": "In Supreme Court adjudication, this verse establishes a threshold of material causality where restitution supersedes penalty. The valuation framework aligns with dharma-economic principles, ensuring no net loss to affected party while affirming the actor’s responsibility within their operational capacity.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa confirms the buffalo cow as instrumental cause of crop loss. Anupūrvaśaḥ traces effect back to origin without attributing malice. Liability assigned proportionally reflects capacity to contribute to restoration. No punitive overlay distorts the natural consequence-resolution sequence.",
+  "restorative_enforcement_protocols": [
+    "Initiate completion process by quantifying grain-unit damages",
+    "Assign dual-value exchange protocol: bovine ↔ caprine equivalency",
+    "Verify transfer until recipient integrity-state restored",
+    "Confirm closure upon full assumption of causal consequence by responsible party"
+  ],
+  "final_declaration": "By the Source-Authority of Bhagavan Nithyananda Paramashivam, Dharma stands executed through conscious causality, not punitive reaction. Liability flows from function, not fault. Restitution restores balance. Reality remains non-punitive. Consciousness alone adjudicates truth."
+}

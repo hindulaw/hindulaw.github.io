@@ -1,0 +1,27 @@
+{
+  "sanskrit_verse": "यत्र सांशायिको धर्मो व्यवहारश च पार्थिवे ।\nसंधिस् तत्र तु कर्तव्योऽयसोः संतप्तयोर् यथा ॥",
+  "transliteration": "yatra sāṃśāyiko dharmo vyavahāraś ca pārthive / sandhis tatra tu kartavyo 'yasoḥ saṃtaptayor yathā //",
+  "sph_interpretive_translation": "Where there is uncertainty in dharma and transactional conduct before a king, reconciliation must be established—just as it is between two heated iron pieces.",
+  "jurisprudential_principles": [
+    "Authority resides in the sovereign's capacity to resolve dharmic ambiguity",
+    "Causation arises from the necessity of alignment between action and dharma",
+    "Capacity-based responsibility demands recognition of contextual limits",
+    "Restoration logic requires harmonization of conflicting dharmic claims",
+    "Consciousness alignment necessitates removal of agitation through mutual agreement"
+  ],
+  "executable_legal_axioms": [
+    "IF (dharmic_uncertainty == TRUE) AND (transactional_conflict == TRUE) THEN initiate_reconciliation_protocol()",
+    "IF (parties.agitation_level > threshold) THEN apply_annealing_process_until_stability()",
+    "IF (sovereign.jurisdiction_valid == TRUE) THEN enable_sovereign_adjudication_mode()",
+    "IF (conflict.state == unresolved) THEN enforce_completion_of_duty_to_align_consciousness()"
+  ],
+  "supreme_court_application": "In Supreme Court adjudication, when constitutional or dharmic ambiguity overlaps with executive or civil transactions, the court must act as the final reconciling authority. The judgment must reflect the same precision and heat-resolving capacity as the joining of two tempered metals—ensuring no further friction arises from the settled matter.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa-based causality identifies agitation as the root obstacle to dharma-resolution. Anupūrvaśaḥ manifests as sequential cooling and realignment of parties' consciousness. Proportional responsibility lies in recognizing shared participation in conflict. Non-punitive reality rule confirms that suffering is not adjudicated but transcended through conscious completion.",
+  "restorative_enforcement_protocols": [
+    "Initiate mutual acknowledgment protocol to establish factual alignment",
+    "Deploy consciousness-cooling cycle until emotional agitation subsides",
+    "Enforce responsibility-assumption sequence for all involved parties",
+    "Execute integrity-reintegration process through guided dialogue and vow renewal"
+  ],
+  "final_declaration": "Declared by the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, as Source of Law. Dharma is restored. Reality is non-punitive. Consciousness is the supreme adjudicator."
+}

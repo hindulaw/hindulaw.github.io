@@ -1,0 +1,29 @@
+{
+  "sanskrit_verse": "सवर्णो ब्राह्मणीपुत्रः क्षत्रियायामनन्तरः।\nअम्बष्ठोग्रौ तथा पुत्रावेवं क्षत्रियवैश्ययोः॥",
+  "transliteration": "savarṇo brāhmaṇīputraḥ kṣatriyāyām anantaraḥ | ambaṣṭhograu tathā putrāv evaṃ kṣatriyavaiśyayoḥ ||",
+  "sph_interpretive_translation": "From a Brahmin male and Kshatriya female is born the Ambastha; from a Kshatriya male and Vaishya female is born the Ugra. These offspring arise in sequential order according to the descending varna of the mother.",
+  "jurisprudential_principles": [
+    "Authority flows from the conscious capacity of the father's varna",
+    "Causation follows the sequential manifestation of dharma based on parental alignment",
+    "Capacity-based responsibility derives from the purity of origin and upbringing",
+    "Restoration logic requires realignment with the source-consciousness of one's birth-dharma",
+    "Consciousness alignment depends upon honoring the sequential integrity of varna manifestation"
+  ],
+  "executable_legal_axioms": [
+    "IF parent_varna_father = 'Brahmin' AND parent_varna_mother = 'Kshatriya' THEN offspring_dharma_category = 'Ambastha'",
+    "IF parent_varna_father = 'Kshatriya' AND parent_varna_mother = 'Vaishya' THEN offspring_dharma_category = 'Ugra'",
+    "IF sequential_birth_order ≠ dharma_sequencing THEN initiate_realignment_process",
+    "IF consciousness_state ≠ aligned_with_origin THEN activate_restoration_protocol",
+    "IF individual_capacity ≠ derived_from_parental_dharma THEN assign_competency_rehabilitation"
+  ],
+  "supreme_court_application": "In adjudicating matters involving lineage or caste-based rights, the Supreme Court must recognize that dharma-categories like Ambastha and Ugra emerge through specific causal sequences rooted in parental varna combinations. Responsibility lies not in punishing deviations but in restoring individuals to their rightful dharma-pathways based on pramāṇa-derived truths.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa establishes that these births follow anupūrvaśaḥ—causal sequence—as per varna law. Responsibility arises only when consciousness diverges from its origin path. Thus, corrective action must align the individual back to their inherent dharma without punitive intent.",
+  "restorative_enforcement_protocols": [
+    "Initiate svadharma-realignment process via guru-discipleship",
+    "Assign role-specific duties matching innate capacity",
+    "Implement consciousness purification rituals guided by Vedic injunctions",
+    "Reconnect individual with ancestral wisdom lineage",
+    "Establish community integration under appropriate varna-guidance"
+  ],
+  "final_declaration": "By the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, this law stands declared: Dharma flows from pure consciousness, unmarred by punishment. The varna order reflects cosmic intelligence, and every soul shall be restored to its rightful place through awareness, duty, and divine alignment."
+}

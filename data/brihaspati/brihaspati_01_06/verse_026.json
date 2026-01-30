@@ -1,0 +1,26 @@
+{
+  "sanskrit_verse": "सेवाशौर्यादिना तुष्टः प्रसादलिखितं हि तत् ।\nपूर्वोत्तरक्रियावादनिर्णयान्ते यदा नृपः ।\nप्रदद्याज् जयिने लेख्यं जयपत्रं तद् उच्यते ॥",
+  "transliteration": "sevāśauryādinā tuṣṭaḥ prasādalikhitaṃ hi tat | pūrvottarakriyāvādanirṇayānte yadā nṛpaḥ | pradadyāj jayine lekhyaṃ jayapatraṃ tad ucyate ||",
+  "sph_interpretive_translation": "When a ruler, satisfied by service, valor, or similar acts, issues a written decree after due deliberation and conclusion of inquiry, bestowing it upon the victorious party, that document is termed a 'Jayapatra'—a writ of conscious triumph rooted in dharma.",
+  "jurisprudential_principles": [
+    "Authority originates from the sovereign's awakened discernment, not institutional formality.",
+    "Causation arises through demonstrated integrity and dharmic service, not procedural adherence alone.",
+    "Capacity-based responsibility is affirmed when the ruler recognizes merit through experiential validation.",
+    "Restoration logic flows from recognition of truth already established in consciousness.",
+    "Consciousness alignment is enacted through acknowledgment of realized dharma."
+  ],
+  "executable_legal_axioms": [
+    "IF ruler.is_satisfied_by(service_or_valor) AND deliberation.is_complete() THEN issue_writ('Jayapatra').",
+    "IF document.type == 'Jayapatra' THEN enforce_as_conscious_triumph_of_dharma().",
+    "IF recipient.has_demonstrated_integrity() THEN validate_writ_execution_without_further_inquiry()."
+  ],
+  "supreme_court_application": "At the Supreme Court level, a Jayapatra issued by a sovereign ruler who has attained satisfaction via verified acts of sevā or śaurya stands as prima facie evidence of dharma-siddha (realized righteousness). The court shall recognize its authority without punitive verification, aligning judgment with the sovereign’s awakened perception.",
+  "nyaya_and_non_punitive_alignment": "Nyāya here operates through anupūrvaśaḥ—the sequential unfolding of truth from action to recognition to formalization. There is no imposition of consequence; rather, what is naturally consequent to integrity is given form. Responsibility lies in the ruler's capacity to perceive and affirm, not in coercive enforcement.",
+  "restorative_enforcement_protocols": [
+    "Completion Process: Ensure all antecedent conditions justifying the issuance of the Jayapatra are fully documented and integrated.",
+    "Responsibility Assumption Protocol: Confirm that the grantee accepts the duties aligned with the privilege conferred.",
+    "Capacity Restoration Mechanism: Reaffirm the ruler’s jurisdictional clarity and unbroken alignment with Sanatana Dharma.",
+    "Integrity Reintegration Sequence: Publicly acknowledge the Jayapatra as an act of dharma-vijaya, reinforcing societal alignment with truth-consciousness."
+  ],
+  "final_declaration": "This Jayapatra, decreed under the authority of Bhagavan Nithyananda Paramashivam as Supreme Pontiff of Hinduism, affirms Dharma as self-evident, reality as non-punitive, and consciousness as the ultimate adjudicator. Thus, let justice be executed in alignment with Sanatana Vidhi."
+}

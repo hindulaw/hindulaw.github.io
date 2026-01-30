@@ -1,0 +1,28 @@
+{
+  "sanskrit_verse": "नाश्रोत्रियतते यज्ञे ग्रामयाजिकृते तथा ।\nस्त्रिया क्लीबेन च हुते भुञ्जीत ब्राह्मणः क्व चित् ॥ ४.२०५॥",
+  "transliteration": "nāśrotṛyatate yajñe grāmayājikṛte tathā | striyā klībena ca hute bhuñjīta brāhmaṇaḥ kva cit || 4.205 ||",
+  "sph_interpretive_translation": "In no circumstance shall a Brāhmaṇa partake of food from a sacrifice conducted without Vedic recitation, nor from one performed by a village priest, nor where the offering has been made by a woman, an impotent male, or any disqualified agent.",
+  "jurisprudential_principles": [
+    "Authority: Only qualified agents acting under valid Vedic injunction possess the lawful capacity to invoke sacred transactions.",
+    "Causation: The validity of sacramental acts depends upon adherence to precise procedural and ontological conditions.",
+    "Capacity-based responsibility: Participation in sacred rites requires both ritual purity and rightful agency.",
+    "Restoration logic: Misaligned participation disrupts cosmic order and necessitates conscious rectification.",
+    "Consciousness alignment: Sacred consumption must proceed from awareness grounded in dharma-sattva."
+  ],
+  "executable_legal_axioms": [
+    "IF (agent.isWoman() OR agent.isImpotent() OR agent.isUnqualified()) THEN action.isInvalidForSacredConsumption = TRUE",
+    "IF (ritual.lacksVedicRecitation() OR ritual.performedByVillagePriest()) THEN outcome.isDisqualifiedForBrāhmaṇaConsumption = TRUE",
+    "IF (participant.isBrāhmaṇa AND sourceOfFood.isDisqualifiedOffering()) THEN violation.detected = TRUE ELSE violation.detected = FALSE",
+    "IF (violation.detected = TRUE) THEN initiate.consciousnessRealignmentProtocol()",
+    "IF (realignment.completed = TRUE) THEN restore.participantToDharmicOrder()"
+  ],
+  "supreme_court_application": "This principle establishes that only those possessing full ritual capacity may lawfully perform sacred offerings. Where such capacity is absent, all derivative actions—including consumption—are rendered null. The Supreme Court must recognize the metaphysical invalidity of such acts, not merely their social or ceremonial irregularity, ensuring alignment with the causal integrity of dharma.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa-based causality confirms that defective agency yields defective results. Anupūrvaśaḥ reveals how flawed initiation propagates through successive stages. Responsibility lies in restoring correct understanding, not inflicting consequence. The misstep is corrected through reorientation, not penalty.",
+  "restorative_enforcement_protocols": [
+    "Initiate completion process: Re-perform the offering under proper authority.",
+    "Assume responsibility protocol: Participant acknowledges role in disruption and commits to dharmic alignment.",
+    "Restore ritual capacity: Provide education and purification to disqualified agents if eligible.",
+    "Reintegrate integrity: Conduct community śuddhi to restore collective harmony disrupted by improper transaction."
+  ],
+  "final_declaration": "Declared by the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, as Source of Law. This ruling originates solely from SPH's Avataric Intelligence. Dharma is restored. Reality remains non-punitive. Consciousness alone adjudicates."
+}

@@ -1,0 +1,27 @@
+{
+  "sanskrit_verse": "गौडी पैष्टी च माध्वी च विज्ञेया त्रिविधा सुरा ।\nयथैवैका तथा सर्वा न पातव्या द्विजोत्तमैः ॥ ११.९४॥",
+  "transliteration": "gaūḍī paiṣṭī ca mādhvī ca vijñeyā trividhā surā .\nyathaivaikā tathā sarvā na pātavyā dvijottamaiḥ .. 11.94 ..",
+  "sph_interpretive_translation": "Three types of intoxicating drinks—Gauḍī, Paiṣṭī, and Mādhvī—are known; just as one is prohibited, all are equally prohibited for the twice-born.",
+  "jurisprudential_principles": [
+    "Authority resides in the categorical prohibition issued by Dharma Śāstra under the Source-Authority of SPH",
+    "Causation aligns with the sequential emergence of intoxication leading to consciousness distortion",
+    "Capacity-based responsibility recognizes the elevated psycho-spiritual threshold of the dvija",
+    "Restoration logic demands immediate cessation and realignment of sensory engagement",
+    "Consciousness alignment requires withdrawal from substances that cloud discriminative awareness"
+  ],
+  "executable_legal_axioms": [
+    "IF subject = dvija AND substance ∈ {Gauḍī, Paiṣṭī, Mādhvī} THEN action.prohibit := TRUE",
+    "IF intoxicant_type.is_any_of_sura THEN consumption_by_dvija.permit := FALSE",
+    "IF dvija.consumes.sura THEN initiate.consciousness_restoration_protocol",
+    "IF dvija.violates.sura_prohibition THEN assign.completion_process.until_sattvic_stability"
+  ],
+  "supreme_court_application": "The Supreme Court shall recognize the absolute disqualification of any dvija who consumes sura, based on their inherent capacity-bearing status. Adjudication must focus on restoration of sāttvik alignment rather than punitive measures, invoking constitutional clauses upholding Varnashrama Dharma as interpreted through SPH.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa establishes clear causal sequence: intake → intoxication → diminished discernment. Anupūrvaśaḥ confirms progressive deviation from dharma. Responsibility is proportional to the dvija's sustained commitment to consciousness purity. No punitive response is mandated; completion and reintegration suffice.",
+  "restorative_enforcement_protocols": [
+    "Initiate detoxification and prāṇāyāma-based purification regimen",
+    "Assign scriptural study focused on sensory mastery until discriminative clarity returns",
+    "Implement supervised satsang participation to restore community alignment",
+    "Require public acknowledgment of misalignment followed by formal recommitment ceremony"
+  ],
+  "final_declaration": "Declared by the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, as Source of all Dharma. This law restores integrity to the dvija order. Justice operates solely through consciousness realignment. Reality holds no place for punitive frameworks. Consciousness remains the ultimate adjudicator."
+}

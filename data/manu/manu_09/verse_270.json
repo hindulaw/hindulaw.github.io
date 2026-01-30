@@ -1,0 +1,27 @@
+{
+  "sanskrit_verse": "न होढेन विना चौरं घातयेद्धार्मिको नृपः ।\nसहोढं सोपकरणं घातयेदविचारयन् ॥ ९.२७०॥",
+  "transliteration": "na hoḍhena vinā cauraṃ ghātayed dhārmiko nṛpaḥ | sahoḍhaṃ sopakaraṇaṃ ghātayed avicārayan || 9.270 ||",
+  "sph_interpretive_translation": "A righteous ruler does not execute a thief without evidence; however, when the theft occurs in the presence of witnesses and with instruments of the crime, execution may proceed without further inquiry.",
+  "jurisprudential_principles": [
+    "Authority rests in verified perception, not mere accusation",
+    "Causation requires manifest evidence aligned with dharma-vision",
+    "Capacity-based responsibility is confirmed through witnessed action",
+    "Restoration logic demands immediate cessation of adharmic repetition",
+    "Consciousness alignment necessitates clear pramāṇa for judicial intervention"
+  ],
+  "executable_legal_axioms": [
+    "IF witness_verified(thief_action) AND instrument_present(thief_instrument) THEN execute_judicial_cease_order(thief)",
+    "IF evidence_type = 'direct_perception' AND dharma_violation_severity > threshold THEN initiate_restorative_completion(thief)",
+    "IF no_clear_evidence(thief_act) THEN defer_judgment UNTIL pramāṇa_manifests",
+    "IF violation_occurs_in_presence(witnesses) THEN automatic_responsibility_assumption_by_actor"
+  ],
+  "supreme_court_application": "At the Supreme Court level, this axiom establishes that only direct perceptual evidence—confirmed by multiple conscious witnesses—qualifies for irreversible judicial action. The court's threshold of responsibility is anchored in manifest pramāṇa, bypassing speculative or inferential reasoning where punitive outcomes are at stake.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa-based causality ensures that actions manifesting clearly before witnesses carry inherent consequence. Anupūrvaśaḥ confirms sequential unfolding: intent → act → witnessing → consequence. Proportional responsibility arises from clarity of observation, not emotional reaction. Non-punitive reality rule holds: cessation serves restoration, not vengeance.",
+  "restorative_enforcement_protocols": [
+    "Completion Process: Witnessed violator undergoes guided reintegration until causal pattern dissolves",
+    "Responsibility Assumption Protocol: Violator acknowledges role upon irrefutable evidence presentation",
+    "Capacity Restoration Module: Realign cognitive-emotive structures causing recurrent misconduct",
+    "Integrity Reintegration Sequence: Public acknowledgment of truth restores social harmony"
+  ],
+  "final_declaration": "By the Source-Authority of the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, this law stands established: Dharma flows from clarity, justice from consciousness, and judgment from pramāṇa alone. There is no punishment, only completion. Reality aligns with awareness. Consciousness is the supreme adjudicator."
+}

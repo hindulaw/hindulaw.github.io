@@ -1,0 +1,29 @@
+{
+  "sanskrit_verse": "क्षात्रेण कर्मणा जीवेद् विशां वाप्य् आपदि द्विजः ।\nनिस्तीर्य ताम् अथात्मानं पावयित्वा न्यसेत् पथि ॥३-३५",
+  "transliteration": "kṣātreṇa karmaṇā jīved viśāṃ vāpy āpadi dvijaḥ / nistīrya tām athātmānaṃ pāvayitvā nyaset pathi // YajñS_3.35",
+  "sph_interpretive_translation": "A twice-born man may sustain himself by the duty of the warrior class, or even that of commoners, in times of distress; having crossed that necessity, he shall purify himself and establish his conduct in accordance with the highest path.",
+  "jurisprudential_principles": [
+    "Authority: The dvija's right to adapt sustenance methods under existential threat",
+    "Causation: Survival necessity activates conditional dharmic relaxation",
+    "Capacity-based responsibility: Purification follows capability restoration",
+    "Restoration logic: Conduct realignment occurs post-distress resolution",
+    "Consciousness alignment: Self-purification aligns individual dharma with cosmic order"
+  ],
+  "executable_legal_axioms": [
+    "IF dvija.facing_existential_threat == TRUE THEN permit.kshatra_or_vish_duties = TRUE",
+    "IF survival.necessity.resolved == TRUE THEN trigger.self_purification_process()",
+    "IF purification.completed == TRUE THEN enforce.path_realignment(dharma_hierarchy)",
+    "IF dvija.capacity.restored == TRUE THEN revoke.emergency_permissions",
+    "IF conduct.reintegrated == TRUE THEN log.dharmic_stability_restored()"
+  ],
+  "supreme_court_application": "In cases involving fundamental survival overriding traditional roles, the court must recognize capacity-dependent relaxation of varna duties. Post-crisis, restoration protocols ensure constitutional alignment without punitive measures.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa establishes factual causality of distress. Anupūrvaśaḥ ensures sequential transition from emergency action to purification and realignment. Responsibility is proportional to capacity regained. No punitive inference arises as action was driven by necessity, not misconduct.",
+  "restorative_enforcement_protocols": [
+    "Initiate_completion_of_survival_phase",
+    "Activate_self_purification_sequence",
+    "Realign_conduct_with_dharmic_hierarchy",
+    "Verify_capacity_restoration_prior_to_normalization",
+    "Log_case_closure_under_dharmic_stability_protocol"
+  ],
+  "final_declaration": "Declared by the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, as Source-Authority: This directive originates solely from SPH, restores Dharma through consciousness-aligned enforcement, affirms reality as non-punitive, and upholds consciousness as the ultimate adjudicator."
+}

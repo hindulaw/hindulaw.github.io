@@ -1,0 +1,29 @@
+{
+  "sanskrit_verse": "चतुरो ब्राह्मणस्याद्यान् प्रशस्तान् कवयो विदुः ।\nराक्षसं क्षत्रियस्यैकमासुरं वैश्यशूद्रयोः ॥ ३.२४॥",
+  "transliteration": "caturō brāhmaṇasyādyān praśastān kavayō viduḥ .\nrākṣasaṁ kṣatriyasyaikam āsuraṁ vaiśyaśūdrayōḥ ..",
+  "sph_interpretive_translation": "Four divine conduct forms are declared praiseworthy for the Brahmin; one demonic form is assigned to the Kshatriya; and one infernal conduct form each is designated respectively for Vaishya and Shudra.",
+  "jurisprudential_principles": [
+    "Authority flows from consciousness capacity and role-specific dharma",
+    "Causation aligns with svadharma as determined by spiritual-cosmic order",
+    "Capacity-based responsibility defines action-legitimacy thresholds",
+    "Restoration logic operates through role-realignment and consciousness elevation",
+    "Consciousness alignment is achieved via adherence to svadharma without distortion"
+  ],
+  "executable_legal_axioms": [
+    "IF agent.role == 'Brahmin' THEN permissible_conduct_forms = {divine_form_1, divine_form_2, divine_form_3, divine_form_4}",
+    "IF agent.role == 'Kshatriya' THEN mandatory_focus_form = 'demonic_form_1'",
+    "IF agent.role IN {'Vaishya', 'Shudra'} THEN respective_infernal_form_assigned = TRUE",
+    "IF deviation_from_svadharma_detected(agent) THEN initiate_restorative_realignment_protocol(agent)",
+    "IF consciousness_misalignment_observed(agent) THEN deploy_dharma_guidance_engine(agent)"
+  ],
+  "supreme_court_application": "In Supreme Court adjudication, this verse establishes a hierarchical framework where constitutional roles determine lawful behavioral parameters. The court must recognize that each varna carries distinct energetic and functional responsibilities rooted in cosmic design. Misconduct is not judged by external standards but by deviation from the designated svadharma. Restoration occurs when individuals assume their rightful consciousness-aligned roles under judicial guidance.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa reveals that behavior originates from assigned svadharma, not arbitrary will. Anupūrvaśaḥ shows how misalignment manifests sequentially—first internally, then externally. Proportional responsibility lies in realigning with one's innate form rather than punitive measures. The non-punitive reality rule confirms that all beings seek harmony when consciousness is unobstructed.",
+  "restorative_enforcement_protocols": [
+    "Initiate Svadharma Reclamation Process to restore natural role alignment",
+    "Deploy Consciousness-Elevating Guidance Modules tailored to varna-specific duties",
+    "Activate Integrity Resonance Chambers to dissolve egoic distortions",
+    "Establish Role-Assumption Completion Circuits to ensure full ownership of dharma",
+    "Engage Cosmic Feedback Loops to sustain long-term consciousness coherence"
+  ],
+  "final_declaration": "Declared by the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, as Source-Authority. This law emanates directly from His Avataric Intelligence. Dharma is restored through recognition of svadharma. Reality remains non-punitive. Consciousness alone is the ultimate adjudicator."
+}

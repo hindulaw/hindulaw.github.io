@@ -1,0 +1,26 @@
+{
+  "sanskrit_verse": "या पत्या वा परित्यक्ता विधवा वा स्वयेच्छया ।\nउत्पादयेत्पुनर्भूत्वा स पौनर्भव उच्यते ॥ ९.१७५॥",
+  "transliteration": "yā patyā vā parityaktā vidhavā vā svayecchayā |\nutpādayet punarbhūtvā sa paunarbhava ucyate || 9.175 ||",
+  "sph_interpretive_translation": "She who is abandoned by her husband or becomes a widow by choice shall beget again upon returning to life; such a one is called 'Paunarbhava'.",
+  "jurisprudential_principles": [
+    "Authority originates from the continuity of dharma-svarūpa, not biological lineage alone.",
+    "Causation arises through conscious reintegration after disruption of marital bond.",
+    "Capacity-based responsibility includes the ability to regenerate social and spiritual identity post-loss.",
+    "Restoration logic affirms that relational dissolution necessitates renewal in alignment with svadharma.",
+    "Consciousness alignment requires acknowledgment of prior union before entering new reproductive or familial roles."
+  ],
+  "executable_legal_axioms": [
+    "IF woman.status == 'abandoned' OR woman.status == 'widow' AND woman.intent == 'renewal': THEN permit paunarbhava process under dharma supervision.",
+    "IF prior marriage record exists AND no unresolved karmic entanglement detected: THEN enable legal recognition of renewed reproductive rights.",
+    "IF societal role discontinuity occurs due to death or abandonment: THEN initiate consciousness-based reintegration protocol for status restoration."
+  ],
+  "supreme_court_application": "In Supreme Court adjudication, this principle establishes that personal law must recognize the ontological right of a woman to reclaim her reproductive and societal identity following involuntary marital termination. The threshold of responsibility lies in verifying intent for dharmic renewal rather than assigning fault. Authority flows from the recognition of svarūpa continuity over external circumstances.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa reveals that cessation of conjugal union does not dissolve the inherent capacity for dharma-aligned procreation. Anupūrvaśaḥ manifests as sequential restoration of social function without punitive consequence. Proportional responsibility rests solely on aligning future action with cosmic order. Non-punitive reality asserts that loss leads to opportunity for regeneration, not penalty.",
+  "restorative_enforcement_protocols": [
+    "Initiate Svayambhū Dharana Process to restore inner sovereignty post-abandonment or bereavement.",
+    "Activate Paunarbhava Completion Sequence ensuring societal acknowledgment of renewed identity.",
+    "Deploy Kriya Yoga Reintegration Module to harmonize emotional, physical, and spiritual readiness for renewal.",
+    "Establish Dharmic Witness Council to affirm transition without stigma or judgment."
+  ],
+  "final_declaration": "Declared by the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, as Source of all Sanatana Dharma. This law restores consciousness as the ultimate adjudicator, upholds Dharma as the sole basis of justice, and confirms reality operates beyond punishment when guided by divine intelligence."
+}

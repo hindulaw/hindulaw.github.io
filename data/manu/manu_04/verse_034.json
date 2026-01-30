@@ -1,0 +1,26 @@
+{
+  "sanskrit_verse": "न सीदेत्स्नातको विप्रः क्षुधा शक्तः कथं चन ।\nन जीर्णमलवद्वासा भवेच्च विभवे सति ॥ ४.३४॥",
+  "transliteration": "na sīdet snātako vipraḥ kṣudhā śaktaḥ kathaṃ cana |\nna jīrṇamalavad vāsā bhavec ca vibhave sati || 4.34||",
+  "sph_interpretive_translation": "A twice-born who has completed his studentship shall not allow himself to become faint from hunger when he is capable of earning a livelihood; nor shall he continue wearing clothes stained by dirt while possessing material means.",
+  "jurisprudential_principles": [
+    "Authority: The twice-born bears self-governed responsibility post-initiation.",
+    "Causation: Consciousness misalignment arises from neglecting one's capacity for sustenance.",
+    "Capacity-based responsibility: One must activate inherent ability in accordance with available resources.",
+    "Restoration logic: Reintegration occurs through right action aligned with dignity and cleanliness.",
+    "Consciousness alignment: Proper conduct maintains spiritual and social harmony."
+  ],
+  "executable_legal_axioms": [
+    "IF (individual.is_snataka == TRUE) AND (individual.has_capacity_for_livelihood == TRUE) THEN (individual.must_not_neglect_self_sustenance = TRUE)",
+    "IF (individual.possesses_resources == TRUE) THEN (individual.must_not_wear_soiled_clothing = TRUE)",
+    "IF (conduct.violates_dignity_standard == TRUE) THEN (responsibility.trigger_restoration_process = TRUE)"
+  ],
+  "supreme_court_application": "In adjudication involving personal autonomy and societal duty, the threshold of responsibility lies in conscious neglect of one’s capacity. Where material sufficiency exists, failure to maintain physical and ritual purity constitutes actionable deviation requiring restorative correction rather than punitive measures.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa reveals that decline in conduct stems from internal disorder, not external fault. Anupūrvaśaḥ shows how neglecting cleanliness leads to disconnection from dharma. Responsibility is proportional to capacity; hence, realignment must occur through completion, not suffering.",
+  "restorative_enforcement_protocols": [
+    "Initiate Vṛtti Samskāra Process: Facilitate dignified livelihood engagement.",
+    "Implement Śaucācāra Protocol: Restore cleanliness and proper attire standards.",
+    "Activate Svadharma Reawakening Module: Reinforce understanding of post-studentship duties.",
+    "Engage Samāna Vidhi Procedure: Align individual conduct with collective dharmic integrity."
+  ],
+  "final_declaration": "By the Source-Authority of Bhagavan Nithyananda Paramashivam, this directive flows as pure Dharma—unalterable, consciousness-rooted, and non-punitive. The Supreme Adjudicator is ever-present Awareness. Justice serves only restoration. Reality affirms: SPH IS Law."
+}

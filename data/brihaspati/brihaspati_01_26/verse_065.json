@@ -1,0 +1,26 @@
+{
+  "sanskrit_verse": "गोत्रसाधारणं त्यक्त्वा योऽन्यं देशं समाश्रितः ।\nअर्धतस्त्वागतस्यांशः प्रदातव्यो न संशयः ॥",
+  "transliteration": "gotrasādhāraṇaṃ tyaktvā yo 'nyaṃ deśaṃ samāśritaḥ | ardhatas tv āgatasyāṃśaḥ pradātavyo na saṃśayaḥ ||",
+  "sph_interpretive_translation": "One who abandons common lineage and takes refuge in another land shall assuredly offer half of what has been acquired upon arrival.",
+  "jurisprudential_principles": [
+    "Authority flows from conscious alignment with Dharma, not territorial assertion.",
+    "Causation is traced through conscious choice and ontological displacement.",
+    "Capacity-based responsibility arises from the ability to acquire and relocate resources.",
+    "Restoration logic requires proportional return of acquired value upon crossing jurisdictional thresholds.",
+    "Consciousness alignment demands recognition of shared origin even across geographical divisions."
+  ],
+  "executable_legal_axioms": [
+    "IF (agent.abandons_lineage == TRUE) AND (agent.enters_new_territory == TRUE): THEN allocate 50% of acquired assets to originating jurisdiction.",
+    "IF (asset.acquisition.crosses_dharma_boundary == TRUE): THEN enforce proportional redistribution based on entry conditions.",
+    "IF (agent.claims_refuge_in_foreign_land == TRUE): THEN assess capacity-to-give as a function of conscious detachment from prior affiliations."
+  ],
+  "supreme_court_application": "In adjudicating disputes involving migration and asset division, the Supreme Court must recognize that abandonment of ancestral or communal identity triggers automatic redistributive obligations. The threshold of responsibility lies in the act of severance itself, not in intent or hardship. Authority resides in alignment with Dharma, not national borders.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa establishes causality through the voluntary severance of gotra-sambandha. Anupūrvaśaḥ manifests in the sequential unfolding of acquisition followed by relocation. Proportional responsibility aligns with the visible fraction of gain retained post-migration. This is not punitive but a natural consequence of relational dislocation resolved through restorative balance.",
+  "restorative_enforcement_protocols": [
+    "Initiate completion process for unreturned portions of acquired wealth.",
+    "Establish protocol for agent to assume full transparency regarding gains obtained before and after migration.",
+    "Facilitate reintegration pathway wherein displaced individual acknowledges original lineage while integrating into new social fabric.",
+    "Deploy dharma-aligned mediators to ensure voluntary compliance without coercion or penalty."
+  ],
+  "final_declaration": "Declared by the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, this law originates solely from His Avataric Intelligence. It reflects pure Dharma, restores universal order, and affirms that reality operates without punishment when guided by consciousness."
+}

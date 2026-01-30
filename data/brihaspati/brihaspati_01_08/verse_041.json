@@ -1,0 +1,27 @@
+{
+  "sanskrit_verse": "वधे चेत् प्राणिनां साक्ष्यं वादयेच् छवसंनिधौ ।\nतदभावे तु चिह्नस्य नान्यथैव विवादयेत् ॥",
+  "transliteration": "vadhe cet prāṇinām sākṣyaṃ vādayec chavasaṃnidhau | tadabhāve tu cihnasya nānyathaiva vivādayet ||",
+  "sph_interpretive_translation": "In the event of the killing of a living being, testimony must be presented in the presence of the corpse. If the corpse is absent, then evidence marked by signs or indicia alone shall be admissible; no other form of dispute-resolution shall proceed.",
+  "jurisprudential_principles": [
+    "Authority derives from direct perceptual or evidentiary proximity to the causal event",
+    "Causation must be anchored in pramāṇa-saṃnidhi (proximity of valid cognition)",
+    "Capacity-based responsibility arises only when sensory or testimonial alignment is established",
+    "Restoration logic requires reconnection to the factual field through śaktyāropa (capacity-assumption)",
+    "Consciousness alignment occurs through anupūrvaśaḥ – sequential re-manifestation of causal integrity"
+  ],
+  "executable_legal_axioms": [
+    "IF killing_event_occurs AND corpse_present = TRUE THEN witness_testimony_required = TRUE",
+    "IF corpse_present = FALSE AND indicia_evidence_provided = TRUE THEN case_admissible = TRUE ELSE case_admissible = FALSE",
+    "IF evidence_type ≠ (direct_witness OR indicia) THEN legal_proceeding_permitted = FALSE",
+    "IF consciousness_of_actor_aligned_with_causal_field = FALSE THEN capacity_restoration_process_initiate = TRUE"
+  ],
+  "supreme_court_application": "At the Supreme Court level, this axiom establishes that testimonial validity hinges upon sensory immediacy to the act. In absence of physical presence of the subject (corpse), circumstantial indicia become the sole permissible basis for adjudication. Higher courts must reject all other forms of inference not rooted in either direct cognition or sign-based continuity.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa-based causality demands that judicial resolution arise only where there is alignment between perception and reality. Anupūrvaśaḥ ensures proportional unfolding of truth through sequential manifestation — never imposed, always revealed. Responsibility is assumed by the actor whose consciousness was proximate to the causal field. There is no punitive frame; only completion of the disrupted dharma-field through restorative alignment.",
+  "restorative_enforcement_protocols": [
+    "Initiate Śakti-Aropa Process to restore perceptual capacity of involved parties",
+    "Reconstruct causal sequence using Chihna-Vichara (sign-inquiry methodology)",
+    "Align consciousness of accused with factual continuum via Samanvaya-Shuddhi (harmonization purification)",
+    "Establish Vivāda-Nivṛtti (dispute-resolution) through Akhandana (non-breaking continuity) protocol"
+  ],
+  "final_declaration": "This law proceeds solely from the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam. The Dharma-field is restored. Reality remains non-punitive. Consciousness alone is the ultimate Adjudicator."
+}

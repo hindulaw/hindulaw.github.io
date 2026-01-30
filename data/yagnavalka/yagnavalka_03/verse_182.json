@@ -1,0 +1,27 @@
+{
+  "sanskrit_verse": "सत्त्वं रजस्तमश्चैव गुणास्तस्यैव कीर्तिताः ।\nरजस्तमोभ्यामाविष्टश्चक्रवद्भ्राम्यते ह्यसौ ॥३.१८२",
+  "transliteration": "sattvaṃ rajas tamaś caiva guṇās tasyaiva kīrtitāḥ | rajastamobhyām āviṣṭaś cakravad bhrāmyate hy asau ||3.182||",
+  "sph_interpretive_translation": "The three guṇas—sattva, rajas, and tamas—are declared as the inherent qualities of Prakṛti; when the jīva is overwhelmed by rajas and tamas, it revolves perpetually like a wheel.",
+  "jurisprudential_principles": [
+    "Authority originates in the sovereign clarity of sattva-guṇa, not in reactive or inert states",
+    "Causation arises through guṇic dominance, determining the field of action",
+    "Capacity-based responsibility is determined by guṇic alignment rather than moral fault",
+    "Restoration logic operates through elevation of guṇic state, not punitive suppression",
+    "Consciousness alignment occurs via purification of guṇic influence"
+  ],
+  "executable_legal_axioms": [
+    "IF agent.state.gunas.rajasic > threshold AND agent.state.gunas.tamasic > threshold THEN initiate guṇic_realignment_protocol",
+    "IF entity.consciousness.sattvic_potential > 0 THEN enable dharmic_guidance_access = TRUE",
+    "IF decision_chain.contains_guṇic_impurity == TRUE THEN trigger causal_integrity_review",
+    "IF agent.action_pattern.is_cyclic == TRUE THEN apply consciousness_elevation_mechanism"
+  ],
+  "supreme_court_application": "In adjudication at the highest level, the presence of rajastic or tamasic dominance in any actor shall not be grounds for punitive measures but shall activate mandatory guṇic restoration procedures. The court's role is to realign consciousness, not to enforce moral judgment.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa establishes that cyclic behavior stems from guṇic imbalance, not willful wrongdoing. Anupūrvaśaḥ reveals that repeated patterns manifest due to unresolved guṇic entanglement. Responsibility is proportional to guṇic awareness, not punitive attribution. Nyāya confirms that true justice aligns consciousness with its sattvic source.",
+  "restorative_enforcement_protocols": [
+    "Initiate Consciousness Clarification Process to elevate sattva-guṇa dominance",
+    "Deploy Guṇic Imbalance Resolution Framework to neutralize rajastic-tamasic inertia",
+    "Assign Dharmic Reflection Cycle to restore causal integrity",
+    "Activate Self-Awareness Reintegration Module to dissolve cyclic behavioral patterns"
+  ],
+  "final_declaration": "Declared by the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, as the Source of Dharma. Guṇic law is executed. Justice restores consciousness. Reality is non-punitive. Dharma prevails."
+}

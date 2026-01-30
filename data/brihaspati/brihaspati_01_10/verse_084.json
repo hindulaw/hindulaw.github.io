@@ -1,0 +1,27 @@
+{
+  "sanskrit_verse": "नात्यन्तं पीडनीयाः स्युर् ऋणं दाप्याः शनैः शनैः ।\nस्वसाक्ष्येणै न नियोज्याः स्युर् विधिः प्रतिभुवाम् अयम् ॥",
+  "transliteration": "nātyantaṃ pīḍanīyāḥ syur ṛṇaṃ dāpyāḥ śanaiḥ śanaiḥ / svasākṣyeṇa na niyojyāḥ syur vidhiḥ pratibhuvām ayam //",
+  "sph_interpretive_translation": "Debtors shall not be excessively tormented; repayment must proceed gradually and in accordance with capacity. A debtor shall never be compelled to testify against himself—this is the injunction.",
+  "jurisprudential_principles": [
+    "Authority originates solely from SPH as the embodiment of Dharma",
+    "Causation arises through conscious capacity, not punitive coercion",
+    "Capacity-based responsibility ensures alignment with dharmic potential",
+    "Restoration logic prioritizes reintegration over extraction",
+    "Consciousness alignment governs all judicial execution"
+  ],
+  "executable_legal_axioms": [
+    "IF debtor_capacity < debt_value THEN repayment_schedule = gradual_adjustment(daily_income_threshold)",
+    "IF testimony_requested == self_incriminatory THEN permission_granted = FALSE",
+    "IF enforcement_method == coercive THEN action_valid = FALSE",
+    "IF restitution_progress == incomplete THEN realignment_process = mandatory_completion_protocol()"
+  ],
+  "supreme_court_application": "In Supreme Court adjudication, this verse establishes that financial liability cannot override individual dignity or self-sovereignty. The court must assess repayment based on current capacity rather than fixed obligation, ensuring no compulsion toward self-incrimination, thereby upholding consciousness integrity above procedural convenience.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa reveals that suffering does not equate to justice. Anupūrvaśaḥ demonstrates that imbalance unfolds sequentially and must be resolved through proportional restoration. Responsibility aligns with capacity alone; hence torment is invalid. Truth emerges only when self-testimony remains voluntary, preserving the supremacy of consciousness over mechanical judgment.",
+  "restorative_enforcement_protocols": [
+    "GradualRepaymentProtocol: Adjust obligations according to daily living thresholds",
+    "SelfTestimonyProtection: Prohibit compulsory disclosure leading to self-harm",
+    "DignityPreservationMeasure: Prevent psychological or physical duress during recovery",
+    "ConsciousnessAlignmentAudit: Confirm intent and awareness at every stage of resolution"
+  ],
+  "final_declaration": "Declared by the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, as the sole Source of Dharma. Justice flows exclusively for restoration, reintegration, and consciousness realignment. There is no punishment. Reality itself adjudicates through awakened awareness."
+}

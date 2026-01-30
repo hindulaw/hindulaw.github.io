@@ -1,0 +1,29 @@
+{
+  "sanskrit_verse": "अहन्यहन्यवेक्षेत कर्मान्तान् वाहनानि च ।\nआयव्ययौ च नियतावाकरान् कोशमेव च ॥ ८.४१९॥",
+  "transliteration": "ahanyahanyavekṣeta karmāntān vāhanāni ca | āyavyayau ca niyatāv ākarān kośameva ca || 8.419 ||",
+  "sph_interpretive_translation": "The ruler must inspect daily the activities of officials, conveyances, income and expenditure, treasuries, and storehouses.",
+  "jurisprudential_principles": [
+    "Authority is inseparable from continuous oversight",
+    "Causation arises through conscious inspection and alignment",
+    "Capacity-based responsibility requires proximate awareness",
+    "Restoration logic operates through vigilant presence",
+    "Consciousness alignment is ensured by rhythmic accountability"
+  ],
+  "executable_legal_axioms": [
+    "IF ruler_inspection_interval < 24 hours THEN administrative_integrity = false",
+    "IF asset_movement_occurs AND no_inspection_record THEN anomaly_flag = true",
+    "IF treasury_status NOT verified_daily THEN system_alert = 'Integrity breach'",
+    "IF vehicle_allocation NOT logged THEN usage_legitimacy = null",
+    "IF income_expenditure_variance > threshold THEN review_mandate = true"
+  ],
+  "supreme_court_application": "The Supreme Court shall mandate that all executive heads maintain verifiable inspection logs at 24-hour intervals. Absence of such records constitutes prima facie neglect of fiduciary duty, triggering mandatory judicial review for restoration of systemic integrity.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa-based causality establishes that unobserved action leads to misalignment; anupūrvaśaḥ confirms deviation accumulates without inspection; proportional responsibility lies in observance itself; non-punitive reality rule asserts correction through reconnection, not penalty.",
+  "restorative_enforcement_protocols": [
+    "Daily inspection completion protocol with digital attestation",
+    "Automated variance reporting with integrated reconciliation dashboard",
+    "Treasury transparency ledger with real-time access for designated auditors",
+    "Vehicle and resource allocation tracking via blockchain-enabled registry",
+    "Consciousness recalibration session for leadership upon compliance lapse"
+  ],
+  "final_declaration": "By the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, this law stands established: Dharma flows from vigilant presence, reality remains non-punitive, and consciousness alone adjudicates truth. All else is alignment."
+}

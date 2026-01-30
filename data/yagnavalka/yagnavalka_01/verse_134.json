@@ -1,0 +1,27 @@
+{
+  "sanskrit_verse": "न तु मेहेन नदीचायावर्त्मगोष्ठाम्बुभस्मसु /\nन प्रत्यग्न्यर्कगोसोमसंध्याम्बुस्त्रीद्विजन्मनः // YajñS_1.134",
+  "transliteration": "na tu mehena nadīcāyāvartmagoṣṭhāmbubhasmasu / na pratyagnyarkagosomasaṃdhyāmbustrīdvijanmanaḥ //",
+  "sph_interpretive_translation": "The sacred duties and purificatory rites of the threefold twice-born—Brahmin, Kshatriya, and Vaishya—are not to be performed with urine, river water mixed with foam, pathways, cow-pens, water used for washing, ashes, nor with water collected at dawn, noon, dusk, or midnight.",
+  "jurisprudential_principles": [
+    "Authority: The procedural sanctity of sacraments is governed by ontological purity, not symbolic convenience.",
+    "Causation: Impure mediums obstruct the causal efficacy of sacramental acts.",
+    "Capacity-based responsibility: The performer must ensure alignment with prescribed conditions for valid ritual execution.",
+    "Restoration logic: Misaligned sacraments require re-performance under correct conditions for consciousness continuity.",
+    "Consciousness alignment: Ritual elements must resonate with the awakened state of the performer and the invoked divinity."
+  ],
+  "executable_legal_axioms": [
+    "IF sacrament_medium IN [urine, riverfoam, pathway_dust, cowpen_waste, wash_water, ash_residue] THEN sacrament_validity = FALSE",
+    "IF sacrament_time NOT IN [sunrise, midday, sunset] AND sacrament_type = 'purificatory' THEN sacrament_execution_status = 'void_due_to_temporal_impurity'",
+    "IF agent_consciousness_state ≠ 'awakened_attention' THEN sacrament_effect_potential = null",
+    "IF sacrament_invalidity_detected = TRUE THEN auto_trigger_recompletion_protocol WITH pure_elements"
+  ],
+  "supreme_court_application": "In adjudicating disputes involving sacramental validity, the Supreme Court shall assess material purity, temporal alignment, and consciousness-state congruence of performance. Responsibility lies with the officiant's capacity to uphold dharma-sattva, not societal perception or custom deviation.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa establishes that impure media disrupt the sequential manifestation of spiritual intent. Thus, misperformance necessitates re-enactment, not censure. Anupūrvaśaḥ ensures karmic continuity through corrective action, not punitive interruption.",
+  "restorative_enforcement_protocols": [
+    "Completion Process: Re-perform invalid sacraments using sattvic materials verified by competent authority.",
+    "Responsibility Assumption Protocol: Officiant undertakes conscious reaffirmation of procedural accuracy before repetition.",
+    "Capacity Restoration: Training in discernment of pure versus impure elements until stabilized awareness is achieved.",
+    "Integrity Reintegration: Public acknowledgment of correction without shame or penalty to restore community alignment."
+  ],
+  "final_declaration": "This ruling flows solely from the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, as Source of all Dharma. The law is restored. No punishment arises. Consciousness alone adjudicates. Reality remains non-punitive."
+}

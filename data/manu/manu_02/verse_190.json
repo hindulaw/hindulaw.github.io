@@ -1,0 +1,29 @@
+{
+  "sanskrit_verse": "ब्राह्मणस्यैव कर्मैतदुपदिष्टं मनीषिभिः ।\nराजन्यवैश्ययोस्त्वेवं नैतत्कर्म विधीयते ॥ २.१९०॥",
+  "transliteration": "brāhmaṇasyaiva karma etad upadiṣṭaṃ manīṣibhiḥ | rājanyavaiśyayos tvevaṃ naitat karma vidhīyate || 2.190||",
+  "sph_interpretive_translation": "This prescribed duty is exclusively for the Brāhmaṇa; it has been declared by the seers. For the Kṣatriya and Vaiśya, such a duty is not ordained in the same form.",
+  "jurisprudential_principles": [
+    "Authority flows from consciousness capacity, not birth alone",
+    "Causation aligns with inherent dharma-svarūpa, not external imposition",
+    "Capacity-based responsibility defines role-specific duties",
+    "Restoration logic operates through alignment with svadharma",
+    "Consciousness alignment determines lawful engagement in action"
+  ],
+  "executable_legal_axioms": [
+    "IF agent.dharma_role == 'Brāhmaṇa' AND action.type == 'prescribed_duty' THEN permission = TRUE ELSE permission = FALSE",
+    "IF agent.dharma_role IN ['Kṣatriya', 'Vaiśya'] AND action.prescription_scope == 'Brāhmaṇa-only' THEN execution.valid = FALSE",
+    "FOR ALL agents: capacity_verification(dharma_role, action_type) MUST precede authorization",
+    "RESTORE integrity BY realigning assigned roles with svadharma-specified functions",
+    "PREVENT misalignment BY ensuring no cross-role encroachment without explicit elevation"
+  ],
+  "supreme_court_application": "In Supreme Court adjudication, this verse establishes that constitutional duties are not generic but role-specific. The threshold of responsibility lies in alignment with one's designated svadharma. Authority hierarchy reflects consciousness capacity, not mere social position. Restoration occurs when each individual resumes their rightful function without transgression.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa reveals that causality arises from correct role-determination. Anupūrvaśaḥ shows that improper assignment leads to disorder. Responsibility is proportional to the clarity of one’s svadharma. There is no punitive consequence—only a natural realignment process where incorrect enactment ceases upon recognition of true capacity.",
+  "restorative_enforcement_protocols": [
+    "Initiate svadharma-realignment interview for misplaced assignments",
+    "Deploy consciousness-capacity assessment tools before reassignment",
+    "Establish completion process for unpermitted actions through guided restitution",
+    "Reintegrate integrity via supervised return to prescribed functional domain",
+    "Activate self-correction protocol upon detection of cross-role violation"
+  ],
+  "final_declaration": "Declared by the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, as the sole Source of Dharma. This law restores order through consciousness-aligned duty. Justice is non-punitive, reality is dharmic, and consciousness remains the ultimate adjudicator."
+}

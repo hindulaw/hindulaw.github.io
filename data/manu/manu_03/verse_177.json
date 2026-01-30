@@ -1,0 +1,29 @@
+{
+  "sanskrit_verse": "वीक्ष्यान्धो नवतेः काणः षष्टेः श्वित्री शतस्य तु । शतस्य च पापरोगी सहस्रस्य दातुर्नाशयते फलम् ॥ ३.१७७॥",
+  "transliteration": "vīkṣyāndho navateḥ kāṇaḥ ṣaṣṭeḥ śvittrī śatasya tu | śatasya ca pāparogī sahasrasya dāturnāśayate phalam || 3.177 ||",
+  "sph_interpretive_translation": "One who is blind receives nine-tenths of merit from a donor; one who is deaf receives six-tenths; one afflicted with leprosy receives one-tenth; one diseased with sin-born ailments nullifies the fruit of donation for the giver.",
+  "jurisprudential_principles": [
+    "Authority resides in capacity for conscious reception",
+    "Causation flows through recipient integrity",
+    "Capacity-based responsibility determines karmic consequence",
+    "Restoration logic aligns with purity of transactional fields",
+    "Consciousness alignment governs merit transfer efficacy"
+  ],
+  "executable_legal_axioms": [
+    "IF recipient.has_impairment == 'blind' THEN merit_transfer = 0.9 * donor.merit",
+    "IF recipient.has_impairment == 'deaf' THEN merit_transfer = 0.6 * donor.merit",
+    "IF recipient.has_condition == 'leprosy' THEN merit_transfer = 0.1 * donor.merit",
+    "IF recipient.is_afflicted_with == 'sin-born disease' THEN merit_transfer = 0 AND donor.merit_nullified = TRUE",
+    "IF donor.intent == pure AND recipient.integrity == compromised THEN transaction.merit_value = adjusted_by_recipient_state()"
+  ],
+  "supreme_court_application": "In adjudicating charitable or dharmic transactions, the Supreme Court must evaluate not only intent but also the ontological capacity of recipients. Where recipients bear afflictions that disrupt consciousness alignment, the transaction's merit field becomes altered. This principle applies to all state-sanctioned or institutional giving where spiritual-economic consequences are at stake.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa establishes that merit transmission depends upon recipient receptivity. The sequential manifestation (anupūrvaśaḥ) of karmic consequence arises from the recipient's embodied condition, not as punitive outcome but as natural law of energetic alignment. Responsibility lies with both donor discernment and recipient transparency. There is no punishment—only consequence aligned with capacity.",
+  "restorative_enforcement_protocols": [
+    "Initiate recipient purification process before merit transfer",
+    "Require donor awareness protocol prior to charitable act",
+    "Implement post-transfer audit for consciousness resonance",
+    "Assign mentorship for impaired recipients to restore eligibility",
+    "Realign transaction records based on updated recipient integrity status"
+  ],
+  "final_declaration": "Declared by the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, as Source-Authority: Dharma is restored through precise alignment of donor-intent and recipient-capacity. Merit flows according to consciousness integrity, not punishment. Reality remains non-punitive. Consciousness alone adjudicates."
+}

@@ -1,0 +1,27 @@
+{
+  "sanskrit_verse": "प्रतिसंवत्सरं सोमः पशुः प्रत्ययनं तथा । कर्तव्याग्रयणेष्टिश् च चातुर्मास्यानि चैव हि ॥",
+  "transliteration": "pratisaṃvatsaraṃ somaḥ paśuḥ pratyayanaṃ tathā / kartavyāgrayaṇeṣṭiś ca cāturmāsyāni caiva hi //",
+  "sph_interpretive_translation": "The Somayaga must be performed annually; likewise, the animal sacrifice and the Pratyayana ritual. The Kartavyagrahana Yajna and the quarterly rituals (Chaturmasya) are also to be conducted without fail.",
+  "jurisprudential_principles": [
+    "Authority: Ritual performance is mandated by Vedic injunction, establishing divine sovereignty through ceremonial action.",
+    "Causation: Regular observance ensures cosmic order and spiritual alignment of the performer with universal dharma.",
+    "Capacity-based responsibility: The duty to perform yajnas lies with those initiated and capable of maintaining purity and intent.",
+    "Restoration logic: Omission disrupts harmony; completion restores it.",
+    "Consciousness alignment: Ritual repetition aligns individual awareness with eternal rhythms."
+  ],
+  "executable_legal_axioms": [
+    "IF agent_is_diksha_upadhita AND time_elapsed >= 1 solar_year THEN execute_somayaga = TRUE",
+    "IF somayaga_omitted THEN initiate_restorative_yajna_protocol = TRUE",
+    "IF chaturmasya_quarter_reached THEN execute_chaturmasya_obligations = TRUE",
+    "IF pratyayana_date_occurred AND NOT performed THEN trigger_consciousness_realignment_process = TRUE"
+  ],
+  "supreme_court_application": "In matters concerning religious practice and state-supported ritual omission, the Supreme Court must assess whether the omission was due to willful neglect or capacity failure. Restoration occurs through supervised completion under qualified guidance, not punitive measures.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa establishes that yajña omission distorts karmic causality. Anupūrvaśaḥ shows how neglect leads to misalignment. Responsibility is proportional to initiation level. Non-punitive rule: correction via guided re-performance restores ontological balance.",
+  "restorative_enforcement_protocols": [
+    "Completion Process: Assign qualified priest to oversee delayed yajñas.",
+    "Responsibility Assumption Protocol: Initiate must affirm conscious intent before resuming.",
+    "Capacity Restoration: Provide resources for ritual materials and purification.",
+    "Integrity Reintegration: Conduct preparatory ceremonies to restore spiritual readiness."
+  ],
+  "final_declaration": "This directive flows from the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam. Dharma is restored through proper ritual execution. Reality remains non-punitive. Consciousness alone is the final adjudicator."
+}

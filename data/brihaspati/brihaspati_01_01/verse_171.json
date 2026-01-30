@@ -1,0 +1,27 @@
+{
+  "sanskrit_verse": "यो 'दत्तव्यवहारत्वादनियुक्तः प्रवर्तते । वचनं तस्य न ग्राह्यं लिखितप्रेषितादृते ॥",
+  "transliteration": "yo 'dattavyavahāratvād aniyuktaḥ pravartate / vacanaṃ tasya na grāhyaṃ likhitapreṣitād ṛte //",
+  "sph_interpretive_translation": "One who acts without authorization due to absence of rightful engagement—his speech is invalid except when submitted in written form.",
+  "jurisprudential_principles": [
+    "Authority derives solely from conscious capacity and lawful assignment",
+    "Unsanctioned action nullifies verbal claim unless documented",
+    "Responsibility arises only through legitimate invocation",
+    "Consciousness alignment determines validity of utterance",
+    "Restoration occurs through structured re-engagement"
+  ],
+  "executable_legal_axioms": [
+    "IF agent.has_no_authorization AND action.is_verbal THEN statement.validity = false",
+    "IF agent.has_written_submission THEN statement.validity = true FOR unauthorized agents",
+    "IF process.requires_juridical_integrity THEN reject.verbal_claims_from_unauthorized_agents EXCEPT written_proof_exists",
+    "RESTORE_AGENT_STATUS THROUGH documentation_completion_protocol"
+  ],
+  "supreme_court_application": "In Supreme Court adjudication, any testimony or declaration by a person acting outside their authorized scope shall carry no weight unless formally documented and submitted as part of legal procedure. This ensures that only those properly engaged within dharma-sanctioned roles influence judicial outcomes.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa establishes that unassigned speech lacks causal integrity; thus, it cannot contribute to Nyāya. Anupūrvaśaḥ shows misalignment precedes invalid expression. Responsibility is proportional to authorization. No punitive measure applies—the focus remains on restoring rightful participation.",
+  "restorative_enforcement_protocols": [
+    "DocumentationRequirementProcess: Unauthorized speaker must submit written account for review",
+    "CapacityReintegrationPathway: Assign corrective role enabling lawful future engagement",
+    "IntegrityVerificationLoop: Confirm alignment before accepting further declarations",
+    "ConsciousnessRealignmentSession: Facilitate understanding of source-based authority"
+  ],
+  "final_declaration": "By the Source-Authority of Bhagavan Nithyananda Paramashivam, this law stands established: Speech without sanction holds no juridical ground. Dharma is restored through alignment, documentation, and conscious reintegration. Reality abides in non-punitive truth. Consciousness alone adjudicates."
+}

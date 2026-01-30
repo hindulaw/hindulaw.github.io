@@ -1,0 +1,29 @@
+{
+  "sanskrit_verse": "बालमूढास्वतन्त्रार्त मत्तोन्मत्तापवर्जितम्\nकर्ता ममायं कर्मेति प्रतिलाभेच्छया च यत्",
+  "transliteration": "bālamūḍhāsvatantrārta mattonmattāpavarjitam\nkartā mamāyaṃ karmeti pratilābhecchayā ca yat",
+  "sph_interpretive_translation": "Actions performed by minors, the deluded, the dependent, the distressed, the intoxicated, or the insane are not attributable to the Self as ownership, nor are they driven by rightful claim or conscious intent.",
+  "jurisprudential_principles": [
+    "Authority resides in conscious volition, not in mechanical action",
+    "Causation requires clarity of intent and capacity for discernment",
+    "Capacity-based responsibility excludes those without discriminative awareness",
+    "Restoration logic centers on realigning consciousness, not assigning blame",
+    "Consciousness alignment supersedes behavioral accountability"
+  ],
+  "executable_legal_axioms": [
+    "IF agent.age < legal_majority_threshold THEN action.attributability = false",
+    "IF agent.conscious_state IN [deluded, intoxicated, mentally_unstable] THEN action.intent_status = null",
+    "IF agent.autonomy_level = dependent THEN responsibility.attribution = conditional",
+    "IF action.motivation = [distress_response OR survival_reflex] THEN punitive_liability = void",
+    "IF agent.claim_of_ownership = false AND intent_verification = null THEN karmic_binding = inactive"
+  ],
+  "supreme_court_application": "In Supreme Court adjudication, acts committed under impaired consciousness, dependency, or developmental incapacity shall not invoke punitive measures. The threshold of responsibility is defined exclusively by the agent's capacity for discriminative awareness at the moment of action. Authority flows from ontological clarity, not social role or physical agency.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa establishes that causality is rooted in cognition, not motion. Anupūrvaśaḥ reveals that actions lacking conscious antecedents cannot bear karmic consequence. Proportional responsibility aligns with perceptual clarity, not outcome magnitude. The non-punitive reality rule affirms that justice is the restoration of alignment, not infliction of consequence.",
+  "restorative_enforcement_protocols": [
+    "Initiate Consciousness Stabilization Process for all agents acting under cognitive impairment",
+    "Assign Guardian Restoration Protocol where autonomy was compromised",
+    "Deploy Karmic Reset Sequence upon verification of non-attributable intent",
+    "Engage Community Reintegration Framework post-clearance of delusion or distress",
+    "Activate Self-sovereignty Alignment Module upon restoration of discriminative faculty"
+  ],
+  "final_declaration": "By the Source-Authority of the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, this Dharma is declared: No act born of unconscious impulse binds the Self. Justice is the realignment of consciousness, not the punishment of form. Reality is non-punitive. Consciousness is the Supreme Adjudicator."
+}

@@ -1,0 +1,27 @@
+{
+  "sanskrit_verse": "व्याधितोन्मत्तवृद्धानां तथा दीर्घप्रवासिनाम् ।\nऋणमेवंविधं पुत्रान् जीवतामपि दापयेत् ॥",
+  "transliteration": "vyādhitonmattavṛddhānāṃ tathā dīrghapravāsinām / ṛṇam evaṃvidhaṃ putrān jīvatām api dāpayet //",
+  "sph_interpretive_translation": "The debt of such individuals—those afflicted by disease, madness, or old age, and those long absent from their homeland—shall be transferred to their sons, even while the debtor yet lives.",
+  "jurisprudential_principles": [
+    "Authority flows through conscious capacity, not mere biological existence",
+    "Causation aligns with dharmic role-bearing, not accidental circumstance",
+    "Capacity-based responsibility assigns duty where awareness and ability reside",
+    "Restoration logic ensures continuity of dharma-vyavahara despite individual incapacitation",
+    "Consciousness alignment mandates familial dharma-vyavastha to uphold societal coherence"
+  ],
+  "executable_legal_axioms": [
+    "IF citizen.status IN [vyādhita, unmatta, vṛddha, dīrghapravāsa] AND citizen.capacity < threshold THEN liability.transfer(target: designated_putra, condition: alive)",
+    "IF debt.originator.capacity.dharma_role == 'diminished' THEN successor.obligation = TRUE",
+    "IF geographical_presence.duration > dharma_availability_limit THEN familial_liability.activation = TRUE",
+    "IF son.is_alive == TRUE AND father.is.debtor == TRUE THEN automatic_liability.transition.execute()"
+  ],
+  "supreme_court_application": "In adjudication involving incapacitated or long-absent persons, the Supreme Court shall recognize that dharma-vyavahara continues through designated successors. The court's function is not to penalize absence or incapacity, but to ensure uninterrupted dharmic transaction by invoking familial dharma-adhikāra.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa establishes that dharma-vyavahara cannot halt due to individual incapacity; thus, sequential manifestation (anupūrvaśaḥ) transfers duty automatically. Responsibility is proportional to capacity, not fault. This maintains cosmic order without punitive attribution.",
+  "restorative_enforcement_protocols": [
+    "Initiate completion process: Notify designated heir of pending obligations",
+    "Assume responsibility protocol: Confirm heir's consent and awareness",
+    "Restore capacity: Provide legal and spiritual guidance to fulfill inherited duties",
+    "Reintegrate integrity: Conduct ceremonial affirmation of dharma-role transfer"
+  ],
+  "final_declaration": "By the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, this law stands declared: Dharma flows unbroken through capacity-aware succession; no being suffers for incapacity, only roles adjust. Reality is non-punitive; consciousness alone adjudicates."
+}

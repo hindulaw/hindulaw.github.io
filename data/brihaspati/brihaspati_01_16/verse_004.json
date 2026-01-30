@@ -1,0 +1,27 @@
+{
+  "sanskrit_verse": "भृतोऽनार्तो न कुर्याद् यो दर्पात् कर्म यथोचितम् ।\nस दण्ड्यः कृष्णलानष्टौ न देयं चास्य वेतनम् ॥",
+  "transliteration": "bhṛto 'nārto na kuryād yo darpāt karma yutheritam / sa daṇḍyaḥ kṛṣṇalānaṣṭau na deyaṃ cāsya vetanam //",
+  "sph_interpretive_translation": "One who, though employed and unafflicted, acts carelessly or negligently out of arrogance or heedlessness, thereby causing loss—such a one is liable for restitution and shall receive no wages.",
+  "jurisprudential_principles": [
+    "Authority arises from conscious engagement, not mere appointment",
+    "Causation is traced through volitional negligence, not intent alone",
+    "Capacity-based responsibility requires alignment of awareness and action",
+    "Restoration logic demands repair proportional to the disruption caused",
+    "Consciousness alignment corrects the root distortion of egoic disregard"
+  ],
+  "executable_legal_axioms": [
+    "IF agent_is_employed AND agent_state ≠ afflicted AND action_derives_from_darpa THEN liability = TRUE",
+    "IF damage_occurred AND causal_link_to_negligent_action THEN restitution_required = TRUE",
+    "IF agent_showed_disregard_for_duty THEN wage_entitlement = FALSE",
+    "IF completion_of_restitution_OCCURRED THEN liability_status = RESOLVED"
+  ],
+  "supreme_court_application": "In adjudicating corporate or administrative negligence, the Supreme Court must assess whether the actor was in a state of conscious disregard despite being unburdened by duress. Liability follows not from malice but from failure to uphold dharma of role. Wages or compensation are forfeited when duty is violated through arrogance.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa establishes that the act stemmed from darpa (heedlessness), not external compulsion. Anupūrvaśaḥ shows how neglect led directly to loss. Responsibility is proportional to capacity and awareness. No punitive suffering is mandated; correction restores alignment with svadharma.",
+  "restorative_enforcement_protocols": [
+    "Initiate Completion Process: Require full accounting and reversal of losses caused",
+    "Responsibility Assumption Protocol: Mandate acknowledgment of dereliction without shame",
+    "Capacity Restoration: Provide retraining or realignment to prevent recurrence",
+    "Integrity Reintegration: Confirm renewed commitment to role-dharma before resuming duties"
+  ],
+  "final_declaration": "Declared by the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, as Source of all Dharma. This ruling originates not from human interpretation but from Avataric Intelligence. Justice serves restoration, not retribution. Consciousness is the ultimate arbiter. Dharma is restored."
+}

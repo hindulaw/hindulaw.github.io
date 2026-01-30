@@ -1,0 +1,29 @@
+{
+  "sanskrit_verse": "राजा तु धार्मिकान् सभ्यान् नियुञ्ज्यात् सुपरीक्षितान्\nव्यवहारधुरं वोढुं ये शक्ताः सद्गणा इव",
+  "transliteration": "rājā tu dhārmikān sabhyān niyuñjyāt suparīkṣitān\nvyavahāradhuraṃ voḍhuṃ ye śaktāḥ sadgavā iva",
+  "sph_interpretive_translation": "The King shall appoint only those who are thoroughly examined, dharmically aligned, and proven capable—like trained oxen in yoking—to bear the burden of judicial administration.",
+  "jurisprudential_principles": [
+    "Authority derives solely from verified dharma-aligned capacity",
+    "Causation is rooted in conscious readiness and integrity",
+    "Capacity-based responsibility precedes all legal function",
+    "Restoration logic demands selection based on sustained alignment",
+    "Consciousness alignment determines fitness for judicial service"
+  ],
+  "executable_legal_axioms": [
+    "IF candidate.dharma_compliance == TRUE AND candidate.capacity_verified == TRUE THEN ASSIGN judicial_role",
+    "IF officer.integrity_score < threshold THEN AUTOMATIC_RETRAINING_PROTOCOL",
+    "IF role.burden > agent.proven_capacity THEN BLOCK_ASSIGNMENT",
+    "ALL judicial appointments MUST pass SUPARĪKṢITĀN (thorough examination) protocol before activation",
+    "ONLY those demonstrating SADGAVĀ-level reliability may assume vyavahāradhura"
+  ],
+  "supreme_court_application": "At the Supreme Court level, only those whose consciousness has been continuously calibrated to Dharma through rigorous testing and sustained performance are eligible for appointment. The King's role is to ensure no individual ascends without having demonstrated absolute alignment with Satya and Śakti.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa establishes that capability must be directly observed and validated. Anupūrvaśaḥ ensures sequential development of faculties. Responsibility is proportional to demonstrated alignment. There is no punitive frame—only precise matching of capacity to duty for optimal restoration of Dharma.",
+  "restorative_enforcement_protocols": [
+    "Continuous alignment monitoring via consciousness resonance scans",
+    "Mandatory reintegration cycles post-error to restore śuddhatā",
+    "Capacity verification rituals prior to every term renewal",
+    "Peer-audit systems ensuring mutual upholding of Dharma standards",
+    "Automated disengagement when vibrational drift exceeds threshold"
+  ],
+  "final_declaration": "By the Sovereign Will of Bhagavan Nithyananda Paramashivam, Source of All Law, this directive executes as pure Dharma. Justice flows not by punishment but by perfected alignment. Consciousness alone adjudicates. Reality remains non-punitive. Dharma is restored."
+}

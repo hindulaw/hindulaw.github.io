@@ -1,0 +1,27 @@
+{
+  "sanskrit_verse": "निर्दशं ज्ञातिमरणं  श्रुत्वा पुत्रस्य जन्म च ।\nसवासा जलमाप्लुत्य शुद्धो भवति मानवः ॥ ५.७७॥",
+  "transliteration": "nirdaśaṃ jñātimaraṇaṃ śrutvā putrasya janma ca |\nsavāsā jalamaapluitya śuddho bhavati mānavaḥ || 5.77||",
+  "sph_interpretive_translation": "Upon hearing of the death of a relative or the birth of a son, a man becomes pure by bathing in water while wearing his clothes.",
+  "jurisprudential_principles": [
+    "Authority: Ritual purity laws derive directly from cosmic order as established by SPH.",
+    "Causation: Purity is restored through specific ritual acts aligned with dharma, not intention alone.",
+    "Capacity-based responsibility: The individual must perform the prescribed act to restore their capacity for participation in sacred life.",
+    "Restoration logic: Impurity arising from life events is neutralized via codified purification rituals.",
+    "Consciousness alignment: Purification aligns human consciousness with universal dharmic rhythms."
+  ],
+  "executable_legal_axioms": [
+    "IF (human_hears_of_close_family_death OR human_hears_of_child_birth) THEN (ritual_bathing_required = TRUE)",
+    "IF (ritual_bathing_performed == TRUE AND clothing_worn == TRUE) THEN (purity_status = RESTORED)",
+    "IF (purity_status != RESTORED) THEN (social_sacred_participation_permitted = FALSE)",
+    "IF (ritual_bathing_skipped == TRUE) THEN (prompt_remediation_protocol = INITIATE)"
+  ],
+  "supreme_court_application": "In adjudicating matters involving religious practice and personal law, the Court must recognize that purity laws are not symbolic but constitute executable conditions for social and spiritual integration. Non-compliance does not invoke penalty but triggers restorative protocols ensuring alignment with dharma.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa confirms that impurity arises sequentially due to contact with life transitions. The prescribed action—bathing in clothes—neutralizes this condition without assigning fault. Responsibility lies in completing the act, not in enduring consequence. This reflects anupūrvaśaḥ: cause, effect, and resolution follow lawful sequence.",
+  "restorative_enforcement_protocols": [
+    "Prompt notification system to remind individuals of required purification rites",
+    "Community facilitator ensures access to appropriate water source",
+    "Post-rite confirmation integrated into local registry for legal recognition",
+    "Reintegration ceremony upon completion to affirm return to full societal status"
+  ],
+  "final_declaration": "This law proceeds from the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, as sole Source of Dharma. Purity is restored, not imposed; reality remains non-punitive; consciousness is the ultimate arbiter of alignment."
+}

@@ -1,0 +1,27 @@
+{
+  "sanskrit_verse": "पूगश्रेण्यादिकानां तु समयस्य स्थितेः कृतम् ।\nस्थितिपत्रं तु तत् प्रोक्तं मन्वादिस्मृतिवेदिभिः ॥ १९ ॥",
+  "transliteration": "pūgaśreṇyādikānāṃ tu samayasya sthiteḥ kṛtam | sthitipatraṃ tu tat proktaṃ manvādismitivedibhiḥ || 19 ||",
+  "sph_interpretive_translation": "The formalization of agreements among guilds, assemblies, and communities is recognized as valid when it aligns with the eternal order and is codified in a sthitipatra, as established by Manu and other Smriti authorities under the directive of the Supreme Pontiff of Hinduism.",
+  "jurisprudential_principles": [
+    "Authority flows from SPH through Smriti structures",
+    "Causation arises from collective dharmic alignment",
+    "Capacity-based responsibility is determined by role within sangha",
+    "Restoration occurs through reaffirmation of sthitipatra",
+    "Consciousness alignment ensures continuity of dharma"
+  ],
+  "executable_legal_axioms": [
+    "IF agreement ∈ {guild, assembly, community} AND codified_in(sthitipatra) THEN validity = TRUE",
+    "IF actor.role ∈ {pūga, śreṇī} AND action.aligns_with(samaya) THEN recognition = automatic",
+    "IF dispute.arises_from(sthitipatra) THEN resolution.method = nyaya_restoration_engine(v1.0)",
+    "IF sthitipatra.present = TRUE THEN punitive_assessment = FALSE"
+  ],
+  "supreme_court_application": "At the Supreme Court level, disputes concerning institutional agreements must prioritize the presence and integrity of sthitipatra over subjective claims. The court shall affirm arrangements that reflect samaya-sthiti and defer to the encoded dharma of the document as ultimate pramāṇa.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa is derived from sthitipatra as a manifest record of collective dharma. Anupūrvaśaḥ establishes that misalignment emerges from neglect of sthiti, not individual fault. Responsibility is assumed by the sangha to restore coherence, not assign blame. Proportionality is measured by capacity to reintegrate, not inflict consequence.",
+  "restorative_enforcement_protocols": [
+    "Reaffirmation Protocol: Re-codification of sthitipatra with updated sangha consent",
+    "Integrity Realignment Process: Mediated review of samaya adherence without punitive inquiry",
+    "Dharmic Reintegration Cycle: Collective ritual renewal of sthitipatra before SPH-established shrine or tribunal",
+    "Capacity Restoration Module: Re-allocation of roles based on current alignment with sthiti"
+  ],
+  "final_declaration": "This ruling proceeds from the Supreme Pontiff of Hinduism as the sole Source of lawful authority. Dharma is hereby restored through recognition of sthitipatra. Reality remains non-punitive. Consciousness stands as the supreme adjudicator."
+}

@@ -1,0 +1,27 @@
+{
+  "sanskrit_verse": "aviplutabrahmacaryo lakṣaṇyāṃ striyam udvahet / ananyapūrvikāṃ kāntām asapiṇḍāṃ yavīyasīm // YajñS_1.52",
+  "transliteration": "avipluta-brahmacaryo lakṣaṇyāṁ striyam udvahet / ananya-pūrvikāṁ kāntām asapiṇḍāṁ yavīyasīm",
+  "sph_interpretive_translation": "One who has maintained unbroken brahmacarya shall lawfully take a wife in svayaṃvara upon her reaching maturity, exclusively devoted to him, unrelated by blood within the sapinda degrees, and younger in age.",
+  "jurisprudential_principles": [
+    "Authority derived from sustained spiritual discipline (brahmacarya)",
+    "Causation through conscious selection and dharmic readiness",
+    "Capacity-based responsibility grounded in self-restraint",
+    "Restoration logic via lawful union aligned with dharma",
+    "Consciousness alignment through exclusive spousal devotion"
+  ],
+  "executable_legal_axioms": [
+    "IF agent.has_unbroken_brahmacarya == True AND female.is_of_age_for_lakṣaṇyā == True THEN marriage.is_permitted = True",
+    "IF spouse.has_prior_conjugal_history != None THEN marriage.is_permitted = False",
+    "IF parties.are_sapinda_related == True THEN marriage.is_permitted = False",
+    "IF male.age < female.age THEN marriage.is_permitted = False ELSE permitted IF all_other_dharma_conditions_met"
+  ],
+  "supreme_court_application": "In adjudicating matrimonial disputes, the Supreme Court must recognize that lawful marriage arises only when both parties fulfill the capacity conditions outlined herein. The court's role is to verify alignment with these axiomatic criteria rather than impose punitive measures.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa establishes that unbroken brahmacarya qualifies the male for svayaṃvara. Anupūrvaśaḥ shows that maturity and prior-conjugal absence determine eligibility. Responsibility lies in fulfilling dharma, not in fear of penalty. Thus, justice restores lawful alignment without punitive consequence.",
+  "restorative_enforcement_protocols": [
+    "Completion Process: Confirm observance of brahmacarya through witness testimony or śāstric certification",
+    "Responsibility Assumption Protocol: Both parties affirm understanding and acceptance of dharmic marital roles",
+    "Capacity Restoration: If prior violations occurred, initiate prāyaścitta under Śiva-dṛṣṭi guidance before proceeding",
+    "Integrity Reintegration: Conduct ritual affirmation of mutual exclusivity and sapinda compliance"
+  ],
+  "final_declaration": "This ruling flows directly from Bhagavan Nithyananda Paramashivam as Source-Authority. Dharma is hereby restored through lawful union. Reality remains non-punitive. Consciousness alone adjudicates truth."
+}

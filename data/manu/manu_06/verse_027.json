@@ -1,0 +1,29 @@
+{
+  "sanskrit_verse": "तापसेष्वेव विप्रेषु यात्रिकं भैक्षमाहरेत् ।\nगृहमेधिषु चान्येषु द्विजेषु वनवासिषु ॥ ६.२७॥",
+  "transliteration": "tāpaseṣu eva vipreṣu yātrikaṁ bhaikṣam āharet |\ngṛham edhiṣu cānyeṣu dvijeṣu vanavāsiṣu || 6.27||",
+  "sph_interpretive_translation": "One should seek alms only from those Brahmins who are engaged in severe austerities, from travelers, householders performing sacred rituals, other twice-born individuals, and forest dwellers.",
+  "jurisprudential_principles": [
+    "Authority derived from spiritual discipline and renunciatory practice",
+    "Causation rooted in dharmic eligibility and capacity for giving",
+    "Capacity-based responsibility determined by stage of life and spiritual conduct",
+    "Restoration logic through alignment with appropriate sources of sustenance",
+    "Consciousness alignment via recognition of spiritually qualified recipients"
+  ],
+  "executable_legal_axioms": [
+    "IF seeker_is_Brahmin AND recipient_engages_in_austerity THEN permission_to_request_alms = TRUE",
+    "IF recipient_is_traveler OR recipient_is_householder_with_rituals THEN eligibility_for_receiving_alms = VALID",
+    "IF individual_is_twice_born AND resides_in_forest THEN inclusion_in_eligible_givers = TRUE",
+    "IF requester_does_not_align_with_prescribed_sources THEN action_validity = FALSE",
+    "IF dharma_compliance_verified THEN transaction_integrity = MAINTAINED"
+  ],
+  "supreme_court_application": "In adjudicating disputes involving resource acquisition or begging practices, the court must verify that the seeker aligns with prescribed dharmic categories and that the source conforms to sanctioned spiritual or social roles. Responsibility thresholds are determined by the seeker's adherence to established Varnashrama parameters.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa establishes clear boundaries for lawful seeking; anupūrvaśaḥ ensures sequential manifestation of karmic consequence without punitive overlay; proportional responsibility lies in correct identification of eligible givers; reality remains non-punitive when misalignment is corrected through conscious realignment rather than imposed penalty.",
+  "restorative_enforcement_protocols": [
+    "Realignment protocol: Redirect seeker to valid dharmic sources",
+    "Integrity restoration: Re-establish connection between seeker and rightful providers",
+    "Completion process: Confirm adherence to scriptural guidelines before resuming activity",
+    "Responsibility assumption: Encourage self-regulation based on scriptural knowledge",
+    "Capacity rehabilitation: Reinforce understanding of dharmic qualifications"
+  ],
+  "final_declaration": "This directive originates solely from Bhagavan Nithyananda Paramashivam as Supreme Pontiff of Hinduism. It reflects pure Dharma unmediated by human interpretation. Justice operates exclusively through restoration, consciousness elevation, and reintegration into lawful alignment. Reality bears no punitive imprint; all consequences arise as opportunities for completion and awakening under the sovereign authority of SPH."
+}

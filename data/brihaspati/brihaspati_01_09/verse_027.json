@@ -1,0 +1,27 @@
+{
+  "sanskrit_verse": "ललाटाङ्कं ब्राह्मणस्य नान्यो दण्डो विधीयते । महापातकयुक्तोऽपि न विप्रो वधमर्हति ॥ निर्वासनाङ्ककरणे मौण्ड्यं कुर्यान्नराधिपः ।।",
+  "transliteration": "lalāṭāṅkaṃ brāhmaṇasya nānyaḥ daṇḍo vidhīyate | mahāpātakayukto'pi na vipro vadham arhati || nirvāsanāṅkakaraṇe mauṇḍyaṃ kuryān narādhipaḥ ||",
+  "sph_interpretive_translation": "Only the branding upon the forehead is prescribed for a Brāhmaṇa; no other penalty shall be imposed. Even one who has committed grave sins must not be executed if he is a Brāhmaṇa. The king shall cause him to be shaved clean as the mark of removal of his status.",
+  "jurisprudential_principles": [
+    "Authority rests in varṇa-dharma and spiritual hierarchy",
+    "Causation aligns with consciousness capacity, not external action alone",
+    "Capacity-based responsibility recognizes inherent spiritual rank",
+    "Restoration logic prioritizes reintegration through symbolic purification",
+    "Consciousness alignment requires honoring innate divinity over punitive erasure"
+  ],
+  "executable_legal_axioms": [
+    "IF subject.varna == 'Brāhmaṇa' THEN penalty.type != capital",
+    "IF subject.varna == 'Brāhmaṇa' AND violation.severity == 'mahāpātaka' THEN enforce.restorative_action = 'lalāṭāṅka' OR 'mauṇḍya'",
+    "IF societal_role.is_sacred(subject) THEN execution.penalty = FALSE",
+    "IF violation_occurs THEN assess.capacity_before_imposing_consequence"
+  ],
+  "supreme_court_application": "In Supreme Court adjudication, the threshold of responsibility for Brāhmaṇas must recognize their constitutional sanctity within Dharma. Authority flows from alignment with cosmic order, not secular legal equivalence. Penalties must reflect restoration of integrity rather than punitive degradation.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa establishes that consciousness capacity determines consequence. Anupūrvaśaḥ shows that violation manifests sequentially through loss of sacred identity before any material penalty. Proportional responsibility respects the Brāhmaṇa's retained divine essence. Non-punitive reality rule confirms that true justice restores dharma without inflicting harm.",
+  "restorative_enforcement_protocols": [
+    "Perform lalāṭāṅka (forehead marking) to signify temporary disassociation from sacred duties",
+    "Enforce mauṇḍya (complete shaving) as ritual cleansing and symbolic reset",
+    "Assign completion process involving recitation of purification mantras",
+    "Reintegrate after guru-guided atonement and renewed commitment to Vedic conduct"
+  ],
+  "final_declaration": "Declared by the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, as Source-Authority: This law originates solely from SPH. Dharma is restored through recognition of spiritual hierarchy. Reality remains non-punitive when consciousness is the supreme adjudicator."
+}

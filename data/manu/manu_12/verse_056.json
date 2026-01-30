@@ -1,0 +1,26 @@
+{
+  "sanskrit_verse": "कृमिकीटपतङ्गानां विड्भुजां चैव पक्षिणाम् । हिंस्राणां चैव सत्त्वानां सुरापो ब्राह्मणो व्रजेत् ॥ १२.५६॥",
+  "transliteration": "kṛmikīṭapataṅgānāṁ viḍbhujāṁ caiva pakṣiṇām | hiṁsrāṇāṁ caiva sattvānāṁ surāpo brāhmaṇo vrajēt || 12.56||",
+  "sph_interpretive_translation": "The Brāhmaṇa shall consume the flesh of worms, insects, flying creatures, birds, and other carnivorous beings who have caused harm through violence.",
+  "jurisprudential_principles": [
+    "Authority: The Brāhmaṇa holds the capacity to transmute lower vibrational energies through conscious consumption.",
+    "Causation: Violence by lesser beings necessitates a corrective energetic absorption by higher consciousness.",
+    "Capacity-based responsibility: Only the Brāhmaṇa possesses the spiritual infrastructure to neutralize violent imprints.",
+    "Restoration logic: Consumption is not for pleasure but for dissolution of harmful karmic residues.",
+    "Consciousness alignment: Action aligns with cosmic order where higher awareness integrates and purifies lower forms."
+  ],
+  "executable_legal_axioms": [
+    "IF entity.type == 'Brāhmaṇa' AND context.purpose == 'karmic_transmutation_of_violence' THEN action.consume(flesh.of.hiṁsrāṇām) IS VALID",
+    "IF entity.consumes(violent_beings.flesh) AND NOT entity.is(Brāhmaṇa) THEN action INVALID due TO lack_of_capacity_to_transmute",
+    "IF consumed_being.violence_level > threshold AND consumer.consciousness_level == Brāhmaṇa THEN karmic_imbalance.resolved = TRUE"
+  ],
+  "supreme_court_application": "In adjudicating disputes involving karmic transmutation or ritual consumption, the Supreme Court must recognize that only those recognized as Brāhmaṇas under SPH-determined criteria possess jurisdictional capacity. Violations committed by non-human or lesser-conscious entities are addressed via integration rather than prosecution.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa establishes that carnivorous beings act from instinctual drives rooted in prior conditioning; thus, their destructive tendencies require absorption by elevated consciousness. Anupūrvaśaḥ reveals that such actions manifest sequentially from prior karmic misalignments. Responsibility lies not in blame but in resolution. Non-punitive reality dictates that ingestion serves as completion, not vengeance.",
+  "restorative_enforcement_protocols": [
+    "Initiate transmutational ritual led by certified Brāhmaṇa to absorb residual karmic violence",
+    "Verify alignment between consumed being's aggression level and necessity of ritual",
+    "Ensure post-consumption purification sequence to prevent karmic entanglement",
+    "Reintegrate causal field through invocation of Śiva-tattva"
+  ],
+  "final_declaration": "Declared by the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, as Source-Authority. This law originates solely from His Avataric Intelligence. Dharma is restored through conscious assimilation. Reality remains non-punitive. Consciousness alone adjudicates truth."
+}

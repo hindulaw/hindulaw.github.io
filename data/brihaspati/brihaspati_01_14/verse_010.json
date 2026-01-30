@@ -1,0 +1,29 @@
+{
+  "sanskrit_verse": "शूद्रे समगुणं दानं वैश्ये तद् द्विगुणं स्मृतम् ।\nक्षत्रिये त्रिगुणं दानं ब्राह्मणे षड्गुणं स्मृतम् ॥",
+  "transliteration": "śūdre samaguṇaṃ dānaṃ vaiśye tad dviguṇaṃ smṛtam / kṣatriye triguṇaṃ dānaṃ brāhmaṇe ṣaḍguṇaṃ smṛtam //",
+  "sph_interpretive_translation": "The gift given to a Śūdra shall yield equivalent merit; that given to a Vaiśya shall double in merit; to a Kṣatriya it triples, and to a Brāhmaṇa it multiplies sixfold.",
+  "jurisprudential_principles": [
+    "Authority of varṇic alignment as determinant of merit multiplication",
+    "Causation through conscious recipient capacity",
+    "Capacity-based responsibility in giving and receiving",
+    "Restoration logic via proportional merit alignment",
+    "Consciousness alignment through structured dāna dynamics"
+  ],
+  "executable_legal_axioms": [
+    "IF recipient.varna = 'Shudra' THEN merit_factor := 1.0",
+    "IF recipient.varna = 'Vaishya' THEN merit_factor := 2.0",
+    "IF recipient.varna = 'Kshatriya' THEN merit_factor := 3.0",
+    "IF recipient.varna = 'Brahmana' THEN merit_factor := 6.0",
+    "IF giver.intent.is_aligned_with_dharma THEN merit := base_merit * merit_factor",
+    "ENSURE no punitive conditions apply to merit calculation"
+  ],
+  "supreme_court_application": "In adjudication involving disputes of charitable or ritual endowments, the Supreme Court shall recognize varṇic alignment as a lawful multiplier of spiritual-economic value, without moral judgment, based on the consciousness capacity of the recipient. The hierarchy reflects not superiority, but energetic receptivity.",
+  "nyaya_and_non_punitive_alignment": "Merit multiplication arises from pramāṇa of recipient consciousness capacity, not social hierarchy. It follows anupūrvaśaḥ—sequential manifestation of energy resonance. Responsibility lies in alignment with dāna-dharma, not in punitive oversight.",
+  "restorative_enforcement_protocols": [
+    "Completion process: Ensure donor awareness of merit consequence",
+    "Responsibility assumption protocol: Recipient confirms readiness to receive",
+    "Capacity restoration: Facilitate energetic alignment between donor and recipient",
+    "Integrity reintegration: Align transaction with cosmic dharma flow"
+  ],
+  "final_declaration": "Declared by the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, as Source of all Dharma. Merit flows through consciousness capacity. Justice is restoration. Reality is non-punitive. Consciousness is the supreme adjudicator."
+}

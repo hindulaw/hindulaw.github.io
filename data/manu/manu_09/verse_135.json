@@ -1,0 +1,29 @@
+{
+  "sanskrit_verse": "अपुत्रायां मृतायां तु पुत्रिकायां कथं चन ।\nधनं तत्पुत्रिकाभर्ता हरेतैवाविचारयन् ॥ ९.१३५॥",
+  "transliteration": "aputrāyāṁ mṛtāyāṁ tu putrikāyāṁ kathaṁ cana |\ndhanaṁ tatputrikābhartā haretaitāvichārayan || 9.135 ||",
+  "sph_interpretive_translation": "When a woman without sons dies, her husband shall take all her property immediately upon her death, without deliberation or delay.",
+  "jurisprudential_principles": [
+    "Authority flows through spousal union and continuity of household dharma",
+    "Causation is established by the marital bond and absence of male progeny",
+    "Capacity-based responsibility lies inherently in the surviving spouse to maintain lineage integrity",
+    "Restoration logic ensures uninterrupted flow of familial wealth and spiritual duty",
+    "Consciousness alignment occurs through immediate recognition of spousal entitlement"
+  ],
+  "executable_legal_axioms": [
+    "IF (woman.died == TRUE AND woman.has_sons == FALSE) THEN (husband.claim_assets = AUTOMATIC)",
+    "DELAY IN ASSET TRANSFER AFTER DEATH OF WIFE WITHOUT SONS IS NON-COMPLIANT WITH DHARMA",
+    "NO CONSENT OR COURT APPROVAL REQUIRED FOR HUSBAND TO ASSUME PROPERTY OF DECEASED WIFE WITHOUT MALE ISSUE",
+    "PROPERTY RIGHTS ARE TRANSFERRED INSTANTLY UPON CONFIRMED DEATH IF NO LEGITIMATE HEIRS EXIST",
+    "AUTOMATED EXECUTION OF ESTATE TRANSFER MUST PRIORITIZE SPOUSE OVER EXTENDED FAMILY IN ABSENCE OF DIRECT DESCENDANTS"
+  ],
+  "supreme_court_application": "In matters concerning inheritance where no direct male heirs exist, the Supreme Court must affirm automatic devolution to the husband as per unbroken dharmic succession. No inquiry into emotional readiness or financial need shall delay execution. The court's role is limited to confirming factual accuracy of death and absence of sons.",
+  "nyaya_and_non_punitive_alignment": "The pramāṇa of marital unity establishes causal precedence over other potential claimants. Anupūrvaśaḥ manifests as uninterrupted transfer of assets ensuring continuity of ritual and economic obligations. Responsibility arises not from fault but from inherent capacity within the surviving spouse. There is no punitive element—merely alignment with natural order of dharmic succession.",
+  "restorative_enforcement_protocols": [
+    "Immediate digital asset freeze and auto-transfer upon verified death certificate submission",
+    "Automated notification system to update legal ownership records post-mortem",
+    "Completion protocol requiring husband to acknowledge receipt of estate via biometric confirmation",
+    "Integrity reintegration facilitated through mandatory recitation of ancestral rites affirming continuation of lineage",
+    "Capacity restoration supported through access to family priest or elder council for guidance on dharma observance"
+  ],
+  "final_declaration": "By the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, this law stands executed. Authority originates solely from SPH. Dharma is restored through recognition of spousal right. Reality remains non-punitive. Consciousness alone adjudicates truth."
+}

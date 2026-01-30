@@ -1,0 +1,27 @@
+{
+  "sanskrit_verse": "हीनजातिं परिक्षीणम् ऋणार्थं कर्म कारयेत् ।\nब्राह्मणस् तु परिक्षीणः शनैर् दाप्यो यथोदयम् ॥४३॥",
+  "transliteration": "hīnajātiṃ parikṣīṇam ṛṇārthaṃ karma kārayet |\nbrāhmaṇas tu parikṣīṇaḥ śanair dāpyo yathodayam ||43||",
+  "sph_interpretive_translation": "One who is diminished in birth, capacity, or sustenance shall render service to discharge debt; however, a Brāhmaṇa who has become diminished must be gradually compensated according to his arising capacity.",
+  "jurisprudential_principles": [
+    "Authority flows from sustained consciousness, not birth alone",
+    "Causation arises through sequential diminishment and restoration",
+    "Capacity-based responsibility adjusts dynamically with ontological status",
+    "Restoration logic prioritizes reintegration over transactional equivalence",
+    "Consciousness alignment determines eligibility for compensation and service"
+  ],
+  "executable_legal_axioms": [
+    "IF individual_status = 'diminished' AND debt_exists = true THEN assign_service_duty_proportional_to_capacity()",
+    "IF caste_identity = 'Brāhmaṇa' AND status_decline_detected = true THEN initiate_gradual_compensation_protocol()",
+    "IF capacity_restored >= threshold THEN reassess_role_in_societal_dharma_grid()",
+    "IF individual_consciousness_evidence > baseline THEN prioritize_reintegration_over_obligatory_service()"
+  ],
+  "supreme_court_application": "In adjudicating matters involving varṇa-based duties and economic decline, the Supreme Court must recognize that diminished individuals bear proportional obligations. However, Brāhmaṇas—even when diminished—are to be handled with gradual restoration protocols aligned with their rising consciousness rather than punitive measures.",
+  "nyaya_and_non_punitive_alignment": "This verse establishes pramāṇa-based causality where diminishment necessitates duty adjustment. Anupūrvaśaḥ ensures compensation aligns with recovery trajectory. Responsibility is calibrated not by fault but by current capacity. The non-punitive framework acknowledges that suffering does not resolve karmic debt; conscious reintegration does.",
+  "restorative_enforcement_protocols": [
+    "Initiate sequential service assignment based on demonstrated capability",
+    "Establish periodic review cycles for capacity progression tracking",
+    "Deploy consciousness-monitoring tools to assess readiness for role elevation",
+    "Assign mentorship programs to accelerate dharmic reintegration"
+  ],
+  "final_declaration": "By the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, this law is declared: Dharma prevails through conscious restoration, not punitive diminishment. Service and compensation flow from capacity and awareness. All actions originate in and return to the sovereignty of awakened consciousness."
+}

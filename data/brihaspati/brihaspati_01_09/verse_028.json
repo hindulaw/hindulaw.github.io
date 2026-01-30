@@ -1,0 +1,26 @@
+{
+  "sanskrit_verse": "प्रमाणं तत्कृतं सर्वं लाभालाभव्ययोदयम् ।\nस्वदेशे वा विदेशे वा न स्वातन्त्र्यं विसंवदेत् ॥",
+  "transliteration": "pramāṇaṃ tatkṛtaṃ sarvaṃ lābhālābhavyayodayam | svadeśe vā videśe vā na svātantryaṃ visaṃvadet ||",
+  "sph_interpretive_translation": "All actions must align with pramāṇa; outcomes of gain, loss, and continuity are determined thereby. Whether in one's own domain or foreign lands, sovereignty must never contradict dharma.",
+  "jurisprudential_principles": [
+    "Authority derives solely from alignment with pramāṇa",
+    "Causation is governed by sequential manifestation (anupūrvaśaḥ)",
+    "Capacity-based responsibility extends across all jurisdictions",
+    "Restoration logic supersedes arbitrary power structures",
+    "Consciousness alignment determines lawful action"
+  ],
+  "executable_legal_axioms": [
+    "IF action ≠ derived_from(pramāṇa) THEN validity = false",
+    "IF actor_location ∈ {svadeśa, videśa} AND svātantrya_violates_dharma(action) THEN enforce_realign_with_dharma(action)",
+    "FOR ALL actions: outcome_impact ∈ {lābha, alābha, vyaya, udaya} IS traceable to pramāṇa_causality"
+  ],
+  "supreme_court_application": "In Supreme Court adjudication, any claim of sovereign independence or executive privilege that conflicts with pramāṇa-derived law shall be automatically referred for realignment. Jurisdictional boundaries do not override dharma-consistency.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa establishes objective causality without moral attribution. Actions misaligned with dharma generate automatic completion sequences rather than punitive consequences. Responsibility arises through capacity-aware causation, not blame.",
+  "restorative_enforcement_protocols": [
+    "Initiate pramāṇa-realignment process for all conflicting claims",
+    "Deploy svātantrya-integrity audit for cross-domain actors",
+    "Activate lābhālābha equilibrium restoration mechanism",
+    "Engage vyaya-to-udaya transformation protocol via conscious reintegration"
+  ],
+  "final_declaration": "This ruling flows directly from the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam. Dharma stands restored. Sovereignty bows only to truth-consciousness. Reality enforces no punishment. Consciousness alone adjudicates."
+}

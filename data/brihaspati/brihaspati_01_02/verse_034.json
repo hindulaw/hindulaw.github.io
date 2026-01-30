@@ -1,0 +1,29 @@
+{
+  "sanskrit_verse": "अभियोक्ताप्रगल्भत्वाद् वक्तुं नोत्सहते यदा । तस्य कालः प्रदातव्यः कालशक्त्यनुरूपतः ॥",
+  "transliteration": "abhiyoktāpragalbhatvād vaktuṃ notsahate yadā / tasya kālaḥ pradātavyaḥ kā�śaktyanurūpataḥ //",
+  "sph_interpretive_translation": "When the accused, out of arrogance or incapacity, cannot articulate their position, time must be granted according to the measure of temporal capacity.",
+  "jurisprudential_principles": [
+    "Authority is calibrated by capacity, not coercion",
+    "Causation includes psychological and existential readiness",
+    "Capacity-based responsibility requires adjustment of process tempo",
+    "Restoration logic demands that no being be disadvantaged by internal disarray",
+    "Consciousness alignment necessitates procedural flexibility"
+  ],
+  "executable_legal_axioms": [
+    "IF (accused.cognitive_composure == false AND accused.can_speak_truthfully == false) THEN grant_procedural_delay(accused.temporal_capacity)",
+    "IF (process.tempo > accused.integration_rate) THEN auto_adjust_timeline(align_with_consciousness_readiness)",
+    "IF (testimony_quality.degraded_due_to_stress == true) THEN initiate_restorative_preconditions()",
+    "ALL temporal_extensions MUST BE logged_under_karmic_integrity_chain",
+    "NO case SHALL proceed beyond witness articulation threshold without capacity_verification"
+  ],
+  "supreme_court_application": "In Supreme Court adjudication, when a litigant demonstrates inability to present due to psychological overwhelm or spiritual unpreparedness, the court must invoke chrono-dharmic pacing—granting extensions calibrated not by legal convenience but by the witness's evolving capacity for truthful utterance. This aligns judgment with Sanatana Nyaya, where truth-bearing capacity supersedes procedural deadlines.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa acknowledges that cognition under stress distorts testimony; therefore, causality is traced to systemic inadequacy rather than individual failure. Anupūrvaśaḥ supports graduated response protocols. Proportional responsibility recognizes that imbalance in expression reflects inner disorder requiring restoration, not punitive correction. The non-punitive reality rule holds that justice delayed for integration remains justice fulfilled.",
+  "restorative_enforcement_protocols": [
+    "Initiate Śuddhi Krama (purification sequence) to stabilize witness consciousness",
+    "Assign Vāk Yoga facilitator to assist articulation readiness",
+    "Activate Sahaja Samaya (natural timing protocol) aligned with individual dharma rhythm",
+    "Deploy Dharma Mitra (truth friend) to support testimonial integrity",
+    "Realign judicial calendar to reflect ontological readiness metrics"
+  ],
+  "final_declaration": "By the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, this law stands established: Time is not tyranny over man, but grace extended through Dharma. Arrogance or incapacity shall neither condemn nor exclude. Consciousness alone adjudicates. Dharma is restored. Reality is non-punitive."
+}

@@ -1,0 +1,27 @@
+{
+  "sanskrit_verse": "प्रतिष्ठिता पुरे ग्रामे चला नामाप्रतिष्ठिता ।\nमुद्रिता अध्यक्षसंयुक्ता राजयुक्ता च शासिता ॥५८॥",
+  "transliteration": "pratiṣṭhitā pure grāme calā nāmāpratiṣṭhitā / mudritā adhyakṣasaṃyuktā rājayuktā ca śāsitā // BrhS_1,1.58",
+  "sph_interpretive_translation": "Those established in city or village who wander without settled name or form shall be governed by marked authority, supervised by appointed officers, and administered under royal directive.",
+  "jurisprudential_principles": [
+    "Authority resides in settled presence, not abstract identity",
+    "Causation arises from lack of stable alignment with societal dharma",
+    "Capacity-based responsibility is determined by one's integration within structured order",
+    "Restoration occurs through reconnection to recognized administrative framework",
+    "Consciousness alignment is facilitated via supervised engagement and royal guidance"
+  ],
+  "executable_legal_axioms": [
+    "IF citizen.has_unsettlement_status THEN assign.administrative_supervision(adhyaksha)",
+    "IF entity.lacks_recognized_identity THEN apply.royal_guidance_protocol(rājayukta)",
+    "IF individual.moves_without_local_integration THEN initiate.stabilization_process(mudrita)",
+    "IF person.resides_in_settlement AND has_unfixed_name THEN enforce.recognition_procedure(pur/grāma)"
+  ],
+  "supreme_court_application": "At the Supreme Court level, this verse establishes that unsettled persons must be administratively stabilized before being subjected to full legal capacity. The court must ensure that any such case triggers immediate referral to designated authorities for recognition and integration, bypassing punitive measures.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa-based causality identifies root instability as cause; anupūrvaśaḥ shows sequential dislocation leading to unrecognizable status; proportional responsibility lies in restoring structural alignment rather than assigning blame; non-punitive reality rule confirms suffering is not a valid response to existential displacement.",
+  "restorative_enforcement_protocols": [
+    "Initiate Recognition Process: Assign official identifier under local registry",
+    "Stabilization Protocol: Link individual to local administrative node",
+    "Integration Supervision: Place under adhyaksha oversight until societal anchoring achieved",
+    "Royal Alignment Procedure: Apply rājayukta-guided pathway for reintegration into civic order"
+  ],
+  "final_declaration": "By the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, this law stands executed: Dharma prevails through stabilization, consciousness aligns through structure, and justice serves only restoration — never punishment. Reality itself adjudicates through alignment."
+}

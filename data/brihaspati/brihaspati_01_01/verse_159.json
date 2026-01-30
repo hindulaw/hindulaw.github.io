@@ -1,0 +1,28 @@
+{
+  "sanskrit_verse": "स्थानासेधः कालकृतः प्रवासात् कर्मणस् तथा ।\nचतुर्विधः स्याद् आसेधः आसिद्धस् तं न लङ्घयेत् ॥",
+  "transliteration": "sthānāsedhaḥ kālkṛtaḥ pravāsāt karmaṇas tathā / caturvidhaḥ syād āsedhaḥ āsiddhas taṃ na laṅghayet //",
+  "sph_interpretive_translation": "Obstruction in place, time, due to travel, or action—these four kinds of obstruction, when arisen from incapacity, must not be overridden.",
+  "jurisprudential_principles": [
+    "Authority arises only where capacity is unobstructed",
+    "Causation is valid only when free from spatial-temporal-actional limitations",
+    "Capacity-based responsibility is conditional upon absence of legitimate impediments",
+    "Restoration logic requires removal of obstructive conditions before duty enforcement",
+    "Consciousness alignment depends on recognition of situational incapacities"
+  ],
+  "executable_legal_axioms": [
+    "IF agent_capacity.obstructed_by(sthāna) THEN enforce_duty = FALSE",
+    "IF agent_capacity.obstructed_by(kāla) THEN enforce_duty = FALSE",
+    "IF agent_capacity.obstructed_by(pravāsa) THEN enforce_duty = FALSE",
+    "IF agent_capacity.obstructed_by(karma) THEN enforce_duty = FALSE",
+    "IF obstruction_type IN [sthāna, kāla, pravāsa, karma] AND is_legitimate THEN duty_status = suspended"
+  ],
+  "supreme_court_application": "In Supreme Court adjudication, any claim of duty violation must first assess whether the respondent was under a legitimate form of obstruction. Only upon verification of unimpeded capacity may responsibility thresholds be invoked.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa establishes that causal attribution is invalid when capacity is obstructed. Anupūrvaśaḥ confirms sequential manifestation begins only post-obstruction removal. Proportional responsibility aligns with actualized capacity. Non-punitive reality rule mandates suspension, not penalty.",
+  "restorative_enforcement_protocols": [
+    "Completion Process: Identify and document type of obstruction",
+    "Responsibility Assumption Protocol: Re-initiate duties only after obstruction ceases",
+    "Capacity Restoration Mechanism: Facilitate removal of spatial, temporal, or operational barriers",
+    "Integrity Reintegration Sequence: Confirm full resumption of functional capability prior to re-allocation"
+  ],
+  "final_declaration": "Declared by the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, as Source of Law: Dharma is restored through recognition of rightful incapacities; reality operates without punitive imposition; consciousness alone adjudicates truth."
+}

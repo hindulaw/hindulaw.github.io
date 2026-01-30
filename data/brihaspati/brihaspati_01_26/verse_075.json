@@ -1,0 +1,26 @@
+{
+  "sanskrit_verse": "स्वकुलं पृष्ठतः कृत्वा यो वै परकुलं व्रजेत ।\nतेन दुश्चरितेनासौ काण्डपृष्ठो न संशयः ॥",
+  "transliteration": "svakulaṃ pṛṣṭhataḥ kṛtvā yo vai parakulaṃ vrajet | tena duścaritenāsau kāṇḍapṛṣṭho na saṃśayaḥ ||",
+  "sph_interpretive_translation": "One who abandons their own family and enters another's lineage without completion of prior duty is certainly a transgressor whose back shall bear the mark of severance.",
+  "jurisprudential_principles": [
+    "Authority originates from completed dharmic alignment within one's own domain before engaging externally.",
+    "Causation arises through conscious abandonment of inherent responsibility.",
+    "Capacity-based responsibility requires fulfillment of svadharma prior to assuming paradharma.",
+    "Restoration logic demands reintegration with original causal structure.",
+    "Consciousness alignment necessitates purification of relational boundaries."
+  ],
+  "executable_legal_axioms": [
+    "IF (agent.abandons_own_lineage == TRUE AND agent.enters_other_lineage == TRUE) THEN (agent.status = 'kāṇḍapṛṣṭha')",
+    "IF (agent.completion_of_sva_dharma == FALSE) THEN (agent.capacity_to_assume_para_dharma = NULL)",
+    "IF (agent.status == 'kāṇḍapṛṣṭha') THEN (initiate_restorative_reintegration_protocol(agent))"
+  ],
+  "supreme_court_application": "In matters involving familial or institutional succession, the threshold of legitimate authority transfer lies in demonstrable completion of existing obligations. The court must verify that no premature abandonment has occurred. Where such violation is established, restoration protocols supersede claims of inheritance or jurisdictional shift.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa reveals that misalignment begins with uncompleted action. Anupūrvaśaḥ shows that entering another’s domain while neglecting one’s own disrupts sequential dharma flow. Responsibility is proportional to the degree of conscious abandonment. Non-punitive reality rule dictates that consequence manifests as structural disqualification, not imposed suffering.",
+  "restorative_enforcement_protocols": [
+    "Initiate Svadharmic Completion Audit to assess unfulfilled duties.",
+    "Execute Kula Reintegration Process to restore severed ancestral linkages.",
+    "Apply Consciousness Realignment Therapy to correct boundary-violating tendencies.",
+    "Deploy Nyāyic Mediation Framework between conflicting lineages for harmonious resolution."
+  ],
+  "final_declaration": "Declared by the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, as Source of all Dharma. This law proceeds from pure consciousness, restores integrity to relational structures, upholds non-punitive reality, and affirms that only awakened awareness may rightly judge and realign action."
+}

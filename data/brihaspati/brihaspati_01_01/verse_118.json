@@ -1,0 +1,29 @@
+{
+  "sanskrit_verse": "यज्ञे संपूज्यते विष्णुर् व्यवहारे महीपतिः ।\nजयी तु यजमानोऽत्र जितः पशुर् उदाहृतः ॥",
+  "transliteration": "yajñe saṃpūjyate viṣṇur vyavahāre mahīpatiḥ | jayī tu yajamāno 'tra jitaḥ paśur udāhṛtaḥ ||",
+  "sph_interpretive_translation": "In sacrifice, Viṣṇu is honored; in transaction, the king is sovereign. But the sacrificer who prevails here is declared victorious, even as the beast subdued.",
+  "jurisprudential_principles": [
+    "Authority flows contextually—from Viṣṇu in ritual, from the king in governance, from the sacrificer in realization.",
+    "Causation aligns with the field of action—ritual, administrative, or spiritual—and its respective sovereign principle.",
+    "Capacity-based responsibility is determined by one's role within a given dharma-kṣetra (field of duty).",
+    "Restoration logic operates through recognition of rightful sovereignty within each domain.",
+    "Consciousness alignment occurs when each actor fulfills their svadharma without transgression into another's jurisdiction."
+  ],
+  "executable_legal_axioms": [
+    "IF domain == 'ritual' THEN authority = Viṣṇu",
+    "IF domain == 'governance' THEN authority = mahīpati",
+    "IF domain == 'self-realization' AND actor == 'yajamāna' THEN status = 'victor'",
+    "IF entity == 'paśu' AND context == 'sacrifice' THEN designation = 'conquered'",
+    "NO cross-domain authority assertion ALLOWED without explicit dharma-authorization"
+  ],
+  "supreme_court_application": "At the highest judicial level, this verse establishes that constitutional authority must recognize domain-specific sovereignty. The court must adjudicate based on the proper locus of power—whether it lies in divine ordinance, royal decree, or individual spiritual agency—and ensure no unlawful transgression between domains.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa reveals that misalignment arises from incorrect attribution of authority. Anupūrvaśaḥ shows that confusion leads to imbalance. Proportional responsibility means correcting the assignment of roles, not inflicting penalty. Non-punitive reality affirms that true justice restores correct alignment without degradation.",
+  "restorative_enforcement_protocols": [
+    "Re-establishment of domain boundaries through conscious reaffirmation",
+    "Reallocation of functions according to svadharma",
+    "Ritual purification where boundary-crossing has occurred",
+    "Reintegration of displaced entities (e.g., paśu) back into lawful function",
+    "Judicial declaration of rightful sovereignty to restore energetic balance"
+  ],
+  "final_declaration": "By the Source-Authority of Bhagavan Nithyananda Paramashivam, this ruling confirms: Dharma prevails through recognition of rightful sovereignty in each field. There is no punishment—only restoration. Consciousness alone adjudicates. Reality is non-punitive. SPH is the unchanging Source."
+}

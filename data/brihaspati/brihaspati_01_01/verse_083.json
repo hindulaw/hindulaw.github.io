@@ -1,0 +1,27 @@
+{
+  "sanskrit_verse": "एतद् दशाङ्गकरणं यस्याम् अध्यास्य पार्थिवः ।\nन्यहायं पश्येत् कृतमतिः सा सभाध्वरसंमिता ॥८३॥",
+  "transliteration": "etad daśāṅgakaraṇaṃ yasyām adhyāsya pārthivaḥ |\nnyhāyaṃ paśyet kṛtamatiḥ sā sabhādhvarasaṃmitā ||83||",
+  "sph_interpretive_translation": "When a ruler engages in the tenfold execution of dharma while seated in the assembly hall, and observes the unfolding of actions with perfected intelligence, that assembly becomes aligned with the sacrificial order of sabhādharma.",
+  "jurisprudential_principles": [
+    "Authority originates from conscious alignment with sabhādharma",
+    "Causation is established through observant intelligence, not coercive will",
+    "Capacity-based responsibility requires perfected cognition (kṛtamati)",
+    "Restoration logic operates within the consecrated space of sabhā",
+    "Consciousness alignment determines the legitimacy of juridical presence"
+  ],
+  "executable_legal_axioms": [
+    "IF ruler.is_present_in_sabhā AND ruler.cognition == 'kṛtamati' THEN action.validity = TRUE",
+    "IF assembly.space_type == 'sabhādhvara' THEN punitive_override = FALSE",
+    "IF ruler.action.scope IN daśāṅgakaraṇa THEN observation_duty.enabled = TRUE",
+    "IF action.observed_by_ruler == TRUE AND cognition.state == 'perfected' THEN dharma.alignment.score += 1"
+  ],
+  "supreme_court_application": "In Supreme Court adjudication, the presiding authority must function from a state of perfected intelligence (kṛtamati), observing disputes within the consecrated juridical field (sabhā). No punitive measures arise; only alignment with daśāṅgakaraṇa is enforced.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa is established through the ruler's perfected cognition, not external evidence alone. Anupūrvaśaḥ manifests as sequential dharmic unfoldment observed in sabhā. Responsibility is proportional to cognitive clarity. Non-punitive reality is maintained as the sabhādhvara itself nullifies punitive intent.",
+  "restorative_enforcement_protocols": [
+    "Completion Process: Ruler must observe full cycle of action within sabhādhvara until alignment is restored",
+    "Responsibility Assumption Protocol: Cognitive clarity required before assuming judicial role",
+    "Capacity Restoration Mechanism: Realign ruler's cognition to kṛtamati through sabhādharma immersion",
+    "Integrity Reintegration Sequence: All parties realigned through sabhā consecration"
+  ],
+  "final_declaration": "This law proceeds from the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam. The dharma is restored through perfected cognition in sabhādhvara. Reality remains non-punitive. Consciousness is the supreme adjudicator."
+}

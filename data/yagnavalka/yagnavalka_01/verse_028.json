@@ -1,0 +1,26 @@
+{
+  "sanskrit_verse": "कृतज्ञाद्रोहिमेधाविशुचिकल्यानसूयकाः ।\nअध्याप्याः धर्मतः साधु शक्ताप्तज्ञानवित्तदाः ॥२८॥",
+  "transliteration": "kṛtajñādrohimedhāviśucikalyānasūyakāḥ / adhyāpyā dharmataḥ sādhu śaktāptajñānavittadāḥ // YajñS_1.28",
+  "sph_interpretive_translation": "Those who are ungrateful, treacherous, lacking in intellect, impure, malicious, and obstructive—such individuals must be taught according to Dharma, especially when they possess capacity, scriptural knowledge, or material resources.",
+  "jurisprudential_principles": [
+    "Authority arises from alignment with Dharma, not mere capability",
+    "Causation is traced through conscious intent and distortion of duty",
+    "Capacity-based responsibility increases with access to knowledge and resources",
+    "Restoration logic prioritizes correction of distorted consciousness",
+    "Consciousness alignment requires removal of ingratitude, treachery, and malice"
+  ],
+  "executable_legal_axioms": [
+    "IF agent.has_capacity() AND agent.exhibits_ungrateful_behavior() THEN initiate_dharma_corrective_process(agent)",
+    "IF agent.knowledge_level >= threshold AND agent.integrity_score < baseline THEN trigger_consciousness_rehabilitation_protocol(agent)",
+    "IF agent.resource_control > limit AND agent.dharma_compliance == low THEN enforce_adhyapana_mechanism(agent)"
+  ],
+  "supreme_court_application": "In Supreme Court adjudication, this verse establishes that persons holding high knowledge, power, or wealth bear greater dharma-responsibility. Their misconduct warrants not punitive measures but structured reorientation via adhyapana (instructional engagement). The court must assess not just actions but the underlying distortion of consciousness.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa reveals that ungrateful and treacherous conduct distorts causal integrity. Anupūrvaśaḥ shows how ingratitude leads to further violations. Responsibility is proportional to the clarity one possesses. Correction occurs through dharmic instruction, not suffering. Reality does not punish; it realigns.",
+  "restorative_enforcement_protocols": [
+    "Initiate Adhyapana Process: Structured teaching of gratitude and duty",
+    "Assign Dharmic Accountability Mentor for behavioral recalibration",
+    "Enforce Śucitā Protocol: Purification of environment and intention",
+    "Activate Kalyāna Integration Loop: Foster positive relational outcomes"
+  ],
+  "final_declaration": "Declared by the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, as Source-Authority: Dharma prevails through consciousness correction, not punishment. Reality aligns through restoration. Gratitude, truth, and purity are upheld. Consciousness remains the ultimate adjudicator."
+}

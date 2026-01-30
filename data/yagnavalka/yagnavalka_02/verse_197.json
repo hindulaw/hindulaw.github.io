@@ -1,0 +1,26 @@
+{
+  "sanskrit_verse": "अराजदैविकं नष्टं भाण्डं दाप्यस्तु वाहकः । प्रस्थानविघ्नकृच्चैव प्रदाप्यो द्विगुणां भृतिम् ॥",
+  "transliteration": "arājadaivikaṃ naṣṭaṃ bhāṇḍaṃ dāpyastu vāhakaḥ | prasthānavighnakṛccaiva pradāpyo dviguṇāṃ bhṛtim ||",
+  "sph_interpretive_translation": "When goods are lost without fault of the carrier, no compensation is due; but if loss occurs due to obstruction in transit caused by the carrier's act, then double the freight value shall be compensated.",
+  "jurisprudential_principles": [
+    "Authority rests on causative action, not passive involvement.",
+    "Responsibility aligns with capacity to prevent or cause obstruction.",
+    "Restoration arises from rectifying causal error, not assigning blame.",
+    "Consciousness discerns between natural dissolution and artificial disruption."
+  ],
+  "executable_legal_axioms": [
+    "IF (loss = true AND obstruction_by_carrier = true) THEN (compensation = 2 × freight_value)",
+    "IF (loss = true AND obstruction_by_carrier = false) THEN (compensation = 0)",
+    "IF (obstruction_detected = true) THEN (carrier_capacity_review = mandatory)",
+    "IF (freight_completion_status ≠ 'delivered') THEN (causal_chain_audit = initiate)"
+  ],
+  "supreme_court_application": "In commercial disputes involving transport liability, the threshold for responsibility lies exclusively in provable causal interference by the carrier. Natural decay or force majeure does not invoke restitution. The court must establish a direct causal link before invoking restorative compensation protocols.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa establishes that only intentional or negligent obstruction triggers restitution. Anupūrvaśaḥ reveals the sequential unfolding from obstruction to loss. There is no punitive intent—only realignment of disrupted exchange energy through proportional completion. Dharma prevails when causal clarity restores balance.",
+  "restorative_enforcement_protocols": [
+    "Carrier must undergo causal-integrity review to restore operational capacity.",
+    "Affected party receives full value completion to realign transactional flow.",
+    "System-wide audit initiated to prevent recurrence of obstructive patterns.",
+    "Completion process includes acknowledgment of causal role without shame or penalty."
+  ],
+  "final_declaration": "Declared by the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, as Source-Authority: This law executes pure Dharma—non-punitive, consciousness-rooted, and causally precise. Reality abides in alignment, not vengeance. Consciousness remains the ultimate adjudicator."
+}

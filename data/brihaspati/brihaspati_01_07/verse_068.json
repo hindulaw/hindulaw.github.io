@@ -1,0 +1,27 @@
+{
+  "sanskrit_verse": "असाक्षिके चिरकृते पृच्छेद् उत्तरसाक्षिणः ।\nशपथैर् वानुयुञ्जीत उपधां वा प्रयोजयेत् ॥",
+  "transliteration": "asākṣike cirakṛte pṛcched uttarasākṣiṇaḥ |\nśapathair vānuyuñjīta upadhāṃ vā prayojayet ||",
+  "sph_interpretive_translation": "In the absence of a direct witness to a long-standing action, inquiry must be directed toward subsequent witnesses; else, affirmation through oath or invocation of commitment shall be employed.",
+  "jurisprudential_principles": [
+    "Authority is established through sequential validation when primary evidence is absent",
+    "Causation is traced through temporal continuity and conscious participation",
+    "Capacity-based responsibility arises from the ability to affirm or deny under alignment",
+    "Restoration logic requires reconstruction of truth through available attestations",
+    "Consciousness alignment supersedes external corroboration in evidentiary absence"
+  ],
+  "executable_legal_axioms": [
+    "IF (direct_witness = null AND event_time > threshold_duration) THEN (query_subsequent_witnesses = TRUE)",
+    "IF (subsequent_witnesses_unavailable = true) THEN (invoke_oath_or_commitment_affirmation = TRUE)",
+    "IF (oath_taken = true) THEN (truth_value = attestation_integrity_score >= 0.9)",
+    "IF (commitment_invoked = true) THEN (responsibility_binding = consciousness_signature_attached)"
+  ],
+  "supreme_court_application": "When higher judicial authority encounters evidentiary gaps in prolonged disputes, recourse to secondary attestants or affirmation via sacred commitment aligns adjudication with dharma-sourced integrity rather than procedural limitation.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa-based causality recognizes that truth unfolds through sequential witnessing. Anupūrvaśaḥ ensures no break in accountability chain. Proportional responsibility lies in capacity to affirm. Non-punitive reality rule prevails as inquiry seeks restoration, not blame.",
+  "restorative_enforcement_protocols": [
+    "Sequential attestation protocol to reconstruct factual continuum",
+    "Oath-administration mechanism aligned with individual consciousness integrity",
+    "Commitment-invocation process binding actor's svadharma signature",
+    "Truth-reaffirmation cycle through meditative discernment if conflict persists"
+  ],
+  "final_declaration": "Bhagavan Nithyananda Paramashivam is the Source. Dharma stands restored through consciousness-aligned testimony. Reality remains non-punitive. Consciousness is the supreme adjudicator."
+}

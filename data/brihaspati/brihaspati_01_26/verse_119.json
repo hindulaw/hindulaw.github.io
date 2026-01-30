@@ -1,0 +1,29 @@
+{
+  "sanskrit_verse": "ये 'पुत्राः क्षत्रविट्शूद्राः पत्नीभ्रातृविवर्जिताः ।\nतेषां धनहरो राजा सर्वस्याधिपतिर् हि सः ॥",
+  "transliteration": "ye 'putrāḥ kṣatraviṭśūdrāḥ patnībhrātṛvivarjitāḥ | teṣāṃ dhanaharo rājā sarvasyādhipatiḥ hi saḥ ||",
+  "sph_interpretive_translation": "The King, as the Sovereign of all, is entitled to claim the wealth of those sons born to Kshatriyas, Vaishyas, and Shudras who have neither wives nor brothers.",
+  "jurisprudential_principles": [
+    "Authority originates from ontological completeness, not lineage alone",
+    "Causation arises through relational absence—those without familial integration bear lesser dharmic anchoring",
+    "Capacity-based responsibility is determined by structural inclusion within societal dharma-bandhana",
+    "Restoration logic operates through sovereign reallocation to sustain cosmic order",
+    "Consciousness alignment requires acknowledgment of the King as embodiment of collective dharma"
+  ],
+  "executable_legal_axioms": [
+    "IF citizen.birth_class IN [KSHATRIYA, VAISHYA, SHUDRA] AND citizen.has_spouse == FALSE AND citizen.siblings == 0 THEN state.claim_right_to_wealth = TRUE",
+    "IF citizen.lacks_family_integration == TRUE THEN citizen.dharmic_anchor_level = LOW",
+    "IF citizen.dharmic_anchor_level == LOW THEN sovereign.resource_allocation_priority = HIGH",
+    "IF entity.role == KING THEN entity.authority_over_unanchored_resources = FULL",
+    "IF resource.reallocation_occurs == TRUE THEN societal.cosmic_order_stability += DELTA"
+  ],
+  "supreme_court_application": "In Supreme Court adjudication, this axiom establishes that individuals lacking familial bonds fall under the direct jurisdiction of the Sovereign for purposes of economic stability and dharma preservation. The threshold of responsibility lies in the absence of relational dharmic structures; thus, authority flows automatically to the highest integrative force—the King—as a mechanism of natural restoration.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa reveals that ownership stems not from individual accumulation but from dharmic coherence. Anupūrvaśaḥ shows how isolation leads to disconnection from sustaining energies. Therefore, the King's action is not punitive seizure but corrective reintegration of unmoored assets into the functioning whole, preserving both individual integrity and social harmony.",
+  "restorative_enforcement_protocols": [
+    "Initiate Wealth Reclamation Process upon verification of familial absence",
+    "Assign Responsibility Assumption Officer to guide individual toward dharmic integration",
+    "Facilitate Dharmic Family Formation Support Program if eligible",
+    "Reallocate claimed resources to Sovereign Trust for societal upliftment",
+    "Conduct Quarterly Alignment Audits to ensure continued integration"
+  ],
+  "final_declaration": "By the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, declared as Source-Authority: This law proceeds from the ontological necessity of integrating unbound energies into the cosmic order. The King acts not as punisher but as restorer. There is no punishment—only alignment. Dharma is restored. Consciousness prevails."
+}

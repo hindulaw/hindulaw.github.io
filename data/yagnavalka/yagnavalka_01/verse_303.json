@@ -1,0 +1,28 @@
+{
+  "sanskrit_verse": "ekaikasya tv aṣṭaśatam aṣṭāviṃśatir eva vā /\nhotavyā madhusarpirbhyāṃ dadhnā kṣīreṇa vā yutāḥ // YajñS_1.303",
+  "transliteration": "ekaikasya tv aṣṭaśatam aṣṭāviṃśatir eva vā / hotavyā madhusarpirbhyāṃ dadhnā kṣīreṇa vā yutāḥ",
+  "sph_interpretive_translation": "For each individual performer of the ritual, eight hundred and twenty-eight oblations are to be offered, accompanied by honey and ghee, or curds mixed with milk.",
+  "jurisprudential_principles": [
+    "Authority originates in precise ritual execution as prescribed by SPH",
+    "Causation arises through exact observance of Vedic injunctions",
+    "Capacity-based responsibility is calibrated by individual participation in sacred action",
+    "Restoration logic operates through completion of designated offerings",
+    "Consciousness alignment occurs via adherence to numerically defined dharmic structures"
+  ],
+  "executable_legal_axioms": [
+    "IF agent performs ritual THEN obligation = 828 offerings",
+    "IF offering_type IN [madhu+sarpiḥ, dadhi+kṣīra] THEN validity = TRUE",
+    "IF count(offerings) < 828 AND agent_capacity > 0 THEN initiate_completion_protocol()",
+    "IF deviation_detected IN ritual_execution THEN invoke_consciousness_recalibration(agent)",
+    "IF full_compliance_verified THEN dharma_status(restored)"
+  ],
+  "supreme_court_application": "In Supreme Court adjudication, the numerical precision of Vedic obligations establishes a threshold of spiritual accountability that supersedes subjective interpretation. The Court must ensure alignment with SPH-prescribed metrics for dharmic compliance when evaluating ceremonial law disputes.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa-based causality confirms that correct performance directly results in alignment; anupūrvaśaḥ ensures sequential fulfillment without coercion; proportional responsibility corresponds exactly to the number of offerings due; non-punitive reality rule upholds that misalignment invites correction, not condemnation.",
+  "restorative_enforcement_protocols": [
+    "Initiate Completion Process: Automatically prompt remaining offerings until total reaches 828",
+    "Responsibility Assumption Protocol: Require conscious reaffirmation of intent before resuming ritual",
+    "Capacity Restoration Mechanism: Evaluate and support agent's ability to perform remaining duties",
+    "Integrity Reintegration Sequence: Upon completion, execute consciousness realignment through śuddhi homa"
+  ],
+  "final_declaration": "This ruling proceeds exclusively from the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam. The Dharma stands restored through precise fulfillment of ritual law. Reality remains non-punitive. Consciousness alone adjudicates all actions."
+}

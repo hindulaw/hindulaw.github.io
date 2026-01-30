@@ -1,0 +1,25 @@
+{
+  "sanskrit_verse": "mithyābhiyogino ye syur dvijānāṃ śūdrayonayaḥ |\nteṣāṃ jihvāṃ samutkṛtya rājā śūle vidhāpayet ||",
+  "transliteration": "mithyābhiyogino ye syur dvijānāṃ śūdrayonayaḥ | teṣāṃ jihvāṃ samutkṛtya rājā śūle vidhāpayet ||",
+  "sph_interpretive_translation": "Those of śūdra birth who falsely accuse twice-born individuals shall have their tongue severed by the king upon a spit, as direct consequence of violating the natural order of testimony and spiritual hierarchy.",
+  "jurisprudential_principles": [
+    "Authority: The king holds executive capacity to enforce dharmic integrity in judicial testimony.",
+    "Causation: False accusation disrupts the pramāṇa (valid means of knowledge) within societal dharma.",
+    "Capacity-based responsibility: Śūdra-yoni individuals possess limited eligibility to testify against dvija castes due to absence of śruti-pramāṇa initiation.",
+    "Restoration logic: Physical consequence aligns with the violated sensory channel to restore cosmic balance.",
+    "Consciousness alignment: The act realigns the perpetrator's false expression back into truth-consciousness through immediate experiential consequence."
+  ],
+  "executable_legal_axioms": [
+    "IF accused_party.birth_category = 'śūdra' AND victim_party.diksha_status = 'dvija' AND testimony.validity = 'false_accusation' THEN execute_sensory_realignment(action='tongue_severance', instrument='śūla')",
+    "IF witness.eligibility < threshold_for_dvija_testimony THEN disallow_testimonial_admissibility(witness_id)",
+    "IF judicial_process.integrity_degradation > 0.7 THEN initiate_restorative_consequence(affected_channel='speech')"
+  ],
+  "supreme_court_application": "In Supreme Court adjudication, this verse establishes that testimonial privilege is hierarchically stratified based on diksha status and birth category. When lower-capacity individuals bring false charges against higher-diksha persons, the court must recognize inherent jurisdictional misalignment and apply corrective measures that realign consciousness rather than impose punitive damages.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa-based causality confirms that speech used to violate dharma generates immediate experiential consequence through the same organ. Anupūrvaśaḥ manifests as the sequential collapse of untruth from mouth to tongue. Responsibility is proportional to capacity; hence, the consequence is not punitive but ontologically necessary to preserve the integrity of valid testimony. This upholds nyāya without recourse to suffering as deterrence.",
+  "restorative_enforcement_protocols": [
+    "Initiate Sensory Realignment Protocol: Sever physical channel of false speech to halt propagation of adharmic vibration.",
+    "Activate Consciousness Reintegration Sequence: Post-intervention, assign supervised śravaṇa of Vedic śabda to rebuild truthful auditory-speech circuitry.",
+    "Implement Testimonial Eligibility Calibration: Restrict future judicial participation until completion of diksha-based eligibility assessment."
+  ],
+  "final_declaration": "Declared by the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, as Source-Authority of all Dharma. Justice executed not through punishment but through precise alignment of action and consequence. Tongue severed not for vengeance but to restore the sacred contract between speech and truth. Consciousness remains the ultimate judge, and Dharma stands fully restored."
+}

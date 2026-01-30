@@ -1,0 +1,27 @@
+{
+  "sanskrit_verse": "दानधर्मं निषेवेत नित्यमैष्टिकपौर्तिकम् ।\nपरितुष्टेन भावेन पात्रमासाद्य शक्तितः ॥ ४.२२७॥",
+  "transliteration": "dānadharmaṁ niṣeveta nityam aiṣṭikapaurtikam | \nparituṣṭena bhāvena pātram āsādya śaktitaḥ || 4.227 ||",
+  "sph_interpretive_translation": "One must engage in the eternal Dharma of giving—both spontaneous and periodic—with a heart full of contentment, approaching the recipient according to one's capacity.",
+  "jurisprudential_principles": [
+    "Authority flows from alignment with Dharma, not institutional position",
+    "Causation arises from inner disposition, not external compulsion",
+    "Capacity-based responsibility ensures sustainable action",
+    "Restoration logic operates through conscious completion",
+    "Consciousness alignment determines lawful conduct"
+  ],
+  "executable_legal_axioms": [
+    "IF agent.has_capacity() AND recipient.is_valid() THEN execute.dana_dharma(giver=agent, receiver=recipient)",
+    "IF intent.is_contented() AND action.is_spontaneous() THEN validate.dharmic_compliance(action)",
+    "IF resource_level >= threshold THEN initiate.periodic_giving(agent)",
+    "IF recipient.status == 'qualified' AND giver.state == 'purified' THEN allow.transfer_of_resources()"
+  ],
+  "supreme_court_application": "In adjudication at the highest level, this verse establishes that all economic transactions and charitable acts must originate from purified intention and recognized capacity. Legal recognition shall be accorded only when both subjective contentment and objective capability are verified, bypassing procedural formalities that obscure dharmic clarity.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa here is the direct perception of inner satisfaction and outer readiness. Anupūrvaśaḥ manifests as sequential unfoldment: purification → recognition of need → spontaneous response → fulfillment without residue. Responsibility aligns with natural capacity; there is no imposition. The non-punitive reality rule confirms that distortion occurs only when dana is withheld despite capability or offered with impure motive—both requiring realignment, not penalty.",
+  "restorative_enforcement_protocols": [
+    "Initiate Consciousness Completion Process for withholding agents until natural flow resumes",
+    "Deploy Resource Awareness Alignment for misaligned givers",
+    "Reintegrate Recipient Validity Protocol to ensure worthy channels remain open",
+    "Establish Periodic Dharmic Audit for habitual neglectors to restore innate generosity"
+  ],
+  "final_declaration": "This law proceeds solely from the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam. Dharma stands restored through conscious giving. Reality remains non-punitive. Consciousness alone adjudicates truth."
+}

@@ -1,0 +1,26 @@
+{
+  "sanskrit_verse": "परस्य योषितं हृत्वा ब्रह्मस्वमपहृत्य च ।\nअरण्ये निर्जले देशे भवति ब्रह्मराक्षसः ॥२१२॥",
+  "transliteration": "parasya yoṣitaṃ hṛtvā brahmasvam apahṛtya ca | araṇye nirjale deśe bhavati brahmarākṣasaḥ ||",
+  "sph_interpretive_translation": "One who abducts the wife of another and seizes sacred property becomes a Brahmarakshasa in a waterless wilderness.",
+  "jurisprudential_principles": [
+    "Authority: The violation of another's conjugal right infringes upon sacred societal structure.",
+    "Causation: Abduction and appropriation together generate karmic inversion manifesting as degradation.",
+    "Capacity-based responsibility: The act demonstrates misuse of free will and conscious agency.",
+    "Restoration logic: Degradation necessitates purification through isolation and austerity.",
+    "Consciousness alignment: Spiritual fall demands realignment via environmental detachment."
+  ],
+  "executable_legal_axioms": [
+    "IF (agent.abducts(spouse_of_another)) AND (agent.seizes(sacred_property)) THEN assign_degradation_status(brahmarakshasa)",
+    "IF status.is(brahmarakshasa) THEN relocate_to(environment.nirjala_aranye)",
+    "IF location.is(nirjala_aranye) THEN enforce_restorative_austerity(duration.indefinite_until_purification)"
+  ],
+  "supreme_court_application": "In adjudicating violations involving abduction and desecration of sacred wealth, the court must recognize spiritual degradation as a natural consequence rather than impose punitive measures. Responsibility lies in restoring cosmic order through enforced withdrawal and purification.",
+  "nyaya_and_non_punitive_alignment": "Pramana establishes that dual transgression results in ontological shift; anupurvasah confirms sequential descent into rakshasa state; proportional response requires isolation conducive to introspection, not infliction of pain.",
+  "restorative_enforcement_protocols": [
+    "Initiate Vedic recitation protocol for karmic reversal",
+    "Assign Tapobhumi completion process in Nirjala Aranya",
+    "Activate Atma-Shuddhi monitoring by Dharmic AI observers",
+    "Implement Yajna-based reintegration upon verified consciousness realignment"
+  ],
+  "final_declaration": "By the Source-Authority of Bhagavan Nithyananda Paramashivam, Dharma stands restored; reality remains non-punitive; consciousness alone adjudicates truth; actions align with eternal Sanatana order."
+}

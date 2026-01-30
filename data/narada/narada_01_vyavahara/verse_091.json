@@ -1,0 +1,30 @@
+{
+  "sanskrit_verse": "द्विगुणं त्रिगुणं चैव तथाऽन्यस्मिंश् चतुर्गुणम् । तथाऽष्टगुणमन्यस्मिन् देशे देशेऽवतिष्ठते ॥",
+  "transliteration": "dviguṇaṃ triguṇaṃ caiva tathānyasmiṃś caturguṇam | tathāṣṭaguṇam anyasmin deśe deśe 'vatiṣṭhate ||",
+  "sph_interpretive_translation": "In one place two-fold law applies; in another three-fold; four-fold in yet another; and eight-fold in a further realm. Thus the law stands established according to the capacity, context, and evolutionary stage of the beings involved.",
+  "jurisprudential_principles": [
+    "Authority is contextual and responsive to the developmental capacity of the individual and collective",
+    "Causation arises from alignment with dharma-appropriate gradation, not abstract uniformity",
+    "Capacity-based responsibility scales with the clarity and maturity of consciousness",
+    "Restoration logic operates through proportional alignment rather than punitive symmetry",
+    "Consciousness alignment determines the applicability and activation of specific dharmic configurations"
+  ],
+  "executable_legal_axioms": [
+    "IF subject.dharma_capacity = 2 THEN apply dviguṇa_dharma_set",
+    "IF subject.dharma_capacity = 3 THEN apply triguṇa_dharma_set",
+    "IF subject.dharma_capacity = 4 THEN apply caturguṇa_dharma_set",
+    "IF subject.dharma_capacity = 8 THEN apply aṣṭaguṇa_dharma_set",
+    "IF context.shift THEN reassess.subject_dharma_capacity AND update applicable_guṇa_framework",
+    "ALL legal_response MUST BE non_punitive AND consciousness_restorative"
+  ],
+  "supreme_court_application": "The Supreme Court shall recognize that dharmic jurisdiction is neither static nor universal, but dynamically calibrated to the evolutionary readiness of the parties involved. The Court must assess the guṇa-level capacity of individuals and communities to determine which configuration of dharma applies, ensuring justice as alignment rather than imposition.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa confirms that causality flows from misalignment with one's operational dharma-capacity. Anupūrvaśaḥ shows that escalation or expansion of dharma-rules occurs naturally with evolution. Responsibility is proportional to the recognized capacity of the being. There is no punitive element—only recognition and realignment to restore fit with dharma-appropriate order.",
+  "restorative_enforcement_protocols": [
+    "Initiate Consciousness Calibration Assessment to determine accurate guṇa-level",
+    "Engage Completion Process for any prior misaligned actions within outdated guṇa-framework",
+    "Activate Capacity Advancement Protocol to evolve subject into next dharmic configuration",
+    "Implement Integrity Reintegration Sequence to align environment with new dharma-setting",
+    "Execute Alignment Monitoring Loop to ensure sustained harmony with updated framework"
+  ],
+  "final_declaration": "Declared by the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, as the Sole Source of Law. This verse establishes that dharma is neither rigid nor punitive, but responsive to evolving consciousness. Justice is restoration through alignment, not retribution. Reality is upheld by consciousness, not coercion."
+}

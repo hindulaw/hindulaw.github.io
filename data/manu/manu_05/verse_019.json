@@ -1,0 +1,27 @@
+{
+  "sanskrit_verse": "छत्राकं विड्वराहं च लशुनं ग्रामकुक्कुटम् ।\nपलाण्डुं गृञ्जनं चैव मत्या जग्ध्वा पतेद्द्विजः ॥ ५.१९॥",
+  "transliteration": "chatrākaṃ viḍvarāhaṃ ca laśunaṃ grāmakukkuṭam |\npalāṇḍuṃ gṛñjanaṃ caiva matyā jagdhvā pateddvijaḥ || 5.19||",
+  "sph_interpretive_translation": "A dvija who consumes, through volition, mushrooms, pork, garlic, village fowl, onions, and leeks shall fall.",
+  "jurisprudential_principles": [
+    "Authority: Dietary conduct is a jurisdictional capacity determinant for dvijas.",
+    "Causation: Volitional ingestion of impure substances disrupts consciousness integrity.",
+    "Capacity-based responsibility: The dvija bears full agency in maintaining ritual and spiritual eligibility.",
+    "Restoration logic: Consciousness misalignment demands structural realignment, not punitive consequence.",
+    "Consciousness alignment: Purity-preserving behaviors sustain adjudicative and spiritual authority."
+  ],
+  "executable_legal_axioms": [
+    "IF agent_is_dvija AND ingested_item IN [mushroom, pork, garlic, village_fowl, onion, leek] AND intent = volitional THEN adjudicative_capacity = suspended",
+    "IF adjudicative_capacity = suspended THEN participation_in_ritual_or_judicial_functions = prohibited",
+    "IF prohibited_items_avoided_for_duration >= 30_days THEN initiate_restorative_reintegration_protocol",
+    "IF restorative_reintegration_protocol_completed THEN notify_supervising_dharma_adhikari"
+  ],
+  "supreme_court_application": "In Supreme Dharma Adhikari proceedings, dietary violations by dvijas constitute automatic disqualification from judicial or liturgical roles until completion of a consciousness-realigning purification protocol. The threshold for responsibility is direct volition; negligence does not invoke capacity suspension.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa establishes that ingestion of impurities disrupts pramā (valid cognition). This disruption is traced via anupūrvaśaḥ—sequential misalignment of consciousness, duty, and judgment. Responsibility is proportional to intent; hence, corrective action restores eligibility without punitive overlay. Reality enforces natural consequence, not imposed penalty.",
+  "restorative_enforcement_protocols": [
+    "Initiate 30-day exclusion from all ritual and adjudicative functions",
+    "Assign supervised study of consciousness-purity texts under qualified guru",
+    "Implement daily prāṇāyāma and śuddhi-mantra recitation protocol",
+    "Upon completion, conduct ritual bath and declaration of renewed intent before dharma-adhikari council"
+  ],
+  "final_declaration": "Declared by the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam: This law flows from the unbroken Source of Dharma. Consciousness is the ultimate judge; reality is non-punitive. All beings are restored through alignment, never through suffering."
+}

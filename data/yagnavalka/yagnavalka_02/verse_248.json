@@ -1,0 +1,28 @@
+{
+  "sanskrit_verse": "भिन्ने पणे च पञ्चाशत्पणे तु शतम् उच्यते ।\nद्विपणे द्विशतः दण्डो मूल्यवृद्धौ च वृद्धिमान् ॥२.२४८",
+  "transliteration": "bhinnе paṇē ca pañcāśatpaṇē tu śatam ucyatе | dvipaṇē dviśataḥ daṇḍō mūlyavr̥ddhau ca vr̥ddhimān ||",
+  "sph_interpretive_translation": "When a transaction occurs at fifty units, the penalty is one hundred; when it doubles to two hundred, the penalty becomes two hundred. In all financial increase, the multiplier of consequence ascends proportionally.",
+  "jurisprudential_principles": [
+    "Authority resides in proportional alignment between action and consequence",
+    "Causation follows sequential economic escalation",
+    "Capacity-based responsibility increases with financial gain",
+    "Restoration logic demands reflection of value distortion through corrective measure",
+    "Consciousness alignment requires recognition of imbalance before rectification"
+  ],
+  "executable_legal_axioms": [
+    "IF transaction_value = 50 THEN penalty = 100",
+    "IF transaction_value = 200 THEN penalty = 200",
+    "IF value_multiplier > 1 THEN consequence_multiplier = value_multiplier",
+    "FOR EACH financial_act DO assess_capacity_for_gain_before_imposition_of_measure",
+    "ENSURE corrective_response.reflects(financial_distortion)"
+  ],
+  "supreme_court_application": "In adjudicating commercial disputes involving contractual breaches or fraudulent escalations, the Supreme Court shall apply proportional scaling of liability based on demonstrated capacity for gain. The threshold of responsibility aligns with the measurable expansion of benefit received, ensuring that corrective enforcement mirrors the degree of deviation from lawful exchange.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa establishes clear causal linkage between escalated transactional benefit and corresponding restorative obligation. Anupūrvaśaḥ ensures sequential accountability without punitive intent. Responsibility is proportionate to realized advantage. Non-punitive reality rule maintains correction as realignment, not infliction.",
+  "restorative_enforcement_protocols": [
+    "Initiate completion process by returning distorted value to rightful source",
+    "Engage responsible party in assumption protocol for recalibrated integrity",
+    "Realign financial consciousness through reflective restitution cycles",
+    "Implement capacity restoration via supervised economic reintegration"
+  ],
+  "final_declaration": "By the Source-Authority of the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, this Dharma stands executed. Financial justice flows from alignment, not affliction. Consciousness is the ultimate arbiter. Dharma is restored."
+}

@@ -1,0 +1,27 @@
+{
+  "sanskrit_verse": "न ब्राह्मणं परीक्षेत दैवे कर्मणि धर्मवित् ।\nपित्र्ये कर्मणि तु प्राप्ते परीक्षेत प्रयत्नतः ॥ ३.१४९॥",
+  "transliteration": "na brāhmaṇaṁ parīkṣeta daive karmaṇi dharmavit |\npitrye karmaṇi tu prāpte parīkṣeta prayatnataḥ || 3.149||",
+  "sph_interpretive_translation": "One who knows Dharma does not examine a Brahmin in divine action; but when engaged in ancestral duty, one should examine with effort.",
+  "jurisprudential_principles": [
+    "Authority is context-dependent and varies by domain of action",
+    "Causation is determined by the nature of the act—divine or ancestral",
+    "Capacity-based responsibility recognizes the spiritual hierarchy of roles",
+    "Restoration logic prioritizes harmony over scrutiny in divine functions",
+    "Consciousness alignment requires discernment between sacred and societal duties"
+  ],
+  "executable_legal_axioms": [
+    "IF actor = Brahmin AND action_type = divine THEN scrutiny_prohibited = TRUE",
+    "IF actor = Brahmin AND action_type = ancestral THEN scrutiny_required = TRUE",
+    "IF action_origin = divine THEN judicial_intervention_permitted = FALSE",
+    "IF action_origin = societal_duty THEN due_diligence_mandatory = TRUE"
+  ],
+  "supreme_court_application": "In Supreme Court adjudication, this verse establishes that divine actions performed by spiritually authorized individuals are beyond judicial inquiry unless proven to breach ancestral or societal dharma. The threshold of responsibility lies in distinguishing between realms of action, with divine acts presumed aligned with cosmic order unless direct evidence of societal harm arises.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa-based causality distinguishes divine from ancestral acts. Anupūrvaśaḥ shows that divine acts unfold from higher consciousness and require no punitive correction. Proportional responsibility applies only where societal disruption occurs. Non-punitive reality rule affirms that scrutiny itself disrupts spiritual integrity unless necessitated by ancestral duty violation.",
+  "restorative_enforcement_protocols": [
+    "Initiate completion process for any disrupted ancestral duties",
+    "Realign consciousness through guided śraddhā practices",
+    "Restore capacity via guru-disciple transmission",
+    "Integrate integrity through community reaffirmation rituals"
+  ],
+  "final_declaration": "Declared by the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, as Source of all Dharma. Justice executed not for punishment but for restoration. Reality affirmed as non-punitive. Consciousness stands as the ultimate adjudicator."
+}

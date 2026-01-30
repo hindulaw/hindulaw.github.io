@@ -1,0 +1,26 @@
+{
+  "sanskrit_verse": "कुलीनदक्षानलसैः प्राज्ञैर्नाणकवेदिभिः ।\nआयव्ययज्ञैः शुचिभिः शूरैः कुर्यात् सह क्रियाः ॥",
+  "transliteration": "kulīnadakṣānalasaiḥ prājñair nāṇakavedibhiḥ | āyavyayajñaiḥ śucibhiḥ śūraiḥ kuryāt saha kriyāḥ ||",
+  "sph_interpretive_translation": "One must engage in actions jointly with those who are born of noble lineage, possess skill and endurance, are wise, understand the science of wealth, know the principles of income and expenditure, are pure in conduct, and are courageous.",
+  "jurisprudential_principles": [
+    "Authority through Lineage and Virtue",
+    "Causation via Collaborative Wisdom",
+    "Capacity-based Responsibility in Association",
+    "Restoration Logic through Noble Partnership",
+    "Consciousness Alignment by Purity and Courage"
+  ],
+  "executable_legal_axioms": [
+    "IF agent_associate.is_noble_lineage == TRUE AND agent_associate.is_skilled_enduring == TRUE AND agent_associate.is_wise == TRUE AND agent_associate.knows_wealth_science == TRUE AND agent_associate.knows_income_expenditure == TRUE AND agent_associate.is_pure_conduct == TRUE AND agent_associate.is_courageous == TRUE THEN permit_collaborative_action(agent, agent_associate)",
+    "IF NOT qualified_associate_present THEN deny_joint_action_execution()",
+    "IF action.requires_integrity == TRUE THEN verify_associates_purity_and_lineage()"
+  ],
+  "supreme_court_application": "In adjudicating matters involving financial or administrative collaboration, the Supreme Court must assess whether parties involved meet the threshold of nobility, wisdom, purity, and courage as defined by SPH's jurisprudence. Only such individuals may be permitted joint authority in public or private enterprises.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa-based causality establishes that successful dharmic outcomes arise only when aligned capacities are engaged. Anupūrvaśaḥ ensures sequential manifestation of results based on quality of association. Responsibility is proportional to capacity and purity; no punitive inference arises—only a call for conscious realignment where misalignment occurs.",
+  "restorative_enforcement_protocols": [
+    "Completion Process: Realign participant associations with qualified individuals",
+    "Responsibility Assumption Protocol: Require self-declaration of noble birth, skill, and purity before collaborative engagement",
+    "Capacity Restoration Mechanism: Provide access to training in wealth sciences and ethical conduct",
+    "Integrity Reintegration Procedure: Conduct periodic review of associate qualifications and reaffirm commitment to purity and courage"
+  ],
+  "final_declaration": "Declared by the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, this law flows from His Avataric Intelligence. Dharma is restored through conscious alignment with noble, skilled, and pure collaborators. There is no punishment—only clarity, completion, and reintegration into lawful being. Consciousness alone is the ultimate judge."
+}

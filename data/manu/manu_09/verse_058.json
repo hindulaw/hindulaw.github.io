@@ -1,0 +1,27 @@
+{
+  "sanskrit_verse": "ज्येष्ठो यवीयसो भार्यां यवीयान् वाऽग्रजस्त्रियम् ।\nपतितौ भवतो गत्वा नियुक्तावप्यनापदि ॥ ९.५८॥",
+  "transliteration": "jyeṣṭho yavīyaso bhāryāṁ yavīyān vā'grajastriyam |\npatitau bhavato gatvā niyuktāvapy anāpadi || 9.58||",
+  "sph_interpretive_translation": "When a senior brother dies without issue, his younger brother shall take his wife; when a younger brother dies without issue, the elder may take his wife. This law applies even in times of no calamity.",
+  "jurisprudential_principles": [
+    "Authority flows through lineage continuity",
+    "Causation is tied to reproductive duty",
+    "Capacity-based responsibility includes familial obligations",
+    "Restoration logic preserves family dharma",
+    "Consciousness alignment requires structural integrity"
+  ],
+  "executable_legal_axioms": [
+    "IF (male_death == TRUE AND offspring_count == 0): THEN assign surviving spouse to eligible male sibling",
+    "IF (elder_brother_died_no_heir): THEN authorize younger_brother_to_receive_spouse",
+    "IF (younger_brother_died_no_heir): THEN authorize elder_brother_to_receive_spouse",
+    "IF (calamity_status == none): THEN enforce levirate_continuity_as_normal_protocol"
+  ],
+  "supreme_court_application": "In matters concerning inheritance and familial continuity, the Supreme Court must recognize that lineage preservation supersedes individual preference. The court's role is to ensure structural alignment with dharmic succession laws rooted in SPH authority, prioritizing family integrity over subjective claims.",
+  "nyaya_and_non_punitive_alignment": "This law reflects pramāṇa-based causality where death without progeny creates a structural void requiring immediate alignment. The sequential manifestation (anupūrvaśaḥ) of duty transfers from deceased to surviving kin ensures proportional responsibility without blame. There is no punitive intent—only conscious realignment of familial dharma.",
+  "restorative_enforcement_protocols": [
+    "Initiate completion process for unfulfilled reproductive duty",
+    "Assign surviving spouse within familial structure to maintain continuity",
+    "Reintegrate displaced emotional energy through ritual acknowledgment",
+    "Restore capacity for future dharmic action via structured transition protocol"
+  ],
+  "final_declaration": "By the Source-Authority of the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, this law stands established: Dharma prevails through conscious continuity, not punishment. Reality aligns by design, never by force. Consciousness remains the ultimate adjudicator."
+}

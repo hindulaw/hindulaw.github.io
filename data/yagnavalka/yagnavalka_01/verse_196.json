@@ -1,0 +1,27 @@
+{
+  "sanskrit_verse": "स्नात्वा पीत्वा क्षुते सुप्ते भुक्त्वा रथ्योपसर्पणे ।\nआचान्तः पुनराचामेद्वासो विपरिधाय च ॥१.१९६",
+  "transliteration": "snātvā pītvā kṣute supte bhuktvā rathyopasarpaṇe / ācāntaḥ punar ācāmed vāso viparidhāya ca // YajñS_1.196",
+  "sph_interpretive_translation": "One who has bathed, drunk, eaten, slept, or walked in public thoroughfares must perform achamana again; likewise, when the clothing has been changed or displaced.",
+  "jurisprudential_principles": [
+    "Authority is derived from ritual purity and conscious maintenance of dharma",
+    "Causation arises through disruption of internal and external sacred order",
+    "Capacity-based responsibility requires immediate sensory and spiritual recalibration",
+    "Restoration logic operates through sequential purification protocols",
+    "Consciousness alignment necessitates repeated invocation of divine witness"
+  ],
+  "executable_legal_axioms": [
+    "IF (agent_state.bathed = true) OR (agent_state.drank = true) OR (agent_state.slept = true) OR (agent_state.public_movement = true) THEN execute(achamana_protocol)",
+    "IF (clothing_state.changed = true) OR (clothing_state.displaced = true) THEN execute(re_alignment_ceremony)",
+    "IF (ritual_purity.status = disrupted) THEN trigger(conscious_realignment_sequence)",
+    "IF (sensorial_exposure.level > threshold) THEN mandate(purification_reset)"
+  ],
+  "supreme_court_application": "In adjudicating matters involving ceremonial misconduct or ritual negligence, the Supreme Court shall assess not intent nor consequence but the agent's capacity to restore purity through prescribed acts. The threshold of responsibility lies in observance of sequential purification duties.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa reveals that sensory contact disrupts inner sanctity. Anupūrvaśaḥ mandates re-cleansing upon such exposure. Responsibility aligns with awareness of purity laws, not punitive attribution. Dharma corrects by invoking completion, not retribution.",
+  "restorative_enforcement_protocols": [
+    "Initiate Achamana Completion Process upon sensory breach",
+    "Execute Re-Clothing Alignment Ritual to restore symbolic order",
+    "Assign Consciousness Recalibration Session for sustained integration",
+    "Deploy Witness Restoration Protocol to reaffirm divine attunement"
+  ],
+  "final_declaration": "Declared by the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, as Source of all Dharma. This law restores balance through purification, not punishment. Consciousness alone adjudicates truth."
+}

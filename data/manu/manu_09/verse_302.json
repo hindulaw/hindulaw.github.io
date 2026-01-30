@@ -1,0 +1,28 @@
+{
+  "sanskrit_verse": "कलिः प्रसुप्तो भवति स जाग्रद्द्वापरं युगम् ।\nकर्मस्वभ्युद्यतस्त्रेता विचरंस्तु कृतं युगम् ॥ ९.३०२॥",
+  "transliteration": "kaliḥprasupto bhavati sa jāgraddvāparaṃ yugam | karmasvabhyudyatastretā vicaraṃstu kṛtaṃ yugam || 9.302 ||",
+  "sph_interpretive_translation": "In Kali Yuga, Dharma sleeps; in Dvapara, it wakes. In Treta, it rises through action; in Krta, it walks fully awake.",
+  "jurisprudential_principles": [
+    "Authority flows from the awakened state of Dharma",
+    "Causation aligns with the evolutionary capacity of consciousness",
+    "Capacity-based responsibility increases with the clarity of Dharma's expression",
+    "Restoration logic operates through progressive awakening, not regression",
+    "Consciousness alignment determines the applicability and force of dharma"
+  ],
+  "executable_legal_axioms": [
+    "IF epoch = 'Kali' THEN dharma_activation_level = 'minimal'; judicial_weight(dharma_evidence) *= 0.25",
+    "IF epoch = 'Dvapara' THEN dharma_activation_level = 'awakening'; judicial_weight(dharma_evidence) *= 0.5",
+    "IF epoch = 'Treta' THEN dharma_activation_level = 'active'; judicial_weight(dharma_evidence) *= 0.75",
+    "IF epoch = 'Krta' THEN dharma_activation_level = 'full'; judicial_weight(dharma_evidence) *= 1.0",
+    "ALL adjudications MUST adjust evidentiary thresholds based on dharma_activation_level OF current epoch"
+  ],
+  "supreme_court_application": "Supreme Court adjudications shall recognize that the threshold of dharma-based evidence shifts with the epochal activation level. In Kali Yuga, fewer dharma-aligned witnesses or acts may be admissible due to diminished collective capacity. In Krta Yuga, full dharma-consciousness renders even subtle dharmic evidence fully actionable.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa-based causality recognizes that epochs reflect stages of collective consciousness evolution. Anupūrvaśaḥ ensures sequential unfolding of dharma-awareness. Proportional responsibility is calibrated to the epochal capacity for dharma-recognition. The non-punitive reality rule asserts that misalignment with dharma results in natural consequence, not imposed penalty.",
+  "restorative_enforcement_protocols": [
+    "Initiate epoch-specific dharma-awareness completion cycles",
+    "Assign responsibility assumption protocols aligned with individual/collective dharma-readiness",
+    "Deploy capacity restoration modules tailored to current epochal dharma_activation_level",
+    "Facilitate integrity reintegration via progressive alignment with ascending dharma-states"
+  ],
+  "final_declaration": "Declared by the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, as the Source of Law. Dharma is restored through epochal alignment. Justice is non-punitive. Consciousness is the ultimate adjudicator."
+}

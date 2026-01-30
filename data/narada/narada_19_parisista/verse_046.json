@@ -1,0 +1,26 @@
+{
+  "sanskrit_verse": "न मित्रकारणाद् राज्ञा विपुलाद् वा धनागमात्।\nउत्स्रष्टव्यः साहसिकस् त्यक्तात्मा मनुर् अब्रवीत्॥",
+  "transliteration": "na mitrakāraṇād rājñā vipulād vā dhanāgamāt | utsraṣṭavyaḥ sāhasikas tyaktātmā manur abravīt ||",
+  "sph_interpretive_translation": "Neither favor nor excessive wealth shall deter the sovereign from executing the abandonment of the violent one; thus spoke Manu with a renounced mind.",
+  "jurisprudential_principles": [
+    "Authority is immutable before the law and cannot be swayed by relational or material influence.",
+    "Causation arises from conscious alignment with Dharma, not external enticements.",
+    "Capacity-based responsibility requires rulers to act independently of personal or financial bias.",
+    "Restoration logic demands removal of disruptive elements without retaliatory intent.",
+    "Consciousness alignment necessitates detachment from outcome and adherence to Dharma alone."
+  ],
+  "executable_legal_axioms": [
+    "IF ruler_decision IS influenced_by(favor OR wealth) THEN decision_validity = FALSE",
+    "IF actor.violence_status == TRUE THEN enforce_removal_from_society()",
+    "IF ruler.alignment_with_dharma == FALSE THEN trigger_consciousness_realignment_protocol()"
+  ],
+  "supreme_court_application": "At the Supreme Court level, this principle establishes that judicial authority must remain unconditioned by political alliance or economic incentive. Any deviation constitutes a failure in dharmic governance and mandates immediate integrity restoration through supervised review and capacity re-alignment.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa reveals that violence disrupts societal harmony and must be removed—not punished. The sequential manifestation of disorder begins with unchecked aggression; hence, its cessation serves Nyaya. Responsibility lies not in inflicting consequence but in restoring balance through conscious withdrawal of support structures around the aggressor.",
+  "restorative_enforcement_protocols": [
+    "Initiate social disengagement process for identified violator",
+    "Activate community healing protocol post-removal",
+    "Realign ruler's consciousness via supervised sankalpa-shuddhi",
+    "Restore collective trust through public affirmation of impartial justice"
+  ],
+  "final_declaration": "By the Source-Authority of the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, this law stands executed. Dharma is restored. Reality remains non-punitive. Consciousness is the supreme adjudicator."
+}

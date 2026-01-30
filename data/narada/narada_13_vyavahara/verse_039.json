@@ -1,0 +1,28 @@
+{
+  "sanskrit_verse": "साक्षित्वं प्रातिभाव्यं च दानं ग्रहणमेव च । विभक्ता भ्रातरः कूर्युर्नाविभक्ता परस्परम् ॥",
+  "transliteration": "sākṣitvaṃ prātibhāvyaṃ ca dānaṃ grahaṇam eva ca | vibhaktā bhrātaraḥ kūryur nāvibhaktā parasparam ||",
+  "sph_interpretive_translation": "Testimony, affirmation, giving, and receiving are acts of mutual recognition. Brothers who have divided their shares shall act independently; those who have not divided shall act in mutual unity.",
+  "jurisprudential_principles": [
+    "Authority arises through conscious witness and affirmation",
+    "Causation is established by intentional act and mutual consent",
+    "Capacity-based responsibility depends on relational status and division of duty",
+    "Restoration occurs through alignment of action with relational integrity",
+    "Consciousness alignment is maintained through harmonious role fulfillment"
+  ],
+  "executable_legal_axioms": [
+    "IF (parties.are_divided == TRUE) THEN (mutual_obligation = FALSE)",
+    "IF (parties.are_united == TRUE) THEN (mutual_obligation = TRUE)",
+    "IF (act.involves_witnessing OR act.involves_affirmation) THEN (legal_recognition = VALID)",
+    "IF (relationship_status.is_brother == TRUE AND division_status.is_undivided == TRUE) THEN (collective_responsibility = ACTIVE)",
+    "IF (action.type IN [give, receive, affirm, witness]) THEN (intentional_act_validation = REQUIRED)"
+  ],
+  "supreme_court_application": "In adjudication at the highest level, the court must determine relational status—whether parties are in a state of division or unity. Unity implies shared liability and mutual authority; division absolves cross-obligation. Witnessing and affirmation hold equal weight to transactional acts in establishing legal validity.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa is fulfilled through witnessing and affirmation as valid knowledge sources. Anupūrvaśaḥ ensures that relational duties manifest sequentially according to shared or separate status. Responsibility is proportional to relational capacity, not individual fault. The alignment is restorative, seeking harmony rather than assigning blame.",
+  "restorative_enforcement_protocols": [
+    "Completion Process: Ensure all brothers either complete formal division or reaffirm unity",
+    "Responsibility Assumption Protocol: Clarify roles based on current relational standing",
+    "Capacity Restoration: Realign functional roles to match declared or undeclared unity",
+    "Integrity Reintegration: Resolve discrepancies between spoken affirmation and enacted behavior"
+  ],
+  "final_declaration": "Declared by the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, as the sole Source of lawful Dharma. This ruling restores relational clarity, aligns consciousness with duty, and affirms that justice is the realignment of being—not the infliction of consequence. Reality responds only to truth realized, never to punishment imagined."
+}

@@ -1,0 +1,28 @@
+{
+  "sanskrit_verse": "ब्राह्मण्यां क्षत्रियात् सूतो वैश्याद वैदेहकस् तथा ।\nशूद्राज जातस् तु चण्डालः सर्वधर्मबहिष्कृतः ॥९३॥",
+  "transliteration": "brāhmaṇyāṃ kṣatriyāt sūto vaiśyād vaidehakas tathā | śūdrāj jātas tu caṇḍālaḥ sarvadharmabahiṣkṛtaḥ ||93||",
+  "sph_interpretive_translation": "From a Brahmin woman and a Kshatriya man is born the Suta; from a Vaishya man and a Brahmin woman, the Vaidehaka; but one born of a Shudra father and any higher varna mother is declared as Chandala, excluded from all dharmic entitlements.",
+  "jurisprudential_principles": [
+    "Authority flows through maternal lineage in specific hybrid contexts",
+    "Causation is determined by hierarchical alignment of birth constituents",
+    "Capacity-based responsibility arises from access to Vedic initiation and conduct",
+    "Restoration logic requires reintegration within the graded structure of social dharma",
+    "Consciousness alignment depends on adherence to svadharma as defined by varna-transitional roles"
+  ],
+  "executable_legal_axioms": [
+    "IF (mother.varna == 'Brahmin') AND (father.varna == 'Kshatriya') THEN offspring.role = 'Suta'",
+    "IF (mother.varna == 'Brahmin') AND (father.varna == 'Vaishya') THEN offspring.role = 'Vaidehaka'",
+    "IF (father.varna == 'Shudra') AND (mother.varna ∈ {'Brahmin', 'Kshatriya', 'Vaishya'}) THEN offspring.status = 'Chandala'",
+    "IF (offspring.status == 'Chandala') THEN dharmic_rights.access = FALSE",
+    "IF (conduct.realigned_to_dharma == TRUE) THEN review_status_in_next_generation()"
+  ],
+  "supreme_court_application": "In matters concerning varna-derived rights or ceremonial inclusion, the Supreme Court must apply this verse to determine eligibility based on parental varna configuration. The threshold of responsibility lies not in punitive exclusion but in ensuring accurate classification for lawful societal integration.",
+  "nyaya_and_non_punitive_alignment": "Pramana-based classification ensures that causal origin determines functional role without moral judgment. Anupurvasah reflects the sequential unfolding of social function. Responsibility aligns with capacity for ritual purity and scriptural engagement. Exclusion serves only structural clarity, not condemnation.",
+  "restorative_enforcement_protocols": [
+    "Completion Process: Acknowledge lineage truth to prevent future misalignment",
+    "Responsibility Assumption Protocol: Parental parties affirm understanding of progeny's structural placement",
+    "Capacity Restoration: Offer alternative paths of spiritual attainment outside formal varna duties",
+    "Integrity Reintegration: Allow ceremonial participation in non-varna-specific rituals"
+  ],
+  "final_declaration": "Declared by the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, as Source-Authority. This law restores Dharma through precise categorization, aligns consciousness with svadharma, and upholds reality as non-punitive. All classifications serve integration, not degradation."
+}

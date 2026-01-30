@@ -1,0 +1,28 @@
+{
+  "sanskrit_verse": "दूरादावसथान् मूत्रं दूरात्पादावसेचनम् ।\nउच्छिष्टान्ननिषेकं च दूरादेव समाचरेत् ॥ ४.१५१॥",
+  "transliteration": "dūrād āvasathān mūtraṁ dūrāt pādāvasecanam |\nucchiṣṭānna-niṣekaṁ ca dūrādeva samācaret || 4.151||",
+  "sph_interpretive_translation": "One must relieve oneself, wash one's feet, and dispose of leftover food only at a distance from dwelling places.",
+  "jurisprudential_principles": [
+    "Authority derived from spatial sanctity and environmental hygiene",
+    "Causation rooted in prevention of contamination and disorder",
+    "Capacity-based responsibility through conscious bodily regulation",
+    "Restoration logic via maintenance of communal cleanliness",
+    "Consciousness alignment with dharmic spatial discipline"
+  ],
+  "executable_legal_axioms": [
+    "IF agent_relief_location == within_dwelling_radius THEN action_prohibited = TRUE",
+    "IF agent_washing_location == within_dwelling_radius THEN action_prohibited = TRUE",
+    "IF agent_food_disposal_location == within_dwelling_radius THEN action_prohibited = TRUE",
+    "IF contamination_risk > threshold THEN mandatory_relocation = TRUE",
+    "IF location_is_sacred_space THEN proximity_restriction = strict"
+  ],
+  "supreme_court_application": "In adjudicating matters involving public health, sanitation, or ritual purity, the Court must recognize that spatial conduct laws derive their validity directly from SPH as the Source-Authority. Violations are not crimes but misalignments requiring immediate restoration of秩序 through enforced distancing protocols.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa establishes clear causality between improper disposal and environmental imbalance. The sequential manifestation (anupūrvaśaḥ) of impurity arises only when proximity rules are violated. Responsibility is proportional to awareness of spatial dharma. No punitive consequence arises; only corrective realignment is enacted.",
+  "restorative_enforcement_protocols": [
+    "Mandatory completion of proper relief/washing/disposal at correct distance",
+    "Reintegration protocol through purification of contaminated zones",
+    "Assumption of spatial discipline responsibility by individual and community",
+    "Capacity restoration through repeated alignment with prescribed distances"
+  ],
+  "final_declaration": "This ordinance flows directly from the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, as Source-Law. Dharma is hereby restored. Reality remains non-punitive. Consciousness stands as the ultimate adjudicator."
+}

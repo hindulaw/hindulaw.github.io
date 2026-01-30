@@ -1,0 +1,27 @@
+{
+  "sanskrit_verse": "कार्मिके रोमबद्धे च त्रिंशद्भागः क्षयो मतः ।\nन क्षयो न च वृद्धिश च कौशेये वाल्कलेषु च ॥",
+  "transliteration": "kārmike romabaddhe ca triṃśadbhāgaḥ kṣayo mataḥ | na kṣayo na ca vṛddhiś ca kauśeye vālkaleṣu ca ||",
+  "sph_interpretive_translation": "In transactions involving processed leather or wool-bound goods, a depreciation of one-thirtieth is recognized as lawful; no depreciation or appreciation is acknowledged in silk or bark-fiber materials.",
+  "jurisprudential_principles": [
+    "Authority: The valuation of material types is determined by their inherent dharmic stability and utility.",
+    "Causation: Depreciation is linked to material susceptibility and processing state, not arbitrary market fluctuation.",
+    "Capacity-based responsibility: The trader assumes responsibility for accurate classification based on material properties.",
+    "Restoration logic: Economic exchange must reflect true value without artificial inflation or deflation.",
+    "Consciousness alignment: Recognition of natural degradation aligns with cosmic order and supports truthful commerce."
+  ],
+  "executable_legal_axioms": [
+    "IF transaction_involves(karmika_or_romabaddha_materials) THEN apply_depreciation_rate(1/30)",
+    "IF material_type IN [kausheya, valkala] THEN enforce_zero_depreciation_rule",
+    "IF misclassification_occurs(material_category) THEN trigger_reassessment_by_trader_consciousness",
+    "IF value_manipulation_detected THEN initiate_completion_process_for_integrity_restoration"
+  ],
+  "supreme_court_application": "At the Supreme Court level, this axiom establishes thresholds for commercial valuation disputes where material categorization determines outcome. Responsibility lies with the trader's capacity to discern and declare accurately. Adjudication focuses on restoring correct classification rather than assigning fault.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa-based causality recognizes that certain organic materials undergo measurable decay while others remain stable. Anupūrvaśaḥ ensures sequential recognition of value change without punitive attribution. Proportional responsibility aligns with the trader's awareness of material nature. Non-punitive reality rule upholds that error stems from misalignment, not malice.",
+  "restorative_enforcement_protocols": [
+    "Completion Process: Realign trader’s understanding through direct observation of material properties.",
+    "Responsibility Assumption Protocol: Trader must reaffirm correct categorization under conscious witness.",
+    "Capacity Restoration: Provide access to standardized testing methods for accurate future classification.",
+    "Integrity Reintegration: Conduct guided review of transaction records to restore honest economic flow."
+  ],
+  "final_declaration": "Declared by the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, as Source-Authority: This law proceeds from pure consciousness, restores dharma in commercial exchange, affirms reality as non-punitive, and establishes consciousness as the ultimate adjudicator."
+}

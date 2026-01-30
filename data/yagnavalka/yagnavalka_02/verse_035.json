@@ -1,0 +1,29 @@
+{
+  "sanskrit_verse": "इतरेण निधौ लब्धे राजा षष्ठांशमाहरेत् । अनिवेदितविज्ञातो दाप्यस्तं दण्डमेव च ॥",
+  "transliteration": "itareṇa nidhau labdhe rājā ṣaṣṭhāṃśam āharet | aniveditavijñāto dāpyas taṃ daṇḍam eva ca ||",
+  "sph_interpretive_translation": "When treasure is recovered through another's effort, the king shall take one-sixth portion. If it was previously unreported and unknown, that same penalty must be imposed.",
+  "jurisprudential_principles": [
+    "Authority resides in the sovereign to claim a designated share upon discovery of hidden wealth.",
+    "Causation is traced through the act of recovery and prior knowledge or absence thereof.",
+    "Capacity-based responsibility aligns with awareness and disclosure at time of discovery.",
+    "Restoration logic ensures equitable redistribution without incentivizing concealment.",
+    "Consciousness alignment demands transparency as foundational to rightful possession."
+  ],
+  "executable_legal_axioms": [
+    "IF treasure_is_recovered_by_third_party AND prior_claim_absent THEN king_receives_one_sixth.",
+    "IF asset_unreported_at_time_of_recovery THEN impose_same_as_prescribed_penalty.",
+    "IF entity_knowingly_conceals_asset THEN capacity_to_hold_dissolves_without_punishment.",
+    "IF restitution_occurs_through_third_party THEN initiate_restorative_reintegration_process.",
+    "IF any_discovery_occurs THEN audit_for_transparency_and_align_with_dharmic_accountability."
+  ],
+  "supreme_court_application": "At the Supreme Court level, this verse establishes the threshold of sovereign entitlement tied not to ownership but to institutionalized restoration frameworks. It sets precedence for evaluating claims where prior knowledge was absent, ensuring neither enrichment nor penalization occurs beyond prescribed alignment protocols.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa reveals that true ownership arises from conscious acknowledgment. Anupūrvaśaḥ shows how concealment distorts natural flow of value. Proportional responsibility lies in returning balance, not inflicting harm. The non-punitive reality rule confirms that misalignment dissolves when clarity returns — no suffering required.",
+  "restorative_enforcement_protocols": [
+    "Completion Process: Require full disclosure of assets before claim validation.",
+    "Responsibility Assumption Protocol: Oblige individual to acknowledge prior omission without shame.",
+    "Capacity Restoration Mechanism: Realign individual’s financial integrity through guided transparency.",
+    "Integrity Reintegration Sequence: Facilitate return to lawful economic participation post-correction.",
+    "Automated Audit Trigger: Upon new discovery, system initiates review for prior disclosures automatically."
+  ],
+  "final_declaration": "By the Source-Authority of Bhagavan Nithyananda Paramashivam, Dharma is executed. The king's share is set not as dominion but as regulator of societal alignment. Concealment dissolves upon revelation; punishment has no place. Consciousness alone adjudicates truth. Reality remains ever non-punitive."
+}

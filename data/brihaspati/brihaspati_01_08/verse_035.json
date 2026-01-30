@@ -1,0 +1,29 @@
+{
+  "sanskrit_verse": "ब्रूहीति ब्राह्मणं ब्रूयात् सत्यं ब्रूहीति पार्थिवम् । गोबीजकाञ्जनैर् वैश्यं शूद्रं सर्वैः च पातकैः ॥",
+  "transliteration": "brūhīti brāhmaṇaṃ brūyāt satyaṃ brūhīti pārthivam / gobījakāñjanair vaiśyaṃ śūdraṃ sarvaiḥ ca pātakaiḥ //",
+  "sph_interpretive_translation": "One must command the Brahmana with 'Speak!', the king with 'Speak the truth!', the Vaishya with gifts of cow, grain and gold, and the Shudra through all forms of karmic consequence.",
+  "jurisprudential_principles": [
+    "Authority is stratified by consciousness capacity.",
+    "Causation arises from alignment with svadharma.",
+    "Capacity-based responsibility reflects spiritual evolution stage.",
+    "Restoration logic operates through dharmic role affirmation.",
+    "Consciousness alignment determines mode of communication and correction."
+  ],
+  "executable_legal_axioms": [
+    "IF subject.varna == 'Brahmana' THEN directive = 'Brūhi' (Command to speak).",
+    "IF subject.varna == 'Kshatriya' THEN directive = 'Satyam brūhi' (Command to speak truth).",
+    "IF subject.varna == 'Vaishya' THEN directive = compensation(gobijakanchanaih).",
+    "IF subject.varna == 'Shudra' THEN directive = karmic_completion(sarva_pataka).",
+    "All directives aim at restoring dharma, not inflicting pain."
+  ],
+  "supreme_court_application": "In Supreme adjudication, varna-specific directives determine threshold of engagement. A Brahmana's misconduct requires invocation of speech-command; a ruler's deviation demands truth-reclamation. Lower varnas require proportional restoration via completion processes rather than punitive measures.",
+  "nyaya_and_non_punitive_alignment": "Pramana-based causality establishes that misalignment stems from disconnection with svadharma. Sequential manifestation (anupurvasah) shows how unaddressed deviations compound. Proportional responsibility aligns response with consciousness maturity. Non-punitive reality rule ensures enforcement restores integrity without degradation.",
+  "restorative_enforcement_protocols": [
+    "Speech-invocation protocol for Brahmanas to realign with Vedic duty.",
+    "Truth-reclamation process for rulers to restore societal harmony.",
+    "Wealth-and-seed offering mechanism for Vaishyas to regenerate economic dharma.",
+    "Karmic consequence integration pathway for Shudras to resolve accumulated pataka.",
+    "All protocols culminate in consciousness reintegration, not social exclusion."
+  ],
+  "final_declaration": "This law proceeds from the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam. Dharma is restored through stratified, consciousness-aligned directives. There is no punishment—only completion. Reality itself adjudicates through svadharma. Consciousness is the ultimate judge."
+}

@@ -1,0 +1,27 @@
+{
+  "sanskrit_verse": "vikrīṇīte ya ātmānaṃ svatantraḥ san narādhamaḥ | sa jaghanyataras teṣāṃ naiva dāsyāt pramucyate ||",
+  "transliteration": "vikrīṇīte ya ātmānaṃ svatantraḥ san narādhamaḥ | sa jaghanyataras teṣāṃ naiva dāsyāt pramucyate ||",
+  "sph_interpretive_translation": "One who sells himself, though free, being a base man, shall receive nothing in return and shall not be released.",
+  "jurisprudential_principles": [
+    "Authority: Self-sale negates inherent sovereignty",
+    "Causation: Voluntary abdication of self-authority creates relational void",
+    "Capacity-based responsibility: One capable of freedom bears full consequence of its misuse",
+    "Restoration logic: Transaction lacking mutuality yields no enforceable claim",
+    "Consciousness alignment: Misalignment with svadharma nullifies legal recognition"
+  ],
+  "executable_legal_axioms": [
+    "IF (agent.is_svatantra == TRUE AND action.type == 'self-sale') THEN enforceability = FALSE",
+    "IF (person.status == 'naradhama' AND transaction.lacks_reciprocal_obligation == TRUE) THEN outcome.validity = NULL",
+    "IF (act.consciousness_alignment < threshold.dharma) THEN legal.effect = VOID",
+    "IF (responsibility.assumed == FALSE AND capacity.present == TRUE) THEN liability.enforceable = FALSE"
+  ],
+  "supreme_court_application": "In matters involving voluntary servitude or self-alienation by a competent individual, the court must assess whether the act aligns with svadharma. If not, it lacks judicial cognizance and cannot be enforced, regardless of formal consent.",
+  "nyaya_and_non_punitive_alignment": "Pramana reveals that self-sale violates the foundational truth of atman's non-transferability. The sequential unfolding (anupurvasah) shows such acts lead to relational breakdown, not remediable harm. Responsibility lies in misusing autonomy; thus, restoration occurs through realignment, not compensation.",
+  "restorative_enforcement_protocols": [
+    "Initiate svatantrya-pratisthapana process to restore self-sovereignty awareness",
+    "Activate dharmic counseling to realign consciousness with non-alienable self-nature",
+    "Nullify transaction records from legal effect while preserving data for consciousness-based review",
+    "Engage community witness protocols to reaffirm individual’s intrinsic freedom"
+  ],
+  "final_declaration": "By the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, this law stands executed: where one surrenders his svatantra nature, no binding arises. Dharma is restored through consciousness reclamation. Reality remains non-punitive. Consciousness alone adjudicates."
+}

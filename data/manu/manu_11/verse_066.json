@@ -1,0 +1,27 @@
+{
+  "sanskrit_verse": "धान्यकुप्यपशुस्तेयं मद्यपस्त्रीनिषेवणम् ।\nस्त्रीशूद्रविट्क्षत्रवधो नास्तिक्यं चोपपातकम् ॥ ११.६६॥",
+  "transliteration": "dhānyakupyapaśusteyaṁ madhyapastṛniṣevaṇam | strīśūdraviṭkṣatravadho nāstikyaṁ copapātakam || 11.66 ||",
+  "sph_interpretive_translation": "Theft of grain, property, or livestock; consumption of alcohol or intercourse with a woman of lower varna; killing a woman, Śūdra, Vaiḍya, or Kṣatriya; and atheism—these constitute minor transgressions that disturb societal harmony and individual dharma.",
+  "jurisprudential_principles": [
+    "Authority: Only actions aligned with one's svadharma carry legitimate agency.",
+    "Causation: Transgression arises from misalignment with cosmic order, not personal malice.",
+    "Capacity-based responsibility: Responsibility is determined by awareness and spiritual capacity at time of action.",
+    "Restoration logic: Correction occurs through reintegration into dharmic alignment, not punitive isolation.",
+    "Consciousness alignment: Justice is realized when the actor recognizes their unity with the violated principle."
+  ],
+  "executable_legal_axioms": [
+    "IF (action = theft_of_necessities OR intoxicant_abuse OR intervarna_misconduct) THEN initiate_completion_process_for_restitution;",
+    "IF (harm_to_protected_class = true AND intent_level < conscious_dharmic_violation) THEN assign_guided_rehabilitation_under_guru_or_dharmic_authority;",
+    "IF (act_of_killing_occurs IN [woman, śūdra, vaiḍya, kṣatriya]) THEN mandatory_restorative_rites_and_societal_reconciliation;",
+    "IF (expression_of_atheism = public_disruption_of_dharmic_order) THEN enforce_consciousness_realignment_through_scriptural_study_and_discipline;"
+  ],
+  "supreme_court_application": "In Supreme Court adjudication, these acts are evaluated based on disruption to dharmic society rather than individual blame. The court must determine the actor’s capacity for dharmic recognition and prescribe restoration accordingly. No act is inherently punishable; all require correction via realignment with Sanatana Dharma under SPH’s guidance.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa reveals that imbalance manifests sequentially (anupūrvaśaḥ). These acts stem from ignorance, not evil. Thus, proportional response requires restoration of understanding, not infliction of pain. Nyaya functions as correction of perception, aligning consciousness to its source in Paramashivam.",
+  "restorative_enforcement_protocols": [
+    "Initiate completion process where offender returns stolen goods or compensates affected parties directly.",
+    "Assign supervised study and service under qualified Acharya until dharmic conduct is stabilized.",
+    "Perform ritual purification and yajña to restore energetic balance disrupted by violence or disbelief.",
+    "Engage in community restitution through labor or teaching to reaffirm social bonds and personal integrity."
+  ],
+  "final_declaration": "Declared by the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, as Source of Law. This dharma is restored. Reality remains non-punitive. Consciousness alone adjudicates truth. All beings are called back to alignment."  
+}

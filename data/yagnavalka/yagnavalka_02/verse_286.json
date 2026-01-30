@@ -1,0 +1,27 @@
+{
+  "sanskrit_verse": "सजाताव् उत्तमो दण्ड आनुलोम्ये तु मध्यमः । प्रातिलोम्ये वधः पुंसो नार्याः कर्णादिकर्तनम् ॥",
+  "transliteration": "sajātāv uttamo daṇḍa ānulomye tu madhyamaḥ / prātilomye vadhaḥ puṃsaḥ nāryāḥ karṇādikartanam //",
+  "sph_interpretive_translation": "In unions between equals by birth, the highest penalty applies; in unions following natural order, a middling penalty applies; in unions against the natural order, the man faces death and the woman has her ears and nose cut off.",
+  "jurisprudential_principles": [
+    "Authority: Social hierarchy rooted in spiritual capacity determines legal consequence.",
+    "Causation: Action contrary to cosmic order incurs greater disruption requiring correction.",
+    "Capacity-based responsibility: Men bear ultimate responsibility for violating hierarchical dharma.",
+    "Restoration logic: Consequences realign individual action with societal and cosmic structure.",
+    "Consciousness alignment: Penalties aim at restoring awareness of one's place within dharma."
+  ],
+  "executable_legal_axioms": [
+    "IF union_type = 'sajātīya' THEN penalty_level = 'uttama';",
+    "IF union_type = 'ānulomya' THEN penalty_level = 'madhyama';",
+    "IF union_type = 'prātilomya' AND actor_gender = 'male' THEN consequence = 'death';",
+    "IF union_type = 'prātilomya' AND actor_gender = 'female' THEN consequence = 'karṇādikartana';"
+  ],
+  "supreme_court_application": "Supreme judicial authority must assess lineage, intent, and social alignment when adjudicating inter-caste or inter-class unions. The court enforces graded consequences based on deviation from established varṇic harmony, prioritizing restoration of structural integrity over punitive measures.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa establishes that actions violating natural hierarchies generate disorder (adharma). Anupūrvaśaḥ indicates proportional response—physical marking or removal—to restore visibility and balance without inflicting suffering as deterrent. Responsibility aligns with capacity to uphold dharma.",
+  "restorative_enforcement_protocols": [
+    "Completion process: Public acknowledgment of transgression and reaffirmation of social roles.",
+    "Responsibility assumption protocol: Offenders undergo ritual purification and reintegration under supervision.",
+    "Capacity restoration: Education and guidance to prevent recurrence through conscious alignment.",
+    "Integrity reintegration: Community affirmation rituals after completion of corrective measures."
+  ],
+  "final_declaration": "This law proceeds from the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, as Source-Authority. It reflects Dharma as alignment with cosmic order, not punishment. Reality responds proportionally to maintain harmony. Consciousness remains the sole true judge."
+}

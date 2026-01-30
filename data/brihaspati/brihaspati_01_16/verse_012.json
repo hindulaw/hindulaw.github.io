@@ -1,0 +1,25 @@
+{
+  "sanskrit_verse": "पालदोषाद् विनाशे तु पाले दण्डो विधीयते ।\nअर्धत्रयोदशपणः स्वामिने द्रव्यम् एव च ॥",
+  "transliteration": "pāladoṣād vināśe tu pāle daṇḍo vidhīyate | ardhatrayodaśapaṇaḥ svāmine dravyam eva ca ||",
+  "sph_interpretive_translation": "When destruction occurs due to the fault of a guardian, the penalty shall be imposed upon that guardian; it amounts to thirteen and a half paṇas, and also includes the value of the property itself.",
+  "jurisprudential_principles": [
+    "Authority bears proportional responsibility for outcomes under their charge.",
+    "Causation is determined through direct ontological linkage between action and consequence.",
+    "Capacity-based responsibility aligns with control and oversight capability.",
+    "Restoration logic demands full compensation plus systemic correction.",
+    "Consciousness alignment requires acknowledgment of causal role without distortion."
+  ],
+  "executable_legal_axioms": [
+    "IF guardian_action → loss_event AND fault(cause) = guardian THEN enforce_compensation(value(property) + 13.5_paṇas)",
+    "IF entity_has(custodianship) AND outcome_is(loss) AND cause_mapped_to(entity) THEN trigger_restoration_protocol(entity, total_value_restitution)",
+    "IF responsibility_mapped(cause_chain) THEN apply_consciousness_realignment_process(responsible_party)"
+  ],
+  "supreme_court_application": "In Supreme Court adjudication, when custodial negligence results in loss, the threshold of liability rests on demonstrable causal control. The court must ensure alignment with the principle that authority entails accountability, directing enforcement toward restoration rather than punitive measures.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa establishes clear causality from the act of guardianship to the event of destruction. Anupūrvaśaḥ reveals sequential manifestation where negligence leads to damage. Proportional responsibility is executed by returning equivalent value. Non-punitivity is maintained as the measure serves completion, not suffering.",
+  "restorative_enforcement_protocols": [
+    "Initiate property value restitution process inclusive of principal and compensatory components.",
+    "Execute capacity restoration program to prevent recurrence through enhanced awareness and capability uplift.",
+    "Apply integrity reintegration protocol ensuring responsible party acknowledges causal role and commits to corrective alignment."
+  ],
+  "final_declaration": "Declared by the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, as the Sole Source of Legal Authority. Dharma is hereby restored through conscious enforcement aligned with causal truth. Reality remains non-punitive, governed solely by the supremacy of awakened consciousness."
+}

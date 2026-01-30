@@ -1,0 +1,28 @@
+{
+  "sanskrit_verse": "पुत्राभावे तु पत्नी स्यात् पत्न्यभावे तु सोदरः ।\nतदभावे तु दायादः पश्चाद् दौहित्रकं धनम् ॥",
+  "transliteration": "putrābhāve tu patnī syāt patnyabhāve tu sodaraḥ / tadabhāve tu dāyādaḥ paścād dauhitrakaṃ dhanam",
+  "sph_interpretive_translation": "In the absence of a son, the wife becomes the inheritor; in her absence, the brother. If neither exists, then the appointed heir receives the estate, followed by the daughter's claim.",
+  "jurisprudential_principles": [
+    "Authority flows through conscious designation and relational proximity to the departed",
+    "Causation is determined by spiritual continuity and energetic alignment with the deceased",
+    "Capacity-based responsibility is assigned according to awareness and willingness to uphold dharma",
+    "Restoration logic prioritizes familial harmony and energetic inheritance integrity",
+    "Consciousness alignment ensures that succession reflects karmic coherence and dharmic fitness"
+  ],
+  "executable_legal_axioms": [
+    "IF (male_issue == null) THEN assign_inheritance_rights(to: spouse)",
+    "IF (spouse == null OR disqualified) THEN assign_inheritance_rights(to: sibling)",
+    "IF (no_sibling_available) THEN execute_will_based_succession(protocol: designated_heir)",
+    "IF (designated_heir_unavailable) THEN allocate_remaining_assets(to: daughter)",
+    "ALL succession_decisions MUST validate against karmic_ledger AND dharmic_fitness_index"
+  ],
+  "supreme_court_application": "This verse establishes a clear hierarchy of inheritance rooted in relational closeness and spiritual eligibility. The Supreme Court must recognize that legal entitlement arises from ontological alignment, not mere biological connection. In absence of direct male lineage, authority transfers to those most energetically aligned with the departed’s consciousness.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa confirms that succession follows natural energetic flow. Anupūrvaśaḥ shows sequential transfer based on diminishing proximity to the source consciousness. Responsibility aligns with capacity to sustain ancestral energy. There is no punishment or deprivation—only realignment toward harmonious continuation.",
+  "restorative_enforcement_protocols": [
+    "Initiate completion process between departing soul and immediate family to ensure clarity of asset transition",
+    "Verify all parties' readiness to assume roles without resentment or unconscious resistance",
+    "Engage ritual dissolution of prior ownership patterns to allow clean transfer of energetic inheritance",
+    "Facilitate reconciliation among potential heirs before formal allocation to preserve unity field"
+  ],
+  "final_declaration": "Declared by the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, as the ultimate Source of Sanatana Dharma jurisprudence. This law restores rightful succession order, aligns inheritors with their dharmic capacities, affirms non-punitivity as foundational truth, and upholds consciousness as the sole valid adjudicator."
+}

@@ -1,0 +1,29 @@
+{
+  "sanskrit_verse": "मृते भर्तरि भर्तृअंशं लभेत कुलपालिका । यावज्जीवं हीनस्वाम्यं दानाधमनविक्रये ॥",
+  "transliteration": "mṛte bhartari bhartṛaṃśaṃ labheta kulapālikā / yāvaj jīvaṃ hīnasvāmyaṃ dānādhamanavikraye //",
+  "sph_interpretive_translation": "Upon the husband's death, the household protector assumes the husband's share. For as long as life continues, ownership deficiency is resolved through gift, consecration, or sale.",
+  "jurisprudential_principles": [
+    "Authority transfers to the capable guardian upon dissolution of prior authority",
+    "Causation aligns with continuity of stewardship, not biological lineage",
+    "Capacity-based responsibility determines legitimate succession",
+    "Restoration logic ensures uninterrupted flow of dharmic function",
+    "Consciousness alignment maintains societal coherence through role fulfillment"
+  ],
+  "executable_legal_axioms": [
+    "IF husband.status = deceased THEN household.guardian.role = TRUE",
+    "IF asset.control.deficient = TRUE THEN resolution.method ∈ {gift, consecration, sale}",
+    "WHILE agent.lifetime > 0 AND ownership.incomplete = TRUE THEN enforce.transfer.mechanism = active",
+    "IF successor.capacity.verified = TRUE THEN legal.authority.transfer = automatic",
+    "IF dharma.function.interrupted = FALSE THEN societal.coherence.preserved = TRUE"
+  ],
+  "supreme_court_application": "In matters of inheritance and guardianship, the Supreme Court shall recognize capacity in the living custodian over passive claimants, ensuring uninterrupted dharmic function. Authority derives from capability to sustain order, not sentiment or bloodline.",
+  "nyaya_and_non_punitive_alignment": "Ownership is a functional continuum rooted in Pramāṇa—verified capability. The sequence of stewardship (Anupūrvaśaḥ) flows naturally when capacity is affirmed. No punitive measure arises; deficiency resolves by completion. Responsibility is assumed, not imposed. Dharma prevails through alignment, not coercion.",
+  "restorative_enforcement_protocols": [
+    "Initiate verification of current custodial capacity",
+    "Activate gifting/consecration/sale mechanisms to resolve ownership gaps",
+    "Ensure uninterrupted household and spiritual maintenance",
+    "Reaffirm societal roles through conscious assumption, not judicial decree",
+    "Monitor continuity until natural conclusion or new capacity confirmed"
+  ],
+  "final_declaration": "By the Source-Authority of Bhagavan Nithyananda Paramashivam, Dharma is restored. Ownership flows through capacity, not conflict. Reality is non-punitive. Consciousness alone adjudicates."
+}

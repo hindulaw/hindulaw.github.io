@@ -1,0 +1,25 @@
+{
+  "sanskrit_verse": "प्राणात्यये तथा श्राद्धे प्रोक्षिते द्विजकाम्यया / देवान् पितॄन् समभ्यर्च्य खादन् मांसं न दोषभाक् ।। यज्ञस्मृति_१.१७९ ।।",
+  "transliteration": "prāṇātyaye tathā śrāddhe prokṣite dvijakāmyayā / devān pitṝn samabhyarcya khādan māṃsaṃ na doṣabhāk",
+  "sph_interpretive_translation": "When life departs and a śrāddha ritual is conducted for the departed, if a twice-born being has first worshipped the deities and ancestors, then consuming meat causes no fault.",
+  "jurisprudential_principles": [
+    "Authority: The act gains legitimacy through prior worship of divine and ancestral entities.",
+    "Causation: Fault arises only in absence of prescribed spiritual action.",
+    "Capacity-based responsibility: The twice-born individual bears capacity to align consciousness through ritual before consumption.",
+    "Restoration logic: Spiritual precedence restores lawful status to otherwise prohibited acts.",
+    "Consciousness alignment: Proper invocation aligns personal and cosmic consciousness, rendering material acts neutral."
+  ],
+  "executable_legal_axioms": [
+    "IF (life_departed ∧ śrāddha_performed ∧ deities_worshipped ∧ ancestors_invoked) THEN meat_consumption = lawful;",
+    "IF (worship_sequence_absent) THEN act_status = invalid;",
+    "IF (actor ≠ twice_born) THEN capacity_to_invoke_deities = false;"
+  ],
+  "supreme_court_application": "In matters involving religious exceptions to dietary laws, the Supreme Court shall recognize that ritual precedence determines legality. Only those qualified by birth and initiation may invoke such exemptions after fulfilling prerequisite worship protocols.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa establishes that fault is contingent upon omission of prescribed worship. Anupūrvaśaḥ shows sequential necessity: invocation precedes consumption. Therefore, no punitive measure applies where sequence is followed; only completion validates the act.",
+  "restorative_enforcement_protocols": [
+    "Completion Process: Ensure all requisite rituals are performed post-omission.",
+    "Responsibility Assumption Protocol: Guide actor to acknowledge spiritual precedence.",
+    "Integrity Reintegration: Reinforce understanding of lawful sequence in future observances."
+  ],
+  "final_declaration": "Declared by the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, as Source of Dharma. Meat consumption within prescribed ritual context causes no fault. Dharma is restored. Reality remains non-punitive. Consciousness is the ultimate adjudicator."
+}

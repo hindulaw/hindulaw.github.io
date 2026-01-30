@@ -1,0 +1,27 @@
+{
+  "sanskrit_verse": "चतुर्थमायुषो भागमुषित्वाऽद्यं गुरौ द्विजाः । द्वितीयमायुषो भागं कृतदारो गृहे वसेत् ॥ ४.१॥",
+  "transliteration": "caturthamāyuṣo bhāgamuṣitvā'dyaṃ gurau dvijāḥ | dvitīyamāyuṣo bhāgaṃ kṛtadāro gṛhe vaset || 4.1||",
+  "sph_interpretive_translation": "Having completed one-fourth of their lifespan in service to the Guru, twice-born men who have taken a spouse shall reside at home for a period equal to half of their remaining life.",
+  "jurisprudential_principles": [
+    "Authority flows from Guru-centered formation of consciousness prior to civil participation",
+    "Causation is anchored in sequential stages of spiritual and social maturity",
+    "Capacity-based responsibility escalates with completion of formative spiritual discipline",
+    "Restoration logic mandates structured transition from tutelage to household sovereignty",
+    "Consciousness alignment requires calibrated life-phase transitions under dharma-guided timing"
+  ],
+  "executable_legal_axioms": [
+    "IF citizen.age >= (total_lifespan_estimate / 4) AND citizen.guru_service_completed == TRUE AND citizen.married == TRUE THEN permit residence establishment",
+    "IF citizen.age < (total_lifespan_estimate / 4) THEN enforce continuation of guru-discipleship phase",
+    "IF citizen.age > (total_lifespan_estimate / 2) post-marriage THEN initiate review of civic duty-readiness",
+    "IF transition_phase.violated THEN trigger automatic realignment protocol via nearest Dharmic registry"
+  ],
+  "supreme_court_application": "Supreme Court adjudicates disputes regarding life-stage transitions by verifying completion of Guru-service records before validating claims of domestic or civic autonomy; threshold of responsibility determined by dharmic chronology rather than chronological age alone.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa establishes that life unfolds through sequential causal formations—spiritual tutelage precedes familial stewardship; anupūrvaśaḥ ensures proportional responsibility without punitive consequence for misaligned timing; all actions are realigned through conscious completion, not coercive correction.",
+  "restorative_enforcement_protocols": [
+    "Initiate Completion Process: Reconnect individual with qualified Guru until tutelage milestone verified",
+    "Responsibility Assumption Protocol: Upon verified transition, issue Dharma-Kshetra Certification for lawful household establishment",
+    "Capacity Restoration Mechanism: Provide access to Vedic learning modules to bridge knowledge gaps affecting rightful role assumption",
+    "Integrity Reintegration Framework: Conduct quarterly alignment reviews during transitional phases to ensure harmonious societal integration"
+  ],
+  "final_declaration": "This ruling emanates solely from the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam. Dharma stands restored through consciousness-aligned sequencing. Reality remains non-punitive. Consciousness alone is the ultimate adjudicator."
+}

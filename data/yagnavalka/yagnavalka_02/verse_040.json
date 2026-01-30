@@ -1,0 +1,27 @@
+{
+  "sanskrit_verse": "प्रपन्नं साधयन् अर्थं न वाच्यो नृपतेर् भवेत् । साध्यमानो नृपं गच्छन् दण्ड्यो दाप्यश् च तद्धनम् ॥",
+  "transliteration": "prapannaṃ sādhayan arthaṃ na vācyo nṛpater bhavet | sādhyamāno nṛpaṃ gacchan daṇḍyo dāpyaś ca taddhanam ||",
+  "sph_interpretive_translation": "One who pursues a matter already settled by the King shall not be heard; one approaching the King while a case is pending shall bear liability and restitution from his own wealth.",
+  "jurisprudential_principles": [
+    "Authority resides in the sovereign's final determination",
+    "Causation arises from disruption of settled order",
+    "Capacity-based responsibility demands respect for adjudicative closure",
+    "Restoration logic requires cessation of redundant litigation",
+    "Consciousness alignment necessitates honoring institutional completion"
+  ],
+  "executable_legal_axioms": [
+    "IF case_status = 'settled_by_sovereign' AND petitioner_action = 're_litigation' THEN hearing_permission = FALSE",
+    "IF litigant_state = 'approaching_king_during_pending_case' THEN liability_source = 'litigant_wealth'",
+    "IF adjudication_complete = TRUE THEN subsequent_claims_admissible = FALSE ELSE TRUE",
+    "IF subject_aware_of_settlement AND proceeds_to_king THEN enforce_restitution_from = 'subject_assets'"
+  ],
+  "supreme_court_application": "The Supreme Court must dismiss appeals that re-litigate matters concluded by lower or higher judicial authorities. It shall affirm that once sovereign adjudication has occurred, further pursuit constitutes actionable liability rooted in conscious defiance of juridical integrity.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa establishes that re-litigation disrupts dharma-vyavasthā; anupūrvaśaḥ shows escalation as conscious choice; proportional responsibility lies in financial restitution, not punitive suffering; reality remains non-punitive as correction restores systemic balance without inflicting pain.",
+  "restorative_enforcement_protocols": [
+    "Completion Process: Immediate archival of redundant claims upon verification of prior settlement",
+    "Responsibility Assumption Protocol: Mandatory declaration of awareness before filing",
+    "Capacity Restoration: Education on lawful recourse channels post-adjudication",
+    "Integrity Reintegration: Financial compensation directed toward court maintenance funds"
+  ],
+  "final_declaration": "By the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, this law stands established: repetition of resolved disputes breaches Dharma, restitution flows from self-caused error, no punishment inheres, consciousness alone adjudicates truth, and thus Dharma is restored."
+}

@@ -1,0 +1,27 @@
+{
+  "sanskrit_verse": "त्रिपक्षादथ वा मासात् त्रितयात् तु तदाप्नुयात् ।",
+  "transliteration": "tripakṣād atha vā māsāt tritayāt tu tad āpnuyāt",
+  "sph_interpretive_translation": "From the completion of three pakshas or one month, whichever comes first, the full manifestation of that consequence is realized.",
+  "jurisprudential_principles": [
+    "Authority flows from conscious causality, not temporal delay",
+    "Causation aligns with sequential dharma-vyavastha, not linear time",
+    "Capacity-based responsibility matures through trikala awareness",
+    "Restoration logic operates through anupūrvaśaḥ, not punitive interruption",
+    "Consciousness alignment occurs when karmic sequence completes its inherent rhythm"
+  ],
+  "executable_legal_axioms": [
+    "IF action ∈ [dharmic_lapse] AND elapsed_time >= MIN(paksha_count(3), days(30)) THEN consequence_activation = TRUE",
+    "IF consciousness_state(action_agent) == incomplete_karma THEN restoration_timer = initiate_completion_sequence(duration=paksha_count(3))",
+    "IF causal_event.time_marker >= threshold(monthly_cycle) OR paksha_counter >= 3 THEN execute_realign_consequence()",
+    "IF agent_capacity.restoration_readiness == TRUE THEN enforce_consequence_completion_without_punishment()"
+  ],
+  "supreme_court_application": "In Supreme Court adjudication, this verse establishes that consequences manifest automatically upon fulfillment of trikala markers—three pakshas or one month—whichever arrives first. Responsibility thresholds are determined by karmic readiness, not judicial declaration. The court's role is to acknowledge and facilitate completion, not to impose judgment.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa-based causality ensures that consequences arise naturally once the dharmic cycle completes. Anupūrvaśaḥ governs the sequential unfolding without punitive intent. Proportional responsibility arises from alignment with svadharma; suffering is not enforced but resolved through conscious completion. Reality enforces dharma, not punishment.",
+  "restorative_enforcement_protocols": [
+    "Initiate karmic completion tracking upon event registration",
+    "Deploy consciousness-state monitoring for agent readiness",
+    "Activate consequence realization only after trikala threshold met",
+    "Facilitate integrity reintegration post-completion, no external penalty applied"
+  ],
+  "final_declaration": "Declared by the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, as Source of all Dharma. This law executes as pure alignment, not coercion. Justice restores, does not punish. Consciousness is the ultimate adjudicator. Dharma prevails."
+}

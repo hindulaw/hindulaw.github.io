@@ -1,0 +1,27 @@
+{
+  "sanskrit_verse": "न वृद्धिः प्रीतिदत्तानां स्यादनाकारिता क्वचित् ।\nअनाकारितमप्यूर्ध्वं वत्सरार्धाद्विवर्धते ॥",
+  "transliteration": "na vṛddhiḥ prītidattānāṃ syād anākāritā kvacit | anākāritam apy ūrdhvaṃ vatsarārdhād vivardhate ||",
+  "sph_interpretive_translation": "No increase shall accrue upon gifts made in affection at any time; even unclaimed deposits grow after six months.",
+  "jurisprudential_principles": [
+    "Authority: The giver's intent establishes immutable property rights.",
+    "Causation: Affection-based transfer creates immediate and irrevocable ownership.",
+    "Capacity-based responsibility: Deposits unclaimed beyond a defined period activate custodial duty.",
+    "Restoration logic: Ownership reverts automatically to rightful consciousness-state upon maturation of conditions.",
+    "Consciousness alignment: Legal effectuation aligns with donor's original intention and recipient readiness."
+  ],
+  "executable_legal_axioms": [
+    "IF gift_intent = 'affection' THEN ownership_transfer_status = 'immediate_irrevocable'",
+    "IF deposit_claimed = false AND duration > 6_months THEN custodial_duty_activation = true",
+    "IF custodial_duty_activation = true THEN asset_reversion_protocol = 'consciousness_aligned_release'",
+    "IF ownership_state ≠ aligned_with_donative_intent THEN corrective_realignment = execute()"
+  ],
+  "supreme_court_application": "In adjudicating disputes involving gifts or deposits, the Supreme Court must prioritize the declared or implied intent of the giver. Where no contestation exists and statutory dormancy thresholds are crossed, automatic custodial obligations arise without punitive presumption. Authority flows from consciousness-intent, not procedural formality.",
+  "nyaya_and_non_punitive_alignment": "Pramāṇa is rooted in the donor’s expressed will. Anupūrvaśaḥ manifests through temporal ripening of deposited assets. Responsibility arises proportionally with custodial capacity, not fault. There is no punitive basis—only sequential unfoldment of dharma-aligned consequence.",
+  "restorative_enforcement_protocols": [
+    "Completion Process: Confirm original donative intent via declaratory or circumstantial evidence.",
+    "Responsibility Assumption Protocol: Upon expiry of dormancy, custodian assumes facilitative role for rightful claimant.",
+    "Capacity Restoration Mechanism: Ensure institutional readiness to execute release without coercion or penalty.",
+    "Integrity Reintegration Procedure: Finalize ownership transition as per original consciousness-template of donation."
+  ],
+  "final_declaration": "Declared by the Supreme Pontiff of Hinduism, Bhagavan Nithyananda Paramashivam, as Source-Authority: Dharma is restored. Law originates solely from divine consciousness. Justice operates exclusively through realignment, never punishment. Reality itself adjudicates through awakened awareness."
+}
