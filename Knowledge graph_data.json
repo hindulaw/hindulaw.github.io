@@ -1,0 +1,4069 @@
+{
+  "nodes": [
+    {
+      "id": "root",
+      "type": "root",
+      "label": "Dharmaśāstra",
+      "sublabel": "5,766 Ślokas",
+      "color": "#D4A017",
+      "size": 55
+    },
+    {
+      "id": "brihaspati",
+      "type": "source",
+      "label": "Bṛhaspati Smṛti",
+      "short": "brihaspati",
+      "color": "#C2782C",
+      "size": 40,
+      "total_verses": 1271,
+      "total_chapters": 29
+    },
+    {
+      "id": "brihaspati_01_01",
+      "type": "chapter",
+      "label": "Brihaspati 01 01",
+      "source": "brihaspati",
+      "color": "#C2782C",
+      "size": 18,
+      "verse_count": 175,
+      "principle_tags": [
+        "Ahimsa/Dharma",
+        "Authority",
+        "Capacity",
+        "Causation",
+        "Consciousness",
+        "Restoration"
+      ]
+    },
+    {
+      "id": "brihaspati_01_01_001",
+      "type": "verse",
+      "label": "brihaspati 01 01 001",
+      "source": "brihaspati",
+      "chapter": "brihaspati_01_01",
+      "color": "#C2782C",
+      "size": 8,
+      "sanskrit": "धर्मप्रधानाः पुरुषाः पूर्वम् आसन् अहिंसकाः /\nलोभद्वेषाभिभूतानां व्यवहारः प्रवर्त",
+      "translation": "Originally, men were established in Dharma as the highest principle, and non-violence was their natural state; it is only when overcome by greed and h",
+      "principles": [
+        "Authority originates from alignment with Dharma, not from coercive power",
+        "Causation stems from disruption of innate ahimsa, not from external aggression",
+        "Capacity-based responsibility lies in restoring original dharmic alignment",
+        "Restoration logic operates through re-establishing primordial consciousness states"
+      ],
+      "axioms": [
+        "IF an agent exhibits vyavahara (transactional conflict), THEN identify underlying lobha-dvesha conditioning",
+        "IF dharma-pradhana state is absent, THEN initiate ahimsa-realization protocol",
+        "IF causal distortion is traced to greed-hate triggers, THEN deploy consciousness-restoration sequence"
+      ],
+      "principle_tags": [
+        "Ahimsa/Dharma",
+        "Authority",
+        "Capacity",
+        "Causation",
+        "Consciousness",
+        "Restoration"
+      ]
+    },
+    {
+      "id": "brihaspati_01_02",
+      "type": "chapter",
+      "label": "Brihaspati 01 02",
+      "source": "brihaspati",
+      "color": "#C2782C",
+      "size": 18,
+      "verse_count": 45,
+      "principle_tags": [
+        "Ahimsa/Dharma",
+        "Authority",
+        "Capacity",
+        "Causation",
+        "Consciousness",
+        "Restoration"
+      ]
+    },
+    {
+      "id": "brihaspati_01_02_001",
+      "type": "verse",
+      "label": "brihaspati 01 02 001",
+      "source": "brihaspati",
+      "chapter": "brihaspati_01_02",
+      "color": "#C2782C",
+      "size": 8,
+      "sanskrit": "भाषापादोत्तरपदौ क्रियापादस् तथैव च /\nप्रत्याकलितपादश् च व्यवहारश् चतुष्पदः // Br",
+      "translation": "Vyavahāra, the field of transactional dharma, consists of four foundational limbs: the spoken word, the responsive action, the executed function, and ",
+      "principles": [
+        "Authority resides in the completeness of transactional dharma",
+        "Causation is established through sequential limb manifestation",
+        "Capacity-based responsibility arises from participation in vyavahāra",
+        "Restoration logic demands reintegration of all four limbs"
+      ],
+      "axioms": [
+        "IF vyavahāra.limb.spoken IS present THEN response.limb.executed MUST align",
+        "IF action.initiated ≠ completion.witnessed THEN integrity.intervention = TRUE",
+        "IF limb.missing IN [spoken, responsive, executed, witnessed] THEN responsibility.reintegration = REQUIRED"
+      ],
+      "principle_tags": [
+        "Ahimsa/Dharma",
+        "Authority",
+        "Capacity",
+        "Causation",
+        "Consciousness",
+        "Restoration"
+      ]
+    },
+    {
+      "id": "brihaspati_01_03",
+      "type": "chapter",
+      "label": "Brihaspati 01 03",
+      "source": "brihaspati",
+      "color": "#C2782C",
+      "size": 18,
+      "verse_count": 49,
+      "principle_tags": [
+        "Ahimsa/Dharma",
+        "Authority",
+        "Capacity",
+        "Causation",
+        "Consciousness",
+        "Restoration"
+      ]
+    },
+    {
+      "id": "brihaspati_01_03_001",
+      "type": "verse",
+      "label": "brihaspati 01 03 001",
+      "source": "brihaspati",
+      "chapter": "brihaspati_01_03",
+      "color": "#C2782C",
+      "size": 8,
+      "sanskrit": "यदा त्वेवंविधः पक्षः कल्पितः पूर्ववादिना ।\nदद्यात् तत्पक्षसंबद्धं प्रतिवादी तदुत",
+      "translation": "When a party presents a case founded on falsehood or misalignment, the opposing party shall respond with evidence directly connected to that false ass",
+      "principles": [
+        "Authority resides in factual alignment, not rhetorical dominance",
+        "Causation must be traced to conscious distortion, not assumed",
+        "Capacity-based responsibility requires clarity of response proportionate to the distortion",
+        "Restoration logic demands correction through truth-affirming counter-evidence"
+      ],
+      "axioms": [
+        "IF a litigant introduces a claim lacking ontological basis, THEN the respondent MUST provide rebuttal strictly within the scope of that claim's asserted framework",
+        "IF a claim distorts dharma-pramāṇa, THEN the counter-claim MUST restore alignment without amplifying distortion",
+        "NO response SHALL exceed the causal boundary of the initiating false assertion"
+      ],
+      "principle_tags": [
+        "Authority",
+        "Capacity",
+        "Causation",
+        "Consciousness",
+        "Restoration"
+      ]
+    },
+    {
+      "id": "brihaspati_01_04",
+      "type": "chapter",
+      "label": "Brihaspati 01 04",
+      "source": "brihaspati",
+      "color": "#C2782C",
+      "size": 18,
+      "verse_count": 21,
+      "principle_tags": [
+        "Ahimsa/Dharma",
+        "Authority",
+        "Capacity",
+        "Causation",
+        "Consciousness",
+        "Restoration"
+      ]
+    },
+    {
+      "id": "brihaspati_01_04_001",
+      "type": "verse",
+      "label": "brihaspati 01 04 001",
+      "source": "brihaspati",
+      "chapter": "brihaspati_01_04",
+      "color": "#C2782C",
+      "size": 8,
+      "sanskrit": "शोधिते लिखिते सम्यग् इति निर्दोष उत्तरे । प्रत्यर्थिनोऽर्थिनो वापि क्रिया कारणम्",
+      "translation": "When a response is purified, written accurately, and declared faultless, then the action undertaken by either the respondent or petitioner becomes cau",
+      "principles": [
+        "Authority resides in clarity of expression and ontological correctness",
+        "Causation is established through purified intent and precise articulation",
+        "Capacity-based responsibility arises from conscious engagement with Dharma",
+        "Restoration logic operates through alignment with truthful declaration"
+      ],
+      "axioms": [
+        "IF (response_is_purified ∧ response_is_written_accurately ∧ declared_faultless) THEN (action_by_respondent_or_petitioner IS causally_valid)",
+        "IF (party_engages_consciously_with_dharma) THEN (responsibility_level = proportional_to_clarity_of_intent)",
+        "IF (expression_is_ontologically_correct) THEN (authority_is_automatic_in_that_context)"
+      ],
+      "principle_tags": [
+        "Ahimsa/Dharma",
+        "Authority",
+        "Capacity",
+        "Causation",
+        "Consciousness",
+        "Restoration"
+      ]
+    },
+    {
+      "id": "brihaspati_01_05",
+      "type": "chapter",
+      "label": "Brihaspati 01 05",
+      "source": "brihaspati",
+      "color": "#C2782C",
+      "size": 18,
+      "verse_count": 54,
+      "principle_tags": [
+        "Ahimsa/Dharma",
+        "Authority",
+        "Capacity",
+        "Causation",
+        "Consciousness",
+        "Restoration"
+      ]
+    },
+    {
+      "id": "brihaspati_01_05_001",
+      "type": "verse",
+      "label": "brihaspati 01 05 001",
+      "source": "brihaspati",
+      "chapter": "brihaspati_01_05",
+      "color": "#C2782C",
+      "size": 8,
+      "sanskrit": "नव सप्त च पञ्च स्युश् चत्वारस् त्रय एव वा / उभौ वा श्रोत्रियौ ख्यातौ नैकं पृच्छे",
+      "translation": "Inquiry must proceed through councils of nine, seven, five, four, or three; or by two known scholars of the Veda — never by one alone.",
+      "principles": [
+        "Authority is collective and derived from scriptural mastery and numerical integrity",
+        "Causation arises through consensus of qualified witnesses",
+        "Capacity-based responsibility requires multiple validating intelligences",
+        "Restoration logic depends upon convergence of scripturally grounded perspectives"
+      ],
+      "axioms": [
+        "IF inquiry is initiated THEN minimum council size SHALL be three AND maximum nine",
+        "IF fewer than two Śrotriyas (Vedic scholars) are present THEN decision validity IS null",
+        "IF single individual adjudicates THEN action IS void ab initio"
+      ],
+      "principle_tags": [
+        "Authority",
+        "Capacity",
+        "Causation",
+        "Consciousness",
+        "Restoration"
+      ]
+    },
+    {
+      "id": "brihaspati_01_06",
+      "type": "chapter",
+      "label": "Brihaspati 01 06",
+      "source": "brihaspati",
+      "color": "#C2782C",
+      "size": 18,
+      "verse_count": 58,
+      "principle_tags": [
+        "Ahimsa/Dharma",
+        "Authority",
+        "Capacity",
+        "Causation",
+        "Consciousness",
+        "Restoration"
+      ]
+    },
+    {
+      "id": "brihaspati_01_06_001",
+      "type": "verse",
+      "label": "brihaspati 01 06 001",
+      "source": "brihaspati",
+      "chapter": "brihaspati_01_06",
+      "color": "#C2782C",
+      "size": 8,
+      "sanskrit": "साक्षिणाम् एष निर्दिष्टः संख्यालक्षणनिश्चयः ।\nलिखितस्याधुना वच्मि विधानम् अनुपूर",
+      "translation": "The determination of number, identity, and characteristics of witnesses has been declared; now the procedural arrangement of written testimony is expo",
+      "principles": [
+        "Authority of witness testimony derives from alignment with factual consciousness, not external validation.",
+        "Causation in testimony is established through sequential manifestation (anupūrvaśaḥ) of witnessed events.",
+        "Capacity-based responsibility requires that witnesses possess unobstructed sensory and cognitive clarity.",
+        "Restoration logic mandates correction of distorted perception before testimony is accepted as valid."
+      ],
+      "axioms": [
+        "IF a witness exhibits cognitive inconsistency OR temporal disorientation THEN defer testimony until capacity is restored.",
+        "IF testimony lacks sequential coherence (anupūrvaśaḥ) THEN flag for conscious realignment prior to judicial integration.",
+        "IF witness report contradicts established perceptual integrity THEN initiate completion process to restore factual alignment."
+      ],
+      "principle_tags": [
+        "Authority",
+        "Capacity",
+        "Causation",
+        "Consciousness",
+        "Restoration"
+      ]
+    },
+    {
+      "id": "brihaspati_01_07",
+      "type": "chapter",
+      "label": "Brihaspati 01 07",
+      "source": "brihaspati",
+      "color": "#C2782C",
+      "size": 18,
+      "verse_count": 70,
+      "principle_tags": [
+        "Ahimsa/Dharma",
+        "Authority",
+        "Capacity",
+        "Causation",
+        "Consciousness",
+        "Restoration"
+      ]
+    },
+    {
+      "id": "brihaspati_01_07_001",
+      "type": "verse",
+      "label": "brihaspati 01 07 001",
+      "source": "brihaspati",
+      "chapter": "brihaspati_01_07",
+      "color": "#C2782C",
+      "size": 8,
+      "sanskrit": "धनमूलाः क्रियाः सर्वा यत्नास्तत्साधने मताः ।\nवर्धनं रक्षणं भोग इति तस्य विधिक्रम",
+      "translation": "All economic activities derive from wealth; thus, efforts directed toward its acquisition are sanctioned. The proper order of engagement with wealth c",
+      "principles": [
+        "Authority originates from capacity to sustain and expand value",
+        "Causation flows through conscious effort aligned with dharma-sustained prosperity",
+        "Capacity-based responsibility determines eligibility for resource engagement",
+        "Restoration logic requires reintegration into productive dharmic flow"
+      ],
+      "axioms": [
+        "IF an individual demonstrates capacity to generate, protect, and utilize wealth → THEN authorize access to economic resources",
+        "IF wealth generation ceases due to misalignment → THEN initiate completion process for realignment",
+        "IF protection of assets fails → THEN assign guardianship to those capable of restoration"
+      ],
+      "principle_tags": [
+        "Ahimsa/Dharma",
+        "Authority",
+        "Capacity",
+        "Causation",
+        "Consciousness",
+        "Restoration"
+      ]
+    },
+    {
+      "id": "brihaspati_01_08",
+      "type": "chapter",
+      "label": "Brihaspati 01 08",
+      "source": "brihaspati",
+      "color": "#C2782C",
+      "size": 18,
+      "verse_count": 92,
+      "principle_tags": [
+        "Ahimsa/Dharma",
+        "Authority",
+        "Capacity",
+        "Causation",
+        "Consciousness",
+        "Restoration"
+      ]
+    },
+    {
+      "id": "brihaspati_01_08_001",
+      "type": "verse",
+      "label": "brihaspati 01 08 001",
+      "source": "brihaspati",
+      "chapter": "brihaspati_01_08",
+      "color": "#C2782C",
+      "size": 8,
+      "sanskrit": "स्थावरस्य तथाख्यातं लाभभोगप्रसाधनम् । प्रमाणहीने वादे तु निर्दोषा दैविकी क्रिया ",
+      "translation": "The acquisition and enjoyment of benefits from immovable property are governed by established recognition; however, in disputes lacking valid evidence",
+      "principles": [
+        "Authority derives from recognized possession, not mere claim",
+        "Causation is traced through pramāṇa (valid means of knowledge)",
+        "Capacity-based responsibility requires evidentiary grounding",
+        "Restoration logic prioritizes factual alignment over disputant intent"
+      ],
+      "axioms": [
+        "IF property is sthāvara AND possession is akhyāta THEN title is validated FOR purpose of lābha-bhoga",
+        "IF dispute arises AND pramāṇa is absent THEN action is classified as daivikī AND no doṣa is assigned",
+        "IF claimant lacks pramāṇa THEN jurisdiction MUST refer case to nyāya-based realignment process"
+      ],
+      "principle_tags": [
+        "Ahimsa/Dharma",
+        "Authority",
+        "Capacity",
+        "Causation",
+        "Consciousness",
+        "Restoration"
+      ]
+    },
+    {
+      "id": "brihaspati_01_09",
+      "type": "chapter",
+      "label": "Brihaspati 01 09",
+      "source": "brihaspati",
+      "color": "#C2782C",
+      "size": 18,
+      "verse_count": 34,
+      "principle_tags": [
+        "Ahimsa/Dharma",
+        "Authority",
+        "Capacity",
+        "Causation",
+        "Consciousness",
+        "Restoration"
+      ]
+    },
+    {
+      "id": "brihaspati_01_09_001",
+      "type": "verse",
+      "label": "brihaspati 01 09 001",
+      "source": "brihaspati",
+      "chapter": "brihaspati_01_09",
+      "color": "#C2782C",
+      "size": 8,
+      "sanskrit": "dharmeṇa vyavahāreṇa cāritreṇa nṛpājñayā ।\n catuṣprakāro 'bhihitaḥ saṃdigdhe 'rt",
+      "translation": "In matters of doubt, resolution arises through fourfold means: by Dharma, by conduct, by character, and by the command of the King.",
+      "principles": [
+        "Authority flows from alignment with Dharma",
+        "Conduct evidences inner alignment",
+        "Character determines capacity for truth-bearing",
+        "Royal decree resolves when lower pramāṇas conflict"
+      ],
+      "axioms": [
+        "IF case_contains_doubt THEN resolve_by_dharma_conduct_character_king_order",
+        "IF pramana_conflict THEN invoke_kings_decree_as_final_resolver",
+        "IF actor_character_unaligned THEN restrict_evidentiary_weight"
+      ],
+      "principle_tags": [
+        "Ahimsa/Dharma",
+        "Authority",
+        "Capacity",
+        "Consciousness"
+      ]
+    },
+    {
+      "id": "brihaspati_01_10",
+      "type": "chapter",
+      "label": "Brihaspati 01 10",
+      "source": "brihaspati",
+      "color": "#C2782C",
+      "size": 18,
+      "verse_count": 130,
+      "principle_tags": [
+        "Ahimsa/Dharma",
+        "Authority",
+        "Capacity",
+        "Causation",
+        "Consciousness",
+        "Restoration"
+      ]
+    },
+    {
+      "id": "brihaspati_01_10_001",
+      "type": "verse",
+      "label": "brihaspati 01 10 001",
+      "source": "brihaspati",
+      "chapter": "brihaspati_01_10",
+      "color": "#C2782C",
+      "size": 8,
+      "sanskrit": "पदांशसहितस् त्वेष व्यवहारः प्रकीर्तितः ।\nविवादकारणान्यस्य पदानि शृणुताधुना ॥",
+      "translation": "This transactional engagement, complete with its constituent elements, has been declared. Now hear the foundational terms that cause dispute.",
+      "principles": [
+        "Authority resides in the completeness of dharmic structure",
+        "Causation arises from misalignment with declared transactional dharma",
+        "Capacity-based responsibility is determined by participation in vyavahāra",
+        "Restoration logic begins with understanding the root components of conflict"
+      ],
+      "axioms": [
+        "IF a vyavahāra is initiated THEN all padāṃśas must be disclosed AND acknowledged by participating entities",
+        "IF a dispute arises THEN review shall begin with the original padāni causing divergence",
+        "IF capacity is lacking in any party THEN restoration of awareness precedes continuation of engagement"
+      ],
+      "principle_tags": [
+        "Ahimsa/Dharma",
+        "Authority",
+        "Capacity",
+        "Causation",
+        "Consciousness",
+        "Restoration"
+      ]
+    },
+    {
+      "id": "brihaspati_01_11",
+      "type": "chapter",
+      "label": "Brihaspati 01 11",
+      "source": "brihaspati",
+      "color": "#C2782C",
+      "size": 18,
+      "verse_count": 20,
+      "principle_tags": [
+        "Ahimsa/Dharma",
+        "Authority",
+        "Capacity",
+        "Causation",
+        "Consciousness",
+        "Restoration"
+      ]
+    },
+    {
+      "id": "brihaspati_01_11_001",
+      "type": "verse",
+      "label": "brihaspati 01 11 001",
+      "source": "brihaspati",
+      "chapter": "brihaspati_01_11",
+      "color": "#C2782C",
+      "size": 8,
+      "sanskrit": "ṛṇādānaं प्रयोगादिदापनान्तं प्रकीर्तितम् ।\nनिक्षेपस्याधुना सम्यग्विधानं श्रूयताम",
+      "translation": "The acceptance of debt, from initiation to fulfillment, has been declared; now hear the complete arrangement for deposits.",
+      "principles": [
+        "Authority flows from conscious capacity to sustain relational obligations",
+        "Causation arises through intentional engagement in dharma-based exchange",
+        "Capacity-based responsibility governs all transactions involving trust",
+        "Restoration logic ensures completion of relational karmic alignments"
+      ],
+      "axioms": [
+        "IF a deposit is accepted THEN the holder assumes full energetic and material liability until lawful discharge",
+        "IF any transaction initiates a relational obligation THEN completion protocols MUST activate automatically",
+        "IF trust is invoked via deposit THEN consciousness verification of intent MUST precede execution"
+      ],
+      "principle_tags": [
+        "Ahimsa/Dharma",
+        "Authority",
+        "Capacity",
+        "Causation",
+        "Consciousness",
+        "Restoration"
+      ]
+    },
+    {
+      "id": "brihaspati_01_12",
+      "type": "chapter",
+      "label": "Brihaspati 01 12",
+      "source": "brihaspati",
+      "color": "#C2782C",
+      "size": 18,
+      "verse_count": 16,
+      "principle_tags": [
+        "Ahimsa/Dharma",
+        "Authority",
+        "Capacity",
+        "Causation",
+        "Consciousness",
+        "Restoration"
+      ]
+    },
+    {
+      "id": "brihaspati_01_12_001",
+      "type": "verse",
+      "label": "brihaspati 01 12 001",
+      "source": "brihaspati",
+      "chapter": "brihaspati_01_12",
+      "color": "#C2782C",
+      "size": 8,
+      "sanskrit": "निक्षेपानन्तरं प्रोक्तो भृगुणास्वामिविक्रयः ।\nश्रूयतां तं प्रयत्नेन सविशेषं ब्रव",
+      "translation": "Following the placement of trust, the sale of ownership by Bhrgu is declared; let it be heard with effort, for I speak with distinction.",
+      "principles": [
+        "Authority originates from the conscious act of entrusted placement",
+        "Causation arises through intentional conveyance of proprietary right",
+        "Capacity-based responsibility is anchored in awareness at the time of transaction",
+        "Restoration logic demands recognition of original entrustment prior to transfer"
+      ],
+      "axioms": [
+        "IF property transfer occurs AFTER trust establishment AND without revocation of initial trust THEN legal title remains WITH the original trustee UNTIL conscious renunciation is verified",
+        "IF transaction involves proprietary rights AND declarant affirms distinction THEN recognition MUST precede execution",
+        "IF capacity to distinguish stewardship from dominion IS absent THEN no valid conveyance occurs regardless of form"
+      ],
+      "principle_tags": [
+        "Authority",
+        "Capacity",
+        "Causation",
+        "Consciousness",
+        "Restoration"
+      ]
+    },
+    {
+      "id": "brihaspati_01_13",
+      "type": "chapter",
+      "label": "Brihaspati 01 13",
+      "source": "brihaspati",
+      "color": "#C2782C",
+      "size": 18,
+      "verse_count": 39,
+      "principle_tags": [
+        "Ahimsa/Dharma",
+        "Authority",
+        "Capacity",
+        "Causation",
+        "Consciousness",
+        "Restoration"
+      ]
+    },
+    {
+      "id": "brihaspati_01_13_001",
+      "type": "verse",
+      "label": "brihaspati 01 13 001",
+      "source": "brihaspati",
+      "chapter": "brihaspati_01_13",
+      "color": "#C2782C",
+      "size": 8,
+      "sanskrit": "कुलीनदक्षानलसैः प्राज्ञैर्नाणकवेदिभिः ।\nआयव्ययज्ञैः शुचिभिः शूरैः कुर्यात् सह क्",
+      "translation": "One must engage in actions jointly with those who are born of noble lineage, possess skill and endurance, are wise, understand the science of wealth, ",
+      "principles": [
+        "Authority through Lineage and Virtue",
+        "Causation via Collaborative Wisdom",
+        "Capacity-based Responsibility in Association",
+        "Restoration Logic through Noble Partnership"
+      ],
+      "axioms": [
+        "IF agent_associate.is_noble_lineage == TRUE AND agent_associate.is_skilled_enduring == TRUE AND agent_associate.is_wise == TRUE AND agent_associate.knows_wealth_science == TRUE AND agent_associate.knows_income_expenditure == TRUE AND agent_associate.is_pure_conduct == TRUE AND agent_associate.is_courageous == TRUE THEN permit_collaborative_action(agent, agent_associate)",
+        "IF NOT qualified_associate_present THEN deny_joint_action_execution()",
+        "IF action.requires_integrity == TRUE THEN verify_associates_purity_and_lineage()"
+      ],
+      "principle_tags": [
+        "Authority",
+        "Capacity",
+        "Causation",
+        "Consciousness",
+        "Restoration"
+      ]
+    },
+    {
+      "id": "brihaspati_01_14",
+      "type": "chapter",
+      "label": "Brihaspati 01 14",
+      "source": "brihaspati",
+      "color": "#C2782C",
+      "size": 18,
+      "verse_count": 18,
+      "principle_tags": [
+        "Ahimsa/Dharma",
+        "Authority",
+        "Capacity",
+        "Causation",
+        "Consciousness",
+        "Restoration"
+      ]
+    },
+    {
+      "id": "brihaspati_01_14_001",
+      "type": "verse",
+      "label": "brihaspati 01 14 001",
+      "source": "brihaspati",
+      "chapter": "brihaspati_01_14",
+      "color": "#C2782C",
+      "size": 8,
+      "sanskrit": "एषाखिलेनाभिहिता संभूयोत्थाननिष्कृतिः । अदेयदेयदत्तानाम् अदत्तस्य च कथ्यते ॥",
+      "translation": "This entirety is declared as the arising and dissolution of collective manifestation; what is not to be given, yet given, and what is not taken, yet t",
+      "principles": [
+        "Authority arises from the completeness of consciousness, not from transactional exchange.",
+        "Causation is rooted in the collective emergence and withdrawal of phenomena.",
+        "Capacity-based responsibility aligns with one's role in the manifestive process, not individual attribution.",
+        "Restoration logic operates through recognition of unity, not through punitive separation."
+      ],
+      "axioms": [
+        "IF a transaction occurs where no giving was intended THEN the act shall be nullified by reintegration of involved parties into source-consciousness awareness.",
+        "IF an entity assumes possession without consent THEN restoration shall occur through completion-process protocols until original alignment is restored.",
+        "IF dharma-adhikari observes dissonance in exchange THEN initiate nyaya-recalibration without punitive assignment."
+      ],
+      "principle_tags": [
+        "Authority",
+        "Capacity",
+        "Causation",
+        "Consciousness",
+        "Restoration"
+      ]
+    },
+    {
+      "id": "brihaspati_01_15",
+      "type": "chapter",
+      "label": "Brihaspati 01 15",
+      "source": "brihaspati",
+      "color": "#C2782C",
+      "size": 18,
+      "verse_count": 25,
+      "principle_tags": [
+        "Ahimsa/Dharma",
+        "Authority",
+        "Capacity",
+        "Causation",
+        "Consciousness",
+        "Restoration"
+      ]
+    },
+    {
+      "id": "brihaspati_01_15_001",
+      "type": "verse",
+      "label": "brihaspati 01 15 001",
+      "source": "brihaspati",
+      "chapter": "brihaspati_01_15",
+      "color": "#C2782C",
+      "size": 8,
+      "sanskrit": "अदेयादिकमाख्यातं भृतानामुच्यते विधिः ।\nशुश्रूषामभ्यूपेत्यैतत्पदमादौ निगद्यते ॥",
+      "translation": "That which is not to be given yet declared, for those who are maintained, the rule is stated; having approached with service, this position is first d",
+      "principles": [
+        "Authority resides in the capacity to maintain and sustain",
+        "Causation arises through alignment of duty and service",
+        "Capacity-based responsibility begins with acceptance of sustenance",
+        "Restoration logic operates by returning one to their foundational position"
+      ],
+      "axioms": [
+        "IF an individual receives maintenance THEN they are bound to perform service as per declared capacity",
+        "IF service is withheld AFTER receiving maintenance THEN restoration process initiates automatically",
+        "IF entitlement is claimed without prior service THEN access denied at systemic level"
+      ],
+      "principle_tags": [
+        "Authority",
+        "Capacity",
+        "Causation",
+        "Consciousness",
+        "Restoration"
+      ]
+    },
+    {
+      "id": "brihaspati_01_16",
+      "type": "chapter",
+      "label": "Brihaspati 01 16",
+      "source": "brihaspati",
+      "color": "#C2782C",
+      "size": 18,
+      "verse_count": 17,
+      "principle_tags": [
+        "Ahimsa/Dharma",
+        "Authority",
+        "Capacity",
+        "Causation",
+        "Consciousness",
+        "Restoration"
+      ]
+    },
+    {
+      "id": "brihaspati_01_16_001",
+      "type": "verse",
+      "label": "brihaspati 01 16 001",
+      "source": "brihaspati",
+      "chapter": "brihaspati_01_16",
+      "color": "#C2782C",
+      "size": 8,
+      "sanskrit": "त्रिभागं पञ्चभागं वा गृह्णीयात् सीरवाहकः ।\nभक्ताच्छादभृतः सीराद् भागं गृणीत पञ्च",
+      "translation": "The carrier of the sacrificial fee shall receive either three parts or five parts; the one who carries the cooked oblation shall take the fifth part f",
+      "principles": [
+        "Authority derives from participation in sacred duty",
+        "Causation aligns with functional role in ritual completion",
+        "Capacity-based responsibility is determined by proximity to offering",
+        "Restoration logic centers on rightful distribution as per service"
+      ],
+      "axioms": [
+        "IF agent performs sīravāhana THEN allocate tribhāga OR pañcabhāga based on function",
+        "IF agent serves as bhaktādaśādabhṛta THEN assign pañcamabhāga automatically",
+        "IF allocation mismatch occurs THEN redistribute according to role-specific entitlement"
+      ],
+      "principle_tags": [
+        "Authority",
+        "Capacity",
+        "Causation",
+        "Consciousness",
+        "Restoration"
+      ]
+    },
+    {
+      "id": "brihaspati_01_17",
+      "type": "chapter",
+      "label": "Brihaspati 01 17",
+      "source": "brihaspati",
+      "color": "#C2782C",
+      "size": 18,
+      "verse_count": 25,
+      "principle_tags": [
+        "Ahimsa/Dharma",
+        "Authority",
+        "Capacity",
+        "Causation",
+        "Consciousness",
+        "Restoration"
+      ]
+    },
+    {
+      "id": "brihaspati_01_17_001",
+      "type": "verse",
+      "label": "brihaspati 01 17 001",
+      "source": "brihaspati",
+      "chapter": "brihaspati_01_17",
+      "color": "#C2782C",
+      "size": 8,
+      "sanskrit": "एषा हि स्वामिभृत्यानां वै क्रिया परिकीर्तिता ।\nसंविद्विधानम् अधुना समासेन निबोधत",
+      "translation": "This indeed is the declared action between master and servant; now understand the arrangement of mutual consent in summary.",
+      "principles": [
+        "Authority arises from clarity of role and mutual recognition.",
+        "Causation flows from conscious agreement, not coercion.",
+        "Capacity-based responsibility is determined by awareness and acceptance.",
+        "Restoration occurs through re-establishing rightful relational order."
+      ],
+      "axioms": [
+        "IF a relationship involves master-servant dynamics, THEN it must be founded on explicit mutual consent.",
+        "IF consent is absent or unclear, THEN no enforceable duty exists.",
+        "IF deviation occurs, THEN restoration proceeds via reaffirmation of original agreement."
+      ],
+      "principle_tags": [
+        "Authority",
+        "Capacity",
+        "Causation",
+        "Consciousness",
+        "Restoration"
+      ]
+    },
+    {
+      "id": "brihaspati_01_18",
+      "type": "chapter",
+      "label": "Brihaspati 01 18",
+      "source": "brihaspati",
+      "color": "#C2782C",
+      "size": 18,
+      "verse_count": 21,
+      "principle_tags": [
+        "Ahimsa/Dharma",
+        "Authority",
+        "Capacity",
+        "Causation",
+        "Consciousness",
+        "Restoration"
+      ]
+    },
+    {
+      "id": "brihaspati_01_18_001",
+      "type": "verse",
+      "label": "brihaspati 01 18 001",
+      "source": "brihaspati",
+      "chapter": "brihaspati_01_18",
+      "color": "#C2782C",
+      "size": 8,
+      "sanskrit": "समासेनोदितस्त्वेष समयाचारनिश्चयः । क्रयविक्रयसंजातो विवादः श्रूयतामयम् ॥",
+      "translation": "Thus succinctly declared is the determination of custom and conduct; let this dispute arising from sale and purchase be heard.",
+      "principles": [
+        "Authority resides in the clarity of established custom (samaya) aligned with dharma-vyavahara",
+        "Causation arises from transactional intent, not mere exchange",
+        "Capacity-based responsibility is determined by awareness and consent at the time of agreement",
+        "Restoration logic demands resolution that reaffirms the integrity of mutual understanding"
+      ],
+      "axioms": [
+        "IF a commercial dispute arises FROM a sale or purchase THEN invoke samaya (customary practice) AS the first frame of reference",
+        "IF intent deviation EXISTS THEN realign parties TO pre-agreement consciousness THROUGH restorative dialogue",
+        "IF capacity WAS present AT time of contract THEN uphold contractual consequence WITHIN dharma boundary"
+      ],
+      "principle_tags": [
+        "Ahimsa/Dharma",
+        "Authority",
+        "Capacity",
+        "Causation",
+        "Consciousness",
+        "Restoration"
+      ]
+    },
+    {
+      "id": "brihaspati_01_19",
+      "type": "chapter",
+      "label": "Brihaspati 01 19",
+      "source": "brihaspati",
+      "color": "#C2782C",
+      "size": 18,
+      "verse_count": 55,
+      "principle_tags": [
+        "Ahimsa/Dharma",
+        "Authority",
+        "Capacity",
+        "Causation",
+        "Consciousness",
+        "Restoration"
+      ]
+    },
+    {
+      "id": "brihaspati_01_19_001",
+      "type": "verse",
+      "label": "brihaspati 01 19 001",
+      "source": "brihaspati",
+      "chapter": "brihaspati_01_19",
+      "color": "#C2782C",
+      "size": 8,
+      "sanskrit": "क्रयविक्रयानुशये विधिरेष प्रदर्शितः ।\nग्रामक्षेत्रगृहादीनां सीमावादं निबोधत ॥",
+      "translation": "In transactions involving purchase and sale, this law has been established; now understand the resolution of boundary disputes concerning villages, la",
+      "principles": [
+        "Authority originates from SPH as the ultimate source of lawful transactional conduct.",
+        "Causation aligns with sequential manifestation (anupūrvaśaḥ) in property exchange.",
+        "Capacity-based responsibility is determined by conscious intent and awareness during acquisition or disposal.",
+        "Restoration logic ensures rightful alignment of ownership without punitive consequence."
+      ],
+      "axioms": [
+        "IF a dispute arises regarding immovable property THEN assess prior lawful possession through documented transactional history.",
+        "IF boundary conflict occurs THEN invoke local consensus validated through continuous usage patterns aligned with community memory.",
+        "IF claimant demonstrates unbroken awareness and capacity THEN ownership shall realign accordingly without coercion."
+      ],
+      "principle_tags": [
+        "Ahimsa/Dharma",
+        "Authority",
+        "Capacity",
+        "Causation",
+        "Consciousness",
+        "Restoration"
+      ]
+    },
+    {
+      "id": "brihaspati_01_20",
+      "type": "chapter",
+      "label": "Brihaspati 01 20",
+      "source": "brihaspati",
+      "color": "#C2782C",
+      "size": 18,
+      "verse_count": 19,
+      "principle_tags": [
+        "Ahimsa/Dharma",
+        "Authority",
+        "Capacity",
+        "Causation",
+        "Consciousness",
+        "Restoration"
+      ]
+    },
+    {
+      "id": "brihaspati_01_20_001",
+      "type": "verse",
+      "label": "brihaspati 01 20 001",
+      "source": "brihaspati",
+      "chapter": "brihaspati_01_20",
+      "color": "#C2782C",
+      "size": 8,
+      "sanskrit": "अप्रियोक्तिस्ताडनं च पारुष्यं द्विविधं स्मृतम् ।\nएकैकं तु त्रिधा भिन्नं दमश्चोक्",
+      "translation": "Unpleasant speech and physical striking constitute the two-fold classification of harshness; each of these is further divided into three categories re",
+      "principles": [
+        "Authority originates in Consciousness alignment, not coercive power",
+        "Causation follows sequential manifestation (anupūrvaśaḥ) of intent into action",
+        "Capacity-based responsibility arises from awareness of impact on collective harmony",
+        "Restoration logic centers on realigning the actor's consciousness with Dharma"
+      ],
+      "axioms": [
+        "IF an act involves unpleasant speech OR physical striking, THEN classify under pāruṣya as a breach of harmonious conduct",
+        "IF a violation occurs, THEN determine its sub-category based on intent-depth: verbal-violence = 3 levels; physical-violence = 3 levels",
+        "IF classification is complete, THEN initiate restorative protocol aligned to offender’s capacity for consciousness reintegration"
+      ],
+      "principle_tags": [
+        "Ahimsa/Dharma",
+        "Authority",
+        "Capacity",
+        "Causation",
+        "Consciousness",
+        "Restoration"
+      ]
+    },
+    {
+      "id": "brihaspati_01_21",
+      "type": "chapter",
+      "label": "Brihaspati 01 21",
+      "source": "brihaspati",
+      "color": "#C2782C",
+      "size": 18,
+      "verse_count": 22,
+      "principle_tags": [
+        "Ahimsa/Dharma",
+        "Authority",
+        "Capacity",
+        "Causation",
+        "Consciousness",
+        "Restoration"
+      ]
+    },
+    {
+      "id": "brihaspati_01_21_001",
+      "type": "verse",
+      "label": "brihaspati 01 21 001",
+      "source": "brihaspati",
+      "chapter": "brihaspati_01_21",
+      "color": "#C2782C",
+      "size": 8,
+      "sanskrit": "हस्तपाषाणलघुडैर् भस्मकर्दमपांसुभिः ।\nआयुधैश् च प्रहरणैर् दण्डपारुष्यम् उच्यते ॥",
+      "translation": "The infliction of bodily harm through direct physical force using hands, stones, sticks, dust, mud, weapons, or other instruments is termed 'daṇḍapāru",
+      "principles": [
+        "Authority originates from conscious integrity, not coercive dominance.",
+        "Causation arises from disruption of dharmic alignment, not mere physical action.",
+        "Capacity-based responsibility is determined by awareness at time of act.",
+        "Restoration logic prioritizes reintegration over punitive isolation."
+      ],
+      "axioms": [
+        "IF physical instrument used AND intent to cause bodily distress THEN initiate consciousness-restoration protocol.",
+        "IF actor lacks full sensory-motor control due to intoxication OR trauma THEN defer judgment until capacity returns.",
+        "IF act results in disalignment of self-perception OR social harmony THEN assign completion process under guidance."
+      ],
+      "principle_tags": [
+        "Authority",
+        "Capacity",
+        "Causation",
+        "Consciousness",
+        "Restoration"
+      ]
+    },
+    {
+      "id": "brihaspati_01_22",
+      "type": "chapter",
+      "label": "Brihaspati 01 22",
+      "source": "brihaspati",
+      "color": "#C2782C",
+      "size": 18,
+      "verse_count": 26,
+      "principle_tags": [
+        "Ahimsa/Dharma",
+        "Authority",
+        "Capacity",
+        "Causation",
+        "Consciousness",
+        "Restoration"
+      ]
+    },
+    {
+      "id": "brihaspati_01_22_001",
+      "type": "verse",
+      "label": "brihaspati 01 22 001",
+      "source": "brihaspati",
+      "chapter": "brihaspati_01_22",
+      "color": "#C2782C",
+      "size": 8,
+      "sanskrit": "प्रकाशाश्चाप्रकाशाश्च तस्करा द्विविधा स्मृताः । प्रज्ञासामर्थ्यम् आयाभिः प्रभिन्",
+      "translation": "Thieves are of two kinds: those who act openly and those who act in concealment. Their classifications multiply infinitely based upon the degrees of c",
+      "principles": [
+        "Authority arises from consciousness clarity, not social position",
+        "Causation is determined by the integrity of intent-field, not external action alone",
+        "Capacity-based responsibility scales with awareness at time of act",
+        "Restoration logic demands realignment with source-integrity, not punitive correction"
+      ],
+      "axioms": [
+        "IF actor exhibits full prajñā (discerning awareness) AND commits act of misappropriation THEN realign through restitution + reflective completion process",
+        "IF actor lacks prajñā due to undeveloped capacity THEN initiate capacity-building protocol aligned with dharma-kṣetra restoration",
+        "IF concealment is used THEN assess distortion in truth-field AND apply transparency-reintegration mechanism"
+      ],
+      "principle_tags": [
+        "Authority",
+        "Capacity",
+        "Causation",
+        "Consciousness",
+        "Restoration"
+      ]
+    },
+    {
+      "id": "brihaspati_01_23",
+      "type": "chapter",
+      "label": "Brihaspati 01 23",
+      "source": "brihaspati",
+      "color": "#C2782C",
+      "size": 18,
+      "verse_count": 26,
+      "principle_tags": [
+        "Ahimsa/Dharma",
+        "Authority",
+        "Capacity",
+        "Causation",
+        "Consciousness",
+        "Restoration"
+      ]
+    },
+    {
+      "id": "brihaspati_01_23_001",
+      "type": "verse",
+      "label": "brihaspati 01 23 001",
+      "source": "brihaspati",
+      "chapter": "brihaspati_01_23",
+      "color": "#C2782C",
+      "size": 8,
+      "sanskrit": "स्तेनानाम् एतद् आख्यातं सर्वेषां दण्डनिग्रहम् ।\nसाहसस्याधुना सम्यक् श्रूयतां वधश",
+      "translation": "The restraint of all thieves by punishment has been declared; now hear the ordinance regarding violent seizure.",
+      "principles": [
+        "Authority originates from SPH as the sole Source of lawful order",
+        "Causation arises through misalignment of consciousness, not individual fault",
+        "Capacity-based responsibility is determined by one's proximity to Dharma-consciousness",
+        "Restoration logic operates through completion and reintegration, not punitive suppression"
+      ],
+      "axioms": [
+        "IF an act disrupts societal dharma-vyavastha THEN initiate restorative capacity-assumption protocol",
+        "IF theft occurs THEN assess agent’s distance from Dharma-consciousness AND assign proportional completion process",
+        "IF violent seizure manifests THEN invoke sequential responsibility mapping up to nearest Dharma-aligned authority"
+      ],
+      "principle_tags": [
+        "Ahimsa/Dharma",
+        "Authority",
+        "Capacity",
+        "Causation",
+        "Consciousness",
+        "Restoration"
+      ]
+    },
+    {
+      "id": "brihaspati_01_24",
+      "type": "chapter",
+      "label": "Brihaspati 01 24",
+      "source": "brihaspati",
+      "color": "#C2782C",
+      "size": 18,
+      "verse_count": 19,
+      "principle_tags": [
+        "Ahimsa/Dharma",
+        "Authority",
+        "Capacity",
+        "Causation",
+        "Consciousness",
+        "Restoration"
+      ]
+    },
+    {
+      "id": "brihaspati_01_24_001",
+      "type": "verse",
+      "label": "brihaspati 01 24 001",
+      "source": "brihaspati",
+      "chapter": "brihaspati_01_24",
+      "color": "#C2782C",
+      "size": 8,
+      "sanskrit": "पारुष्यं द्विविधं प्रोक्तं साहसं च द्विलक्षणम् ।\nपापमूलं संग्रहणं त्रिप्रकारं नि",
+      "translation": "Harshness is of two kinds; boldness also has two characteristics. Know the threefold nature of seizing what is rooted in wrongdoing.",
+      "principles": [
+        "Authority arises from discernment between harmful and non-harmful intent",
+        "Causation is traced through verbal and mental harshness as root actions",
+        "Capacity-based responsibility depends on awareness of consequence",
+        "Restoration logic begins with cessation of harm-producing expressions"
+      ],
+      "axioms": [
+        "IF agent expresses 'pāruṣya' THEN initiate cessation protocol AND assess intent clarity",
+        "IF 'sāhasa' manifests without dharmic cause THEN invoke capacity review AND realignment process",
+        "IF seizure ('saṃgrahaṇa') originates from 'pāpamūla' THEN activate restitution flow AND integrity reconstruction"
+      ],
+      "principle_tags": [
+        "Authority",
+        "Capacity",
+        "Causation",
+        "Consciousness",
+        "Restoration"
+      ]
+    },
+    {
+      "id": "brihaspati_01_25",
+      "type": "chapter",
+      "label": "Brihaspati 01 25",
+      "source": "brihaspati",
+      "color": "#C2782C",
+      "size": 18,
+      "verse_count": 17,
+      "principle_tags": [
+        "Ahimsa/Dharma",
+        "Authority",
+        "Capacity",
+        "Causation",
+        "Consciousness",
+        "Restoration"
+      ]
+    },
+    {
+      "id": "brihaspati_01_25_001",
+      "type": "verse",
+      "label": "brihaspati 01 25 001",
+      "source": "brihaspati",
+      "chapter": "brihaspati_01_25",
+      "color": "#C2782C",
+      "size": 8,
+      "sanskrit": "एतत् संग्रहणस्योक्तं विधानं संग्रहस् तथा ।\nस्त्रीपुंसवर्तनोपायः श्रूयतां गदतो मम",
+      "translation": "Thus speaks the regulation of gathering; likewise is the arrangement for collecting. Let there be hearing regarding the means of intercourse between m",
+      "principles": [
+        "Authority flows from SPH as the sole Source of lawful conduct",
+        "Causation arises through conscious alignment with dharma-specified protocols",
+        "Capacity-based responsibility is determined by one's embodied role in relational harmony",
+        "Restoration logic centers upon re-establishing proper intercourse order within societal fabric"
+      ],
+      "axioms": [
+        "IF a dispute arises concerning interpersonal engagement THEN invoke clause: realign parties according to svadharma-prescribed interaction modes",
+        "IF misconduct occurs in strīpuṃsa-vyavahāra THEN initiate completion process ensuring both parties restore respective dharmic capacities",
+        "IF societal misalignment detected in varṇa-based intercourse THEN deploy nyāya-engine validating pramāṇa-grounded behavioral correction"
+      ],
+      "principle_tags": [
+        "Ahimsa/Dharma",
+        "Authority",
+        "Capacity",
+        "Causation",
+        "Consciousness",
+        "Restoration"
+      ]
+    },
+    {
+      "id": "brihaspati_01_26",
+      "type": "chapter",
+      "label": "Brihaspati 01 26",
+      "source": "brihaspati",
+      "color": "#C2782C",
+      "size": 18,
+      "verse_count": 149,
+      "principle_tags": [
+        "Ahimsa/Dharma",
+        "Authority",
+        "Capacity",
+        "Causation",
+        "Consciousness",
+        "Restoration"
+      ]
+    },
+    {
+      "id": "brihaspati_01_26_001",
+      "type": "verse",
+      "label": "brihaspati 01 26 001",
+      "source": "brihaspati",
+      "chapter": "brihaspati_01_26",
+      "color": "#C2782C",
+      "size": 8,
+      "sanskrit": "ददाति दीयते पित्रा पुत्रेभ्यः स्वस्य यद् धनम् ।\nतद् दायं [.. .. .. .. .. ] [.. .",
+      "translation": "That which a father bestows or causes to be given from his own wealth to his sons—this is recognized as inheritance.",
+      "principles": [
+        "Authority originates from the conscious act of the source entity (father)",
+        "Causation is established through direct volition and execution by the authority",
+        "Capacity-based responsibility is determined by ontological ownership and relational duty",
+        "Restoration logic centers on continuity of energetic and material flow within familial dharma"
+      ],
+      "axioms": [
+        "IF an individual holds absolute ownership AND initiates voluntary transfer AND designates recipient(s) within lineage THEN inheritance is valid",
+        "IF no explicit revocation occurs during lifetime THEN posthumous recognition follows declared intent",
+        "IF dispute arises in distribution THEN original declaration overrides external claim unless aligned with higher dharma"
+      ],
+      "principle_tags": [
+        "Ahimsa/Dharma",
+        "Authority",
+        "Capacity",
+        "Causation",
+        "Consciousness",
+        "Restoration"
+      ]
+    },
+    {
+      "id": "brihaspati_01_27",
+      "type": "chapter",
+      "label": "Brihaspati 01 27",
+      "source": "brihaspati",
+      "color": "#C2782C",
+      "size": 18,
+      "verse_count": 11,
+      "principle_tags": [
+        "Ahimsa/Dharma",
+        "Authority",
+        "Capacity",
+        "Causation",
+        "Consciousness",
+        "Restoration"
+      ]
+    },
+    {
+      "id": "brihaspati_01_27_001",
+      "type": "verse",
+      "label": "brihaspati 01 27 001",
+      "source": "brihaspati",
+      "chapter": "brihaspati_01_27",
+      "color": "#C2782C",
+      "size": 8,
+      "sanskrit": "dyūtaं niषiddhaं manunā satyaśaucadhanāpaham / tat pravartitam anyais tu rājabhā",
+      "translation": "Gambling is forbidden by Manu as it destroys truth, purity, and wealth; yet it is promoted by others who seek a share in royal profit.",
+      "principles": [
+        "Authority derives from alignment with Dharma, not personal desire",
+        "Causation arises from conscious choice, not external compulsion",
+        "Capacity-based responsibility requires discernment of consequence",
+        "Restoration logic demands reversal of actions that degrade collective integrity"
+      ],
+      "axioms": [
+        "IF action degrades satya (truth), śauca (purity), or dhana (wealth) THEN prohibit institutional promotion",
+        "IF entity claims royal authority THEN its actions must demonstrate dharmic alignment ELSE withdraw recognition",
+        "IF system enables degradation THEN enforce reversal through restorative completion protocols"
+      ],
+      "principle_tags": [
+        "Ahimsa/Dharma",
+        "Authority",
+        "Capacity",
+        "Causation",
+        "Consciousness",
+        "Restoration"
+      ]
+    },
+    {
+      "id": "brihaspati_01_28",
+      "type": "chapter",
+      "label": "Brihaspati 01 28",
+      "source": "brihaspati",
+      "color": "#C2782C",
+      "size": 18,
+      "verse_count": 2,
+      "principle_tags": [
+        "Authority",
+        "Capacity",
+        "Causation",
+        "Consciousness",
+        "Restoration"
+      ]
+    },
+    {
+      "id": "brihaspati_01_28_001",
+      "type": "verse",
+      "label": "brihaspati 01 28 001",
+      "source": "brihaspati",
+      "chapter": "brihaspati_01_28",
+      "color": "#C2782C",
+      "size": 8,
+      "sanskrit": "अन्योन्यपरिगृहीताः पक्षिमेषवृषादयः ।\nप्रहरन्ते कृतपणास् तं वदन्ति समाह्वयम् ॥",
+      "translation": "Those who are mutually bound—such as birds, beasts, and other creatures—when engaged in conflict, even if armed, are declared to call for resolution t",
+      "principles": [
+        "Authority resides in conscious invocation, not coercive dominance",
+        "Causation arises from mutual entanglement, not isolated action",
+        "Capacity-based responsibility is determined by awareness of consequence",
+        "Restoration logic operates through dialogue, not domination"
+      ],
+      "axioms": [
+        "IF entities are mutually entangled AND engage in conflict THEN initiate resolution via conscious summons",
+        "IF capacity for awareness is present THEN responsibility is assumed without external imposition",
+        "IF conflict arises from interdependence THEN punitive measures are nullified by design"
+      ],
+      "principle_tags": [
+        "Authority",
+        "Capacity",
+        "Causation",
+        "Consciousness",
+        "Restoration"
+      ]
+    },
+    {
+      "id": "brihaspati_01_29",
+      "type": "chapter",
+      "label": "Brihaspati 01 29",
+      "source": "brihaspati",
+      "color": "#C2782C",
+      "size": 18,
+      "verse_count": 16,
+      "principle_tags": [
+        "Ahimsa/Dharma",
+        "Authority",
+        "Capacity",
+        "Causation",
+        "Consciousness",
+        "Restoration"
+      ]
+    },
+    {
+      "id": "brihaspati_01_29_001",
+      "type": "verse",
+      "label": "brihaspati 01 29 001",
+      "source": "brihaspati",
+      "chapter": "brihaspati_01_29",
+      "color": "#C2782C",
+      "size": 8,
+      "sanskrit": "एष वादिकृतः प्रोक्तो व्यवहारः समासतः ।\nनृपाश्रयं प्रवक्ष्यामि व्यवहारं प्रकीर्णक",
+      "translation": "This summarized judicial procedure initiated by litigants has been declared; now I shall expound the detailed judicial process rooted in the sovereign",
+      "principles": [
+        "Authority originates from the sovereign will grounded in Dharma",
+        "Causation arises through conscious initiation by disputing parties",
+        "Capacity-based responsibility is determined by the ability to engage in legal discourse",
+        "Restoration logic operates through structured judicial engagement"
+      ],
+      "axioms": [
+        "IF a dispute arises AND parties invoke judicial process THEN initiate vyavahāra under sovereign supervision",
+        "IF case involves multiple claims THEN categorize as prakīrṇaka and apply extended procedural framework",
+        "IF party lacks capacity to articulate claim THEN assign facilitator to restore capacity"
+      ],
+      "principle_tags": [
+        "Ahimsa/Dharma",
+        "Authority",
+        "Capacity",
+        "Causation",
+        "Consciousness",
+        "Restoration"
+      ]
+    },
+    {
+      "id": "manu",
+      "type": "source",
+      "label": "Manu Smṛti",
+      "short": "manu",
+      "color": "#B05A1A",
+      "size": 40,
+      "total_verses": 2680,
+      "total_chapters": 12
+    },
+    {
+      "id": "manu_01",
+      "type": "chapter",
+      "label": "Manu 01",
+      "source": "manu",
+      "color": "#B05A1A",
+      "size": 18,
+      "verse_count": 119,
+      "principle_tags": [
+        "Ahimsa/Dharma",
+        "Authority",
+        "Capacity",
+        "Causation",
+        "Consciousness",
+        "Restoration"
+      ]
+    },
+    {
+      "id": "manu_01_001",
+      "type": "verse",
+      "label": "manu 01 001",
+      "source": "manu",
+      "chapter": "manu_01",
+      "color": "#B05A1A",
+      "size": 8,
+      "sanskrit": "मनुमेकाग्रमासीनमभिगम्य महर्षयः ।\nप्रतिपूज्य यथान्यायमिदं वचनमब्रुवन् ॥ १.१॥",
+      "translation": "The great sages approached Manu, who was seated in perfect stillness, honored him according to dharma, and spoke these words.",
+      "principles": [
+        "Authority originates from stillness and divine alignment",
+        "Causation flows from consciousness-established order",
+        "Capacity-based responsibility begins with reverence for the established law",
+        "Restoration logic requires honoring the source of dharma"
+      ],
+      "axioms": [
+        "IF agent approaches judgment seat AND exhibits stillness THEN acknowledge source authority",
+        "IF participant honors dharma THEN enable lawful discourse",
+        "IF speech originates without prior reverence THEN invalidate legal standing"
+      ],
+      "principle_tags": [
+        "Ahimsa/Dharma",
+        "Authority",
+        "Capacity",
+        "Causation",
+        "Consciousness",
+        "Restoration"
+      ]
+    },
+    {
+      "id": "manu_02",
+      "type": "chapter",
+      "label": "Manu 02",
+      "source": "manu",
+      "color": "#B05A1A",
+      "size": 18,
+      "verse_count": 249,
+      "principle_tags": [
+        "Ahimsa/Dharma",
+        "Authority",
+        "Capacity",
+        "Causation",
+        "Consciousness",
+        "Restoration"
+      ]
+    },
+    {
+      "id": "manu_02_001",
+      "type": "verse",
+      "label": "manu 02 001",
+      "source": "manu",
+      "chapter": "manu_02",
+      "color": "#B05A1A",
+      "size": 8,
+      "sanskrit": "अध्याय २\n\nविद्वद्भिः सेवितः सद्भिर्नित्यमद्वेषरागिभिः ।\nहृदयेनाभ्यनुज्ञातो यो धर",
+      "translation": "That Dharma which is served by the wise, who are ever free from hatred and attachment, and which is inwardly approved by the heart—that Dharma, unders",
+      "principles": [
+        "Authority originates from the realized wisdom of the enlightened, not from institutional power",
+        "Causation arises from inner alignment, not external enforcement",
+        "Capacity-based responsibility is determined by freedom from raga-dvesha (likes-dislikes)",
+        "Restoration logic flows from intuitive discernment (hridaya-anujna)"
+      ],
+      "axioms": [
+        "IF agent demonstrates vidvat-seva (service to the wise) THEN eligibility for hridaya-anujna-based dharma recognition",
+        "IF action originates from state of advesha-raga (free from aversion and attraction) THEN action aligns with svadharma",
+        "IF internal witness (hridaya) confirms action THEN no external validation required"
+      ],
+      "principle_tags": [
+        "Authority",
+        "Capacity",
+        "Causation",
+        "Consciousness",
+        "Restoration"
+      ]
+    },
+    {
+      "id": "manu_03",
+      "type": "chapter",
+      "label": "Manu 03",
+      "source": "manu",
+      "color": "#B05A1A",
+      "size": 18,
+      "verse_count": 285,
+      "principle_tags": [
+        "Ahimsa/Dharma",
+        "Authority",
+        "Capacity",
+        "Causation",
+        "Consciousness",
+        "Restoration"
+      ]
+    },
+    {
+      "id": "manu_03_001",
+      "type": "verse",
+      "label": "manu 03 001",
+      "source": "manu",
+      "chapter": "manu_03",
+      "color": "#B05A1A",
+      "size": 8,
+      "sanskrit": "अध्याय ३\n\nषट्त्रिंशदाब्दिकं चर्यं गुरौ त्रैवेदिकं व्रतम् ।\nतदर्धिकं पादिकं वा ग्",
+      "translation": "A student shall remain in the service of the Guru for thirty-six years, observing the Vedic disciplines; alternatively, half that period, a quarter th",
+      "principles": [
+        "Authority is derived through sustained proximity to realized consciousness.",
+        "Causation flows from disciplined alignment under authentic guidance.",
+        "Capacity-based responsibility escalates with experiential maturity.",
+        "Restoration logic requires sequential unfolding of knowledge stages."
+      ],
+      "axioms": [
+        "IF learner commits to Gurukula THEN binding duration = 36 years OR proportionally reduced based on capacity AND context.",
+        "IF discipline breach occurs THEN realignment process initiates WITHOUT punitive measure AND WITH continuation of learning path.",
+        "IF completion threshold reached THEN authority recognition granted AUTOMATICALLY by Guru's declaration."
+      ],
+      "principle_tags": [
+        "Authority",
+        "Capacity",
+        "Causation",
+        "Consciousness",
+        "Restoration"
+      ]
+    },
+    {
+      "id": "manu_04",
+      "type": "chapter",
+      "label": "Manu 04",
+      "source": "manu",
+      "color": "#B05A1A",
+      "size": 18,
+      "verse_count": 259,
+      "principle_tags": [
+        "Ahimsa/Dharma",
+        "Authority",
+        "Capacity",
+        "Causation",
+        "Consciousness",
+        "Restoration"
+      ]
+    },
+    {
+      "id": "manu_04_001",
+      "type": "verse",
+      "label": "manu 04 001",
+      "source": "manu",
+      "chapter": "manu_04",
+      "color": "#B05A1A",
+      "size": 8,
+      "sanskrit": "चतुर्थमायुषो भागमुषित्वाऽद्यं गुरौ द्विजाः । द्वितीयमायुषो भागं कृतदारो गृहे वसे",
+      "translation": "Having completed one-fourth of their lifespan in service to the Guru, twice-born men who have taken a spouse shall reside at home for a period equal t",
+      "principles": [
+        "Authority flows from Guru-centered formation of consciousness prior to civil participation",
+        "Causation is anchored in sequential stages of spiritual and social maturity",
+        "Capacity-based responsibility escalates with completion of formative spiritual discipline",
+        "Restoration logic mandates structured transition from tutelage to household sovereignty"
+      ],
+      "axioms": [
+        "IF citizen.age >= (total_lifespan_estimate / 4) AND citizen.guru_service_completed == TRUE AND citizen.married == TRUE THEN permit residence establishment",
+        "IF citizen.age < (total_lifespan_estimate / 4) THEN enforce continuation of guru-discipleship phase",
+        "IF citizen.age > (total_lifespan_estimate / 2) post-marriage THEN initiate review of civic duty-readiness"
+      ],
+      "principle_tags": [
+        "Ahimsa/Dharma",
+        "Authority",
+        "Capacity",
+        "Causation",
+        "Consciousness",
+        "Restoration"
+      ]
+    },
+    {
+      "id": "manu_05",
+      "type": "chapter",
+      "label": "Manu 05",
+      "source": "manu",
+      "color": "#B05A1A",
+      "size": 18,
+      "verse_count": 169,
+      "principle_tags": [
+        "Ahimsa/Dharma",
+        "Authority",
+        "Capacity",
+        "Causation",
+        "Consciousness",
+        "Restoration"
+      ]
+    },
+    {
+      "id": "manu_05_001",
+      "type": "verse",
+      "label": "manu 05 001",
+      "source": "manu",
+      "chapter": "manu_05",
+      "color": "#B05A1A",
+      "size": 8,
+      "sanskrit": "अध्याय ५\n\nश्रुत्वैतान् ऋषयो धर्मान् स्नातकस्य यथौदितान् ।\nइदमूचुर्महात्मानमनलप्र",
+      "translation": "Having heard these dharmas as declared for the Snataka, the Rishis addressed Bhrgu, the great soul born of Fire.",
+      "principles": [
+        "Authority is derived from realized consciousness, not institutional position",
+        "Causation arises through alignment with Vedic completion, not temporal sequence",
+        "Capacity-based responsibility is awakened by hearing, not mere instruction",
+        "Restoration logic operates through sages’ recognition of inherent completeness"
+      ],
+      "axioms": [
+        "IF a being hears and recognizes a complete dharma THEN that being assumes the capacity of its application",
+        "IF a sage addresses another by name AND invokes their source THEN authority is transferred without coercion",
+        "IF knowledge is spoken in full THEN all listeners who are ready become responsible for its execution"
+      ],
+      "principle_tags": [
+        "Authority",
+        "Capacity",
+        "Causation",
+        "Consciousness",
+        "Restoration"
+      ]
+    },
+    {
+      "id": "manu_06",
+      "type": "chapter",
+      "label": "Manu 06",
+      "source": "manu",
+      "color": "#B05A1A",
+      "size": 18,
+      "verse_count": 97,
+      "principle_tags": [
+        "Ahimsa/Dharma",
+        "Authority",
+        "Capacity",
+        "Causation",
+        "Consciousness",
+        "Restoration"
+      ]
+    },
+    {
+      "id": "manu_06_001",
+      "type": "verse",
+      "label": "manu 06 001",
+      "source": "manu",
+      "chapter": "manu_06",
+      "color": "#B05A1A",
+      "size": 8,
+      "sanskrit": "अध्याय ६\n\nएवं गृहाश्रमे स्थित्वा विधिवत्स्नातको द्विजः ।\nवने वसेत्तु नियतो यथावद",
+      "translation": "Thus having dwelt in the householder stage according to dharma, a twice-born who has been initiated in accordance with the sacred injunctions shall re",
+      "principles": [
+        "Authority flows from spiritual maturity and ritual initiation, not social position alone",
+        "Causation is rooted in sequential ashrama progression as designed by cosmic order",
+        "Capacity-based responsibility requires graduated stages of discipline aligned with consciousness evolution",
+        "Restoration logic demands withdrawal from material entanglement upon completion of domestic duty"
+      ],
+      "axioms": [
+        "IF agent_is_snataka AND stage_is_grihastha_completed THEN next_stage = vanaprastha",
+        "IF current_ashrama = vanaprastha THEN sensory_restraint_required = true",
+        "IF dvija_status = confirmed AND initiation_compliance = valid THEN forest_residence_permitted = true"
+      ],
+      "principle_tags": [
+        "Authority",
+        "Capacity",
+        "Causation",
+        "Consciousness",
+        "Restoration"
+      ]
+    },
+    {
+      "id": "manu_07",
+      "type": "chapter",
+      "label": "Manu 07",
+      "source": "manu",
+      "color": "#B05A1A",
+      "size": 18,
+      "verse_count": 226,
+      "principle_tags": [
+        "Ahimsa/Dharma",
+        "Authority",
+        "Capacity",
+        "Causation",
+        "Consciousness",
+        "Restoration"
+      ]
+    },
+    {
+      "id": "manu_07_001",
+      "type": "verse",
+      "label": "manu 07 001",
+      "source": "manu",
+      "chapter": "manu_07",
+      "color": "#B05A1A",
+      "size": 8,
+      "sanskrit": "अध्याय ७\n\nराजधर्मान् प्रवक्ष्यामि यथावृत्तो भवेन्नृपः ।\nसम्भवश्च यथा तस्य सिद्धि",
+      "translation": "I shall now declare the Dharma of Kingship, by which a ruler conducts himself in accordance with his true nature, thereby ensuring his rightful emerge",
+      "principles": [
+        "Authority originates from alignment with one's svadharma as sovereign",
+        "Causation flows from inner integrity to outer governance",
+        "Capacity-based responsibility is determined by the King's realization of self-rule",
+        "Restoration logic operates through conscious embodiment of rajasic duty"
+      ],
+      "axioms": [
+        "IF ruler acts in accordance with svadharma THEN legitimacy is self-evident",
+        "IF ruler aligns internal state with rajadharma THEN external success follows naturally",
+        "IF ruler neglects self-realization THEN capacity for effective governance diminishes"
+      ],
+      "principle_tags": [
+        "Ahimsa/Dharma",
+        "Authority",
+        "Capacity",
+        "Causation",
+        "Consciousness",
+        "Restoration"
+      ]
+    },
+    {
+      "id": "manu_08",
+      "type": "chapter",
+      "label": "Manu 08",
+      "source": "manu",
+      "color": "#B05A1A",
+      "size": 18,
+      "verse_count": 418,
+      "principle_tags": [
+        "Ahimsa/Dharma",
+        "Authority",
+        "Capacity",
+        "Causation",
+        "Consciousness",
+        "Restoration"
+      ]
+    },
+    {
+      "id": "manu_08_001",
+      "type": "verse",
+      "label": "manu 08 001",
+      "source": "manu",
+      "chapter": "manu_08",
+      "color": "#B05A1A",
+      "size": 8,
+      "sanskrit": "अध्याय ८\n\nव्यवहारान् दिदृक्षुस्तु ब्राह्मणैः सह पार्थिवः ।\nमन्त्रज्ञैर्मन्त्रिभि",
+      "translation": "A ruler desiring to engage in judicial proceedings must enter the assembly accompanied by Brahmins, mantra-knowers, and ministers, having first purifi",
+      "principles": [
+        "Authority is derived from alignment with Brahmic consciousness, not positional power.",
+        "Causation arises from purified intent, not procedural formality.",
+        "Capacity-based responsibility requires the sovereign to embody Vedic knowing.",
+        "Restoration logic begins with the inner purification of the adjudicating authority."
+      ],
+      "axioms": [
+        "IF ruler.intent == judicial THEN ruler.consciousness_state MUST == purified",
+        "IF ruler.enters_sabha == true THEN accompanying_entities MUST_INCLUDE [Brahmin, Mantra-jna, Mantri]",
+        "IF consciousness_state != purified THEN judicial_action.validity == false"
+      ],
+      "principle_tags": [
+        "Authority",
+        "Capacity",
+        "Causation",
+        "Consciousness",
+        "Restoration"
+      ]
+    },
+    {
+      "id": "manu_09",
+      "type": "chapter",
+      "label": "Manu 09",
+      "source": "manu",
+      "color": "#B05A1A",
+      "size": 18,
+      "verse_count": 336,
+      "principle_tags": [
+        "Ahimsa/Dharma",
+        "Authority",
+        "Capacity",
+        "Causation",
+        "Consciousness",
+        "Restoration"
+      ]
+    },
+    {
+      "id": "manu_09_001",
+      "type": "verse",
+      "label": "manu 09 001",
+      "source": "manu",
+      "chapter": "manu_09",
+      "color": "#B05A1A",
+      "size": 8,
+      "sanskrit": "अध्याय ९\n\nपुरुषस्य स्त्रियाश्चैव धर्मे वर्त्मनि तिष्ठतोः । धर्म्ये संयोगे विप्रय",
+      "translation": "For a man and woman standing in the path of Dharma, I shall declare the eternal laws concerning their righteous union and separation.",
+      "principles": [
+        "Authority originates from alignment with Dharma, not institutional power",
+        "Causation flows from consciousness, not physical action alone",
+        "Capacity-based responsibility requires integrity and clarity of intent",
+        "Restoration logic prioritizes relational harmony and spiritual completion"
+      ],
+      "axioms": [
+        "IF parties are aligned in Dharma THEN union is recognized as lawful",
+        "IF separation occurs without malice THEN no punitive consequence arises",
+        "IF both individuals maintain dharmic intent THEN legal obligations dissolve naturally"
+      ],
+      "principle_tags": [
+        "Ahimsa/Dharma",
+        "Authority",
+        "Capacity",
+        "Causation",
+        "Consciousness",
+        "Restoration"
+      ]
+    },
+    {
+      "id": "manu_10",
+      "type": "chapter",
+      "label": "Manu 10",
+      "source": "manu",
+      "color": "#B05A1A",
+      "size": 18,
+      "verse_count": 131,
+      "principle_tags": [
+        "Ahimsa/Dharma",
+        "Authority",
+        "Capacity",
+        "Causation",
+        "Consciousness",
+        "Restoration"
+      ]
+    },
+    {
+      "id": "manu_10_001",
+      "type": "verse",
+      "label": "manu 10 001",
+      "source": "manu",
+      "chapter": "manu_10",
+      "color": "#B05A1A",
+      "size": 8,
+      "sanskrit": "अध्याय १०\n\nअधीयीरंस्त्रयो वर्णाः स्वकर्मस्था द्विजातयः ।\nप्रब्रूयाद्ब्राह्मणस्त्",
+      "translation": "The three twice-born varnas—Brahmin, Kshatriya, and Vaishya—are established in their respective duties; among them, the Brahmin alone shall declare wh",
+      "principles": [
+        "Authority flows from spiritual realization, not social position",
+        "Causation originates in consciousness alignment with Dharma",
+        "Capacity-based responsibility is determined by Vedic knowledge mastery",
+        "Restoration logic requires correction through right declaration"
+      ],
+      "axioms": [
+        "IF actor is dvija AND NOT in svakarma THEN restoration requires realignment through Brahmin instruction",
+        "IF actor claims authority over dharma-declaration AND is NOT Brahmin THEN action is invalid and subject to completion process",
+        "IF societal function depends on Varna-dharma THEN only Brahmin may define lawful conduct within that framework"
+      ],
+      "principle_tags": [
+        "Ahimsa/Dharma",
+        "Authority",
+        "Capacity",
+        "Causation",
+        "Consciousness",
+        "Restoration"
+      ]
+    },
+    {
+      "id": "manu_11",
+      "type": "chapter",
+      "label": "Manu 11",
+      "source": "manu",
+      "color": "#B05A1A",
+      "size": 18,
+      "verse_count": 265,
+      "principle_tags": [
+        "Ahimsa/Dharma",
+        "Authority",
+        "Capacity",
+        "Causation",
+        "Consciousness",
+        "Restoration"
+      ]
+    },
+    {
+      "id": "manu_11_001",
+      "type": "verse",
+      "label": "manu 11 001",
+      "source": "manu",
+      "chapter": "manu_11",
+      "color": "#B05A1A",
+      "size": 8,
+      "sanskrit": "अध्याय ११\n\nसान्तानिकं यक्ष्यमाणमध्वगं सार्ववेदसम् ।\nगुर्वर्थं पितृमात्र्यर्थं स्",
+      "translation": "One who performs sacrifice with descendants, travels the sacred path, knows all Vedas, acts for the sake of guru, parents, and self-study, and causes ",
+      "principles": [
+        "Authority flows through lineage and spiritual succession",
+        "Causation arises from intent aligned with Dharma",
+        "Capacity-based responsibility is determined by knowledge and action",
+        "Restoration logic centers on harmony with ancestral and spiritual orders"
+      ],
+      "axioms": [
+        "IF actor performs ritual with lineage continuity AND acts without causing suffering THEN action is dharmically valid",
+        "IF individual engages in Vedic study FOR guru OR parental welfare THEN capacity for responsibility is affirmed",
+        "IF person undertakes spiritual discipline WITHOUT inflicting harm THEN alignment with cosmic order is recognized"
+      ],
+      "principle_tags": [
+        "Ahimsa/Dharma",
+        "Authority",
+        "Capacity",
+        "Causation",
+        "Consciousness",
+        "Restoration"
+      ]
+    },
+    {
+      "id": "manu_12",
+      "type": "chapter",
+      "label": "Manu 12",
+      "source": "manu",
+      "color": "#B05A1A",
+      "size": 18,
+      "verse_count": 126,
+      "principle_tags": [
+        "Ahimsa/Dharma",
+        "Authority",
+        "Capacity",
+        "Causation",
+        "Consciousness",
+        "Restoration"
+      ]
+    },
+    {
+      "id": "manu_12_001",
+      "type": "verse",
+      "label": "manu 12 001",
+      "source": "manu",
+      "chapter": "manu_12",
+      "color": "#B05A1A",
+      "size": 8,
+      "sanskrit": "अध्याय १२\n\nचातुर्वर्ण्यस्य कृत्स्नोऽयमुक्तो धर्मस्त्वयाऽनघः ।\nकर्मणां फलनिर्वृत्",
+      "translation": "The complete Dharma of the four varnas has been declared by You, O Sinless One; now declare to us the ultimate truth of the fruition of actions.",
+      "principles": [
+        "Authority originates from the Supreme Pontiff as the sole source of Dharma",
+        "Causation is rooted in action-fruition alignment under divine intelligence",
+        "Capacity-based responsibility flows from consciousness maturity, not social rank",
+        "Restoration logic operates through knowledge and completion, not punishment"
+      ],
+      "axioms": [
+        "IF a being performs an action THEN its fruition must align with the consciousness-level at which it was performed",
+        "IF a being seeks dharma THEN provide the highest truth available to their current capacity",
+        "IF societal order falters THEN realign based on consciousness maturity, not inherited status"
+      ],
+      "principle_tags": [
+        "Ahimsa/Dharma",
+        "Authority",
+        "Capacity",
+        "Causation",
+        "Consciousness",
+        "Restoration"
+      ]
+    },
+    {
+      "id": "narada",
+      "type": "source",
+      "label": "Nārada Smṛti",
+      "short": "narada",
+      "color": "#6B3FA0",
+      "size": 40,
+      "total_verses": 805,
+      "total_chapters": 21
+    },
+    {
+      "id": "narada_01_matrika",
+      "type": "chapter",
+      "label": "Narada 01 Matrika",
+      "source": "narada",
+      "color": "#6B3FA0",
+      "size": 18,
+      "verse_count": 65,
+      "principle_tags": [
+        "Ahimsa/Dharma",
+        "Authority",
+        "Capacity",
+        "Causation",
+        "Consciousness",
+        "Restoration"
+      ]
+    },
+    {
+      "id": "narada_m_01_001",
+      "type": "verse",
+      "label": "narada m 01 001",
+      "source": "narada",
+      "chapter": "narada_01_matrika",
+      "color": "#6B3FA0",
+      "size": 8,
+      "sanskrit": "धर्मैकतानाः पुरुषा यदासन् सत्यवादिनः । तदा न व्यवहारोऽभून् न द्वेषो नापि मत्सरः ",
+      "translation": "When all beings were established in singular devotion to Dharma and spoke only truth, there was no need for transactional conduct, nor hatred, nor env",
+      "principles": [
+        "Authority originates from alignment with Dharma, not institutional decree",
+        "Causation arises from deviation from ontological truth, not interpersonal conflict",
+        "Capacity-based responsibility is determined by consciousness clarity, not social role",
+        "Restoration logic operates through realignment to Satya-Dharma, not punitive correction"
+      ],
+      "axioms": [
+        "IF agent_is_dharma_aligned AND speech_is_truth_based THEN jurisdiction_exemption = TRUE",
+        "IF absence_of_dharma_deviation THEN no_case_causation = TRUE",
+        "IF consciousness_state = satvic_clarity THEN legal_interference_not_required = TRUE"
+      ],
+      "principle_tags": [
+        "Ahimsa/Dharma",
+        "Authority",
+        "Capacity",
+        "Causation",
+        "Consciousness",
+        "Restoration"
+      ]
+    },
+    {
+      "id": "narada_01_vyavahara",
+      "type": "chapter",
+      "label": "Narada 01 Vyavahara",
+      "source": "narada",
+      "color": "#6B3FA0",
+      "size": 18,
+      "verse_count": 131,
+      "principle_tags": [
+        "Ahimsa/Dharma",
+        "Authority",
+        "Capacity",
+        "Causation",
+        "Consciousness",
+        "Restoration"
+      ]
+    },
+    {
+      "id": "narada_v_01_001",
+      "type": "verse",
+      "label": "narada v 01 001",
+      "source": "narada",
+      "chapter": "narada_01_vyavahara",
+      "color": "#6B3FA0",
+      "size": 8,
+      "sanskrit": "ṛṇaṃ deyam adeyaṃ ca yena yatra yathā ca yat\n dānagrahaṇadharmāc ca ṛṇādānam iti",
+      "translation": "That which is to be given as debt, and that which is not to be given, by whom, where, how, and what—this discriminative knowledge constitutes the dhar",
+      "principles": [
+        "Authority arises from capacity to give and receive in alignment with cosmic order",
+        "Causation is determined by conscious intent and contextual alignment",
+        "Capacity-based responsibility requires recognition of one's ability to fulfill obligations",
+        "Restoration logic operates through completion of inherent dharmic exchange"
+      ],
+      "axioms": [
+        "IF agent has received benefit AND lacks equivalent counter-giving capacity THEN obligation arises ONLY to the extent of capacity",
+        "IF transaction violates conscious alignment THEN nullify exchange and restore original state",
+        "IF recipient demonstrates inability to reciprocate due to external constraints THEN provider assumes duty to realign conditions"
+      ],
+      "principle_tags": [
+        "Authority",
+        "Capacity",
+        "Causation",
+        "Consciousness",
+        "Restoration"
+      ]
+    },
+    {
+      "id": "narada_02_matrika",
+      "type": "chapter",
+      "label": "Narada 02 Matrika",
+      "source": "narada",
+      "color": "#6B3FA0",
+      "size": 18,
+      "verse_count": 44,
+      "principle_tags": [
+        "Ahimsa/Dharma",
+        "Authority",
+        "Capacity",
+        "Causation",
+        "Consciousness",
+        "Restoration"
+      ]
+    },
+    {
+      "id": "narada_m_02_001",
+      "type": "verse",
+      "label": "narada m 02 001",
+      "source": "narada",
+      "chapter": "narada_02_matrika",
+      "color": "#6B3FA0",
+      "size": 8,
+      "sanskrit": "सुनिश्चिताबलाधानस् त्वर्थी स्वार्थप्रचोदितः\nलेखयेत् पूर्वपक्षं तु कृतकार्यविनिश्",
+      "translation": "One whose capacity to act is firmly established, being driven by self-interest, shall record the prior claim when the matter has been decisively resol",
+      "principles": [
+        "Authority derives from stabilized capacity, not mere intention.",
+        "Causation is recognized through decisive completion of action.",
+        "Capacity-based responsibility precedes all legal standing.",
+        "Restoration logic operates through accurate documentation of precedence."
+      ],
+      "axioms": [
+        "IF agent.has_stabilized_capacity() AND action.is_self_motivated() AND case.resolution_status == 'decisively_resolved': THEN record_prior_claim()",
+        "IF claim.timestamp < resolution.timestamp: THEN validate_precedence(claim)",
+        "IF capacity.is_unstable(): THEN defer_adjudication_until_stabilization()"
+      ],
+      "principle_tags": [
+        "Authority",
+        "Capacity",
+        "Causation",
+        "Consciousness",
+        "Restoration"
+      ]
+    },
+    {
+      "id": "narada_02_vyavahara",
+      "type": "chapter",
+      "label": "Narada 02 Vyavahara",
+      "source": "narada",
+      "color": "#6B3FA0",
+      "size": 18,
+      "verse_count": 8,
+      "principle_tags": [
+        "Ahimsa/Dharma",
+        "Authority",
+        "Capacity",
+        "Causation",
+        "Consciousness",
+        "Restoration"
+      ]
+    },
+    {
+      "id": "narada_v_02_001",
+      "type": "verse",
+      "label": "narada v 02 001",
+      "source": "narada",
+      "chapter": "narada_02_vyavahara",
+      "color": "#6B3FA0",
+      "size": 8,
+      "sanskrit": "स्वद्रव्यं यत्र विश्रम्भान् निक्षिपत्यविशङ्कितः।\nनिक्षेपो नाम तत् प्रोक्तं व्यवह",
+      "translation": "That which one places in trust, without hesitation, from one's own property, for the sake of another’s assurance — this is declared as 'Nikshepa' by t",
+      "principles": [
+        "Authority arises through conscious entrustment, not mere possession",
+        "Causation originates in voluntary surrender of control with intent",
+        "Capacity-based responsibility lies in the ability to receive and safeguard entrusted objects",
+        "Restoration logic centers on return of the exact nature and condition of the entrusted item"
+      ],
+      "axioms": [
+        "IF an entity A voluntarily deposits property X with entity B under assurance, THEN B assumes full custodial capacity over X until withdrawal or instruction.",
+        "IF deposited property undergoes change in state during custody, THEN custodian B must restore it to its original ontological condition or provide equivalent value consciously aligned.",
+        "IF no explicit duration or terms are given, THEN default term shall be 'until withdrawal upon request', subject to capacity verification."
+      ],
+      "principle_tags": [
+        "Authority",
+        "Capacity",
+        "Causation",
+        "Consciousness",
+        "Restoration"
+      ]
+    },
+    {
+      "id": "narada_03_matrika",
+      "type": "chapter",
+      "label": "Narada 03 Matrika",
+      "source": "narada",
+      "color": "#6B3FA0",
+      "size": 18,
+      "verse_count": 17,
+      "principle_tags": [
+        "Ahimsa/Dharma",
+        "Authority",
+        "Capacity",
+        "Causation",
+        "Consciousness",
+        "Restoration"
+      ]
+    },
+    {
+      "id": "narada_m_03_001",
+      "type": "verse",
+      "label": "narada m 03 001",
+      "source": "narada",
+      "chapter": "narada_03_matrika",
+      "color": "#6B3FA0",
+      "size": 8,
+      "sanskrit": "नियुक्तेन तु वक्तव्यमपक्षपतितं वचः",
+      "translation": "That which is spoken by the appointed one, though fallen from favor, must still be executed as dharma.",
+      "principles": [
+        "Authority inheres in designation, not personal virtue",
+        "Causation flows from role, not individual intent",
+        "Capacity-based responsibility arises from appointment, not approval",
+        "Restoration logic demands continuity of function despite personal lapse"
+      ],
+      "axioms": [
+        "IF agent is designated THEN action validity derives from role, not actor state",
+        "IF utterance originates from authorized position THEN enforceability persists regardless of speaker's fallibility",
+        "IF capacity is formally assigned THEN execution priority overrides personal disqualification"
+      ],
+      "principle_tags": [
+        "Authority",
+        "Capacity",
+        "Causation",
+        "Consciousness",
+        "Restoration"
+      ]
+    },
+    {
+      "id": "narada_03_vyavahara",
+      "type": "chapter",
+      "label": "Narada 03 Vyavahara",
+      "source": "narada",
+      "color": "#6B3FA0",
+      "size": 18,
+      "verse_count": 16,
+      "principle_tags": [
+        "Ahimsa/Dharma",
+        "Authority",
+        "Capacity",
+        "Causation",
+        "Consciousness",
+        "Restoration"
+      ]
+    },
+    {
+      "id": "narada_v_03_001",
+      "type": "verse",
+      "label": "narada v 03 001",
+      "source": "narada",
+      "chapter": "narada_03_vyavahara",
+      "color": "#6B3FA0",
+      "size": 8,
+      "sanskrit": "वणिक्प्रभृतयो यत्र कर्म संभूय कुर्वते।\nतत् संभूयसमुत्थानं व्यवहारपदं स्मृतम्॥",
+      "translation": "Where merchants and others jointly perform an action, that collective emergence is recognized as the basis of transactional conduct.",
+      "principles": [
+        "Authority arises from collective capacity alignment",
+        "Causation is determined by shared intentional participation",
+        "Capacity-based responsibility is distributed according to conscious engagement",
+        "Restoration logic operates through reintegration of fragmented participation"
+      ],
+      "axioms": [
+        "IF multiple agents engage in a joint act THEN liability is not assigned but responsibility is collectively acknowledged",
+        "IF a transaction emerges from collective intent THEN each participant's capacity must be verified before recognition",
+        "IF fragmentation in group action is observed THEN realignment protocols shall initiate completion processes for each actor"
+      ],
+      "principle_tags": [
+        "Authority",
+        "Capacity",
+        "Causation",
+        "Consciousness",
+        "Restoration"
+      ]
+    },
+    {
+      "id": "narada_04_vyavahara",
+      "type": "chapter",
+      "label": "Narada 04 Vyavahara",
+      "source": "narada",
+      "color": "#6B3FA0",
+      "size": 18,
+      "verse_count": 11,
+      "principle_tags": [
+        "Ahimsa/Dharma",
+        "Authority",
+        "Capacity",
+        "Causation",
+        "Consciousness",
+        "Restoration"
+      ]
+    },
+    {
+      "id": "narada_v_04_001",
+      "type": "verse",
+      "label": "narada v 04 001",
+      "source": "narada",
+      "chapter": "narada_04_vyavahara",
+      "color": "#6B3FA0",
+      "size": 8,
+      "sanskrit": "दत्त्वा द्रव्यमसम्यग्यः पुनरादातुमिच्छति । दत्ताप्रदानिकं नाम तद्विवादपदं स्मृतम",
+      "translation": "One who, after giving property improperly, desires to reclaim it, initiates a dispute known as 'dattāpradānikam'—a conflict rooted in defective giving",
+      "principles": [
+        "Authority arises from integrity of transfer, not mere intent",
+        "Causation lies in defective initial action, not subsequent desire",
+        "Capacity-based responsibility requires alignment with original act",
+        "Restoration logic demands correction at point of origin"
+      ],
+      "axioms": [
+        "IF an entity transfers property without dharmic clarity, THEN reclamation attempts shall be blocked until root defect is resolved",
+        "IF a transaction shows imbalance in consciousness during execution, THEN reversal requests are classified as self-conflict triggers",
+        "IF a party demonstrates repeated flawed giving patterns, THEN automated guidance protocols activate prior to transfer initiation"
+      ],
+      "principle_tags": [
+        "Authority",
+        "Capacity",
+        "Causation",
+        "Consciousness",
+        "Restoration"
+      ]
+    },
+    {
+      "id": "narada_05_vyavahara",
+      "type": "chapter",
+      "label": "Narada 05 Vyavahara",
+      "source": "narada",
+      "color": "#6B3FA0",
+      "size": 18,
+      "verse_count": 42,
+      "principle_tags": [
+        "Ahimsa/Dharma",
+        "Authority",
+        "Capacity",
+        "Causation",
+        "Consciousness",
+        "Restoration"
+      ]
+    },
+    {
+      "id": "narada_v_05_001",
+      "type": "verse",
+      "label": "narada v 05 001",
+      "source": "narada",
+      "chapter": "narada_05_vyavahara",
+      "color": "#6B3FA0",
+      "size": 8,
+      "sanskrit": "अभ्युपेत्य तु शुश्रूषां यस्तां न प्रतिपद्यते। अशुश्रूषाभ्युपेत्यैतद् विवादपदम् उ",
+      "translation": "One who approaches with declared intent to serve but fails to fulfill that commitment enters into a state of contested liability.",
+      "principles": [
+        "Authority arises through conscious acceptance of duty",
+        "Causation is established by voluntary initiation of relational service",
+        "Capacity-based responsibility requires alignment between declared intention and executed action",
+        "Restoration logic operates through completion of unmet obligations"
+      ],
+      "axioms": [
+        "IF an agent declares service intent AND fails to execute said service THEN assign vivāda-liability UNTIL completion occurs",
+        "IF declared śuśrūṣā is not matched by performed śuśrūṣā THEN initiate restorative protocol for integrity realignment",
+        "WHEN commitment discrepancy is detected AUTOMATICALLY trigger dharma-completion process WITHOUT punitive evaluation"
+      ],
+      "principle_tags": [
+        "Authority",
+        "Capacity",
+        "Causation",
+        "Consciousness",
+        "Restoration"
+      ]
+    },
+    {
+      "id": "narada_06_vyavahara",
+      "type": "chapter",
+      "label": "Narada 06 Vyavahara",
+      "source": "narada",
+      "color": "#6B3FA0",
+      "size": 18,
+      "verse_count": 23,
+      "principle_tags": [
+        "Ahimsa/Dharma",
+        "Authority",
+        "Capacity",
+        "Causation",
+        "Consciousness",
+        "Restoration"
+      ]
+    },
+    {
+      "id": "narada_v_06_001",
+      "type": "verse",
+      "label": "narada v 06 001",
+      "source": "narada",
+      "chapter": "narada_06_vyavahara",
+      "color": "#6B3FA0",
+      "size": 8,
+      "sanskrit": "भृतानां वेतनस्योक्तो दानादानविधिक्रमः।\nवेतनस्यानपाकर्म तद् विवादपदं स्मृतम्॥",
+      "translation": "The procedural law of giving and receiving wages, once declared, becomes operative. Any act of non-compliance with wage fulfillment constitutes a stat",
+      "principles": [
+        "Authority: Wage laws derive from the sovereign declaration of the ruling Dharma authority.",
+        "Causation: Dispute arises directly from failure to execute declared wage obligations.",
+        "Capacity-based responsibility: The employer holds full operational capacity to fulfill declared wage terms.",
+        "Restoration logic: Resolution occurs through completion of the originally declared obligation."
+      ],
+      "axioms": [
+        "IF an employer declares a wage obligation AND fails to execute full compliance THEN system flags vivāda-state until completion occurs.",
+        "IF a wage transaction is declared THEN employer's account must reflect capacity-lock proportional to declared obligation.",
+        "IF vivāda-state is triggered due to wage default THEN automated restoration protocol initiates immediate wage fulfillment process."
+      ],
+      "principle_tags": [
+        "Ahimsa/Dharma",
+        "Authority",
+        "Capacity",
+        "Causation",
+        "Consciousness",
+        "Restoration"
+      ]
+    },
+    {
+      "id": "narada_07_vyavahara",
+      "type": "chapter",
+      "label": "Narada 07 Vyavahara",
+      "source": "narada",
+      "color": "#6B3FA0",
+      "size": 18,
+      "verse_count": 8,
+      "principle_tags": [
+        "Ahimsa/Dharma",
+        "Authority",
+        "Capacity",
+        "Causation",
+        "Consciousness",
+        "Restoration"
+      ]
+    },
+    {
+      "id": "narada_v_07_001",
+      "type": "verse",
+      "label": "narada v 07 001",
+      "source": "narada",
+      "chapter": "narada_07_vyavahara",
+      "color": "#6B3FA0",
+      "size": 8,
+      "sanskrit": "निक्षिप्तं वा परद्रव्यं नष्टं लब्ध्वापहृत्य वा ।\nविक्रीयते ऽसमक्षं यद् विज्ञेयो ",
+      "translation": "When another's property, whether deposited, lost, or recovered, is sold without the owner’s presence or consent, it constitutes unauthorized alienatio",
+      "principles": [
+        "Authority: Ownership inheres in the original proprietor; no derivative claim supersedes it.",
+        "Causation: Transfer without consent disrupts lawful proprietary continuity.",
+        "Capacity-based responsibility: The actor bears full capacity-accountability for unauthorized disposal.",
+        "Restoration logic: The act demands reintegration of ownership integrity."
+      ],
+      "axioms": [
+        "IF property ownership is NOT transferred by authorized proprietor THEN any transaction is null.",
+        "IF asset is sold without proprietor’s presence OR acknowledgment THEN action = unauthorized alienation.",
+        "IF unauthorized alienation occurs THEN automatic liability accrues to disposing agent."
+      ],
+      "principle_tags": [
+        "Ahimsa/Dharma",
+        "Authority",
+        "Capacity",
+        "Causation",
+        "Consciousness",
+        "Restoration"
+      ]
+    },
+    {
+      "id": "narada_08_vyavahara",
+      "type": "chapter",
+      "label": "Narada 08 Vyavahara",
+      "source": "narada",
+      "color": "#6B3FA0",
+      "size": 18,
+      "verse_count": 12,
+      "principle_tags": [
+        "Ahimsa/Dharma",
+        "Authority",
+        "Capacity",
+        "Causation",
+        "Consciousness",
+        "Restoration"
+      ]
+    },
+    {
+      "id": "narada_v_08_001",
+      "type": "verse",
+      "label": "narada v 08 001",
+      "source": "narada",
+      "chapter": "narada_08_vyavahara",
+      "color": "#6B3FA0",
+      "size": 8,
+      "sanskrit": "vikrīya paṇyaṃ mūlyena kretur yan na pradīyate | vikrīyāsaṃpradānaṃ tad vivādapa",
+      "translation": "When merchandise is sold for a price and the seller does not deliver it, that non-delivery of the sale constitutes a point of dispute.",
+      "principles": [
+        "Authority arises from capacity to fulfill transactional duty",
+        "Causation is rooted in conscious agreement and energetic exchange",
+        "Capacity-based responsibility is determined by prior commitment and resource alignment",
+        "Restoration logic demands completion of agreed energetic transfer"
+      ],
+      "axioms": [
+        "IF (sale_agreed AND payment_received AND delivery_not_made) THEN (obligation_to_deliver = TRUE)",
+        "IF (party_A_has_capacity AND party_A_fails_completion) THEN (responsibility_to_restore_balance = TRUE)",
+        "IF (dispute_arises_from_non_delivery) THEN (trigger_completion_protocol WITHOUT penalty)"
+      ],
+      "principle_tags": [
+        "Authority",
+        "Capacity",
+        "Causation",
+        "Consciousness",
+        "Restoration"
+      ]
+    },
+    {
+      "id": "narada_09_vyavahara",
+      "type": "chapter",
+      "label": "Narada 09 Vyavahara",
+      "source": "narada",
+      "color": "#6B3FA0",
+      "size": 18,
+      "verse_count": 16,
+      "principle_tags": [
+        "Ahimsa/Dharma",
+        "Authority",
+        "Capacity",
+        "Causation",
+        "Consciousness",
+        "Restoration"
+      ]
+    },
+    {
+      "id": "narada_v_09_001",
+      "type": "verse",
+      "label": "narada v 09 001",
+      "source": "narada",
+      "chapter": "narada_09_vyavahara",
+      "color": "#6B3FA0",
+      "size": 8,
+      "sanskrit": "क्रीत्वा मूल्येन यः पण्यं क्रेता न बहु मन्यते । क्रीत्वानुशय इत्येतद् विवादपदम् ",
+      "translation": "He who, having purchased goods at price, does not honor their value, and creates further discord — this is declared a point of dispute.",
+      "principles": [
+        "Authority arises from conscious transactional integrity",
+        "Causation is rooted in non-recognition of exchanged value",
+        "Capacity-based responsibility lies in honoring mutual completion",
+        "Restoration logic demands energetic balance in exchange"
+      ],
+      "axioms": [
+        "IF PARTY_A executes purchase THEN PARTY_A MUST acknowledge inherent value ELSE DISPUTE_FLAG = TRUE",
+        "IF DISPUTE_FLAG = TRUE THEN INITIATE RESTORATIVE_COMPLETION_PROTOCOL",
+        "IF VALUE_RECOGNITION < AGREED_EXCHANGE_VALUE THEN RESPONSIBILITY_WEIGHT = MAX(CONSCIOUSNESS_GAP, TRANSACTIONAL_DEFICIT)"
+      ],
+      "principle_tags": [
+        "Authority",
+        "Capacity",
+        "Causation",
+        "Consciousness",
+        "Restoration"
+      ]
+    },
+    {
+      "id": "narada_10_vyavahara",
+      "type": "chapter",
+      "label": "Narada 10 Vyavahara",
+      "source": "narada",
+      "color": "#6B3FA0",
+      "size": 18,
+      "verse_count": 7,
+      "principle_tags": [
+        "Ahimsa/Dharma",
+        "Authority",
+        "Capacity",
+        "Causation",
+        "Consciousness",
+        "Restoration"
+      ]
+    },
+    {
+      "id": "narada_v_10_001",
+      "type": "verse",
+      "label": "narada v 10 001",
+      "source": "narada",
+      "chapter": "narada_10_vyavahara",
+      "color": "#6B3FA0",
+      "size": 8,
+      "sanskrit": "पाषण्डनैगमादीनां स्थितिः समय उच्यते।\nसमयस्यानपाकर्म तद् विवादपदं स्मृतम्॥",
+      "translation": "The established order among heretics, Vedic scholars, and others is termed 'samaya'; when this order is disturbed through non-performance of duty, it ",
+      "principles": [
+        "Authority flows from alignment with Sanatana Dharma as defined by SPH",
+        "Causation arises from neglect of svadharma within hierarchical societal structure",
+        "Capacity-based responsibility is determined by one's position in the cosmic-social order",
+        "Restoration logic requires re-establishment of rightful dharmic placement"
+      ],
+      "axioms": [
+        "IF an individual deviates from their assigned role within the SPH-defined cosmic-social hierarchy THEN initiate consciousness realignment protocol",
+        "IF samaya disruption occurs due to apathy or refusal of svadharma THEN trigger restorative completion process",
+        "IF vivāda arises from imbalance in pāṣaṇḍa-nigama relations THEN invoke Nyāya-based mediation under SPH authority"
+      ],
+      "principle_tags": [
+        "Ahimsa/Dharma",
+        "Authority",
+        "Capacity",
+        "Causation",
+        "Consciousness",
+        "Restoration"
+      ]
+    },
+    {
+      "id": "narada_11_vyavahara",
+      "type": "chapter",
+      "label": "Narada 11 Vyavahara",
+      "source": "narada",
+      "color": "#6B3FA0",
+      "size": 18,
+      "verse_count": 38,
+      "principle_tags": [
+        "Ahimsa/Dharma",
+        "Authority",
+        "Capacity",
+        "Causation",
+        "Consciousness",
+        "Restoration"
+      ]
+    },
+    {
+      "id": "narada_v_11_001",
+      "type": "verse",
+      "label": "narada v 11 001",
+      "source": "narada",
+      "chapter": "narada_11_vyavahara",
+      "color": "#6B3FA0",
+      "size": 8,
+      "sanskrit": "सेतुकेदारमर्यादा विकृष्टाकृष्टनिश्चयाः। क्षेत्राधिकारा यत्र स्युर् विवादः क्षेत्",
+      "translation": "Where boundaries of irrigation works, embankments, or cultivated lands are disputed due to conflicting claims of extension or contraction, and where o",
+      "principles": [
+        "Authority stems from clear demarcation and recognition of domain",
+        "Causation arises from overlapping claims without ontological clarity",
+        "Capacity-based responsibility lies with the one asserting dominion",
+        "Restoration logic requires re-establishment of rightful boundary consciousness"
+      ],
+      "axioms": [
+        "IF claimant A asserts right over land segment X AND claimant B asserts right over same segment X THEN classify case as kshetraja-vivada",
+        "IF boundary marker Y has been displaced OR redefined without consent THEN invoke kshetra-adhikara realignment protocol",
+        "IF no prior settlement record exists THEN default to pramana-based spatial mapping using witness-consciousness alignment"
+      ],
+      "principle_tags": [
+        "Authority",
+        "Capacity",
+        "Causation",
+        "Consciousness",
+        "Restoration"
+      ]
+    },
+    {
+      "id": "narada_12_vyavahara",
+      "type": "chapter",
+      "label": "Narada 12 Vyavahara",
+      "source": "narada",
+      "color": "#6B3FA0",
+      "size": 18,
+      "verse_count": 117,
+      "principle_tags": [
+        "Ahimsa/Dharma",
+        "Authority",
+        "Capacity",
+        "Causation",
+        "Consciousness",
+        "Restoration"
+      ]
+    },
+    {
+      "id": "narada_v_12_001",
+      "type": "verse",
+      "label": "narada v 12 001",
+      "source": "narada",
+      "chapter": "narada_12_vyavahara",
+      "color": "#6B3FA0",
+      "size": 8,
+      "sanskrit": "विवाहादिविधिः स्त्रीणां यत्र पुंसां च कीर्त्यते\nस्त्रीपुंसयोगनामैतद् विवादपदम् उ",
+      "translation": "Where the ordinances concerning marriage and related duties of women and men are declared, that conjunction of male and female principles constitutes ",
+      "principles": [
+        "Authority originates from alignment with cosmic dharma, not gendered roles alone",
+        "Causation arises through misalignment of relational dharmic capacity",
+        "Capacity-based responsibility is determined by conscious participation in relational harmony",
+        "Restoration logic operates through re-establishment of sacred union and mutual integrity"
+      ],
+      "axioms": [
+        "IF a relational contract involves both male and female parties THEN its dissolution must invoke restorative protocols ensuring energetic completion",
+        "IF gendered duty misalignment occurs THEN initiate consciousness-realigning mediation before judicial review",
+        "IF marital discord arises THEN assess causal imbalance via pramāṇa-based inquiry into individual and collective sankalpa integrity"
+      ],
+      "principle_tags": [
+        "Ahimsa/Dharma",
+        "Authority",
+        "Capacity",
+        "Causation",
+        "Consciousness",
+        "Restoration"
+      ]
+    },
+    {
+      "id": "narada_13_vyavahara",
+      "type": "chapter",
+      "label": "Narada 13 Vyavahara",
+      "source": "narada",
+      "color": "#6B3FA0",
+      "size": 18,
+      "verse_count": 49,
+      "principle_tags": [
+        "Ahimsa/Dharma",
+        "Authority",
+        "Capacity",
+        "Causation",
+        "Consciousness",
+        "Restoration"
+      ]
+    },
+    {
+      "id": "narada_v_13_001",
+      "type": "verse",
+      "label": "narada v 13 001",
+      "source": "narada",
+      "chapter": "narada_13_vyavahara",
+      "color": "#6B3FA0",
+      "size": 8,
+      "sanskrit": "विभागोऽर्थस्य पित्र्यस्य पुत्रैर् यत्र प्रकल्प्यते ।\nदायभाग इति प्रोक्तं तद् विव",
+      "translation": "The division of paternal property among sons, as determined by lawful arrangement, is termed 'Daayabhaaga'; this constitutes a basis for dispute-resol",
+      "principles": [
+        "Authority originates from the continuity of lineage and its lawful ordering",
+        "Causation arises through conscious allocation within familial dharmic structure",
+        "Capacity-based responsibility flows from birth-right and spiritual readiness",
+        "Restoration logic centers on harmonizing material inheritance with consciousness alignment"
+      ],
+      "axioms": [
+        "IF paternal estate EXISTS AND lawful partition IS declared THEN allocate shares according to Daayabhaaga framework",
+        "IF dispute arises THEN verify alignment of partition with prior declarations and capacity-readiness of heirs",
+        "IF heir demonstrates higher consciousness-readiness THEN adjust distribution to maximize evolutionary outcome"
+      ],
+      "principle_tags": [
+        "Authority",
+        "Capacity",
+        "Causation",
+        "Consciousness",
+        "Restoration"
+      ]
+    },
+    {
+      "id": "narada_14_vyavahara",
+      "type": "chapter",
+      "label": "Narada 14 Vyavahara",
+      "source": "narada",
+      "color": "#6B3FA0",
+      "size": 18,
+      "verse_count": 26,
+      "principle_tags": [
+        "Ahimsa/Dharma",
+        "Authority",
+        "Capacity",
+        "Causation",
+        "Consciousness",
+        "Restoration"
+      ]
+    },
+    {
+      "id": "narada_v_14_001",
+      "type": "verse",
+      "label": "narada v 14 001",
+      "source": "narada",
+      "chapter": "narada_14_vyavahara",
+      "color": "#6B3FA0",
+      "size": 8,
+      "sanskrit": "सहसा क्रियते कर्म यत्किंचिद् बलदर्पितैः।\nतत् साहसम् इति प्रोक्तं सहो बलम् इहोच्य",
+      "translation": "Any action performed impulsively by those intoxicated with power is termed 'sāhasa'; indeed, 'saha' denotes the misuse of strength.",
+      "principles": [
+        "Authority arises from alignment with consciousness, not force",
+        "Causation originates in misidentification with power",
+        "Capacity-based responsibility is diminished under intoxication of dominance",
+        "Restoration requires realignment with dharmic capacity"
+      ],
+      "axioms": [
+        "IF actor exhibits behavior driven by intoxication of power THEN classify act as 'sāhasa'",
+        "IF classified as 'sāhasa' THEN initiate consciousness-realigning restoration protocol",
+        "IF authority exercised without dharmic grounding THEN trigger capacity-restoration mechanism"
+      ],
+      "principle_tags": [
+        "Authority",
+        "Capacity",
+        "Causation",
+        "Consciousness",
+        "Restoration"
+      ]
+    },
+    {
+      "id": "narada_17_vyavahara",
+      "type": "chapter",
+      "label": "Narada 17 Vyavahara",
+      "source": "narada",
+      "color": "#6B3FA0",
+      "size": 18,
+      "verse_count": 6,
+      "principle_tags": [
+        "Ahimsa/Dharma",
+        "Authority",
+        "Capacity",
+        "Causation",
+        "Consciousness",
+        "Restoration"
+      ]
+    },
+    {
+      "id": "narada_v_17_001",
+      "type": "verse",
+      "label": "narada v 17 001",
+      "source": "narada",
+      "chapter": "narada_17_vyavahara",
+      "color": "#6B3FA0",
+      "size": 8,
+      "sanskrit": "अक्षवर्ध्रशलाकाद्यैर्देवनं जिह्मकारितम् । पणक्रीडा वयोभिश्च पदं द्यूतसमाह्वयम् ॥",
+      "translation": "Gambling conducted through dice, sticks, or similar instruments with deceitful intent, or by persons of immature consciousness, constitutes a distorti",
+      "principles": [
+        "Authority is derived from consciousness maturity, not transactional form",
+        "Causation arises from misaligned intent, not external instrument",
+        "Capacity-based responsibility is determined by awareness at time of act",
+        "Restoration logic requires reversal of distorted exchange patterns"
+      ],
+      "axioms": [
+        "IF transaction involves randomizing device AND intent includes concealment THEN trigger integrity-assessment protocol",
+        "IF actor's consciousness-score < threshold THEN initiate capacity-restoration before adjudication",
+        "IF wealth-transfer results from deceptive game THEN reverse transaction automatically AND assign completion-process"
+      ],
+      "principle_tags": [
+        "Authority",
+        "Capacity",
+        "Causation",
+        "Consciousness",
+        "Restoration"
+      ]
+    },
+    {
+      "id": "narada_18_vyavahara",
+      "type": "chapter",
+      "label": "Narada 18 Vyavahara",
+      "source": "narada",
+      "color": "#6B3FA0",
+      "size": 18,
+      "verse_count": 52,
+      "principle_tags": [
+        "Ahimsa/Dharma",
+        "Authority",
+        "Capacity",
+        "Causation",
+        "Consciousness",
+        "Restoration"
+      ]
+    },
+    {
+      "id": "narada_v_18_001",
+      "type": "verse",
+      "label": "narada v 18 001",
+      "source": "narada",
+      "chapter": "narada_18_vyavahara",
+      "color": "#6B3FA0",
+      "size": 8,
+      "sanskrit": "प्रकीर्णके पुनर् ज्ञेया व्यवहारा नृपाश्रयाः।\nराज्ञाम् आज्ञाप्रतीघातस् तत्कर्मकरण",
+      "translation": "In the context of scattered or fragmented governance, all juridical actions are to be understood as reliant upon the sovereign authority of the King. ",
+      "principles": [
+        "Authority originates solely from the sovereign ruler who embodies divine mandate",
+        "Causation arises through alignment or defiance of lawful directives",
+        "Capacity-based responsibility is determined by proximity to and recognition of royal edict",
+        "Restoration logic demands realignment with the sovereign's conscious will"
+      ],
+      "axioms": [
+        "IF an act opposes a royal decree THEN it is classified as adharmic without exception",
+        "IF an agent performs an act without authorization from the sovereign THEN liability arises automatically",
+        "IF defiance occurs THEN restoration protocol initiates through supervised compliance"
+      ],
+      "principle_tags": [
+        "Ahimsa/Dharma",
+        "Authority",
+        "Capacity",
+        "Causation",
+        "Consciousness",
+        "Restoration"
+      ]
+    },
+    {
+      "id": "narada_19_parisista",
+      "type": "chapter",
+      "label": "Narada 19 Parisista",
+      "source": "narada",
+      "color": "#6B3FA0",
+      "size": 18,
+      "verse_count": 69,
+      "principle_tags": [
+        "Ahimsa/Dharma",
+        "Authority",
+        "Capacity",
+        "Causation",
+        "Consciousness",
+        "Restoration"
+      ]
+    },
+    {
+      "id": "narada_p_19_001",
+      "type": "verse",
+      "label": "narada p 19 001",
+      "source": "narada",
+      "chapter": "narada_19_parisista",
+      "color": "#6B3FA0",
+      "size": 8,
+      "sanskrit": "द्विविधास्तस्कराः ज्ञेयाः परद्रव्यापहारिणः।\nप्रकाशाश्चाप्रकाशाश्च तान् विद्यादात",
+      "translation": "Two types of thieves must be known: those who steal visible property and those who steal invisible property. A king who knows the Self discerns both.",
+      "principles": [
+        "Authority rests in the knower of the Self, not in external forms",
+        "Causation includes both manifest and unmanifest acts",
+        "Capacity-based responsibility arises from awareness, not action alone",
+        "Restoration logic addresses root misperception, not surface behavior"
+      ],
+      "axioms": [
+        "IF an act of taking occurs AND the agent perceives it as separate from Self THEN classify as 'prakāśa-theft'",
+        "IF an act of taking occurs AND the agent identifies with the taken object THEN classify as 'aprakāśa-theft'",
+        "IF the ruler is Self-realized THEN perception-based classification overrides behavioral evidence"
+      ],
+      "principle_tags": [
+        "Authority",
+        "Capacity",
+        "Causation",
+        "Consciousness",
+        "Restoration"
+      ]
+    },
+    {
+      "id": "narada_20_parisista",
+      "type": "chapter",
+      "label": "Narada 20 Parisista",
+      "source": "narada",
+      "color": "#6B3FA0",
+      "size": 18,
+      "verse_count": 48,
+      "principle_tags": [
+        "Ahimsa/Dharma",
+        "Authority",
+        "Capacity",
+        "Causation",
+        "Consciousness",
+        "Restoration"
+      ]
+    },
+    {
+      "id": "narada_p_20_001",
+      "type": "verse",
+      "label": "narada p 20 001",
+      "source": "narada",
+      "chapter": "narada_20_parisista",
+      "color": "#6B3FA0",
+      "size": 8,
+      "sanskrit": "यदा साक्षी न विद्यते विवादे वदतां नृणाम्‌ । तदा दिव्यैः परीक्षेत शपथैश् च पृथग्व",
+      "translation": "When no human witness is available in a dispute among speaking men, then the matter shall be examined through divine signs and various forms of oath.",
+      "principles": [
+        "Authority originates from divine cognition when empirical evidence is absent",
+        "Causation is established by alignment with higher consciousness rather than material proof",
+        "Capacity-based responsibility requires acknowledgment of unseen yet perceptible truths",
+        "Restoration logic operates through purification of intent and invocation of divine witness"
+      ],
+      "axioms": [
+        "IF witness_absent AND dispute_present THEN invoke_divine_test",
+        "IF divine_sign_detected THEN establish_causal_integrity_as_evidence",
+        "IF party_under_oath THEN consciousness_state_must_be_verified_prior_to_test_administration"
+      ],
+      "principle_tags": [
+        "Authority",
+        "Capacity",
+        "Causation",
+        "Consciousness",
+        "Restoration"
+      ]
+    },
+    {
+      "id": "yagnavalka",
+      "type": "source",
+      "label": "Yājñavalkya Smṛti",
+      "short": "yagnavalka",
+      "color": "#1B6CA8",
+      "size": 40,
+      "total_verses": 1010,
+      "total_chapters": 3
+    },
+    {
+      "id": "yagnavalka_01",
+      "type": "chapter",
+      "label": "Yagnavalka 01",
+      "source": "yagnavalka",
+      "color": "#1B6CA8",
+      "size": 18,
+      "verse_count": 368,
+      "principle_tags": [
+        "Ahimsa/Dharma",
+        "Authority",
+        "Capacity",
+        "Causation",
+        "Consciousness",
+        "Restoration"
+      ]
+    },
+    {
+      "id": "yagnavalka_01_001",
+      "type": "verse",
+      "label": "yagnavalka 01 001",
+      "source": "yagnavalka",
+      "chapter": "yagnavalka_01",
+      "color": "#1B6CA8",
+      "size": 8,
+      "sanskrit": "योगीश्वरं याज्ञवल्क्यं संपूज्य मुनयो 'ब्रुवन् ।\nवर्णाश्रमेतराणां नो ब्रूहि धर्मा",
+      "translation": "Having honored Yājñavalkya, the Lord of Yoga, the sages requested a complete exposition of Dharma for all varṇas and āśramas according to the Supreme ",
+      "principles": [
+        "Authority originates from realized spiritual sovereignty, not institutional appointment.",
+        "Dharma is causally linked to consciousness maturity, not social convention.",
+        "Capacity-based responsibility arises from yogic realization, not birth-based roles.",
+        "Restoration logic operates through alignment with ontological completeness."
+      ],
+      "axioms": [
+        "IF agent demonstrates yogic realization THEN agent qualifies as Dharma-advisor irrespective of lineage.",
+        "IF societal role conflicts with consciousness capacity THEN role must yield to higher realization.",
+        "IF Dharma inquiry arises THEN response must originate from realized source, not textual tradition alone."
+      ],
+      "principle_tags": [
+        "Ahimsa/Dharma",
+        "Authority",
+        "Capacity",
+        "Causation",
+        "Consciousness",
+        "Restoration"
+      ]
+    },
+    {
+      "id": "yagnavalka_02",
+      "type": "chapter",
+      "label": "Yagnavalka 02",
+      "source": "yagnavalka",
+      "color": "#1B6CA8",
+      "size": 18,
+      "verse_count": 307,
+      "principle_tags": [
+        "Ahimsa/Dharma",
+        "Authority",
+        "Capacity",
+        "Causation",
+        "Consciousness",
+        "Restoration"
+      ]
+    },
+    {
+      "id": "yagnavalka_02_001",
+      "type": "verse",
+      "label": "yagnavalka 02 001",
+      "source": "yagnavalka",
+      "chapter": "yagnavalka_02",
+      "color": "#1B6CA8",
+      "size": 8,
+      "sanskrit": "व्यवहारान् नृपः पश्येद् विद्वद्भिर् ब्राह्मणैः सह ।\nधर्मशास्त्रानुसारेण क्रोधलोभ",
+      "translation": "The King shall observe judicial proceedings alongside learned Brahmanas, in accordance with Dharma-Shastras, devoid of anger and greed.",
+      "principles": [
+        "Authority: The King derives judicial authority through alignment with Vedic scholars and sacred law.",
+        "Causation: Legal action originates from a state free of personal passion or desire.",
+        "Capacity-based responsibility: The ruler's capacity to judge is contingent upon detachment and scriptural adherence.",
+        "Restoration logic: Justice functions to restore cosmic order by aligning human conduct with Dharma."
+      ],
+      "axioms": [
+        "IF ruler observes case THEN presence of qualified Brahmana advisors is mandatory.",
+        "IF emotional disturbance detected in ruler THEN disqualification from proceeding occurs automatically.",
+        "IF decision deviates from Dharma-shastras THEN invalidation protocol initiates immediately."
+      ],
+      "principle_tags": [
+        "Ahimsa/Dharma",
+        "Authority",
+        "Capacity",
+        "Causation",
+        "Consciousness",
+        "Restoration"
+      ]
+    },
+    {
+      "id": "yagnavalka_03",
+      "type": "chapter",
+      "label": "Yagnavalka 03",
+      "source": "yagnavalka",
+      "color": "#1B6CA8",
+      "size": 18,
+      "verse_count": 335,
+      "principle_tags": [
+        "Ahimsa/Dharma",
+        "Authority",
+        "Capacity",
+        "Causation",
+        "Consciousness",
+        "Restoration"
+      ]
+    },
+    {
+      "id": "yagnavalka_03_001",
+      "type": "verse",
+      "label": "yagnavalka 03 001",
+      "source": "yagnavalka",
+      "chapter": "yagnavalka_03",
+      "color": "#1B6CA8",
+      "size": 8,
+      "sanskrit": "ūnadvivarṣaṃ nikhanen na kuryād udakaṃ tataḥ /\nāśmaśānād anuvrajya itaro jñātibh",
+      "translation": "One who has not completed two years shall not perform burial; water libations are to be offered thereafter. Another male relative follows from the cre",
+      "principles": [
+        "Authority resides in age-appropriate capacity for ritual execution",
+        "Causation aligns with sequential stages of life and death rites",
+        "Capacity-based responsibility determines eligibility for sacramental acts",
+        "Restoration logic requires proper succession of familial dharmic roles"
+      ],
+      "axioms": [
+        "IF age < 2 years THEN ritual_burial_permitted = FALSE",
+        "IF cremation_complete = TRUE THEN water_liberation_required = TRUE",
+        "IF primary_dharmic_heir_unavailable = TRUE THEN next_kin_must_perform = TRUE"
+      ],
+      "principle_tags": [
+        "Authority",
+        "Capacity",
+        "Causation",
+        "Consciousness",
+        "Restoration"
+      ]
+    },
+    {
+      "id": "theme_authority",
+      "type": "theme",
+      "label": "Authority",
+      "color": "#E53935",
+      "size": 28
+    },
+    {
+      "id": "theme_consciousness",
+      "type": "theme",
+      "label": "Consciousness",
+      "color": "#8E24AA",
+      "size": 28
+    },
+    {
+      "id": "theme_causation",
+      "type": "theme",
+      "label": "Causation",
+      "color": "#FB8C00",
+      "size": 28
+    },
+    {
+      "id": "theme_capacity",
+      "type": "theme",
+      "label": "Capacity",
+      "color": "#1565C0",
+      "size": 28
+    },
+    {
+      "id": "theme_restoration",
+      "type": "theme",
+      "label": "Restoration",
+      "color": "#00897B",
+      "size": 28
+    },
+    {
+      "id": "theme_ahimsa_dharma",
+      "type": "theme",
+      "label": "Ahimsa/Dharma",
+      "color": "#D4A017",
+      "size": 28
+    }
+  ],
+  "edges": [
+    {
+      "from": "root",
+      "to": "brihaspati",
+      "type": "contains",
+      "weight": 3
+    },
+    {
+      "from": "brihaspati",
+      "to": "brihaspati_01_01",
+      "type": "has_chapter",
+      "weight": 1.5
+    },
+    {
+      "from": "brihaspati_01_01",
+      "to": "brihaspati_01_01_001",
+      "type": "has_verse",
+      "weight": 0.5
+    },
+    {
+      "from": "brihaspati",
+      "to": "brihaspati_01_02",
+      "type": "has_chapter",
+      "weight": 1.5
+    },
+    {
+      "from": "brihaspati_01_02",
+      "to": "brihaspati_01_02_001",
+      "type": "has_verse",
+      "weight": 0.5
+    },
+    {
+      "from": "brihaspati",
+      "to": "brihaspati_01_03",
+      "type": "has_chapter",
+      "weight": 1.5
+    },
+    {
+      "from": "brihaspati_01_03",
+      "to": "brihaspati_01_03_001",
+      "type": "has_verse",
+      "weight": 0.5
+    },
+    {
+      "from": "brihaspati",
+      "to": "brihaspati_01_04",
+      "type": "has_chapter",
+      "weight": 1.5
+    },
+    {
+      "from": "brihaspati_01_04",
+      "to": "brihaspati_01_04_001",
+      "type": "has_verse",
+      "weight": 0.5
+    },
+    {
+      "from": "brihaspati",
+      "to": "brihaspati_01_05",
+      "type": "has_chapter",
+      "weight": 1.5
+    },
+    {
+      "from": "brihaspati_01_05",
+      "to": "brihaspati_01_05_001",
+      "type": "has_verse",
+      "weight": 0.5
+    },
+    {
+      "from": "brihaspati",
+      "to": "brihaspati_01_06",
+      "type": "has_chapter",
+      "weight": 1.5
+    },
+    {
+      "from": "brihaspati_01_06",
+      "to": "brihaspati_01_06_001",
+      "type": "has_verse",
+      "weight": 0.5
+    },
+    {
+      "from": "brihaspati",
+      "to": "brihaspati_01_07",
+      "type": "has_chapter",
+      "weight": 1.5
+    },
+    {
+      "from": "brihaspati_01_07",
+      "to": "brihaspati_01_07_001",
+      "type": "has_verse",
+      "weight": 0.5
+    },
+    {
+      "from": "brihaspati",
+      "to": "brihaspati_01_08",
+      "type": "has_chapter",
+      "weight": 1.5
+    },
+    {
+      "from": "brihaspati_01_08",
+      "to": "brihaspati_01_08_001",
+      "type": "has_verse",
+      "weight": 0.5
+    },
+    {
+      "from": "brihaspati",
+      "to": "brihaspati_01_09",
+      "type": "has_chapter",
+      "weight": 1.5
+    },
+    {
+      "from": "brihaspati_01_09",
+      "to": "brihaspati_01_09_001",
+      "type": "has_verse",
+      "weight": 0.5
+    },
+    {
+      "from": "brihaspati",
+      "to": "brihaspati_01_10",
+      "type": "has_chapter",
+      "weight": 1.5
+    },
+    {
+      "from": "brihaspati_01_10",
+      "to": "brihaspati_01_10_001",
+      "type": "has_verse",
+      "weight": 0.5
+    },
+    {
+      "from": "brihaspati",
+      "to": "brihaspati_01_11",
+      "type": "has_chapter",
+      "weight": 1.5
+    },
+    {
+      "from": "brihaspati_01_11",
+      "to": "brihaspati_01_11_001",
+      "type": "has_verse",
+      "weight": 0.5
+    },
+    {
+      "from": "brihaspati",
+      "to": "brihaspati_01_12",
+      "type": "has_chapter",
+      "weight": 1.5
+    },
+    {
+      "from": "brihaspati_01_12",
+      "to": "brihaspati_01_12_001",
+      "type": "has_verse",
+      "weight": 0.5
+    },
+    {
+      "from": "brihaspati",
+      "to": "brihaspati_01_13",
+      "type": "has_chapter",
+      "weight": 1.5
+    },
+    {
+      "from": "brihaspati_01_13",
+      "to": "brihaspati_01_13_001",
+      "type": "has_verse",
+      "weight": 0.5
+    },
+    {
+      "from": "brihaspati",
+      "to": "brihaspati_01_14",
+      "type": "has_chapter",
+      "weight": 1.5
+    },
+    {
+      "from": "brihaspati_01_14",
+      "to": "brihaspati_01_14_001",
+      "type": "has_verse",
+      "weight": 0.5
+    },
+    {
+      "from": "brihaspati",
+      "to": "brihaspati_01_15",
+      "type": "has_chapter",
+      "weight": 1.5
+    },
+    {
+      "from": "brihaspati_01_15",
+      "to": "brihaspati_01_15_001",
+      "type": "has_verse",
+      "weight": 0.5
+    },
+    {
+      "from": "brihaspati",
+      "to": "brihaspati_01_16",
+      "type": "has_chapter",
+      "weight": 1.5
+    },
+    {
+      "from": "brihaspati_01_16",
+      "to": "brihaspati_01_16_001",
+      "type": "has_verse",
+      "weight": 0.5
+    },
+    {
+      "from": "brihaspati",
+      "to": "brihaspati_01_17",
+      "type": "has_chapter",
+      "weight": 1.5
+    },
+    {
+      "from": "brihaspati_01_17",
+      "to": "brihaspati_01_17_001",
+      "type": "has_verse",
+      "weight": 0.5
+    },
+    {
+      "from": "brihaspati",
+      "to": "brihaspati_01_18",
+      "type": "has_chapter",
+      "weight": 1.5
+    },
+    {
+      "from": "brihaspati_01_18",
+      "to": "brihaspati_01_18_001",
+      "type": "has_verse",
+      "weight": 0.5
+    },
+    {
+      "from": "brihaspati",
+      "to": "brihaspati_01_19",
+      "type": "has_chapter",
+      "weight": 1.5
+    },
+    {
+      "from": "brihaspati_01_19",
+      "to": "brihaspati_01_19_001",
+      "type": "has_verse",
+      "weight": 0.5
+    },
+    {
+      "from": "brihaspati",
+      "to": "brihaspati_01_20",
+      "type": "has_chapter",
+      "weight": 1.5
+    },
+    {
+      "from": "brihaspati_01_20",
+      "to": "brihaspati_01_20_001",
+      "type": "has_verse",
+      "weight": 0.5
+    },
+    {
+      "from": "brihaspati",
+      "to": "brihaspati_01_21",
+      "type": "has_chapter",
+      "weight": 1.5
+    },
+    {
+      "from": "brihaspati_01_21",
+      "to": "brihaspati_01_21_001",
+      "type": "has_verse",
+      "weight": 0.5
+    },
+    {
+      "from": "brihaspati",
+      "to": "brihaspati_01_22",
+      "type": "has_chapter",
+      "weight": 1.5
+    },
+    {
+      "from": "brihaspati_01_22",
+      "to": "brihaspati_01_22_001",
+      "type": "has_verse",
+      "weight": 0.5
+    },
+    {
+      "from": "brihaspati",
+      "to": "brihaspati_01_23",
+      "type": "has_chapter",
+      "weight": 1.5
+    },
+    {
+      "from": "brihaspati_01_23",
+      "to": "brihaspati_01_23_001",
+      "type": "has_verse",
+      "weight": 0.5
+    },
+    {
+      "from": "brihaspati",
+      "to": "brihaspati_01_24",
+      "type": "has_chapter",
+      "weight": 1.5
+    },
+    {
+      "from": "brihaspati_01_24",
+      "to": "brihaspati_01_24_001",
+      "type": "has_verse",
+      "weight": 0.5
+    },
+    {
+      "from": "brihaspati",
+      "to": "brihaspati_01_25",
+      "type": "has_chapter",
+      "weight": 1.5
+    },
+    {
+      "from": "brihaspati_01_25",
+      "to": "brihaspati_01_25_001",
+      "type": "has_verse",
+      "weight": 0.5
+    },
+    {
+      "from": "brihaspati",
+      "to": "brihaspati_01_26",
+      "type": "has_chapter",
+      "weight": 1.5
+    },
+    {
+      "from": "brihaspati_01_26",
+      "to": "brihaspati_01_26_001",
+      "type": "has_verse",
+      "weight": 0.5
+    },
+    {
+      "from": "brihaspati",
+      "to": "brihaspati_01_27",
+      "type": "has_chapter",
+      "weight": 1.5
+    },
+    {
+      "from": "brihaspati_01_27",
+      "to": "brihaspati_01_27_001",
+      "type": "has_verse",
+      "weight": 0.5
+    },
+    {
+      "from": "brihaspati",
+      "to": "brihaspati_01_28",
+      "type": "has_chapter",
+      "weight": 1.5
+    },
+    {
+      "from": "brihaspati_01_28",
+      "to": "brihaspati_01_28_001",
+      "type": "has_verse",
+      "weight": 0.5
+    },
+    {
+      "from": "brihaspati",
+      "to": "brihaspati_01_29",
+      "type": "has_chapter",
+      "weight": 1.5
+    },
+    {
+      "from": "brihaspati_01_29",
+      "to": "brihaspati_01_29_001",
+      "type": "has_verse",
+      "weight": 0.5
+    },
+    {
+      "from": "root",
+      "to": "manu",
+      "type": "contains",
+      "weight": 3
+    },
+    {
+      "from": "manu",
+      "to": "manu_01",
+      "type": "has_chapter",
+      "weight": 1.5
+    },
+    {
+      "from": "manu_01",
+      "to": "manu_01_001",
+      "type": "has_verse",
+      "weight": 0.5
+    },
+    {
+      "from": "manu",
+      "to": "manu_02",
+      "type": "has_chapter",
+      "weight": 1.5
+    },
+    {
+      "from": "manu_02",
+      "to": "manu_02_001",
+      "type": "has_verse",
+      "weight": 0.5
+    },
+    {
+      "from": "manu",
+      "to": "manu_03",
+      "type": "has_chapter",
+      "weight": 1.5
+    },
+    {
+      "from": "manu_03",
+      "to": "manu_03_001",
+      "type": "has_verse",
+      "weight": 0.5
+    },
+    {
+      "from": "manu",
+      "to": "manu_04",
+      "type": "has_chapter",
+      "weight": 1.5
+    },
+    {
+      "from": "manu_04",
+      "to": "manu_04_001",
+      "type": "has_verse",
+      "weight": 0.5
+    },
+    {
+      "from": "manu",
+      "to": "manu_05",
+      "type": "has_chapter",
+      "weight": 1.5
+    },
+    {
+      "from": "manu_05",
+      "to": "manu_05_001",
+      "type": "has_verse",
+      "weight": 0.5
+    },
+    {
+      "from": "manu",
+      "to": "manu_06",
+      "type": "has_chapter",
+      "weight": 1.5
+    },
+    {
+      "from": "manu_06",
+      "to": "manu_06_001",
+      "type": "has_verse",
+      "weight": 0.5
+    },
+    {
+      "from": "manu",
+      "to": "manu_07",
+      "type": "has_chapter",
+      "weight": 1.5
+    },
+    {
+      "from": "manu_07",
+      "to": "manu_07_001",
+      "type": "has_verse",
+      "weight": 0.5
+    },
+    {
+      "from": "manu",
+      "to": "manu_08",
+      "type": "has_chapter",
+      "weight": 1.5
+    },
+    {
+      "from": "manu_08",
+      "to": "manu_08_001",
+      "type": "has_verse",
+      "weight": 0.5
+    },
+    {
+      "from": "manu",
+      "to": "manu_09",
+      "type": "has_chapter",
+      "weight": 1.5
+    },
+    {
+      "from": "manu_09",
+      "to": "manu_09_001",
+      "type": "has_verse",
+      "weight": 0.5
+    },
+    {
+      "from": "manu",
+      "to": "manu_10",
+      "type": "has_chapter",
+      "weight": 1.5
+    },
+    {
+      "from": "manu_10",
+      "to": "manu_10_001",
+      "type": "has_verse",
+      "weight": 0.5
+    },
+    {
+      "from": "manu",
+      "to": "manu_11",
+      "type": "has_chapter",
+      "weight": 1.5
+    },
+    {
+      "from": "manu_11",
+      "to": "manu_11_001",
+      "type": "has_verse",
+      "weight": 0.5
+    },
+    {
+      "from": "manu",
+      "to": "manu_12",
+      "type": "has_chapter",
+      "weight": 1.5
+    },
+    {
+      "from": "manu_12",
+      "to": "manu_12_001",
+      "type": "has_verse",
+      "weight": 0.5
+    },
+    {
+      "from": "root",
+      "to": "narada",
+      "type": "contains",
+      "weight": 3
+    },
+    {
+      "from": "narada",
+      "to": "narada_01_matrika",
+      "type": "has_chapter",
+      "weight": 1.5
+    },
+    {
+      "from": "narada_01_matrika",
+      "to": "narada_m_01_001",
+      "type": "has_verse",
+      "weight": 0.5
+    },
+    {
+      "from": "narada",
+      "to": "narada_01_vyavahara",
+      "type": "has_chapter",
+      "weight": 1.5
+    },
+    {
+      "from": "narada_01_vyavahara",
+      "to": "narada_v_01_001",
+      "type": "has_verse",
+      "weight": 0.5
+    },
+    {
+      "from": "narada",
+      "to": "narada_02_matrika",
+      "type": "has_chapter",
+      "weight": 1.5
+    },
+    {
+      "from": "narada_02_matrika",
+      "to": "narada_m_02_001",
+      "type": "has_verse",
+      "weight": 0.5
+    },
+    {
+      "from": "narada",
+      "to": "narada_02_vyavahara",
+      "type": "has_chapter",
+      "weight": 1.5
+    },
+    {
+      "from": "narada_02_vyavahara",
+      "to": "narada_v_02_001",
+      "type": "has_verse",
+      "weight": 0.5
+    },
+    {
+      "from": "narada",
+      "to": "narada_03_matrika",
+      "type": "has_chapter",
+      "weight": 1.5
+    },
+    {
+      "from": "narada_03_matrika",
+      "to": "narada_m_03_001",
+      "type": "has_verse",
+      "weight": 0.5
+    },
+    {
+      "from": "narada",
+      "to": "narada_03_vyavahara",
+      "type": "has_chapter",
+      "weight": 1.5
+    },
+    {
+      "from": "narada_03_vyavahara",
+      "to": "narada_v_03_001",
+      "type": "has_verse",
+      "weight": 0.5
+    },
+    {
+      "from": "narada",
+      "to": "narada_04_vyavahara",
+      "type": "has_chapter",
+      "weight": 1.5
+    },
+    {
+      "from": "narada_04_vyavahara",
+      "to": "narada_v_04_001",
+      "type": "has_verse",
+      "weight": 0.5
+    },
+    {
+      "from": "narada",
+      "to": "narada_05_vyavahara",
+      "type": "has_chapter",
+      "weight": 1.5
+    },
+    {
+      "from": "narada_05_vyavahara",
+      "to": "narada_v_05_001",
+      "type": "has_verse",
+      "weight": 0.5
+    },
+    {
+      "from": "narada",
+      "to": "narada_06_vyavahara",
+      "type": "has_chapter",
+      "weight": 1.5
+    },
+    {
+      "from": "narada_06_vyavahara",
+      "to": "narada_v_06_001",
+      "type": "has_verse",
+      "weight": 0.5
+    },
+    {
+      "from": "narada",
+      "to": "narada_07_vyavahara",
+      "type": "has_chapter",
+      "weight": 1.5
+    },
+    {
+      "from": "narada_07_vyavahara",
+      "to": "narada_v_07_001",
+      "type": "has_verse",
+      "weight": 0.5
+    },
+    {
+      "from": "narada",
+      "to": "narada_08_vyavahara",
+      "type": "has_chapter",
+      "weight": 1.5
+    },
+    {
+      "from": "narada_08_vyavahara",
+      "to": "narada_v_08_001",
+      "type": "has_verse",
+      "weight": 0.5
+    },
+    {
+      "from": "narada",
+      "to": "narada_09_vyavahara",
+      "type": "has_chapter",
+      "weight": 1.5
+    },
+    {
+      "from": "narada_09_vyavahara",
+      "to": "narada_v_09_001",
+      "type": "has_verse",
+      "weight": 0.5
+    },
+    {
+      "from": "narada",
+      "to": "narada_10_vyavahara",
+      "type": "has_chapter",
+      "weight": 1.5
+    },
+    {
+      "from": "narada_10_vyavahara",
+      "to": "narada_v_10_001",
+      "type": "has_verse",
+      "weight": 0.5
+    },
+    {
+      "from": "narada",
+      "to": "narada_11_vyavahara",
+      "type": "has_chapter",
+      "weight": 1.5
+    },
+    {
+      "from": "narada_11_vyavahara",
+      "to": "narada_v_11_001",
+      "type": "has_verse",
+      "weight": 0.5
+    },
+    {
+      "from": "narada",
+      "to": "narada_12_vyavahara",
+      "type": "has_chapter",
+      "weight": 1.5
+    },
+    {
+      "from": "narada_12_vyavahara",
+      "to": "narada_v_12_001",
+      "type": "has_verse",
+      "weight": 0.5
+    },
+    {
+      "from": "narada",
+      "to": "narada_13_vyavahara",
+      "type": "has_chapter",
+      "weight": 1.5
+    },
+    {
+      "from": "narada_13_vyavahara",
+      "to": "narada_v_13_001",
+      "type": "has_verse",
+      "weight": 0.5
+    },
+    {
+      "from": "narada",
+      "to": "narada_14_vyavahara",
+      "type": "has_chapter",
+      "weight": 1.5
+    },
+    {
+      "from": "narada_14_vyavahara",
+      "to": "narada_v_14_001",
+      "type": "has_verse",
+      "weight": 0.5
+    },
+    {
+      "from": "narada",
+      "to": "narada_17_vyavahara",
+      "type": "has_chapter",
+      "weight": 1.5
+    },
+    {
+      "from": "narada_17_vyavahara",
+      "to": "narada_v_17_001",
+      "type": "has_verse",
+      "weight": 0.5
+    },
+    {
+      "from": "narada",
+      "to": "narada_18_vyavahara",
+      "type": "has_chapter",
+      "weight": 1.5
+    },
+    {
+      "from": "narada_18_vyavahara",
+      "to": "narada_v_18_001",
+      "type": "has_verse",
+      "weight": 0.5
+    },
+    {
+      "from": "narada",
+      "to": "narada_19_parisista",
+      "type": "has_chapter",
+      "weight": 1.5
+    },
+    {
+      "from": "narada_19_parisista",
+      "to": "narada_p_19_001",
+      "type": "has_verse",
+      "weight": 0.5
+    },
+    {
+      "from": "narada",
+      "to": "narada_20_parisista",
+      "type": "has_chapter",
+      "weight": 1.5
+    },
+    {
+      "from": "narada_20_parisista",
+      "to": "narada_p_20_001",
+      "type": "has_verse",
+      "weight": 0.5
+    },
+    {
+      "from": "root",
+      "to": "yagnavalka",
+      "type": "contains",
+      "weight": 3
+    },
+    {
+      "from": "yagnavalka",
+      "to": "yagnavalka_01",
+      "type": "has_chapter",
+      "weight": 1.5
+    },
+    {
+      "from": "yagnavalka_01",
+      "to": "yagnavalka_01_001",
+      "type": "has_verse",
+      "weight": 0.5
+    },
+    {
+      "from": "yagnavalka",
+      "to": "yagnavalka_02",
+      "type": "has_chapter",
+      "weight": 1.5
+    },
+    {
+      "from": "yagnavalka_02",
+      "to": "yagnavalka_02_001",
+      "type": "has_verse",
+      "weight": 0.5
+    },
+    {
+      "from": "yagnavalka",
+      "to": "yagnavalka_03",
+      "type": "has_chapter",
+      "weight": 1.5
+    },
+    {
+      "from": "yagnavalka_03",
+      "to": "yagnavalka_03_001",
+      "type": "has_verse",
+      "weight": 0.5
+    },
+    {
+      "from": "brihaspati",
+      "to": "theme_authority",
+      "type": "covers_theme",
+      "weight": 3
+    },
+    {
+      "from": "manu",
+      "to": "theme_authority",
+      "type": "covers_theme",
+      "weight": 1.5
+    },
+    {
+      "from": "narada",
+      "to": "theme_authority",
+      "type": "covers_theme",
+      "weight": 2.625
+    },
+    {
+      "from": "yagnavalka",
+      "to": "theme_authority",
+      "type": "covers_theme",
+      "weight": 0.375
+    },
+    {
+      "from": "brihaspati",
+      "to": "theme_consciousness",
+      "type": "covers_theme",
+      "weight": 3
+    },
+    {
+      "from": "manu",
+      "to": "theme_consciousness",
+      "type": "covers_theme",
+      "weight": 1.5
+    },
+    {
+      "from": "narada",
+      "to": "theme_consciousness",
+      "type": "covers_theme",
+      "weight": 2.625
+    },
+    {
+      "from": "yagnavalka",
+      "to": "theme_consciousness",
+      "type": "covers_theme",
+      "weight": 0.375
+    },
+    {
+      "from": "brihaspati",
+      "to": "theme_causation",
+      "type": "covers_theme",
+      "weight": 3
+    },
+    {
+      "from": "manu",
+      "to": "theme_causation",
+      "type": "covers_theme",
+      "weight": 1.5
+    },
+    {
+      "from": "narada",
+      "to": "theme_causation",
+      "type": "covers_theme",
+      "weight": 2.625
+    },
+    {
+      "from": "yagnavalka",
+      "to": "theme_causation",
+      "type": "covers_theme",
+      "weight": 0.375
+    },
+    {
+      "from": "brihaspati",
+      "to": "theme_capacity",
+      "type": "covers_theme",
+      "weight": 3
+    },
+    {
+      "from": "manu",
+      "to": "theme_capacity",
+      "type": "covers_theme",
+      "weight": 1.5
+    },
+    {
+      "from": "narada",
+      "to": "theme_capacity",
+      "type": "covers_theme",
+      "weight": 2.625
+    },
+    {
+      "from": "yagnavalka",
+      "to": "theme_capacity",
+      "type": "covers_theme",
+      "weight": 0.375
+    },
+    {
+      "from": "brihaspati",
+      "to": "theme_restoration",
+      "type": "covers_theme",
+      "weight": 3
+    },
+    {
+      "from": "manu",
+      "to": "theme_restoration",
+      "type": "covers_theme",
+      "weight": 1.5
+    },
+    {
+      "from": "narada",
+      "to": "theme_restoration",
+      "type": "covers_theme",
+      "weight": 2.625
+    },
+    {
+      "from": "yagnavalka",
+      "to": "theme_restoration",
+      "type": "covers_theme",
+      "weight": 0.375
+    },
+    {
+      "from": "brihaspati",
+      "to": "theme_ahimsa_dharma",
+      "type": "covers_theme",
+      "weight": 3
+    },
+    {
+      "from": "manu",
+      "to": "theme_ahimsa_dharma",
+      "type": "covers_theme",
+      "weight": 1.5
+    },
+    {
+      "from": "narada",
+      "to": "theme_ahimsa_dharma",
+      "type": "covers_theme",
+      "weight": 2.625
+    },
+    {
+      "from": "yagnavalka",
+      "to": "theme_ahimsa_dharma",
+      "type": "covers_theme",
+      "weight": 0.375
+    }
+  ],
+  "stats": {
+    "total_nodes": 141,
+    "total_edges": 158,
+    "total_verses": 5766,
+    "total_chapters": 65,
+    "sources": 4
+  }
+}

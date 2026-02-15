@@ -1,0 +1,618 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Dharmaśāstra Knowledge Graph</title>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/react/18.2.0/umd/react.production.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/react-dom/18.2.0/umd/react-dom.production.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/babel-standalone/7.23.2/babel.min.js"></script>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link href="https://fonts.googleapis.com/css2?family=Noto+Serif:wght@400;600;700&family=Noto+Serif+Devanagari:wght@400;600&display=swap" rel="stylesheet" />
+  <style>
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body { background: #0D0D1A; font-family: 'Noto Serif', serif; }
+    ::-webkit-scrollbar { width: 6px; }
+    ::-webkit-scrollbar-track { background: rgba(0,0,0,0.2); }
+    ::-webkit-scrollbar-thumb { background: #D4A01760; border-radius: 3px; }
+  </style>
+</head>
+<body>
+  <div id="root"></div>
+
+  <script type="text/babel">
+    const { useState, useRef, useEffect } = React;
+
+    // ─── DATA ─────────────────────────────────────────────────────────────────
+
+    const SOURCES = [
+      {
+        id: "brihaspati",
+        label: "Bṛhaspati Smṛti",
+        short: "Bṛhaspati",
+        color: "#C2782C",
+        total: 1271,
+        chapters: 29,
+        desc: "Ancient dharmaśāstra text focusing on legal procedure, vyavahāra, property, and dispute resolution. Emphasises non-punitive consciousness-aligned justice.",
+      },
+      {
+        id: "manu",
+        label: "Manu Smṛti",
+        short: "Manu",
+        color: "#B05A1A",
+        total: 2680,
+        chapters: 12,
+        desc: "The most extensive smṛti text covering cosmogony, social order, royal duties, legal procedure, atonement, and transmigration. Foundation of classical Hindu law.",
+      },
+      {
+        id: "narada",
+        label: "Nārada Smṛti",
+        short: "Nārada",
+        color: "#6B3FA0",
+        total: 805,
+        chapters: 21,
+        desc: "Focused primarily on vyavahāra (civil law). Covers pledges, debt, master-servant relations, boundaries, inheritance, and legal evidence with precision.",
+      },
+      {
+        id: "yagnavalka",
+        label: "Yājñavalkya Smṛti",
+        short: "Yājñavalkya",
+        color: "#1B6CA8",
+        total: 1010,
+        chapters: 3,
+        desc: "Structured across three books: Ācāra (conduct), Vyavahāra (law), and Prāyaścitta (atonement). Concise, systematic, and highly influential in medieval jurisprudence.",
+      }
+    ];
+
+    const THEMES = [
+      { id: "dharma",        label: "Dharma",              color: "#D4A017", icon: "☸" },
+      { id: "ahimsa",        label: "Ahiṃsā",              color: "#4CAF50", icon: "🕊" },
+      { id: "authority",     label: "Authority",            color: "#E53935", icon: "⚖" },
+      { id: "restoration",   label: "Restoration",          color: "#00897B", icon: "♻" },
+      { id: "consciousness", label: "Consciousness",        color: "#8E24AA", icon: "🧘" },
+      { id: "causation",     label: "Causation",            color: "#FB8C00", icon: "⚡" },
+      { id: "duty",          label: "Obligation & Duty",    color: "#1565C0", icon: "📜" },
+      { id: "property",      label: "Property & Wealth",    color: "#558B2F", icon: "🏛" },
+      { id: "dispute",       label: "Dispute Resolution",   color: "#C62828", icon: "⚔" },
+      { id: "justice",       label: "Justice & Punishment", color: "#7B1FA2", icon: "🔱" },
+      { id: "family",        label: "Family & Inheritance", color: "#AD1457", icon: "👪" },
+      { id: "varna",         label: "Varna & Social Order", color: "#6D4C41", icon: "🏺" },
+      { id: "evidence",      label: "Pramāṇa (Evidence)",   color: "#00695C", icon: "🔍" },
+      { id: "contract",      label: "Contract & Agreement", color: "#283593", icon: "🤝" },
+    ];
+
+    const THEME_SOURCE = {
+      dharma:        { brihaspati: 697,  manu: 1591, narada: 490,  yagnavalka: 570  },
+      ahimsa:        { brihaspati: 763,  manu: 1730, narada: 518,  yagnavalka: 619  },
+      authority:     { brihaspati: 1270, manu: 2680, narada: 805,  yagnavalka: 1010 },
+      restoration:   { brihaspati: 1257, manu: 2675, narada: 803,  yagnavalka: 1008 },
+      consciousness: { brihaspati: 1266, manu: 2669, narada: 805,  yagnavalka: 1009 },
+      causation:     { brihaspati: 1238, manu: 2629, narada: 797,  yagnavalka: 997  },
+      duty:          { brihaspati: 148,  manu: 310,  narada: 121,  yagnavalka: 132  },
+      property:      { brihaspati: 168,  manu: 200,  narada: 124,  yagnavalka: 95   },
+      dispute:       { brihaspati: 90,   manu: 180,  narada: 200,  yagnavalka: 150  },
+      justice:       { brihaspati: 80,   manu: 263,  narada: 60,   yagnavalka: 124  },
+      family:        { brihaspati: 60,   manu: 336,  narada: 80,   yagnavalka: 110  },
+      varna:         { brihaspati: 40,   manu: 390,  narada: 30,   yagnavalka: 60   },
+      evidence:      { brihaspati: 70,   manu: 100,  narada: 150,  yagnavalka: 80   },
+      contract:      { brihaspati: 120,  manu: 150,  narada: 130,  yagnavalka: 100  },
+    };
+
+    const CHAPTERS = {
+      brihaspati: [
+        { id: "b01_01", label: "Origins of Dharma & Vyavahāra",   verses: 175 },
+        { id: "b01_02", label: "Transactional Dharma",             verses: 45  },
+        { id: "b01_03", label: "Pleadings & Evidence",             verses: 49  },
+        { id: "b01_05", label: "Judicial Councils & Witnesses",    verses: 54  },
+        { id: "b01_07", label: "Wealth & Economic Activities",     verses: 70  },
+        { id: "b01_08", label: "Immovable Property",               verses: 92  },
+        { id: "b01_10", label: "Transactional Foundations",        verses: 130 },
+        { id: "b01_19", label: "Gifts & Donations",                verses: 55  },
+        { id: "b01_26", label: "Debt & Finance",                   verses: 149 },
+      ],
+      manu: [
+        { id: "m01", label: "Cosmogony & Social Order",      verses: 119 },
+        { id: "m02", label: "Education & Purification",      verses: 249 },
+        { id: "m03", label: "Marriage & Householder Duties", verses: 285 },
+        { id: "m07", label: "Royal Duties & Governance",    verses: 226 },
+        { id: "m08", label: "Legal Procedure & Dispute",    verses: 418 },
+        { id: "m09", label: "Women, Inheritance & Marriage",verses: 336 },
+        { id: "m11", label: "Atonement & Expiation",        verses: 265 },
+        { id: "m12", label: "Transmigration & Dharma",      verses: 126 },
+      ],
+      narada: [
+        { id: "n01m", label: "Foundations of Legal Procedure", verses: 65  },
+        { id: "n01v", label: "Vyavahāra (Transaction)",        verses: 131 },
+        { id: "n02m", label: "Evidence & Witnesses",           verses: 44  },
+        { id: "n05v", label: "Pledges & Security",             verses: 42  },
+        { id: "n11v", label: "Boundaries & Property",          verses: 38  },
+        { id: "n12v", label: "Master-Servant Relations",       verses: 117 },
+        { id: "n18v", label: "Inheritance",                    verses: 52  },
+        { id: "n19p", label: "Appendix – Procedure",           verses: 69  },
+      ],
+      yagnavalka: [
+        { id: "y01", label: "Ācāra (Conduct & Ritual)",    verses: 368 },
+        { id: "y02", label: "Vyavahāra (Legal Code)",      verses: 307 },
+        { id: "y03", label: "Prāyaścitta (Atonement)",     verses: 335 },
+      ],
+    };
+
+    const SAMPLE_VERSES = {
+      brihaspati: {
+        b01_01: {
+          sanskrit: "धर्मप्रधानाः पुरुषाः पूर्वम् आसन् अहिंसकाः /\nलोभद्वेषाभिभूतानां व्यवहारः प्रवर्तितः",
+          trans: "Originally, men were established in Dharma as the highest principle, and non-violence was their natural state; it is only when overcome by greed and hatred that transactional conduct arises.",
+          principles: ["Authority originates from alignment with Dharma, not coercive power", "Causation stems from disruption of innate ahimsa", "Consciousness alignment supersedes behavioral correction"]
+        },
+        b01_26: {
+          sanskrit: "ऋणादानं धनिकेन कर्तव्यं...",
+          trans: "A creditor must recover a debt through lawful dharmic means, guided by restorative consciousness and not by punitive force.",
+          principles: ["Debt recovery is a dharmic obligation", "Force is replaced by aligned intention", "Creditor capacity is proportional to righteousness"]
+        }
+      },
+      manu: {
+        m01: {
+          sanskrit: "मनुर् उवाच / भवन्तः शृणुत मे सर्वे...",
+          trans: "Manu said: Hear from me all the eternal laws governing beings of all classes who have been born from self-existent Brahman.",
+          principles: ["Social order flows from primordial cosmic law", "Authority derives from Brahman, not force", "Dharma is self-existent and eternal"]
+        },
+        m08: {
+          sanskrit: "धर्मं जिज्ञासमानानां प्रमाणं परमं श्रुतिः",
+          trans: "For those inquiring into Dharma, the supreme authority is Śruti; where Śruti is silent, Smṛti governs.",
+          principles: ["Pramāṇa (evidence) is the root of legal inquiry", "Hierarchical sources govern in sequence", "Dharma supersedes individual judgment"]
+        }
+      },
+      narada: {
+        n01m: {
+          sanskrit: "व्यवहारस्य साधनानि साक्षिणः...",
+          trans: "The instruments of vyavahāra include witnesses, documents, possession, and divine ordeal — all valid forms of proof.",
+          principles: ["Legal instruments are fourfold", "Evidence must be dharma-aligned", "Proof without consciousness is incomplete"]
+        },
+        n12v: {
+          sanskrit: "भृत्यः स्वामी च यत्र...",
+          trans: "Where a servant and master dispute compensation for services rendered, the resolution lies in dharmic fulfilment of reciprocal duty.",
+          principles: ["Master-servant relations are governed by mutual dharma", "Compensation disputes require restorative resolution", "Non-punitive realignment is the proper response"]
+        }
+      },
+      yagnavalka: {
+        y01: {
+          sanskrit: "योगाभ्यासाद् विशुद्धात्मा ज्ञानवान् कर्मनिष्ठितः",
+          trans: "One purified through yoga practice, endowed with knowledge and established in dharmic action, is fit to rule and judge.",
+          principles: ["Consciousness purification precedes authority", "Action without knowledge is incomplete", "Conduct flows from a realised inner state"]
+        },
+        y02: {
+          sanskrit: "धर्मः साक्षाद् अपेतकः...",
+          trans: "Dharma, directly witnessed in transactions, is the true foundation of all legal proceedings and must never be abandoned.",
+          principles: ["Dharma is immanent in all transactions", "Legal proceedings must be grounded in truth", "Abandonment of dharma invalidates all judgment"]
+        }
+      }
+    };
+
+    // ─── ROOT APP ──────────────────────────────────────────────────────────────
+
+    function App() {
+      const [view, setView]               = useState("overview");
+      const [activeSource, setActiveSource] = useState(null);
+      const [activeTheme, setActiveTheme]   = useState(null);
+      const [activeChapter, setActiveChapter] = useState(null);
+      const [tick, setTick]               = useState(0);
+
+      useEffect(() => {
+        const id = setInterval(() => setTick(t => t + 1), 60);
+        return () => clearInterval(id);
+      }, []);
+
+      const goSource = (id) => { setActiveSource(id); setActiveTheme(null); setActiveChapter(null); setView("source"); };
+      const goTheme  = (id) => { setActiveTheme(id);  setActiveSource(null); setActiveChapter(null); setView("theme"); };
+      const goChapter = (chap, srcId) => { setActiveChapter({...chap, sourceId: srcId}); setActiveSource(null); setActiveTheme(null); setView("chapter"); };
+      const goBack = () => {
+        if (view === "chapter") { setView("source"); setActiveChapter(null); }
+        else { setView("overview"); setActiveSource(null); setActiveTheme(null); setActiveChapter(null); }
+      };
+
+      return (
+        <div style={{ fontFamily: "'Noto Serif', serif", background: "linear-gradient(135deg,#0D0D1A 0%,#1A0A2E 50%,#0D1A0D 100%)", minHeight: "100vh", color: "#E8D5A3" }}>
+          {/* ── Header ── */}
+          <div style={{ padding: "18px 28px 12px", borderBottom: "1px solid rgba(212,160,23,0.3)", background: "rgba(0,0,0,0.35)", display: "flex", alignItems: "center", justifyContent: "space-between", flexWrap: "wrap", gap: 10 }}>
+            <div>
+              <div style={{ fontSize: 20, fontWeight: 700, color: "#D4A017", letterSpacing: 1 }}>☸ Dharmaśāstra Knowledge Graph</div>
+              <div style={{ fontSize: 11, color: "#9E8B60", marginTop: 3 }}>5,766 Ślokas · 4 Texts · Bṛhaspati · Manu · Nārada · Yājñavalkya</div>
+            </div>
+            <div style={{ display: "flex", gap: 8 }}>
+              {[["overview","Overview"],["source","Texts"],["theme","Themes"]].map(([v, lbl]) => (
+                <button key={v} onClick={() => { if (v === "source") { setView("overview"); } else { setView(v); setActiveSource(null); setActiveTheme(null); setActiveChapter(null); }}}
+                  style={{ padding: "5px 14px", borderRadius: 20, border: "1px solid #D4A01760", background: view === v || (v==="source" && view==="source") ? "#D4A017" : "transparent", color: view === v || (v==="source" && view==="source") ? "#1A0A00" : "#D4A017", cursor: "pointer", fontSize: 11, fontWeight: 600 }}>
+                  {lbl}
+                </button>
+              ))}
+            </div>
+          </div>
+
+          {/* ── Breadcrumb ── */}
+          {view !== "overview" && (
+            <div style={{ padding: "7px 28px", display: "flex", alignItems: "center", gap: 6, fontSize: 12, background: "rgba(0,0,0,0.2)" }}>
+              <span onClick={() => { setView("overview"); setActiveSource(null); setActiveTheme(null); }} style={{ color: "#D4A017", cursor: "pointer" }}>Overview</span>
+              {activeSource && <><span style={{ color: "#555" }}>›</span><span style={{ color: "#E8D5A3" }}>{SOURCES.find(s => s.id===activeSource)?.short}</span></>}
+              {activeTheme  && <><span style={{ color: "#555" }}>›</span><span style={{ color: "#E8D5A3" }}>{THEMES.find(t => t.id===activeTheme)?.label}</span></>}
+              {activeChapter && <><span style={{ color: "#555" }}>›</span><span style={{ color: "#E8D5A3" }}>{activeChapter.label}</span></>}
+              <button onClick={goBack} style={{ marginLeft: "auto", padding: "3px 10px", borderRadius: 12, border: "1px solid #D4A01760", background: "transparent", color: "#D4A017", cursor: "pointer", fontSize: 11 }}>← Back</button>
+            </div>
+          )}
+
+          {/* ── Views ── */}
+          {view === "overview" && <OverviewView onSourceClick={goSource} onThemeClick={goTheme} tick={tick} />}
+          {view === "source"   && activeSource  && <SourceView  source={SOURCES.find(s => s.id===activeSource)} onChapterClick={goChapter} />}
+          {view === "theme"    && activeTheme   && <ThemeView   theme={THEMES.find(t => t.id===activeTheme)} onSourceClick={goSource} />}
+          {view === "chapter"  && activeChapter && <ChapterView chapter={activeChapter} />}
+        </div>
+      );
+    }
+
+    // ─── OVERVIEW VIEW ─────────────────────────────────────────────────────────
+
+    function OverviewView({ onSourceClick, onThemeClick, tick }) {
+      const svgRef   = useRef(null);
+      const [size, setSize]       = useState({ w: 800, h: 500 });
+      const [nodes, setNodes]     = useState([]);
+      const [edges, setEdges]     = useState([]);
+      const [hoveredId, setHov]   = useState(null);
+
+      useEffect(() => {
+        const el = svgRef.current;
+        if (!el) return;
+        const measure = () => setSize({ w: el.clientWidth || 800, h: el.clientHeight || 500 });
+        measure();
+        const ro = new ResizeObserver(measure);
+        ro.observe(el);
+        return () => ro.disconnect();
+      }, []);
+
+      useEffect(() => {
+        const { w, h } = size;
+        const cx = w / 2, cy = h / 2;
+        const srcR   = Math.min(w, h) * 0.27;
+        const thmR   = Math.min(w, h) * 0.44;
+
+        const srcNodes = SOURCES.map((s, i) => {
+          const a = (i / SOURCES.length) * Math.PI * 2 - Math.PI / 4;
+          return { id: s.id, type: "source", x: cx + Math.cos(a) * srcR, y: cy + Math.sin(a) * srcR, data: s, r: 36 };
+        });
+        const thmNodes = THEMES.map((t, i) => {
+          const a = (i / THEMES.length) * Math.PI * 2;
+          return { id: t.id, type: "theme", x: cx + Math.cos(a) * thmR, y: cy + Math.sin(a) * thmR, data: t, r: 20 };
+        });
+        const root = { id: "root", type: "root", x: cx, y: cy, r: 50 };
+        setNodes([root, ...srcNodes, ...thmNodes]);
+
+        const edgeList = [];
+        srcNodes.forEach(sn => edgeList.push({ from: "root", to: sn.id, w: 3 }));
+        THEMES.forEach(t => {
+          const top2 = Object.entries(THEME_SOURCE[t.id] || {}).sort((a,b) => b[1]-a[1]).slice(0,2);
+          top2.forEach(([sid]) => edgeList.push({ from: sid, to: t.id, w: 1 }));
+        });
+        setEdges(edgeList);
+      }, [size]);
+
+      const getN = id => nodes.find(n => n.id === id);
+      const pulse = Math.sin(tick * 0.05) * 3;
+
+      return (
+        <div style={{ display: "flex", height: "calc(100vh - 115px)" }}>
+          {/* Graph SVG */}
+          <div ref={svgRef} style={{ flex: 1, position: "relative", overflow: "hidden" }}>
+            <svg width="100%" height="100%">
+              <defs>
+                <radialGradient id="gRoot" cx="50%" cy="50%" r="50%">
+                  <stop offset="0%" stopColor="#D4A017" stopOpacity="0.95" />
+                  <stop offset="100%" stopColor="#7A4800" stopOpacity="0.8" />
+                </radialGradient>
+                {SOURCES.map(s => (
+                  <radialGradient key={s.id} id={`g_${s.id}`} cx="50%" cy="50%" r="50%">
+                    <stop offset="0%" stopColor={s.color} stopOpacity="0.95" />
+                    <stop offset="100%" stopColor={s.color} stopOpacity="0.4" />
+                  </radialGradient>
+                ))}
+                <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+                  <feGaussianBlur stdDeviation="4" result="blur" />
+                  <feMerge><feMergeNode in="blur" /><feMergeNode in="SourceGraphic" /></feMerge>
+                </filter>
+                <filter id="glowSm" x="-50%" y="-50%" width="200%" height="200%">
+                  <feGaussianBlur stdDeviation="2" result="blur" />
+                  <feMerge><feMergeNode in="blur" /><feMergeNode in="SourceGraphic" /></feMerge>
+                </filter>
+              </defs>
+
+              {/* Edges */}
+              {edges.map((e, i) => {
+                const f = getN(e.from), t = getN(e.to);
+                if (!f || !t) return null;
+                const hi = hoveredId === e.from || hoveredId === e.to;
+                return <line key={i} x1={f.x} y1={f.y} x2={t.x} y2={t.y}
+                  stroke={hi ? "#D4A017" : "rgba(212,160,23,0.13)"}
+                  strokeWidth={hi ? e.w + 1 : e.w * 0.5}
+                  strokeDasharray={e.w === 1 ? "5 4" : "none"}
+                  style={{ transition: "stroke 0.2s" }} />;
+              })}
+
+              {/* Nodes */}
+              {nodes.map(n => {
+                const hi = hoveredId === n.id;
+                if (n.type === "root") return (
+                  <g key="root" transform={`translate(${n.x},${n.y})`}
+                    onMouseEnter={() => setHov("root")} onMouseLeave={() => setHov(null)}>
+                    <circle r={n.r + pulse} fill="url(#gRoot)" filter="url(#glow)" opacity={0.25} />
+                    <circle r={n.r} fill="url(#gRoot)" filter="url(#glow)" />
+                    <circle r={n.r - 5} fill="none" stroke="#D4A017" strokeWidth={1.5} strokeDasharray="5 3" opacity={0.6} />
+                    <text textAnchor="middle" y={-8}  fill="#1A0900" fontSize={11} fontWeight="700" fontFamily="'Noto Serif',serif">Dharma</text>
+                    <text textAnchor="middle" y={6}   fill="#1A0900" fontSize={10} fontWeight="600" fontFamily="'Noto Serif',serif">śāstra</text>
+                    <text textAnchor="middle" y={20}  fill="#4A2800" fontSize={9}  fontFamily="'Noto Serif',serif">5,766 Ślokas</text>
+                  </g>
+                );
+
+                if (n.type === "source") {
+                  const s = n.data;
+                  return (
+                    <g key={s.id} transform={`translate(${n.x},${n.y})`} style={{ cursor: "pointer" }}
+                      onClick={() => onSourceClick(s.id)}
+                      onMouseEnter={() => setHov(s.id)} onMouseLeave={() => setHov(null)}>
+                      <circle r={hi ? n.r + 6 : n.r} fill={`url(#g_${s.id})`}
+                        filter={hi ? "url(#glow)" : "url(#glowSm)"}
+                        stroke={s.color} strokeWidth={hi ? 2.5 : 1.5}
+                        style={{ transition: "r 0.2s" }} />
+                      <text textAnchor="middle" y={-4}  fill="#fff" fontSize={10} fontWeight="700" fontFamily="'Noto Serif',serif">{s.short.split(" ")[0]}</text>
+                      <text textAnchor="middle" y={9}   fill="rgba(255,255,255,0.75)" fontSize={8} fontFamily="'Noto Serif',serif">{s.total.toLocaleString()}</text>
+                      {hi && <text textAnchor="middle" y={22} fill="#D4A017" fontSize={8} fontFamily="'Noto Serif',serif">explore →</text>}
+                    </g>
+                  );
+                }
+
+                if (n.type === "theme") {
+                  const t = n.data;
+                  return (
+                    <g key={t.id} transform={`translate(${n.x},${n.y})`} style={{ cursor: "pointer" }}
+                      onClick={() => onThemeClick(t.id)}
+                      onMouseEnter={() => setHov(t.id)} onMouseLeave={() => setHov(null)}>
+                      <circle r={hi ? n.r + 5 : n.r} fill="rgba(18,10,40,0.85)"
+                        stroke={t.color} strokeWidth={hi ? 2 : 1.5}
+                        style={{ transition: "r 0.15s" }} />
+                      <text textAnchor="middle" y={5} fontSize={14} fontFamily="Arial">{t.icon}</text>
+                      {hi && <text textAnchor="middle" y={n.r + 14} fill={t.color} fontSize={8} fontWeight="600" fontFamily="'Noto Serif',serif">{t.label}</text>}
+                    </g>
+                  );
+                }
+                return null;
+              })}
+            </svg>
+
+            {/* Legend */}
+            <div style={{ position: "absolute", bottom: 14, left: 14, fontSize: 10, background: "rgba(0,0,0,0.65)", borderRadius: 8, padding: "8px 12px", border: "1px solid rgba(212,160,23,0.25)" }}>
+              <div style={{ color: "#D4A017", marginBottom: 5, fontWeight: 700 }}>LEGEND</div>
+              {[["#D4A017","Root (Dharmaśāstra)"],["#C2782C","Source text — click to explore"],["#8E24AA","Jurisprudential theme"]].map(([c,l]) => (
+                <div key={l} style={{ display: "flex", alignItems: "center", gap: 6, marginTop: 3 }}>
+                  <span style={{ color: c, fontSize: 16, lineHeight: 1 }}>●</span>
+                  <span style={{ color: "#9E8B60" }}>{l}</span>
+                </div>
+              ))}
+            </div>
+          </div>
+
+          {/* Right Sidebar */}
+          <div style={{ width: 240, background: "rgba(0,0,0,0.45)", borderLeft: "1px solid rgba(212,160,23,0.2)", padding: "20px 14px", overflowY: "auto" }}>
+            <div style={{ fontSize: 11, color: "#D4A017", fontWeight: 700, marginBottom: 12, letterSpacing: 1 }}>CORPUS OVERVIEW</div>
+            {SOURCES.map(s => (
+              <div key={s.id} onClick={() => onSourceClick(s.id)}
+                style={{ marginBottom: 12, padding: "10px 12px", borderRadius: 8, cursor: "pointer", background: "rgba(255,255,255,0.04)", border: `1px solid ${s.color}40`, transition: "background 0.2s" }}
+                onMouseEnter={e => e.currentTarget.style.background = s.color + "20"}
+                onMouseLeave={e => e.currentTarget.style.background = "rgba(255,255,255,0.04)"}>
+                <div style={{ color: s.color, fontWeight: 700, fontSize: 12 }}>{s.short}</div>
+                <div style={{ color: "#9E8B60", fontSize: 9, marginTop: 2 }}>{s.label}</div>
+                <div style={{ display: "flex", justifyContent: "space-between", marginTop: 6 }}>
+                  <span style={{ color: "#E8D5A3", fontSize: 10 }}>{s.total.toLocaleString()} ślokas</span>
+                  <span style={{ color: "#9E8B60", fontSize: 10 }}>{s.chapters} ch.</span>
+                </div>
+                <div style={{ marginTop: 5, background: "rgba(0,0,0,0.3)", borderRadius: 3, height: 3 }}>
+                  <div style={{ width: `${(s.total / 2680) * 100}%`, height: "100%", background: s.color, borderRadius: 3 }} />
+                </div>
+              </div>
+            ))}
+
+            <div style={{ fontSize: 11, color: "#D4A017", fontWeight: 700, margin: "16px 0 10px", letterSpacing: 1 }}>THEMES</div>
+            <div style={{ display: "flex", flexWrap: "wrap", gap: 5 }}>
+              {THEMES.map(t => (
+                <div key={t.id} onClick={() => onThemeClick(t.id)}
+                  style={{ padding: "3px 8px", borderRadius: 12, fontSize: 9, cursor: "pointer", border: `1px solid ${t.color}60`, color: t.color, background: t.color + "15" }}>
+                  {t.icon} {t.label}
+                </div>
+              ))}
+            </div>
+          </div>
+        </div>
+      );
+    }
+
+    // ─── SOURCE VIEW ───────────────────────────────────────────────────────────
+
+    function SourceView({ source, onChapterClick }) {
+      const chapters = CHAPTERS[source.id] || [];
+      const maxV = Math.max(...chapters.map(c => c.verses));
+
+      return (
+        <div style={{ display: "flex", height: "calc(100vh - 115px)" }}>
+          {/* Info Panel */}
+          <div style={{ width: 270, padding: "24px 18px", borderRight: "1px solid rgba(212,160,23,0.2)", background: "rgba(0,0,0,0.3)", overflowY: "auto" }}>
+            <div style={{ width: 60, height: 60, borderRadius: "50%", background: source.color, display: "flex", alignItems: "center", justifyContent: "center", fontSize: 24, color: "#fff", fontWeight: 700, marginBottom: 16 }}>
+              {source.short[0]}
+            </div>
+            <div style={{ fontSize: 17, fontWeight: 700, color: source.color }}>{source.label}</div>
+            <div style={{ marginTop: 10, color: "#B8A575", fontSize: 12, lineHeight: 1.65 }}>{source.desc}</div>
+
+            <div style={{ marginTop: 18, display: "grid", gridTemplateColumns: "1fr 1fr", gap: 10 }}>
+              {[["Total Ślokas", source.total.toLocaleString()], ["Chapters", source.chapters]].map(([l, v]) => (
+                <div key={l} style={{ background: "rgba(255,255,255,0.05)", borderRadius: 8, padding: "10px", textAlign: "center" }}>
+                  <div style={{ color: source.color, fontSize: 19, fontWeight: 700 }}>{v}</div>
+                  <div style={{ color: "#9E8B60", fontSize: 9, marginTop: 2 }}>{l}</div>
+                </div>
+              ))}
+            </div>
+
+            <div style={{ marginTop: 20 }}>
+              <div style={{ fontSize: 10, color: "#D4A017", fontWeight: 700, marginBottom: 10, letterSpacing: 1 }}>TOP THEMES</div>
+              {THEMES.map(t => {
+                const cnt = (THEME_SOURCE[t.id] || {})[source.id] || 0;
+                const pct = Math.round((cnt / source.total) * 100);
+                if (!pct) return null;
+                return (
+                  <div key={t.id} style={{ marginBottom: 7 }}>
+                    <div style={{ display: "flex", justifyContent: "space-between", marginBottom: 2 }}>
+                      <span style={{ color: t.color, fontSize: 9 }}>{t.icon} {t.label}</span>
+                      <span style={{ color: "#9E8B60", fontSize: 9 }}>{pct}%</span>
+                    </div>
+                    <div style={{ background: "rgba(0,0,0,0.35)", borderRadius: 3, height: 3 }}>
+                      <div style={{ width: `${pct}%`, height: "100%", background: t.color, borderRadius: 3 }} />
+                    </div>
+                  </div>
+                );
+              }).filter(Boolean).slice(0, 9)}
+            </div>
+          </div>
+
+          {/* Chapters Grid */}
+          <div style={{ flex: 1, padding: "24px", overflowY: "auto" }}>
+            <div style={{ fontSize: 12, color: "#D4A017", fontWeight: 700, marginBottom: 18, letterSpacing: 1 }}>
+              CHAPTERS — {source.short.toUpperCase()}
+            </div>
+            <div style={{ display: "grid", gridTemplateColumns: "repeat(auto-fill,minmax(215px,1fr))", gap: 12 }}>
+              {chapters.map((ch, i) => (
+                <div key={ch.id} onClick={() => onChapterClick(ch, source.id)}
+                  style={{ background: "rgba(255,255,255,0.03)", border: `1px solid ${source.color}30`, borderRadius: 10, padding: "14px 16px", cursor: "pointer", transition: "all 0.18s", position: "relative", overflow: "hidden" }}
+                  onMouseEnter={e => { e.currentTarget.style.background = source.color + "18"; e.currentTarget.style.borderColor = source.color; e.currentTarget.style.transform = "translateY(-2px)"; }}
+                  onMouseLeave={e => { e.currentTarget.style.background = "rgba(255,255,255,0.03)"; e.currentTarget.style.borderColor = source.color + "30"; e.currentTarget.style.transform = "translateY(0)"; }}>
+                  <div style={{ position: "absolute", top: 0, left: 0, height: 3, width: `${(ch.verses / maxV) * 100}%`, background: source.color, borderRadius: "10px 0 0 0" }} />
+                  <div style={{ fontSize: 9, color: source.color, fontWeight: 700, textTransform: "uppercase", marginBottom: 6 }}>Chapter {i + 1}</div>
+                  <div style={{ fontSize: 12, color: "#E8D5A3", fontWeight: 600, lineHeight: 1.4, marginBottom: 8 }}>{ch.label}</div>
+                  <div style={{ display: "flex", justifyContent: "space-between" }}>
+                    <span style={{ color: "#9E8B60", fontSize: 10 }}>{ch.verses} ślokas</span>
+                    <span style={{ color: source.color, fontSize: 10 }}>View →</span>
+                  </div>
+                </div>
+              ))}
+            </div>
+          </div>
+        </div>
+      );
+    }
+
+    // ─── THEME VIEW ────────────────────────────────────────────────────────────
+
+    function ThemeView({ theme, onSourceClick }) {
+      const total = Object.values(THEME_SOURCE[theme.id] || {}).reduce((a, b) => a + b, 0);
+      return (
+        <div style={{ padding: "32px", maxWidth: 860, margin: "0 auto" }}>
+          <div style={{ display: "flex", alignItems: "center", gap: 18, marginBottom: 28 }}>
+            <div style={{ width: 66, height: 66, borderRadius: "50%", background: theme.color + "20", border: `2px solid ${theme.color}`, display: "flex", alignItems: "center", justifyContent: "center", fontSize: 30 }}>{theme.icon}</div>
+            <div>
+              <div style={{ fontSize: 22, fontWeight: 700, color: theme.color }}>{theme.label}</div>
+              <div style={{ color: "#9E8B60", fontSize: 12, marginTop: 4 }}>Present in {total.toLocaleString()} ślokas across all 4 texts</div>
+            </div>
+          </div>
+
+          <div style={{ display: "grid", gridTemplateColumns: "repeat(2,1fr)", gap: 16 }}>
+            {SOURCES.map(s => {
+              const cnt = (THEME_SOURCE[theme.id] || {})[s.id] || 0;
+              const pct = Math.round((cnt / s.total) * 100);
+              return (
+                <div key={s.id} onClick={() => onSourceClick(s.id)}
+                  style={{ background: "rgba(255,255,255,0.04)", border: `1px solid ${s.color}40`, borderRadius: 12, padding: "20px", cursor: "pointer", transition: "background 0.2s" }}
+                  onMouseEnter={e => e.currentTarget.style.background = s.color + "18"}
+                  onMouseLeave={e => e.currentTarget.style.background = "rgba(255,255,255,0.04)"}>
+                  <div style={{ display: "flex", justifyContent: "space-between", marginBottom: 8 }}>
+                    <div style={{ color: s.color, fontWeight: 700, fontSize: 14 }}>{s.short}</div>
+                    <div style={{ color: "#D4A017", fontSize: 14, fontWeight: 700 }}>{pct}%</div>
+                  </div>
+                  <div style={{ color: "#B8A575", fontSize: 11, marginBottom: 12 }}>{cnt.toLocaleString()} of {s.total.toLocaleString()} ślokas</div>
+                  <div style={{ background: "rgba(0,0,0,0.3)", borderRadius: 6, height: 7 }}>
+                    <div style={{ width: `${pct}%`, height: "100%", background: s.color, borderRadius: 6 }} />
+                  </div>
+                </div>
+              );
+            })}
+          </div>
+
+          <div style={{ marginTop: 30 }}>
+            <div style={{ fontSize: 11, color: "#D4A017", fontWeight: 700, marginBottom: 12, letterSpacing: 1 }}>RELATED THEMES</div>
+            <div style={{ display: "flex", flexWrap: "wrap", gap: 8 }}>
+              {THEMES.filter(t => t.id !== theme.id).map(t => (
+                <div key={t.id} style={{ padding: "5px 12px", borderRadius: 20, fontSize: 10, border: `1px solid ${t.color}55`, color: t.color, background: t.color + "12" }}>
+                  {t.icon} {t.label}
+                </div>
+              ))}
+            </div>
+          </div>
+        </div>
+      );
+    }
+
+    // ─── CHAPTER VIEW ──────────────────────────────────────────────────────────
+
+    function ChapterView({ chapter }) {
+      const src = SOURCES.find(s => s.id === chapter.sourceId);
+      const samples = SAMPLE_VERSES[chapter.sourceId] || {};
+      const sampleKey = Object.keys(samples)[0];
+      const sample = samples[sampleKey];
+
+      return (
+        <div style={{ padding: "30px", maxWidth: 840, margin: "0 auto" }}>
+          <div style={{ marginBottom: 24 }}>
+            <div style={{ fontSize: 10, color: src?.color, textTransform: "uppercase", fontWeight: 700, letterSpacing: 1, marginBottom: 6 }}>{src?.label} · Chapter</div>
+            <div style={{ fontSize: 22, fontWeight: 700, color: "#E8D5A3", lineHeight: 1.3 }}>{chapter.label}</div>
+            <div style={{ color: "#9E8B60", fontSize: 12, marginTop: 5 }}>{chapter.verses} ślokas in this chapter</div>
+          </div>
+
+          {sample && (
+            <div style={{ background: "rgba(255,255,255,0.04)", border: `1px solid ${src?.color}35`, borderRadius: 12, padding: "24px", marginBottom: 22 }}>
+              <div style={{ fontSize: 10, color: "#D4A017", fontWeight: 700, letterSpacing: 1, marginBottom: 14 }}>SAMPLE ŚLOKA</div>
+              <div style={{ fontFamily: "'Noto Serif Devanagari', 'Noto Serif', serif", fontSize: 17, color: "#E8D5A3", lineHeight: 1.9, marginBottom: 14, padding: "12px 16px", background: "rgba(212,160,23,0.07)", borderLeft: `3px solid ${src?.color}`, borderRadius: 4, whiteSpace: "pre-line" }}>
+                {sample.sanskrit}
+              </div>
+              <div style={{ color: "#B8A575", fontSize: 12, lineHeight: 1.7, fontStyle: "italic", marginBottom: 18 }}>
+                "{sample.trans}"
+              </div>
+              <div style={{ fontSize: 10, color: "#D4A017", fontWeight: 700, letterSpacing: 1, marginBottom: 10 }}>JURISPRUDENTIAL PRINCIPLES</div>
+              {sample.principles.map((p, i) => (
+                <div key={i} style={{ display: "flex", gap: 10, marginBottom: 8 }}>
+                  <span style={{ color: src?.color, fontSize: 12, marginTop: 2, flexShrink: 0 }}>◆</span>
+                  <span style={{ color: "#C8B88A", fontSize: 12, lineHeight: 1.55 }}>{p}</span>
+                </div>
+              ))}
+            </div>
+          )}
+
+          <div style={{ marginTop: 20 }}>
+            <div style={{ fontSize: 10, color: "#D4A017", fontWeight: 700, letterSpacing: 1, marginBottom: 12 }}>THEMATIC CONTENT</div>
+            <div style={{ display: "flex", flexWrap: "wrap", gap: 8 }}>
+              {THEMES.map(t => (
+                <div key={t.id} style={{ padding: "5px 12px", borderRadius: 20, fontSize: 10, border: `1px solid ${t.color}55`, color: t.color, background: t.color + "12" }}>
+                  {t.icon} {t.label}
+                </div>
+              ))}
+            </div>
+          </div>
+
+          <div style={{ marginTop: 26, display: "grid", gridTemplateColumns: "repeat(3,1fr)", gap: 12 }}>
+            {[["Total Ślokas", chapter.verses], ["Source Text", src?.short], ["Jurisprudential Fields", 9]].map(([l, v]) => (
+              <div key={l} style={{ background: "rgba(255,255,255,0.04)", borderRadius: 8, padding: "12px", border: `1px solid ${src?.color}25`, textAlign: "center" }}>
+                <div style={{ color: src?.color, fontSize: 18, fontWeight: 700 }}>{v}</div>
+                <div style={{ color: "#9E8B60", fontSize: 9, marginTop: 3 }}>{l}</div>
+              </div>
+            ))}
+          </div>
+        </div>
+      );
+    }
+
+    // ─── MOUNT ─────────────────────────────────────────────────────────────────
+    const root = ReactDOM.createRoot(document.getElementById("root"));
+    root.render(<App />);
+  </script>
+</body>
+</html>
